@@ -50,6 +50,14 @@ Ensuite, demandez simplement : « Pour qui voter en 2027 ? » ou « Fais-moi le 
 - **Modes** ([`scripts/choisir_niveaux.py`](skills/boussole-presidentielle-2027/scripts/choisir_niveaux.py)) : dans chaque thème, les questions sont classées selon leur pouvoir de départage (écart-type des positions des candidats × part des positions connues). La meilleure va en mode rapide, les deux suivantes en mode moyen, les autres en mode long.
 - **Neutralité** : les affirmations sont posées telles quelles, sans reformulation, et les positions des candidats ne sont pas montrées pendant le questionnaire.
 
+## Confidentialité
+
+Vos réponses sont des opinions politiques : le skill les traite comme une donnée sensible.
+
+- Elles restent dans votre conversation avec Claude. Le calcul se fait localement, avec les fichiers du plugin : les réponses sont transmises au script de calcul par l'entrée standard, sans être écrites dans un fichier.
+- Le skill ne demande ni nom, ni e-mail, ni adresse, et n'envoie aucune donnée à un service extérieur. L'auteur ne reçoit et ne conserve rien.
+- Seule la mise à jour des fiches fait des recherches web, et elles portent sur les candidats, jamais sur vos réponses.
+
 ## Limites
 
 - La liste officielle des candidats ne sera connue qu'après la validation des parrainages par le Conseil constitutionnel. D'ici là, la liste suit les candidatures déclarées ou pressenties.

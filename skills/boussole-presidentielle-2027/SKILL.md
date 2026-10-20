@@ -61,13 +61,15 @@ Les thèmes prioritaires reçoivent une importance de 2 (ou 3 si la personne dit
 
 ### 5. Calculer
 
-Écris les réponses dans un fichier temporaire (dans le répertoire de travail temporaire de la session, pas dans le dossier du skill) au format :
+Passe les réponses au script **par l'entrée standard**, sans les écrire dans un fichier : ce sont des opinions politiques, une donnée sensible, et rien ne doit en rester sur la machine une fois le calcul fait.
 
-```json
+```bash
+python3 scripts/score.py <<'FIN'
 {"reponses": {"eco_retraite": 2, "sec_cannabis": null}, "importance": {"immigration": 2}}
+FIN
 ```
 
-Puis lance `python3 scripts/score.py <fichier>` pour le tableau, et `--json` si tu as besoin des accords et désaccords détaillés. Ne calcule pas les scores toi-même : le script garantit que tout le monde est traité avec la même formule.
+Ajoute `--json` (`python3 scripts/score.py --json <<'FIN' … FIN`) si tu as besoin des accords et désaccords détaillés. Ne calcule pas les scores toi-même : le script garantit que tout le monde est traité avec la même formule. Ne conserve pas les réponses ailleurs (fichier, mémoire, note) une fois le résultat présenté.
 
 ### 6. Présenter le résultat
 
