@@ -213,7 +213,7 @@
       "citation": "\"La proportionnelle, c'est la clarification, c'est l'esprit de compromis, c'est la sincérité face aux électrices et aux électeurs. C'est aussi une représentativité infiniment plus démocratique que le système actuel\", a affirmé M. Glucksmann",
       "date_source": "2025-05-23",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 1,

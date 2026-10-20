@@ -159,7 +159,7 @@
       "citation": "[…] a martelé Xavier Bertrand, avant de conclure : \"pour ce rapport de force, on livre ce que l'on a promis et on est de façon indéfectible aux côtés de Ukrainiens.\"",
       "date_source": "2024-02-27",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": 1,
