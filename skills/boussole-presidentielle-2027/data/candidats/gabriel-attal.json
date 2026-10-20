@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Vise « zéro déficit en 10 ans maximum », estime qu'« aucune dépense ne doit être un tabou » et veut faire porter l'effort d'abord sur la dépense sociale ; aucune hausse d'impôt n'est proposée.",
       "source": "https://attalpresident.fr/programme/dette-de-letat",
       "citation": "Nous devons commencer par enrayer cette spirale de la dette. Pour cela, l’effort devra d’abord porter sur la dépense sociale, qui représente plus de la moitié des dépenses publiques en France.",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Auteur de la loi de 2025 sur la justice des mineurs qui instaurait une dérogation à l'excuse de minorité pour les 16-18 ans et étendait la comparution immédiate aux mineurs de 16 ans, dispositions censurées par le Conseil constitutionnel ; il ne propose pas de juger les mineurs de 16 ans comme des majeurs.",
       "source": "https://www.publicsenat.fr/actualites/politique/justice-des-mineurs-le-conseil-constitutionnel-censure-largement-le-texte-attal-notamment-la-derogation-de-lexcuse-de-minorite",
       "citation": "L’article 4 qui prévoyait d’étendre la comparution immédiate aux mineurs de 16 ans a été censuré […] Autre mesure emblématique : l’instauration d’une dérogation à l’excuse de minorité",

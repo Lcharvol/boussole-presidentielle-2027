@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme veut redresser les finances publiques « sans augmenter le niveau d'imposition » par une réduction du train de vie de l'État et la sortie de l'UE, tout en rejetant les « plans d'austérité » imposés par Bruxelles.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Pour réaliser ce redressement sans augmenter le niveau d’imposition déjà record subi par les Français, la solution devra d’abord venir d’une réduction du train de vie de l’Etat […]",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme veut que l'excuse de minorité ne s'applique que si le juge la motive spécialement (« qui tue comme un adulte doit être jugé comme un adulte »), sans fixer de seuil d'âge à 16 ans.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "La responsabilité doit primer et l’excuse de minorité ne doit s’appliquer qu’à la condition que le juge la motive spécialement. Les actes graves doivent être jugés comme tels : qui tue comme un adulte doit être jugé comme un adulte.",

@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le document de campagne d'octobre 2026 rejette les coupes dans les dépenses publiques et prévoit de réduire le déficit par environ 106 milliards d'euros de recettes nouvelles et par l'investissement.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
       "citation": "Ainsi, refuser les coupes budgétaires et proposer un autre chemin, ce n’est pas seulement le résultat d’une vision politique, c’est aussi le choix économique le plus rationnel.",
@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « réguler l'installation des médecins » parmi les leviers contre les déserts médicaux.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Réguler l’installation des médecins et généraliser les guichets uniques pour toutes les démarches d’installation des soignants",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de garantir les principes de l'ordonnance de 1945 sur l'enfance délinquante et d'abroger le code de justice pénale des mineurs pour le remplacer par un code de l'enfance.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Garantir le respect des principes de l’ordonnance de février 1945 sur l’enfance en conflit avec la loi, abroger le code de justice pénale des mineurs de Dupond-Moretti pour instaurer un code de l’enfance",

@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "A voté pour la proposition de loi transpartisane Garot qui régule l'installation des médecins dans les zones bien dotées.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1607",
       "citation": "Scrutin public n°1607 sur l'ensemble de la proposition de loi visant à lutter contre les déserts médicaux, d'initiative transpartisane (première lecture).",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "A voté contre la loi Attal « visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants », qui restreignait notamment l'excuse de minorité pour les 16-18 ans (vote sur l'ensemble du texte).",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
       "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",

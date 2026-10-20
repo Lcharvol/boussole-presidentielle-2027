@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose 140 milliards d'euros de baisse des dépenses de l'État et la suppression de 800 000 postes de fonctionnaires sur cinq ans, jugeant insuffisant le plan d'économies du gouvernement.",
       "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
       "citation": "\"Nous, avec Sarah Knafo, nous voulons faire 140 milliards d'euros de baisses\" sur les dépenses de l'État, précise-t-il encore, évoquant par exemple la suppression des APL pour les personnes étrangères, ou la suppression de 800.000 postes de fonctionnaires en cinq ans.",
@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite du programme 2022 : opposé à la restriction de la liberté d'installation, il privilégiait l'incitation (consultations majorées) et le recrutement de 1 000 médecins salariés par l'État.",
       "source": "https://www.egora.fr/actus-pro/politiques/obligation-de-garde-medecins-salaries-dans-les-deserts-ame-et-ars-aux",
       "citation": "Opposé à la restriction de la liberté d’installation, le candidat d’extrême-droite opte pour l’incitation, en proposant de rémunérer 10 à 15 euros de plus les consultations des médecins installés dans les zones désertifiées.",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : abaisser l'âge de la majorité pénale de 18 à 16 ans.",
       "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
       "citation": "6. Abaisser l’âge de la majorité pénale de 18 à 16 ans",

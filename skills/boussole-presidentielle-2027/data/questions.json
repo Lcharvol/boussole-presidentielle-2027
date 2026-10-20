@@ -34,7 +34,7 @@
     {
       "id": "eco_depenses",
       "theme": "economie",
-      "texte": "Pour réduire le déficit, il faut d'abord baisser fortement les dépenses publiques plutôt qu'augmenter les impôts.",
+      "texte": "Pour réduire le déficit, il faut d'abord augmenter les impôts plutôt que baisser fortement les dépenses publiques.",
       "niveau": "rapide"
     },
     {
@@ -100,7 +100,7 @@
     {
       "id": "sec_mineurs",
       "theme": "securite",
-      "texte": "Les mineurs de 16 ans et plus doivent pouvoir être jugés comme des majeurs.",
+      "texte": "Les mineurs de 16 ans et plus doivent toujours être jugés selon les règles de la justice des mineurs.",
       "niveau": "rapide"
     },
     {
@@ -166,13 +166,13 @@
     {
       "id": "eur_defense3",
       "theme": "europe",
-      "texte": "Le budget de la défense doit être porté à au moins 3 % du PIB.",
+      "texte": "Le budget de la défense doit être inférieur à 3 % du PIB.",
       "niveau": "long"
     },
     {
       "id": "soc_medecins",
       "theme": "social",
-      "texte": "Il faut réguler l'installation des médecins pour lutter contre les déserts médicaux, quitte à limiter leur liberté d'installation.",
+      "texte": "Les médecins doivent pouvoir s'installer librement, y compris dans les zones déjà bien dotées en médecins.",
       "niveau": "moyen"
     },
     {

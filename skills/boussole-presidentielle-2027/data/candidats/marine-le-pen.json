@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le contre-budget RN promet 140 milliards d'euros d'économies nettes d'ici 2032 et un déficit sous 3 % dès 2030, avec une « règle d'or » soumise à référendum ; la répartition entre baisses de dépenses et recettes n'est pas détaillée.",
       "source": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-a-2032_8224807.html",
       "citation": "la candidate du RN a promis \"140 milliards d'euros net d'économies\" d'ici 2032 par rapport à 2026, tout en assurant que le déficit public pouvait passer sous la barre des 3% dès 2030.",
@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite du groupe RN : abstention sur la loi Garot (mai 2025) en souhaitant que le Sénat supprime l'article régulant l'installation des médecins.",
       "source": "https://lcp.fr/actualites/deserts-medicaux-l-assemblee-adopte-la-proposition-de-loi-qui-prevoit-de-reguler-l",
       "citation": "Et le Rassemblement national s'est abstenu \" en espérant que les sénateurs, dans leur grande sagesse, supprimeront l'article 1 [qui régule l'installation des médecins]\", a expliqué Claire Marais-Beuil (RN).",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite : Jordan Bardella a proposé en 2024 de « mettre un terme à l'excuse de minorité », sans préciser les âges concernés.",
       "source": "https://vl-media.fr/cest-quoi-lexcuse-de-minorite-que-veut-supprimer-jordan-bardella/",
       "citation": "Président du Rassemblement national, Jordan Bardella a affirmé ce mercredi matin sur le plateau de BFMTV, vouloir mettre un terme à “l’excuse de minorité”, ou dit “atténuation de responsabilité”, selon l’article 122-8 du Code pénal.",
@@ -297,7 +297,7 @@
       "relu": false
     },
     "eur_defense3": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite : un amendement de députés RN à l'actualisation de la loi de programmation militaire (avril 2026) visait « au minimum 3 % » du PIB pour la défense en 2030, rappelant que c'est le programme du RN depuis 2017.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2695/AN/565",
       "citation": "Cette exigence est portée de longue date par le Rassemblement national, dont le programme prévoit depuis 2017 de porter l’effort de défense à minimum 3 % du PIB.",

@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Prend acte de la loi soumettant l'installation des médecins à une autorisation de l'ARS en mettant en garde contre la bureaucratie, et propose d'aller plus loin (bourses conditionnées à un exercice dans les territoires en crise).",
       "source": "https://lafrancehumaniste.fr/articles/sante-et-environnement.html",
       "citation": "J’entends aller plus loin en conditionnant l’attribution de bourses exceptionnelles aux étudiants en médecine à un engagement d’exercice dans les territoires les plus en crise.",

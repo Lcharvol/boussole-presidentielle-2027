@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Déduit du manifeste de Debout ! : critique des « budgets à tailler » et « coupes sèches » dans les services publics et appel à des « impôts justes » faisant davantage contribuer le capital.",
       "source": "https://debout.fr/notre-manifeste/",
       "citation": "Quand, chaque été les urgences sont en crise, l’École n’arrive pas à recruter, la Justice est sous l’eau, quelle réponse? Des budgets à tailler, des coupes sèches, pour réduire le déficit. Sans jamais, ô grand jamais, toucher au grisbi.",
@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "A voté pour l'amendement Garot régulant l'installation des médecins dans les zones bien pourvues (scrutin n°1812, 14 juin 2023).",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1812",
       "citation": "Scrutin public n°1812 sur l'amendement n° 1 de M. Garot et les amendements identiques suivants après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "A voté contre la loi Attal sur la justice des mineurs (texte de CMP, 13 mai 2025), qui facilite la comparution immédiate des mineurs de plus de 16 ans et restreint l'excuse de minorité pour les récidivistes de plus de 16 ans.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
       "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",

@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "S'oppose aux budgets d'austérité et aux coupes budgétaires, et veut réorienter l'argent des aides aux entreprises et des dépenses militaires.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
       "citation": "De la gauche de Hollande à l’extrême droite, les candidats n’ont comme promesses que du sang et des larmes, l’austérité à tous les étages, la retraite à 67 ans et j’en passe.",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui rejette le projet de Gabriel Attal de revenir sur l'excuse de minorité, présentée comme un principe protecteur de la justice des mineurs.",
       "source": "https://npa-revolutionnaires.org/excuse-de-minorite-les-fantasmes-de-gabriel-attal/",
       "citation": "C’est là-dessus que veut revenir Attal, qui multiplie les déclarations sécuritaires contre la jeunesse.",
@@ -297,7 +297,7 @@
       "relu": false
     },
     "eur_defense3": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Dénonce un « record de dépenses militaires » et revendique « pas un euro pour les guerres impérialistes ».",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
       "citation": "La France c’est donc le retour du service militaire, c’est un record de dépenses militaires pour préparer des guerres impérialistes qui ne sont pas les guerres des travailleurs mais des guerres pour les profits […]",

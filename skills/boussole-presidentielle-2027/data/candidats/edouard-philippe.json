@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Veut ramener le déficit à 2 % du PIB en fin de quinquennat, avec 50 % de l'effort sur les dépenses sociales, le non-remplacement d'un départ à la retraite sur trois dans la fonction publique et un moratoire sur les nouveaux impôts.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
       "citation": "Mettre en place une stratégie de sauvetage des dépenses publiques avec 50 % de l'effort sur les dépenses sociales et un quart sur l'État et les collectivités et un quart grâce à la croissance.",
@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite d'une déclaration de 2017, comme Premier ministre : a écarté toute répartition « presque forcée, administrative » des médecins au profit d'incitations (« Il faut séduire les médecins ») ; aucune déclaration récente trouvée.",
       "source": "https://www.publicsenat.fr/actualites/politique/edouard-philippe-presente-son-plan-contre-les-deserts-medicaux-78562",
       "citation": "Pas de mesures coercitives pour inciter les médecins à s’installer dans les déserts médicaux car « la répartition presque forcée, administrative sur le territoire » peut, selon lui, toujours être contournée.",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Propose de lever l'excuse de minorité et de créer la comparution immédiate des mineurs, uniquement pour les faits liés au narcotrafic.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
       "citation": "Lever l'excuse de minorité pour les faits en lien avec le narcotrafic et créer la comparution immédiate des mineurs pour ces infractions.",

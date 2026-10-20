@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "La brochure de campagne dénonce la volonté de « tailler à la hache dans tous les budgets utiles à la population » au nom de la dette et l'« austérité budgétaire ».",
       "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
       "citation": "Sous prétexte de réduire la dette de l’État, cette grande bourgeoisie veut tailler à la hache dans tous les budgets utiles à la population et imposer des plans d’austérité drastiques.",
@@ -297,7 +297,7 @@
       "relu": false
     },
     "eur_defense3": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "La brochure de campagne dénonce les 36 milliards d'euros de rallonge votés pour l'armée, qui « manqueront » aux hôpitaux et aux écoles, et refuse l'unité nationale derrière l'effort militaire.",
       "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
       "citation": "Ministres et députés imposent l’austérité budgétaire mais votent 36 milliards de rallonge pour l’armée quasiment sans discussion. Les 10 milliards destinés au nouveau porte-avions manqueront pour les hôpitaux ou pour adapter les écoles au réchauffement climatique.",

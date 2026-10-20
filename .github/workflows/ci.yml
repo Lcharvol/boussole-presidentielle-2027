@@ -45,6 +45,16 @@ jobs:
           {"reponses": {"eco_retraite": 2, "imm_baisse": -2, "eur_ukraine": 1, "sec_cannabis": null}, "importance": {"economie": 2}}
           FIN
           grep -q "| 1 |" /tmp/score.txt
+          grep -q " ± " /tmp/score.txt
+
+      - name: Tests du calcul
+        working-directory: .
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Audit de neutralité (informatif)
+        # Ne fait jamais échouer la CI : le rapport est publié dans le résumé du job.
+        continue-on-error: true
+        run: python3 scripts/audit_biais.py >> "$GITHUB_STEP_SUMMARY"
 
       - uses: actions/setup-node@v4
         with:

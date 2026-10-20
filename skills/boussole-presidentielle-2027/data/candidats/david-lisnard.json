@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme veut ramener les dépenses publiques de 55,6 % du PIB (2019) à moins de 50 % en dix ans, en les réduisant de 8 points de PIB, avec une « règle d'or » sur les dépenses de fonctionnement.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
       "citation": "En 2019, avant l’épidémie de Covid, les dépenses publiques représentaient 55,6% du PIB en France contre 47% en moyenne dans la zone euro, soit un écart de 8,6 points. […] il est possible de les réduire de 8 points de PIB en 10 ans et de les maintenir en-deçà de 50%.",
@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le programme écarte la contrainte et défend la « liberté d'installer » ; il privilégie des incitations (remboursement mieux pris en charge dans les zones sous-dotées, maisons de santé par canton) et une régulation de l'offre par des communautés médicales locales.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
       "citation": "Mais cela ne passe ni par la contrainte, ni par les injonctions administratives. Cela passe par l’incitation, la liberté contractuelle, l’efficacité territoriale.",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme veut abaisser la majorité pénale à 16 ans, inverser l'excuse de minorité dès 13 ans et étendre la comparution immédiate dès 13 ans pour les cas graves.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
       "citation": "Nous voulons abaisser la majorité pénale à 16 ans, inverser le principe de l’excuse de minorité dès 13 ans",
@@ -297,7 +297,7 @@
       "relu": false
     },
     "eur_defense3": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose de porter le budget de la défense à 3,5 % du PIB (entretien au Diplomate).",
       "source": "https://lediplomate.media/david-lisnard-souverainete-europeenne/",
       "citation": "Si la France veut peser dans les discussions à venir, elle doit d’abord se donner les moyens de sa puissance, en portant son budget de la défense à 3,5 % du PIB",

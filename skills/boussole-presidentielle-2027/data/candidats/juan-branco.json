@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme vise la « baisse des prélèvements obligatoires et des dépenses publiques » et un objectif d'excédent budgétaire, avec la suppression de plus de 300 taxes, tout en épargnant le dernier décile de la baisse d'impôts.",
       "source": "https://ruches.org/le-projet",
       "citation": "Réduction de la charge fiscale sur les foyers par une maîtrise de la politique budgétaire et un objectif d’excédent, un accroissement contrôlé de l’inflation, un changement de la politique allocative aux fins de baisse des dépenses […]",
@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme prévoit des « obligations d'exercice en zones sous-dotées » et une « régulation de l'installation décennale » des médecins.",
       "source": "https://ruches.org/le-projet",
       "citation": "[…] accompagnés d’obligations d’exercice en zones sous-dotées, d’une régulation de l’installation décennale, et la création d’un corps de médecins généralistes et ambulatoires d’État.",

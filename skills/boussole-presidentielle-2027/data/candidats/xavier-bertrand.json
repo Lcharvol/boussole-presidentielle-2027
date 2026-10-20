@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Dit vouloir réduire les dépenses sociales et prioriser les classes moyennes, sans chiffrage publié.",
       "source": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
       "citation": "Priorisation de la classe moyenne, réduction des dépenses sociales, défense de la retraite par capitalisation : le président des Hauts-de-France a d'ores et déjà livré les grandes lignes de son projet […]",
@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite (2021) : interrogé sur France Bleu Gironde en septembre 2021, s'est « fermement opposé » à l'obligation pour les jeunes médecins d'exercer un an dans les déserts médicaux (« C'est pas des pions les médecins »).",
       "source": "https://www.lequotidiendumedecin.fr/liberal/installation/cest-pas-des-pions-les-medecins-xavier-bertrand-rejette-la-coercition-linstallation-pour-les-jeunes",
       "citation": "Obliger les jeunes à exercer un an dans les déserts médicaux, la solution revient régulièrement sur le tapis. Questionné ce mercredi matin sur le sujet par France bleu Gironde , Xavier Bertrand s’y est fermement opposé.",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite (2021) : proposait l'abaissement de la majorité pénale à 15 ans parmi ses mesures de sécurité ; aucune déclaration 2025-2026 trouvée.",
       "source": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
       "citation": "Xavier Bertrand appelle d’ailleurs à « retrouver des principes simples », comme l’application effective des peines en créant 20 000 places de prison pour sortir de la « gestion immobilière de la délinquance », ou bien l’abaissement de la majorité pénale à 15 ans.",

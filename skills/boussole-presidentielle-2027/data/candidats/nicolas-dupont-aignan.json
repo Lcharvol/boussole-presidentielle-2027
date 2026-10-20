@@ -27,7 +27,7 @@
       "relu": false
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Annonce 130 milliards d'euros d'économies en cinq ans pour ramener le déficit sous 3 %, « sans faire souffrir les Français », tout en créant un impôt sur les très grandes fortunes et une taxe numérique.",
       "source": "https://www.debout-la-france.fr/projet/economie-travail/",
       "citation": "En revanche, elles représenteront au terme de cinq ans des économies de 130 milliards d’euros permettant de réduire le déficit budgétaire à moins de 3 % et d’investir massivement dans les priorités nationales (voir cahier financement).",
@@ -162,7 +162,7 @@
       "relu": false
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le projet DLF lutte contre les déserts médicaux par incitation (bourse aux étudiants en échange de 5 ans d'installation en zone sous-dotée, revenus majorés), sans régulation de la liberté d'installation.",
       "source": "https://www.debout-la-france.fr/projet/sante/",
       "citation": "Créer, afin de mettre fin aux déserts médicaux, une bourse pour les étudiants en médecine en échange de laquelle ils s’engageront à s’installer dans une zone sous-dotée pendant leurs 5 premières années.",
@@ -252,7 +252,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le projet propose d'abroger l'ordonnance de 1945 sur la justice des mineurs et de « baisser la majorité pénale à 16 ans », mesure reprise dans ses 20 propositions du 20 octobre 2026.",
       "source": "https://www.debout-la-france.fr/projet/justice/",
       "citation": "Baisser la majorité pénale à 16 ans.",
@@ -297,7 +297,7 @@
       "relu": false
     },
     "eur_defense3": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le projet s'engage à porter le budget de la défense à « 2,5 % du PIB », qualifié de « chiffre raisonnable », soit en deçà de 3 %.",
       "source": "https://www.debout-la-france.fr/projet/defense/",
       "citation": "Aussi, nous nous engageons à augmenter notre budget de défense pour atteindre le chiffre raisonnable de 2,5% du PIB, permettant de mettre en œuvre les 15 mesures suivantes.",
