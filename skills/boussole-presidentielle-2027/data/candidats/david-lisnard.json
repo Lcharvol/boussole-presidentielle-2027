@@ -159,7 +159,7 @@
       "citation": "Il défend le droit du peuple ukrainien à disposer de lui-même et demande de produire et de livrer des armes […] Parce que, dit David Lisnard, « l'intérêt de la France c'est que la Russie ne gagne pas cette guerre ».",
       "date_source": "2025-03-05",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": 1,
@@ -195,7 +195,7 @@
       "citation": "l’instauration progressive d’un chèque-éducation : un financement public équivalent, que la famille choisisse l’enseignement public ou privé.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_autorite": {
       "valeur": 1,
@@ -222,7 +222,7 @@
       "citation": "mettre en place « un véritable référendum d'initiative populaire », en invitant à ne pas avoir peur de ce que font les Suisses",
       "date_source": "2026-08-29",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": 0,
@@ -303,7 +303,7 @@
       "citation": "Si la France veut peser dans les discussions à venir, elle doit d’abord se donner les moyens de sa puissance, en portant son budget de la défense à 3,5 % du PIB",
       "date_source": "2025-03-22",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_100secu": {
       "valeur": null,
