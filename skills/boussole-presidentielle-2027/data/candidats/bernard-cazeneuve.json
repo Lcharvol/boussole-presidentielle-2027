@@ -270,13 +270,13 @@
       "relu": false
     },
     "imm_droitdusol": {
-      "valeur": -2,
-      "resume": "Ministre de l'Intérieur en 2015, a qualifié d'« absurde » la remise en cause du droit du sol, qui ne serait pas la cause des flux migratoires ; aucune déclaration plus récente trouvée.",
+      "valeur": -1,
+      "resume": "Ministre de l'Intérieur en 2015, a qualifié d'« absurde » la remise en cause du droit du sol, qui ne serait pas la cause des flux migratoires ; aucune déclaration plus récente trouvée ; valeur ramenée à −1 car la position date de 2015, quand il était ministre, et n'a pas été réaffirmée depuis.",
       "source": "https://www.lecourrierdelatlas.com/france-la-remise-en-cause-du-droit-du-sol-est-absurde-selon-cazeneuve-3243/",
       "citation": "« Ce débat donne le sentiment que nous sommes exclusivement dans le droit du sol et que le droit du sol en France serait la cause des flux migratoires, c'est absurde »",
       "date_source": "2015-06-22",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": null,
