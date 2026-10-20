@@ -12,281 +12,361 @@
       "valeur": 2,
       "resume": "Le projet DLF prévoit de maintenir l'âge minimum de départ et la durée de cotisation issus de la réforme de 2010 (soit 62 ans) ; DLF s'est opposé au passage à 64 ans en 2023.",
       "source": "https://www.debout-la-france.fr/projet/retraites/",
+      "citation": "Nous maintiendrons l’âge minimum de départ à la retraite et la durée de cotisations actuelle (issue de la réforme de 2010).",
       "date_source": "2023",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_smic": {
       "valeur": -1,
       "resume": "Propose d'augmenter de 8 % les salaires jusqu'à 3 SMIC par une baisse des cotisations salariales, sans hausse du SMIC décidée par l'État.",
       "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "citation": "Augmenter les salaires de 8% (équivalent d’un 13ème mois) pour tous les salariés jusqu’à 3 SMIC sans peser sur le coût du travail pour les entreprises, par une réduction des cotisations salariales",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Annonce 130 milliards d'euros d'économies en cinq ans pour ramener le déficit sous 3 %, « sans faire souffrir les Français », tout en créant un impôt sur les très grandes fortunes et une taxe numérique.",
       "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "citation": "En revanche, elles représenteront au terme de cinq ans des économies de 130 milliards d’euros permettant de réduire le déficit budgétaire à moins de 3 % et d’investir massivement dans les priorités nationales (voir cahier financement).",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 1,
       "resume": "Propose de rétablir un impôt sur les très grandes fortunes, en excluant la résidence principale et en permettant de déduire les investissements dans des entreprises produisant en France.",
       "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "citation": "Rétablir un impôt sur les très grandes fortunes en excluant la résidence principale et en permettant de déduire tous les investissements dans des entreprises / organismes localisant leur production en France",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_35h": {
       "valeur": 0,
       "resume": "Propose de défiscaliser les heures supplémentaires au-delà de 1 607 heures par an (dans la limite de 100 heures), sans modifier la durée légale du travail.",
       "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "citation": "Défiscaliser les heures supplémentaires : au-delà de 1 607 h/an pour un temps plein, chaque heure effectuée sera défiscalisée dans la limite de 100 heures/an.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 1,
       "resume": "Veut maintenir le nucléaire à au moins 70 % de la production d'électricité, abandonner l'objectif de 50 %, et soutenir les réacteurs de génération IV et une filière thorium, sans chiffrer de nouveaux réacteurs.",
       "source": "https://www.debout-la-france.fr/projet/environnement-energie/",
+      "citation": "Abandonner l’objectif de 50% de nucléaire dans la production électrique en 2035, maintenir le nucléaire à 70% de la production d’électricité minimum.",
       "date_source": "2022",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": -2,
       "resume": "Juge qu'une politique tournée vers l'éolien et le photovoltaïque « ne pourra jamais tenir ses promesses » et propose de redéployer les 4 milliards consacrés au solaire et à l'éolien vers l'isolation et le nucléaire.",
       "source": "https://www.debout-la-france.fr/projet/environnement-energie/",
+      "citation": "Une politique tournée vers l’éolien et le photovoltaïque ne pourra jamais tenir ses promesses.",
       "date_source": "2022",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": -2,
       "resume": "Veut sortir de la PAC, mettre fin au Pacte vert européen et aux quotas de jachères et simplifier les normes agricoles, tout en bloquant les importations ne respectant pas les normes françaises.",
       "source": "https://www.debout-la-france.fr/projet/agriculture/",
+      "citation": "Revenir à une politique agricole nationale, échappant aux délires bureaucratiques de la Commission de Bruxelles et simplifiant les procédures (fin du pacte vert européen, des quotas de jachères, etc…).",
       "date_source": "2025",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_peines": {
       "valeur": 2,
-      "resume": "Propose de réinstaurer et d'élargir les peines planchers (agressions de policiers, gendarmes, pompiers, enseignants, soignants), la perpétuité réelle et la prison ferme pour les multirécidivistes.",
-      "source": "https://www.dupontaignan.fr/actualite/communique-nicolas-dupont-aignan-a-limoges/",
-      "date_source": "2026-10-20",
-      "confiance": "programme"
+      "resume": "Le projet propose de « réinstaurer et élargir les peines planchers » pour les agressions contre policiers, gendarmes, pompiers, enseignants et soignants, ainsi qu'une perpétuité réelle ; la peine plancher pour agression de policiers figure dans ses 20 propositions du 20 octobre 2026.",
+      "source": "https://www.debout-la-france.fr/projet/justice/",
+      "citation": "Réinstaurer et élargir les peines planchers pour toute agression contre policiers, gendarmes, pompiers, enseignants, soignants.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": false
     },
     "sec_prisons": {
       "valeur": 2,
       "resume": "Propose la construction de 40 000 nouvelles places de prison.",
       "source": "https://www.dupontaignan.fr/actualite/communique-nicolas-dupont-aignan-a-limoges/",
+      "citation": "Construction de 40 000 places de prison",
       "date_source": "2026-10-20",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": -2,
       "resume": "Position déduite d'une déclaration ancienne : « Je suis contre la dépénalisation du cannabis » (France Bleu, 2016).",
       "source": "https://www.debout-la-france.fr/actualite/nda-sur-france-bleu-je-suis-contre-la-depenalisation-du-cannabis/",
+      "citation": "NDA sur France Bleu : « Je suis contre la dépénalisation du cannabis »",
       "date_source": "2016-10-17",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_baisse": {
       "valeur": 2,
       "resume": "Propose la suppression du droit du sol, la suspension du regroupement familial, le rétablissement des frontières nationales et la fin des aides sociales non contributives aux étrangers.",
       "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Nous proposons, par conséquent, la suppression du droit du sol, la suspension du regroupement familial, la fin des aides sociales non contributives aux étrangers et la fermeture immédiate des mosquées fondamentalistes.",
       "date_source": "2025",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_ame": {
       "valeur": 2,
-      "resume": "Propose de supprimer l'AME et de la remplacer par une aide médicale exceptionnelle limitée aux urgences et aux maladies contagieuses.",
+      "resume": "Propose de supprimer l'AME et de mettre en place dans chaque département un dispensaire d'urgence pour les étrangers en situation irrégulière, avant leur expulsion.",
       "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Supprimer l’Aide Médicale d’État (AME) et mettre en place dans chaque département un dispensaire d’urgence pour les étrangers en situation irrégulière, avant leur expulsion.",
       "date_source": "2025",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": -2,
       "resume": "Propose de supprimer la régularisation des étrangers en situation irrégulière et de rétablir le délit de séjour irrégulier.",
       "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Durcir les règles de rapprochement familial et supprimer la régularisation pour les étrangers en situation irrégulière […]",
       "date_source": "2025",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_integration": {
       "valeur": -2,
       "resume": "Propose de sortir de l'Union européenne, après référendum, pour la remplacer par une « Europe des nations libres » et des coopérations à la carte.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "citation": "Sortir de l’Union européenne pour rapatrier nos compétences au niveau national, seul cadre de l’exercice de notre démocratie.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": 2,
       "resume": "Propose de rétablir par référendum dans la Constitution la primauté du droit français sur toute norme européenne, dans le cadre d'une sortie de l'UE.",
       "source": "https://www.dupontaignan.fr/actualite/communique-nicolas-dupont-aignan-a-limoges/",
+      "citation": "Primauté du droit français sur le droit européen",
       "date_source": "2026-10-20",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": -2,
       "resume": "Déclare qu'élu président il arrêterait « toutes subventions à l'Ukraine » ; son projet vise la paix et la relance d'un partenariat avec la Russie.",
-      "source": "https://www.dupontaignan.fr/actualite/president-jarreterai-toutes-subventions-a-lukraine-%c2%b7-bfmtv-21-09-26-2/",
+      "source": "https://www.dupontaignan.fr/actualite/president-jarreterai-toutes-subventions-a-lukraine-%c2%b7-bfmtv-21-09-26/",
+      "citation": "“Président, j’arrêterai toutes subventions à l’Ukraine !” · BFMTV, 21/09/26",
       "date_source": "2026-09-21",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le projet DLF lutte contre les déserts médicaux par incitation (bourse aux étudiants en échange de 5 ans d'installation en zone sous-dotée, revenus majorés), sans régulation de la liberté d'installation.",
       "source": "https://www.debout-la-france.fr/projet/sante/",
+      "citation": "Créer, afin de mettre fin aux déserts médicaux, une bourse pour les étudiants en médecine en échange de laquelle ils s’engageront à s’installer dans une zone sous-dotée pendant leurs 5 premières années.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_findevie": {
       "valeur": -1,
       "resume": "S'oppose à l'aide à mourir adoptée par l'Assemblée (« Comment des parlementaires ont pu voter ça ? ») et aurait voulu appliquer la loi Leonetti et renforcer les soins palliatifs ; aucune déclaration trouvée sur une abrogation de la loi.",
       "source": "https://www.europe1.fr/node/965466",
+      "citation": "Il estime que la priorité aurait dû être de faire appliquer la loi Leonetti et de renforcer les soins palliatifs. \"Il y avait la possibilité des soins palliatifs. La loi Leonetti était parfaite, simplement elle n'était pas appliquée\", affirme-t-il",
       "date_source": "2026-07-03",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_rsa": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le conditionnement du RSA à des heures d'activité ; le projet prévoit un délai de carence de 5 ans pour le RSA des étrangers et un plafond de prestations à 70 % du SMIC net pour les inactifs.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_prive": {
       "valeur": -1,
       "resume": "Le projet propose d'accepter les créations de classes demandées par les établissements privés pour répondre à la demande des familles, sous inspection régulière.",
       "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "citation": "Accepter les créations de classes demandées par les établissements privés pour répondre à la forte demande des familles.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_autorite": {
       "valeur": 2,
       "resume": "Propose l'uniforme obligatoire, la tolérance zéro, l'exclusion des élèves harceleurs, des établissements « d'apaisement civique » et des classes de niveau au collège.",
       "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "citation": "Uniforme obligatoire, niveau de langage minimum et vouvoiement.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": -2,
       "resume": "Qualifie la proportionnelle de « fausse bonne idée » qui rendrait le pays ingouvernable, et lui préfère le référendum et le RIC.",
       "source": "https://www.debout-la-france.fr/actualite/communique-de-presse-%c2%b7-la-proportionnelle-le-piege-du-systeme-pour-priver-la-france-dalternative-politique/",
+      "citation": "La mise en place du scrutin proportionnel est une fausse bonne idée, une illusion démocratique qui, sous couvert de représentativité, installerait en réalité un système verrouillé entre partis dominants […]",
       "date_source": "2025-04-30",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_ric": {
       "valeur": 2,
       "resume": "Propose un RIC législatif et constituant déclenché par un million d'électeurs, précédé d'un débat de six mois.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "citation": "Instaurer le référendum d’initiative citoyenne constituant (RIC) pour rendre les citoyens acteurs de l’élaboration des lois et maîtres de leur Constitution.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_6e": {
       "valeur": -1,
       "resume": "Ne propose pas de VIe République mais un retour à l'« esprit de la Ve » : septennat avec référendum révocatoire d'initiative citoyenne à mi-mandat et référendum obligatoire pour certaines réformes.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "citation": "Revenir au septennat avec la possibilité d’un référendum révocatoire d’initiative citoyenne à mi-mandat.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": -2,
       "resume": "Le projet propose de « supprimer l'interdiction des véhicules thermiques à l'horizon 2035 imposée par l'UE ».",
       "source": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "citation": "Supprimer l’interdiction des véhicules thermiques à l’horizon 2035 imposée par l’UE.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le projet propose d'abroger l'ordonnance de 1945 sur la justice des mineurs et de « baisser la majorité pénale à 16 ans », mesure reprise dans ses 20 propositions du 20 octobre 2026.",
       "source": "https://www.debout-la-france.fr/projet/justice/",
+      "citation": "Baisser la majorité pénale à 16 ans.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": -2,
       "resume": "Position déduite d'un acte parlementaire de mars 2023 : il a déposé un amendement de suppression de l'article de la loi JO 2024 autorisant la vidéosurveillance algorithmique, estimant que « la surveillance généralisée de la population, via l'utilisation de l'intelligence artificielle, ne peut aboutir qu'à l'autoritarisme ».",
       "source": "https://www.assemblee-nationale.fr/dyn/16/amendements/0939/AN/692.pdf",
+      "citation": "La surveillance généralisée de la population, via l’utilisation de l’intelligence artificielle, ne peut aboutir qu’à l’autoritarisme.",
       "date_source": "2023-03-16",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": 2,
       "resume": "Le projet propose de « supprimer le droit du sol via un référendum », tout en maintenant la naturalisation ; la « fin du droit du sol » figure aussi dans ses 20 propositions du 20 octobre 2026.",
       "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Supprimer le droit du sol via un référendum, tout en maintenant la possibilité de devenir Français par naturalisation.",
       "date_source": "2026-03",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_preference": {
       "valeur": 2,
       "resume": "Le projet propose de « supprimer les aides sociales non contributives pour les étrangers (RSA, allocations familiales, aides au logement…) » ; ses propositions du 20 octobre 2026 ajoutent la « priorité aux étudiants français pour les aides universitaires ».",
       "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Supprimer les aides sociales non contributives pour les étrangers (RSA, allocations familiales, aides au logement…)",
       "date_source": "2026-03",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_otan": {
       "valeur": 2,
       "resume": "Le projet propose de « sortir du commandement intégré de l'OTAN pour regagner notre indépendance militaire ».",
       "source": "https://www.debout-la-france.fr/projet/defense/",
+      "citation": "Sortir du commandement intégré de l’OTAN pour regagner notre indépendance militaire et stratégique […]",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_defense3": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le projet s'engage à porter le budget de la défense à « 2,5 % du PIB », qualifié de « chiffre raisonnable », soit en deçà de 3 %.",
       "source": "https://www.debout-la-france.fr/projet/defense/",
+      "citation": "Aussi, nous nous engageons à augmenter notre budget de défense pour atteindre le chiffre raisonnable de 2,5% du PIB, permettant de mettre en œuvre les 15 mesures suivantes.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Le projet défend le caractère solidaire de l'assurance maladie et propose d'élargir la complémentaire santé solidaire aux plus de 65 ans, sans proposer la suppression du rôle des complémentaires.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_signes": {
       "valeur": 1,
       "resume": "Le volet instruction publique propose l'« interdiction du port de signes religieux démonstratifs pour tous » ; les parents accompagnateurs de sorties scolaires ne sont pas cités explicitement.",
       "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "citation": "Interdiction du port de signes religieux démonstratifs pour tous.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Le projet prévoit de maintenir les bourses sur critères sociaux en tenant compte de l'assiduité et de donner la priorité aux étudiants français pour les aides universitaires, sans proposer d'allocation universelle.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Le projet veut « doper l'apprentissage » (objectif d'un million d'apprentis) et présenter les métiers dès la quatrième, sans proposer d'âge d'entrée en apprentissage à 14 ans.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": 2,
       "resume": "Le projet propose de « diminuer le nombre de parlementaires » : passer de 577 à 500 députés et de 348 à 300 sénateurs, avec une baisse de 25 % de leurs indemnités.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "citation": "Diminuer le nombre de parlementaires et réduire leurs indemnités de 25 % :",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": 2,
       "resume": "Le projet propose de « prendre en compte le vote blanc dans les résultats des élections » et de reporter le scrutin s'il est majoritaire ; mesure rappelée dans son discours de rentrée du 19 septembre 2026.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "citation": "Prendre en compte le vote blanc dans les résultats des élections pour respecter le sentiment populaire.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     }
   }
 }

@@ -12,281 +12,361 @@
       "valeur": 0,
       "resume": "Promet une « réforme juste et ambitieuse » fondée sur la pénibilité et l'espérance de vie en bonne santé (« ceux qui ont une espérance de vie en bonne santé plus longue doivent en revanche partir plus tard »), écarte un retour général à 60 ans et ne propose pas de ramener l'âge légal à 62 ans.",
       "source": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+      "citation": "“L’équité exige que ceux qui ont les carrières les plus hachées et les métiers les plus difficiles puissent partir à la retraite plus tôt. (…) Ceux qui ont une espérance de vie en bonne santé plus longue doivent en revanche partir plus tard”, écrit-il, sans entrer dans les détails.",
       "date_source": "2026-08-24",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_smic": {
       "valeur": 2,
       "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025), qui propose un SMIC à 1 600 euros net en deux ans ; candidat, il met en avant la hausse du salaire net par la baisse des cotisations, financée par la taxation des gros héritages, sans reprendre ce chiffre.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Augmenter le SMIC à 1600 euros net dans les deux ans qui suivent notre accession au pouvoir.",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eco_depenses": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : le texte mise sur la suppression des dépenses inefficaces et des niches fiscales injustifiées, la contribution des ultra-riches et un « réinvestissement stratégique de la puissance publique », sans priorité à une forte baisse des dépenses.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Libérer des marges de manœuvre en supprimant les dépenses inefficaces, en éliminant les niches fiscales injustifiées en réformant les systèmes conduisant à des dépenses superflues et en faisant contribuer les ultra-riches à la solidarité nationale.",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 2,
-      "resume": "Propose de taxer davantage les successions supérieures à 2 millions d'euros (environ 15 Md€ par an reversés aux salaires) et a qualifié la taxe sur les plus grandes fortunes de « base de tout accord » budgétaire en septembre 2025.",
-      "source": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/augmenter-les-salaires-en-taxant-les-plus-gros-heritages-la-proposition-de-raphael-glucksmann-est-elle-realiste_8076284.html",
-      "date_source": "2026-08-25",
-      "confiance": "declaration"
+      "resume": "A qualifié la taxe Zucman (impôt de 2 % sur les patrimoines de plus de 100 millions d'euros) de « base de tout accord » de non-censure entre la gauche et le gouvernement Lecornu.",
+      "source": "https://www.brut.media/fr/articles/taxe-zucman-cest-non-pour-larcher-la-base-de-tout-accord-pour-glucksmann",
+      "citation": "Pour l'eurodéputé Raphaël Glucksmann (Place publique), c'est même \"la base de tout accord\" de non censure entre la gauche et le nouveau gouvernement de Sébastien Lecornu.",
+      "date_source": "2025-11-17",
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_35h": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 1,
       "resume": "Lors de son premier déplacement de candidat, estime selon LCP « qu'il faut développer de nouveaux EPR », tout en indiquant que la question des nouveaux réacteurs « reste à discuter » avec Yannick Jadot.",
       "source": "https://lcp.fr/actualites/presidentielle-2027-s-il-gagne-raphael-glucksmann-engagera-les-100-jours-de-la",
+      "citation": "Il y a un point \"qui reste à discuter\" : \"la question des nouveaux réacteurs nucléaires\". Raphaël Glucksmann estime qu'il faut développer de nouveaux EPR, contrairement à Yannick Jadot.",
       "date_source": "2026-08-25",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 2,
       "resume": "Juge que « la France est en retard sur le développement des renouvelables », promet « les 100 jours de la révolution écologique » et veut relocaliser la production de panneaux solaires.",
       "source": "https://lcp.fr/actualites/presidentielle-2027-s-il-gagne-raphael-glucksmann-engagera-les-100-jours-de-la",
+      "citation": "\"On est d'accord sur le fait que la France est en retard sur le développement des renouvelables. Et on est d'accord que l'objectif, c'est la décarbonation de l'économie\", a-t-il ajouté.",
       "date_source": "2026-08-25",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": 1,
       "resume": "A dénoncé la loi d'urgence agricole, qui « sacrifie l'écologie et la santé », et la réintroduction de l'acétamipride, reprochant à la droite de s'attaquer aux normes environnementales plutôt qu'au partage de la PAC et de la valeur.",
       "source": "https://place-publique.eu/posts/68jyTyNjDww1F2yvJ1c4St/reaction-de-raphael-glucksmann-suite-a-l-adoption-de-la-loi-d-urgence-agricole",
+      "citation": "Plutôt que de s’attaquer au partage injuste de la PAC et de la valeur, à la concurrence déloyale, la droite et l’extrême-droite s’en prennent comme toujours aux normes environnementales.",
       "date_source": "2026-07-21",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_prisons": {
       "valeur": 0,
       "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : le texte veut lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus et en investissant dans des « prisons rénovées et dignes », sans objectif de construction massive.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus, en investissant dans des prisons rénovées et dignes et dans le renforcement des parcours individualisés de réinsertion.",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": 0,
       "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : propose une convention citoyenne sur la politique des drogues, « notamment la question de la légalisation du cannabis », sans trancher.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Organiser une convention citoyenne sur la politique vis-à-vis des drogues, notamment la question de la légalisation du cannabis.",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_baisse": {
       "valeur": -1,
-      "resume": "Juge que « l'immigration zéro n'est ni souhaitable, ni possible », propose des voies légales d'immigration de travail et une convention citoyenne sur l'immigration.",
+      "resume": "Juge que « l'immigration zéro n'est ni souhaitable, ni possible » tout en affirmant que s'installer en France n'est pas un droit universel ; propose une convention citoyenne sur l'immigration.",
       "source": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "citation": "\"Non, l'immigration zéro n'est ni souhaitable, ni possible. Et non, s'installer en France n'est pas un droit universel\", défend le leader de Place publique.",
       "date_source": "2026-05-26",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": 2,
       "resume": "Défend la régularisation des travailleurs sans papiers, notamment dans les secteurs en pénurie de main-d'œuvre, estimant que « l'intégration passe avant tout par l'activité économique ».",
       "source": "https://www.lecourrierdelatlas.com/raphael-glucksmann-cinq-choses-a-savoir-vainqueur-primaire/",
+      "citation": "L’eurodéputé soutient la régularisation des travailleurs sans-papiers, en particulier dans les secteurs en tension, estimant que l’Europe a besoin de main-d’œuvre et que l’intégration passe avant tout par l’activité économique et la dignité des conditions de travail.",
       "date_source": "2026-10-13",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_integration": {
       "valeur": 2,
       "resume": "Propose un plan pour la souveraineté européenne, un grand emprunt européen et la suppression du droit de veto dans l'UE.",
       "source": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "citation": "Le parlementaire défend un plan pour une souveraineté européenne et l'idée d'un grand emprunt européen. Il va jusqu'à proposer la suppression du droit de veto au sein de l'Union européenne, afin de lever les freins existants.",
       "date_source": "2026-05-26",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": -2,
       "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : projet explicitement fédéraliste (« Pour une Europe fédérale », nouveau traité de refondation de l'UE), à l'opposé d'une primauté du droit national ou d'une sortie des traités.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Porter d’ici 2030 un grand traité de réunification européenne qui sera aussi un traité de refondation institutionnelle, clarifiant et démocratisant le fonctionnement de l’Union passant à la majorité qualifiée au Conseil européen […]",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": 2,
       "resume": "Cité par franceinfo parmi les trois candidats qui défendent l'aide à l'Ukraine dans la campagne ; son projet de 2025 prévoyait d'« augmenter drastiquement l'aide militaire à l'Ukraine ».",
       "source": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-l-ukraine-un-enjeu-pour-la-campagne_8239765.html",
+      "citation": "Une position défendue par trois candidats à l'élection présidentielle : Édouard Philippe, Raphaël Glucksmann et Gabriel Attal.",
       "date_source": "2026-10-16",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_medecins": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la régulation de l'installation ; « Acte I » propose de « soutenir l'installation » et des projets territoriaux de santé, sans contrainte.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_findevie": {
       "valeur": null,
       "resume": "Aucune déclaration trouvée sur l'aide à mourir ; eurodéputé, il n'a pas voté la loi française, et « Acte I » n'aborde pas le sujet.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_rsa": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_prive": {
-      "valeur": 1,
-      "resume": "Lors d'un débat de la primaire, a proposé de conditionner les quelque 10 Md€ annuels d'aides publiques à l'enseignement privé au respect de la mixité sociale ; Acte I prévoit d'intégrer le privé sous contrat à la carte scolaire.",
-      "source": "https://www.youtube.com/watch?v=r7UKzIUNrZE",
-      "date_source": "2026-10-01",
-      "confiance": "declaration"
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée (vérification du 20/10/2026 : vidéo du débat sans transcription consultable, aucune source écrite sur le financement du privé).",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "edu_autorite": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": 2,
       "resume": "Reçu à Matignon, a plaidé pour la proportionnelle aux législatives, de préférence régionale (« la proportionnelle, c'est la clarification, c'est l'esprit de compromis ») ; Acte I propose de l'« instaurer immédiatement ».",
       "source": "https://www.lagazettefrance.fr/article/la-proportionnelle-c-est-la-clarification-et-l-esprit-de-compromis-selon-glucksmann",
+      "citation": "\"La proportionnelle, c'est la clarification, c'est l'esprit de compromis, c'est la sincérité face aux électrices et aux électeurs. C'est aussi une représentativité infiniment plus démocratique que le système actuel\", a affirmé M. Glucksmann",
       "date_source": "2025-05-23",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_ric": {
       "valeur": 1,
       "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : propose un « droit d'initiative citoyenne » permettant de déclencher des référendums locaux et nationaux, sans employer le terme RIC.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Instaurer un droit d’initiative citoyenne, permettant de déclencher des séquences démocratiques avec des référendums à l’échelle locale et nationale, généraliser des conventions citoyennes.",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ins_6e": {
       "valeur": 1,
       "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : propose de supprimer l'article 16, de renforcer le Parlement et de lancer une convention citoyenne préparant une assemblée constituante, sans employer l'expression « VIe République ».",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Lancer en parallèle une grande convention citoyenne qui jettera les bases d’une assemblée constituante pour changer la Constitution.",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": 2,
       "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : suppression des exonérations de TVA et de taxe sur le kérosène et taxation des « plus gros pollueurs individuels (jets privés, yachts, SUV…) ».",
       "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Mettre fin aux privilèges actuels des transports polluants : suppression des exonérations de TVA et de taxe sur le kérosène, étendre l’interdiction des vols intérieurs avec alternative ferroviaire viable, taxation des plus gros pollueurs individuels (jets privés, yachts, SUV…)",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_mineurs": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_preference": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_otan": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_defense3": {
       "valeur": null,
       "resume": "Aucun objectif en % du PIB trouvé ; « Acte I » (juin 2025) propose un fonds européen de défense de 500 milliards d'euros financé par emprunt commun.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_100secu": {
       "valeur": -1,
       "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : le texte maintient l'articulation entre assurance maladie obligatoire et complémentaires santé, dont il propose de mutualiser les systèmes d'information.",
       "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Mutualiser les systèmes d’information entre assurance maladie obligatoire et complémentaires santé, afin de limiter les frais de fonctionnement du double système et simplifier les remboursements pour les patients.",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "soc_chomage": {
       "valeur": -2,
       "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : « Abroger la réforme Macron de l'assurance chômage, injuste et inefficace ».",
       "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Abroger la réforme Macron de l’assurance chômage, injuste et inefficace.",
       "date_source": "2025-06",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "Aucune position trouvée ; « Acte I » (juin 2025) veut « garantir la laïcité à l'école » sans évoquer les accompagnateurs de sorties scolaires.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Aucune position trouvée sur une allocation d'autonomie étudiante ; « Acte I » (juin 2025) propose de réinventer les bourses et d'étudier un « capital formation universel ».",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }

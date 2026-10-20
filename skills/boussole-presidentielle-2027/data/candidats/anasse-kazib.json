@@ -12,281 +12,361 @@
       "valeur": 2,
       "resume": "Les premières mesures 2027 prévoient la retraite à 60 ans, et à 55 ans pour les métiers pénibles, sans condition d'annuités.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Retraite à 60 ans et 55 ans pour les métiers pénibles, sans conditions d'annuité.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_smic": {
       "valeur": 2,
       "resume": "Les premières mesures 2027 prévoient un SMIC à 2 000 euros net, 500 euros d'augmentation des salaires et leur indexation sur l'inflation.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Les premières mesures 2027 prévoient des investissements massifs dans les services publics et la suppression des aides publiques aux grandes entreprises.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Investissements massifs dans les services publics, qui doivent être placés sous le contrôle des travailleur·ses.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 1,
       "resume": "Les premières mesures 2027 jugent que « taxer les riches ne suffit pas » et proposent l'expropriation des secteurs stratégiques ; le programme 2022 demandait le rétablissement de l'impôt sur les grandes fortunes.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Taxer les riches ne suffit pas, il faut s'attaquer à la racine de ce pouvoir et placer l'économie sous le contrôle des travailleurs.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_35h": {
       "valeur": -2,
       "resume": "Les premières mesures 2027 prévoient une répartition du travail avec une semaine de 28 heures sans baisse de salaire.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Répartition du travail pour une semaine de 28h sans baisse de salaire.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": -2,
       "resume": "Déduit du programme 2022 : il critique le « tout nucléaire » et évoque « une transition pour sortir du nucléaire ».",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "Une transition pour sortir du nucléaire ne saurait se faire sans s’attaquer aux patrons du secteur et seuls les travailleuses et travailleurs de l’énergie sont à même de le faire.",
       "date_source": "2022",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_normes": {
       "valeur": 1,
       "resume": "Position déduite d'un article de Révolution permanente qui qualifie la loi Duplomb (réintroduction de néonicotinoïdes, relèvement des seuils d'autorisation environnementale des élevages) de « désastre écologique et sanitaire ».",
       "source": "https://www.revolutionpermanente.fr/Loi-Duplomb-bis-vous-reprendrez-bien-des-neonicotinoides-39488",
+      "citation": "En bref, un désastre écologique et sanitaire.",
       "date_source": "2026-02-10",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_peines": {
       "valeur": -2,
-      "resume": "Déduit des mesures 2027 (« abrogation de toutes les lois sécuritaires ») et du programme 2022, qui critique le durcissement de la réponse pénale comme renforcement du système répressif.",
-      "source": "https://anasse2027.fr/programme",
-      "date_source": "2026-06",
-      "confiance": "deduite"
+      "resume": "Position déduite du programme de 2022, qui critique le durcissement de la réponse pénale comme renforcement du système répressif ; les mesures 2027 demandent par ailleurs l'« abrogation de toutes les lois sécuritaires ».",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "Les annonces de Macron de doubler le nombre de policiers dans les dix prochaines années et de durcir la réponse pénale montrent bien que le renforcement du système répressif sont consubstantiels à l’avancée du néolibéralisme.",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_prisons": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": 2,
       "resume": "Déduit du programme 2022 : légaliser sous contrôle de l'État, avec suivi médical, l'ensemble des substances stupéfiantes, à commencer par le cannabis.",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "il faut légaliser, sous contrôle de l’État et avec un suivi médical, lorsque cela l’exige, l’ensemble des substances stupéfiantes et addictives, à commencer par le cannabis […]",
       "date_source": "2022",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_baisse": {
       "valeur": -2,
       "resume": "Les premières mesures 2027 revendiquent la « liberté de circulation et d'installation » ; le programme 2022 défendait l'ouverture des frontières et le regroupement familial.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_ame": {
       "valeur": -2,
       "resume": "Position déduite d'un article de Révolution permanente qui dénonce les restrictions de l'AME comme l'application du « programme du RN » et une mesure xénophobe.",
       "source": "https://www.revolutionpermanente.fr/CHU-Purpan-a-Toulouse-l-aide-medicale-d-Etat-visee-par-l-extreme-droite-faisons-front",
+      "citation": "Cette action xénophobe déploie une vieille obsession raciste de la droite et l’extrême-droite, qui militent depuis des années pour une restriction drastique de l’AME en la limitant aux seules urgences vitales.",
       "date_source": "2026-01-19",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": 2,
       "resume": "Les premières mesures 2027 revendiquent la régularisation de tous les sans-papiers.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_integration": {
       "valeur": -1,
       "resume": "Déduit du programme 2022 (« Ni Frexit ni Europe du Capital ») : rejet de l'Union européenne actuelle au profit d'« États-Unis socialistes d'Europe » ; les mesures 2027 refusent tout budget militaire (« pas un euro pour la guerre »).",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "Face à l’Europe du capital qui n’a à offrir que davantage de misères et de tragédies sociales pour le monde du travail et pour les peuples, nous revendiquons le combat pour des gouvernements ouvriers, dans la perspective d’instaurer les États-Unis socialistes d’Europe […]",
       "date_source": "2022",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": -1,
       "resume": "Déduit du programme 2022 : rejet du retour aux « États-nations souverains » et du Frexit, présentés comme une régression pour les classes populaires.",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "la seule perspective viable et rationnelle pour sortir de l’impasse et du faux-dilemme « rupture avec l’UE » ou « Europe du capital » telle qu’elle existe.",
       "date_source": "2022",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": -2,
       "resume": "Les premières mesures 2027 réclament « pas un euro pour la guerre » et le démantèlement de l'industrie d'armement française.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_medecins": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_findevie": {
       "valeur": -1,
       "resume": "Position déduite d'un article de Révolution permanente (mars 2026) : le parti dit ne pas s'opposer « par principe » au droit de mettre fin à sa vie mais juge la loi sur l'aide à mourir « un danger évident » pour les personnes handicapées, malades et âgées, sans appeler explicitement à son abrogation.",
       "source": "https://www.revolutionpermanente.fr/Loi-sur-la-fin-de-vie-votee-a-l-Assemblee-avec-l-aide-a-mourir-les-deputes-approuvent-une-loi",
+      "citation": "nous ne nous opposons pas par principe au droit de mettre fin à sa vie. En revanche, nous jugeons que cette proposition de loi représente un danger évident pour les personnes handicapées, malades et âgées de notre classe.",
       "date_source": "2026-03-18",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "soc_rsa": {
       "valeur": -2,
       "resume": "Position déduite d'un article de Révolution permanente (2023) qui présente l'obligation de 15 heures d'activité pour les allocataires du RSA comme une « guerre aux pauvres ».",
       "source": "https://www.revolutionpermanente.fr/15-h-d-activite-pour-les-allocataires-du-RSA-le-Senat-declare-la-guerre-aux-pauvres",
+      "citation": "15 h d’activité pour les allocataires du RSA : le Senat déclare la guerre aux pauvres",
       "date_source": "2023-07-12",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_autorite": {
       "valeur": -1,
       "resume": "Position déduite d'un article de Révolution permanente (2023) qui présente l'expérimentation de l'uniforme scolaire comme un « projet autoritaire pour la jeunesse ».",
       "source": "https://www.revolutionpermanente.fr/Experimentation-de-l-uniforme-a-l-ecole-Attal-poursuit-son-projet-autoritaire-pour-la-jeunesse",
+      "citation": "Expérimentation de l’uniforme à l’école : Attal poursuit son projet autoritaire pour la jeunesse",
       "date_source": "2023-09-04",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_ric": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_6e": {
       "valeur": 2,
       "resume": "Les premières mesures 2027 demandent la fin de la Ve République, du Sénat et de la « figure présidentielle » ; le programme 2022 proposait une assemblée unique élue pour deux ans.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Fin de la Ve République, du Sénat et de la figure présidentielle.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_preference": {
       "valeur": -2,
       "resume": "Position déduite du programme de 2022 : dénonce comme « première forme de préférence nationale » la condition de nationalité pour l'emploi public et la surenchère de la droite et de l'extrême droite sur ce thème.",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "dans le service public, on ne peut devenir fonctionnaire qu’en étant de nationalité française ou ressortissant d’un autre État européen, ce qui établit la première forme de préférence nationale à l’embauche.",
       "date_source": "2022",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_otan": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_defense3": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le 4 pages de campagne 2027 réclame « pas un euro pour la guerre » et le démantèlement de la machine de guerre française.",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_100secu": {
       "valeur": 2,
       "resume": "Position déduite du programme de 2022 : nationalisation de toutes les mutuelles et intégration à la Sécurité sociale, avec un remboursement intégral des soins.",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "sur la base de la nationalisation de toutes les mutuelles et leur intégration à la Sécu, gérée par les professionnels du secteur et les usagers, garantissant un remboursement intégral des soins pour tous celles et ceux qui résident sur le territoire.",
       "date_source": "2022",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "soc_chomage": {
       "valeur": -2,
       "resume": "Le 4 pages de campagne 2027 réclame la revalorisation de toutes les allocations ; le programme de 2022 s'opposait « radicalement à toute réduction des prestations allouées aux chômeurs ».",
       "source": "https://anasse2027.fr/programme",
+      "citation": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_signes": {
       "valeur": -2,
       "resume": "Position déduite du programme de 2022, qui dénonce les dispositions empêchant les mères voilées d'accompagner les sorties scolaires ; le 4 pages 2027 demande l'abrogation de la loi de 2004 sur les signes religieux à l'école.",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "De la loi sur l’interdiction du voile dans les collèges et lycées aux dispositions qui empêchent aux mamans voilées d’accompagner les enfants dans les sorties scolaires, le gouvernement n’a de cesse d’utiliser la question de l’émancipation des femmes […] à des fins racistes.",
       "date_source": "2022",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": 2,
       "resume": "Le 4 pages de campagne 2027 réclame un « revenu étudiant à hauteur du SMIC, financé par le patronat ».",
       "source": "https://anasse2027.fr/programme",
+      "citation": "Revenu étudiant à hauteur du SMIC, financé par le patronat.",
       "date_source": "2026-06",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }

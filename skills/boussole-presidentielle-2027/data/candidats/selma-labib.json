@@ -12,281 +12,361 @@
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eco_smic": {
       "valeur": 2,
       "resume": "Revendique une hausse de 400 euros par mois de tous les salaires et pensions et qu'aucun revenu ne soit inférieur à 2 000 euros net.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "Il faut augmenter les salaires et les pensions de 400 euros par mois pour tous et toutes. Il ne faut pas un seul revenu sous les 2000 euros net.",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "S'oppose aux budgets d'austérité et aux coupes budgétaires, et veut réorienter l'argent des aides aux entreprises et des dépenses militaires.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "De la gauche de Hollande à l’extrême droite, les candidats n’ont comme promesses que du sang et des larmes, l’austérité à tous les étages, la retraite à 67 ans et j’en passe.",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 1,
       "resume": "Veut « faire payer » les actionnaires et les milliardaires pour financer des mesures d'urgence, sans préciser d'instrument fiscal.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "Les travailleurs au pouvoir commenceraient par faire payer les actionnaires et les milliardaires pour toutes les mesures d’urgence de survie de la majorité la plus pauvre de l’humanité.",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_35h": {
       "valeur": -2,
       "resume": "Revendique une forte réduction du temps de travail sans perte de salaire jusqu'à la disparition du chômage.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "oui il faut drastiquement diminuer le temps de travail sans perte de salaire et sans augmentation de la charge de travail, sous le contrôle des salariés eux-mêmes […]",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 0,
       "resume": "Position déduite d'une lettre de Selma Labib à l'Académie des sciences (campagne européenne de mai 2024) : le nucléaire y est décrit comme « la source d'énergie la plus décarbonée » mais la gestion des déchets comme « catastrophique », sans proposition sur de nouveaux réacteurs.",
       "source": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-au-bureau-de-lacademie-des-sciences",
+      "citation": "L’énergie nucléaire est certes la source d’énergie la plus décarbonée aujourd’hui. L’absence de gestion des déchets radioactifs reste néanmoins catastrophique […]",
       "date_source": "2024-05-28",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 0,
       "resume": "Position déduite de la même lettre de mai 2024 : juge le développement des renouvelables « très modeste au vu des enjeux » tout en mettant en garde contre l'extraction minière qu'il implique, et estime qu'« aucun mix énergétique » ne suffira sous le capitalisme.",
       "source": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-au-bureau-de-lacademie-des-sciences",
+      "citation": "Le développement des énergies renouvelables reste pour le moment très modeste au vu des enjeux du dérèglement climatique. La tendance actuelle montre que loin de remplacer d’autres formes de production énergétique bien plus productrices de GES, la production par énergie renouvelable s’ajoute […]",
       "date_source": "2024-05-28",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_prisons": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": 0,
       "resume": "Position déduite d'un article du NPA-Révolutionnaires (mars 2025) qui se dit favorable à la « dépénalisation des drogues » pour les consommateurs mais présente la légalisation du cannabis sous le capitalisme comme « une bonne affaire pour les capitalistes ».",
       "source": "https://npa-revolutionnaires.org/articles/pour-un-monde-sans-drogues-quelles-solutions",
+      "citation": "En ce sens, nous sommes favorables à la dépénalisation des drogues, c’est-à-dire l’arrêt de toute répression vis-à-vis des consommateurs, tout en militant contre leur usage.",
       "date_source": "2025-03-24",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_baisse": {
       "valeur": -2,
       "resume": "Revendique la « liberté de circulation et d'installation » des étrangers.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": 2,
       "resume": "Revendique la régularisation de tous les travailleurs sans papiers.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_integration": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_primaute": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": -2,
       "resume": "Présente la guerre en Ukraine comme le prolongement de « concurrences capitalistes » et revendique « pas un homme, pas une femme, pas un euro pour les guerres impérialistes ».",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "Et le mur de leurs guerres qui sont le prolongement de leurs concurrences capitalistes, qu’on voit en Ukraine, en Iran ou d’une autre façon en Palestine et qui vont se multiplier si on ne les empêche pas.",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_medecins": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_findevie": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_rsa": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_autorite": {
       "valeur": -1,
       "resume": "Position déduite de la lettre de Selma Labib à l'Académie des sciences (mai 2024), qui présente la réforme des groupes de niveau au collège comme une « usine à tri social ».",
       "source": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-au-bureau-de-lacademie-des-sciences",
+      "citation": "La logique de sélection n’est pas une manière d’offrir des choix d’orientation mais transforme l’enseignement primaire et secondaire en une usine à tri social – parcoursup et la réforme des groupes de niveau au collège en sont deux exemples récents.",
       "date_source": "2024-05-28",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_ric": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_6e": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
-      "valeur": -2,
-      "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui rejette le projet de Gabriel Attal d'atténuer l'excuse de minorité et de juger plus vite les mineurs de 16 ans et plus.",
+      "valeur": 2,
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui rejette le projet de Gabriel Attal de revenir sur l'excuse de minorité, présentée comme un principe protecteur de la justice des mineurs.",
       "source": "https://npa-revolutionnaires.org/excuse-de-minorite-les-fantasmes-de-gabriel-attal/",
+      "citation": "C’est là-dessus que veut revenir Attal, qui multiplie les déclarations sécuritaires contre la jeunesse.",
       "date_source": "2024-04-21",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_preference": {
       "valeur": -2,
       "resume": "Qualifie la proposition d'un référendum pour instaurer la préférence nationale de « pur racisme ».",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "l’interdiction du voile dans la rue et un référendum pour instaurer la préférence nationale. C’est du pur racisme !",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_otan": {
       "valeur": 1,
       "resume": "Position déduite de la profession de foi de sa liste aux européennes de 2024 (« Troupes de l'Otan hors d'Europe et du reste du monde ! ») ; elle ne se prononce pas explicitement sur le commandement intégré.",
       "source": "https://npa-revolutionnaires.org/articles/profession-de-foi-de-la-liste-pour-un-monde-sans-frontieres-ni-patrons-urgence-revolution",
+      "citation": "Troupes de l’Otan hors d’Europe et du reste du monde !",
       "date_source": "2024-05-13",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_defense3": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Dénonce un « record de dépenses militaires » et revendique « pas un euro pour les guerres impérialistes ».",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "La France c’est donc le retour du service militaire, c’est un record de dépenses militaires pour préparer des guerres impérialistes qui ne sont pas les guerres des travailleurs mais des guerres pour les profits […]",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": -2,
       "resume": "Dénonce un gouvernement qui « rackette les chômeurs » et s'oppose aux atteintes à l'assurance chômage.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "Le même qui taxe les malades victimes d’affection longue durée, qui rackette les chômeurs, qui a coupé les budgets des pompiers et de toutes les collectivités, fait un nouveau cadeau aux grands groupes capitalistes.",
       "date_source": "2026-09-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }

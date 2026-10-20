@@ -12,281 +12,361 @@
       "valeur": -2,
       "resume": "Le programme juge « impératif » de porter l'âge légal à 65 ans, avec une pension minimale par répartition et une bascule progressive vers la capitalisation.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+      "citation": "la norme de l’âge légal de 65 ans est un impératif national urgent pour des raisons d’équilibre financier.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_smic": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eco_depenses": {
-      "valeur": 2,
-      "resume": "Le programme prévoit une « réduction drastique des dépenses publiques » pour passer de 55,6 % à moins de 50 % du PIB en dix ans, avec une règle d'or constitutionnelle sur le fonctionnement.",
+      "valeur": -2,
+      "resume": "Le programme veut ramener les dépenses publiques de 55,6 % du PIB (2019) à moins de 50 % en dix ans, en les réduisant de 8 points de PIB, avec une « règle d'or » sur les dépenses de fonctionnement.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+      "citation": "En 2019, avant l’épidémie de Covid, les dépenses publiques représentaient 55,6% du PIB en France contre 47% en moyenne dans la zone euro, soit un écart de 8,6 points. […] il est possible de les réduire de 8 points de PIB en 10 ans et de les maintenir en-deçà de 50%.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": -2,
       "resume": "Qualifie la taxe Zucman d'« illusion dangereuse » et cite l'ancien ISF comme destructeur de capital ; estime que la France souffre d'un excès de dépenses, pas d'un manque de recettes.",
       "source": "https://www.lejdd.fr/politique/david-lisnard-la-taxe-zucman-est-une-illusion-dangereuse-162101",
+      "citation": "Cette taxe est une illusion dangereuse. Plus que le montant fictif, le vrai problème est le principe : en s’attaquant à la propriété, elle coûterait plus qu’elle ne rapporterait. L’ISF en a été la démonstration : chaque euro collecté détruisait davantage de richesse.",
       "date_source": "2025-09-21",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_35h": {
       "valeur": 2,
       "resume": "Veut « laisser les accords d'entreprise libérer le temps de travail », le Code du travail se limitant aux principes généraux, pour augmenter le volume de travail.",
       "source": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-assouplir-les-35-heures/",
+      "citation": "C’est aux accords d’entreprise qu’il confie le soin de libérer le temps de travail et la création de valeur",
       "date_source": "2026-08-29",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 2,
       "resume": "Propose de stopper le démantèlement de réacteurs, de prolonger le parc à 60 ans et d'engager une première série de six EPR (proposition formulée dès 2021 et reprise par son mouvement).",
       "source": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-construire-de-nouveaux-reacteurs-nucleaires/",
+      "citation": "Arrêter le plan de démantèlement, prolonger les réacteurs jusqu’à soixante ans par des investissements de maintenance et de sûreté, engager une première série de six EPR",
       "date_source": "2021-08-01",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": -2,
       "resume": "Cosignataire d'une tribune au Figaro demandant « la fin de tout financement public pour l'éolien et le solaire » et s'opposant aux objectifs de la programmation pluriannuelle de l'énergie.",
       "source": "https://www.unenouvelleenergie.fr/pour-eviter-une-crise-sociale-il-faut-renoncer-a-tout-decret-sur-la-programmation-pluriannuelle-de-lenergie/",
+      "citation": "– La fin de tout financement public pour l’éolien et le solaire, qui n’apportent à notre réseau qu’une intermittence coûteuse à gérer.",
       "date_source": "2025-08-13",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": -1,
-      "resume": "Le programme veut remplacer le principe de précaution par un principe de responsabilité, mettre fin aux surtranspositions et supprimer les normes agricoles redondantes, tout en rémunérant les services environnementaux.",
+      "resume": "Le programme veut en finir avec les surtranspositions françaises, aligner la réglementation sur le marché commun et supprimer les normes agricoles redondantes, tout en rémunérant les services environnementaux.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+      "citation": "Nous proposons d’en finir avec les surtranspositions françaises, l’alignement réglementaire avec le marché commun, et la mise en œuvre de clauses miroirs obligatoires pour les produits importés.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_peines": {
       "valeur": 2,
       "resume": "Le programme prévoit de rétablir les peines planchers pour les récidivistes et une sanction, même courte, dès la première infraction.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+      "citation": "rétablir les peines planchers pour les récidivistes, appliquer systématiquement une sanction, même courte, dès la première infraction",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_prisons": {
       "valeur": 2,
       "resume": "A promis lors d'un meeting de construire « enfin les vingt mille places de prison ».",
       "source": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-construire-des-places-de-prison/",
+      "citation": "Nous construirons enfin les vingt mille places de prison",
       "date_source": "2026-07-03",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": 0,
       "resume": "Dit se demander certains jours « s'il ne faut pas sortir de la prohibition sur certaines drogues », cite les dérives de San Francisco, juge que la répression peut fonctionner avec des moyens et conclut : « Je n'ai pas de réponse définitive ».",
       "source": "https://www.unenouvelleenergie.fr/david-lisnard-lentretien-a-technikart/",
+      "citation": "Il y a des jours où je me demande s’il ne faut pas sortir de la prohibition sur certaines drogues pour casser une partie des trafics. […] Je n’ai pas de réponse définitive.",
       "date_source": "2026-07",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_baisse": {
       "valeur": 2,
       "resume": "Le programme prévoit de diviser par huit la délivrance de titres de séjour, des quotas de main-d'œuvre qualifiée et un regroupement familial conditionné à des critères de revenus et d'intégration.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "citation": "Diviser par huit la délivrance de titres de séjour Fixer des quotas de main-d’œuvre qualifiée et conditionner le regroupement familial à des critères de ressources et des tests d’intégration",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_ame": {
       "valeur": 2,
       "resume": "Le programme prévoit de supprimer l'AME et de la remplacer par une aide d'urgence.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "citation": "Supprimer l’Aide Médicale d’État (AME) et la remplacer par une aide d’urgence : 700 millions d’euros d’économies",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": -2,
       "resume": "Le programme prévoit de « supprimer toute possibilité d'être régularisé après être entré clandestinement sur le territoire ».",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+      "citation": "supprimer toute possibilité d’être régularisé après être entré clandestinement sur le territoire.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_integration": {
       "valeur": -1,
-      "resume": "Rejette le fédéralisme et juge « oxymore » la souveraineté européenne ; propose un traité de « démocratisation » réduisant les pouvoirs de la Commission, de la CJUE et de la BCE, et des coopérations volontaires par projets.",
+      "resume": "Rejette à la fois le fédéralisme et le repli national ; propose un « Traité de démocratisation de l'Europe » revoyant les compétences de la Commission, de la CJUE et de la BCE.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+      "citation": "Ni le fédéralisme ni le repli vers des États-Nations isolés ne sont des solutions. […] La négociation d’un Traité de démocratisation de l’Europe permettra de revoir la répartition des compétences",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": 1,
-      "resume": "Veut inscrire dans la Constitution la primauté nationale en matière migratoire (décisions CJUE/CEDH contraires inapplicables), un opt-out à la danoise et, en dernier recours, une sortie de la CEDH, tout en excluant de quitter l'UE.",
+      "resume": "Veut inscrire dans la Constitution la primauté du droit national en matière migratoire pour rendre inapplicables les décisions contraires de la CJUE et de la CEDH, et sortir de la CEDH en dernier recours ; aucune sortie de l'UE n'est proposée.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "citation": "Inscrire la primauté du droit national en matière migratoire dans la Constitution afin de rendre inapplicables les décisions de la CJUE et de la CEDH contraires à l’intérêt national Sortir de la CEDH en dernier recours",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": 2,
       "resume": "Soutient l'Ukraine face à l'invasion russe, juge que l'intérêt de la France est que la Russie ne gagne pas, et veut que des armes soient produites et livrées.",
       "source": "https://www.unenouvelleenergie.fr/questions/quelle-est-la-position-de-david-lisnard-sur-la-guerre-en-ukraine/",
+      "citation": "Il défend le droit du peuple ukrainien à disposer de lui-même et demande de produire et de livrer des armes […] Parce que, dit David Lisnard, « l'intérêt de la France c'est que la Russie ne gagne pas cette guerre ».",
       "date_source": "2025-03-05",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_medecins": {
-      "valeur": 0,
-      "resume": "Le programme privilégie des incitations (remboursement différencié selon les zones, maisons de santé par canton, doublement des étudiants en médecine) et une régulation de l'offre par des communautés médicales locales, sans obligation d'installation explicite.",
+      "valeur": 1,
+      "resume": "Le programme écarte la contrainte et défend la « liberté d'installer » ; il privilégie des incitations (remboursement mieux pris en charge dans les zones sous-dotées, maisons de santé par canton) et une régulation de l'offre par des communautés médicales locales.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+      "citation": "Mais cela ne passe ni par la contrainte, ni par les injonctions administratives. Cela passe par l’incitation, la liberté contractuelle, l’efficacité territoriale.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_findevie": {
       "valeur": -1,
       "resume": "S'est opposé à une loi sur l'euthanasie, qu'il qualifie de « basculement anthropologique majeur », et défend la loi Claeys-Leonetti et les soins palliatifs ; aucune déclaration trouvée sur une abrogation de la loi adoptée en 2026.",
       "source": "https://fr.aleteia.org/2025/01/18/david-lisnard-se-confie-sans-detour-sur-sa-foi/",
+      "citation": "l’homme politique confie encore pourquoi il est opposé à une loi sur euthanasie qui serait \"un basculement anthropologique majeur\".",
       "date_source": "2025-01-18",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_rsa": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_prive": {
       "valeur": -2,
       "resume": "Le programme propose un chèque-éducation, soit une subvention publique équivalente quelle que soit l'école choisie par la famille, et la suppression de la carte scolaire.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+      "citation": "l’instauration progressive d’un chèque-éducation : un financement public équivalent, que la famille choisisse l’enseignement public ou privé.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_autorite": {
       "valeur": 1,
       "resume": "Le programme veut « rétablir l'autorité du professeur », permettre aux chefs d'établissement de refuser les élèves perturbateurs et créer des classes d'excellence ; l'uniforme n'est pas mentionné.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+      "citation": "Contre quarante ans de pédagogisme inefficace, nous rétablirons l’autorité du professeur, le primat du cours sur l’animation, et la logique de progression sur celle du ressenti.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_ric": {
       "valeur": 2,
       "resume": "Propose un « véritable référendum d'initiative populaire » sur le modèle suisse.",
       "source": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-des-referendums/",
+      "citation": "mettre en place « un véritable référendum d'initiative populaire », en invitant à ne pas avoir peur de ce que font les Suisses",
       "date_source": "2026-08-29",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_6e": {
       "valeur": 0,
       "resume": "Ne propose pas de VIe République mais un « fonctionnement rénové » de la Ve : critique l'« hyperprésidentialisme jupitérien », veut recentrer le Président sur trois fonctions et renforcer le Parlement (article 24).",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+      "citation": "A l’opposé de l’ « hyperprésidentialisme jupitérien », le rôle du Président de la République doit être recentré sur son statut constitutionnel autour de trois grandes fonctions",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme veut abaisser la majorité pénale à 16 ans, inverser l'excuse de minorité dès 13 ans et étendre la comparution immédiate dès 13 ans pour les cas graves.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+      "citation": "Nous voulons abaisser la majorité pénale à 16 ans, inverser le principe de l’excuse de minorité dès 13 ans",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": 1,
       "resume": "Le programme veut « moderniser les outils (vidéoprotection, radios numériques, IA de prévention) » sans mentionner la reconnaissance faciale.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+      "citation": "moderniser les outils (vidéoprotection, radios numériques, IA de prévention",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": 1,
       "resume": "Le programme prévoit de « mettre fin à l'automaticité du droit du sol », sans le supprimer.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "citation": "Mettre fin à l’automaticité du droit du sol",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_preference": {
       "valeur": 1,
       "resume": "Le programme conditionne les prestations sociales non contributives des étrangers en situation régulière à cinq ans de résidence, sans réserver de prestations aux Français ; le logement social n'est pas évoqué.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "citation": "Conditionner les prestations sociales non contributives aux étrangers résidant régulièrement sur le territoire national depuis au moins cinq ans",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_otan": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_defense3": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose de porter le budget de la défense à 3,5 % du PIB (entretien au Diplomate).",
       "source": "https://lediplomate.media/david-lisnard-souverainete-europeenne/",
+      "citation": "Si la France veut peser dans les discussions à venir, elle doit d’abord se donner les moyens de sa puissance, en portant son budget de la défense à 3,5 % du PIB",
       "date_source": "2025-03-22",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": 1,
       "resume": "Le programme prévoit le « développement massif de l'apprentissage » et indique que « la limite d'âge pour l'apprentissage sera revue à la baisse », sans préciser d'âge.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+      "citation": "Enfin, la limite d’âge pour l’apprentissage sera revue à la baisse.",
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }

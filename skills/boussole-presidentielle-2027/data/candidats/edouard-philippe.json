@@ -12,281 +12,361 @@
       "valeur": -2,
       "resume": "Propose de porter l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, avec maintien des départs anticipés et une part de capitalisation collective.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "citation": "Sauver nos retraites sans hausse des cotisations ni baisse générale des pensions : porter progressivement l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, pour ceux qui le peuvent.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_smic": {
       "valeur": -1,
-      "resume": "Ne propose pas de hausse du SMIC ; privilégie l'exonération de cotisations et d'impôt des heures supplémentaires et un financement de la protection sociale moins assis sur le travail pour augmenter le net.",
-      "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
-      "date_source": "2026-10",
-      "confiance": "programme"
+      "resume": "Alors Premier ministre (novembre 2018), a exclu tout coup de pouce au SMIC au-delà de la revalorisation légale, préférant « faire en sorte que le travail paye » ; son programme 2026 ne prévoit pas de hausse du SMIC et mise sur l'exonération des heures supplémentaires.",
+      "source": "https://www.publicsenat.fr/actualites/non-classe/smic-revalorisation-legale-au-1er-janvier-mais-pas-de-coup-de-pouce-135932",
+      "citation": "\"Notre politique, c'est pas de faire des coups de pouce au Smic, notre politique c'est de faire en sorte que le travail paye (...) Il y aura une revalorisation, la revalorisation légale (...) Il n'y aura pas de coup de pouce supplémentaire\"",
+      "date_source": "2018-11-28",
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_depenses": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Veut ramener le déficit à 2 % du PIB en fin de quinquennat, avec 50 % de l'effort sur les dépenses sociales, le non-remplacement d'un départ à la retraite sur trois dans la fonction publique et un moratoire sur les nouveaux impôts.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "citation": "Mettre en place une stratégie de sauvetage des dépenses publiques avec 50 % de l'effort sur les dépenses sociales et un quart sur l'État et les collectivités et un quart grâce à la croissance.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": -2,
       "resume": "Propose un moratoire sur tout nouvel impôt pendant le quinquennat et ne prévoit pas de taxation accrue des hauts patrimoines ; le groupe Horizons a voté contre la taxe Zucman le 31 octobre 2025.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "citation": "Sceller un moratoire normatif et fiscal : pas de nouvelle norme et de nouvel impôt sur le quinquennat.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_35h": {
       "valeur": 2,
       "resume": "Propose que les entreprises fixent librement le temps de travail pour sortir des 35 heures, avec zéro cotisation patronale au-delà de la 37e heure.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "citation": "Permettre aux entreprises de fixer librement le temps de travail pour sortir des 35h, de la manière la plus adaptée à leur activité, avec zéro cotisation patronale au-delà de la 37ème heure.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 2,
       "resume": "Propose de lancer 8 EPR supplémentaires en plus des 6 déjà prévus.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "citation": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 1,
       "resume": "Prévoit de développer les renouvelables et d'électrifier massivement les usages, en complément du nucléaire, sans objectif chiffré pour l'éolien ou le solaire.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "citation": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": -2,
       "resume": "Propose un moratoire normatif (aucune nouvelle norme pendant le quinquennat) et zéro surtransposition des règles européennes dans l'agriculture.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "citation": "Sceller un moratoire normatif et fiscal : pas de nouvelle norme et de nouvel impôt sur le quinquennat.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_peines": {
       "valeur": 2,
       "resume": "Propose des peines planchers pour les infractions les plus graves, des peines courtes et dissuasives dès la première infraction et la suppression du juge d'application des peines.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "citation": "Mettre en place des peines planchers pour les infractions les plus graves, en particulier lorsqu'elles portent atteinte à l'intégrité physique des personnes dépositaires de l'autorité publique et des professeurs.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_prisons": {
       "valeur": 1,
       "resume": "A déploré que la France n'arrive pas à construire suffisamment de places de prison et plaide pour l'incarcération immédiate dans des établissements pour courtes peines ; aucun objectif chiffré trouvé dans une source primaire.",
       "source": "https://www.europe1.fr/politique/justice-peines-planchers-suppression-du-juge-dapplication-des-peines-edouard-philippe-formule-des-propositions-en-meeting-a-marseille-752761",
+      "citation": "\"[…] Comme nous n’arrivons pas à construire suffisamment de places de prisons (...) et comme nous savons qu’être détenu dans des conditions indignes alimente la récidive, les juges prononcent des peines toujours plus sévères mais de moins en moins exécutées\"",
       "date_source": "2025-05-17",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": null,
       "resume": "Aucune position récente trouvée sur la légalisation du cannabis récréatif ; ses déclarations de 2019 portaient uniquement sur le cannabis thérapeutique.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_baisse": {
       "valeur": 2,
       "resume": "Veut diviser par deux l'immigration (moins de 200 000 titres de séjour par an), instaurer des quotas votés par le Parlement et suspendre le regroupement familial pendant le quinquennat.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "citation": "Suspendre le regroupement familial pour la durée du quinquennat.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_ame": {
       "valeur": 2,
       "resume": "Selon un compte rendu de ses propositions (entretien au Figaro, mars 2026), propose de transformer l'AME en une « Aide Médicale d'Urgence (AMU) très resserrée » ; la mesure ne figure pas sur la page « priorités » de son site.",
       "source": "https://www.planet.fr/politique-edouard-philippe-presente-ses-propositions-sur-limmigration-pour-2027.2995952.29334.html",
+      "citation": "Du côté de la santé publique, le plan intègre la transformation de l'Aide Médicale d'État (AME) en une Aide Médicale d'Urgence (AMU) très resserrée.",
       "date_source": "2026-03-31",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": -1,
       "resume": "Propose un « verrou Schengen » empêchant toute régularisation massive sans accord européen préalable ; ne propose pas de faciliter les régularisations par le travail.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "citation": "Instaurer un « verrou Schengen » : aucun État européen ne doit pouvoir engager seul une régularisation massive au-delà d'un seuil défini collectivement, sans accord préalable de ses partenaires.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_integration": {
       "valeur": 1,
       "resume": "Défend l'achèvement du marché unique, une union des marchés de capitaux, des achats technologiques communs et une IA européenne souveraine ; aucune proposition trouvée sur un emprunt commun ou l'extension du vote à la majorité.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "citation": "Construire une union européenne des marchés de capitaux pour financer l’innovation et la prospérité européenne.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_primaute": {
-      "valeur": 0,
-      "resume": "Opposé à une sortie de l'UE, mais propose de faire accepter une « réserve d'interprétation » de l'article 8 de la CEDH, au besoin par une révision constitutionnelle, pour limiter le regroupement familial.",
+      "valeur": 1,
+      "resume": "Pour limiter le regroupement familial, veut « faire accepter une réserve d'interprétation » de l'article 8 de la CEDH et envisage de modifier la Constitution pour l'imposer ; ne propose pas de sortir des traités.",
       "source": "https://www.lagazettefrance.fr/article/l-immigration-est-necessaire-mais-doit-etre-controlee-dit-edouard-philippe",
+      "citation": "\"On peut aussi modifier la Constitution pour dire: voilà comment on interprète l'article 8, on a une interprétation différente et on l'assume\", ajoute-t-il, sans plus de détails.",
       "date_source": "2026-03-31",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": 2,
       "resume": "Lors d'un déplacement à Kiev, a dit vouloir rester aux côtés de l'Ukraine, s'est prononcé pour l'envoi de troupes européennes après un accord de paix et pour l'adhésion de l'Ukraine à l'OTAN.",
       "source": "https://fr.euronews.com/2026/05/26/edouard-philippe-a-rencontre-volodymyr-zelensky-a-kyiv",
+      "citation": "Édouard Philippe s’est notamment prononcé en faveur du déploiement de troupes européennes en Ukraine une fois la paix revenue, afin de dissuader la Russie de toute nouvelle attaque.",
       "date_source": "2026-05-26",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite d'une déclaration de 2017, comme Premier ministre : a écarté toute répartition « presque forcée, administrative » des médecins au profit d'incitations (« Il faut séduire les médecins ») ; aucune déclaration récente trouvée.",
       "source": "https://www.publicsenat.fr/actualites/politique/edouard-philippe-presente-son-plan-contre-les-deserts-medicaux-78562",
+      "citation": "Pas de mesures coercitives pour inciter les médecins à s’installer dans les déserts médicaux car « la répartition presque forcée, administrative sur le territoire » peut, selon lui, toujours être contournée.",
       "date_source": "2017-10-13",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "soc_findevie": {
       "valeur": 0,
       "resume": "En janvier 2025, a dit avoir la « conviction intime » qu'aider quelqu'un à mourir « peut être normal et peut être sain » tout en jugant son inscription dans la loi « redoutablement complexe » ; aucune déclaration trouvée sur le maintien ou l'abrogation de la loi adoptée en 2026.",
       "source": "https://actu.orange.fr/politique/fin-de-vie-edouard-philippe-se-confie-sur-son-parcours-personnel-sans-etre-pour-une-inscription-dans-la-loi-magic-CNT000002hd3Ip.html",
+      "citation": "\"Autant j’ai une conviction intime sur le fait qu’il peut y avoir et il peut être normal et il peut être sain d’aider à mourir quelqu’un, autant je trouve que l’inscrire dans la loi pose des problèmes qui sont redoutablement complexes et qu’il faut entendre\"",
       "date_source": "2025-01-27",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_rsa": {
       "valeur": 1,
       "resume": "Alors Premier ministre, a dit vouloir ouvrir le débat sur des contreparties aux minima sociaux (activités d'intérêt général) ; position ancienne, aucune déclaration récente trouvée.",
       "source": "https://www.banquedesterritoires.fr/edouard-philippe-relance-la-question-des-contreparties-aux-mecanismes-de-solidarite",
+      "citation": "\"C'est indispensable d'avoir des mécanismes de solidarité pour ceux qui sont dans la difficulté, il ne s'agit pas de revenir en arrière, il s'agit de s'interroger sur 'est-ce que cette solidarité, elle peut s'accompagner de contreparties, d'activités, d'activités d'intérêt général ?'\"",
       "date_source": "2019-02",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le financement public de l'enseignement privé sous contrat.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_autorite": {
       "valeur": 2,
       "resume": "Propose de faire des chefs d'établissement les « patrons » de l'école, libres d'imposer l'uniforme et de fixer la discipline, une amende de responsabilisation pour les parents et l'interdiction des téléphones au primaire et au collège.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "citation": "Faire des chefs d'établissements les véritables patrons de l'école : liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline, de participer au recrutement et à l’évaluation de leur équipe.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": -2,
       "resume": "S'est déclaré défavorable à la proportionnelle aux législatives, qui selon lui perpétuerait l'absence de majorité et distendrait le lien entre électeurs et députés.",
       "source": "https://www.france24.com/fr/info-en-continu/20250522-edouard-philippe-d%C3%A9favorable-%C3%A0-la-proportionnelle-qui-conduirait-%C3%A0-une-absence-de-majorit%C3%A9",
+      "citation": "« Le scrutin proportionnel a plus de chance de perpétuer ce que nous voyons aujourd'hui, c'est-à-dire une absence de majorité »",
       "date_source": "2025-05-22",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_ric": {
       "valeur": -2,
       "resume": "Alors Premier ministre, a déclaré que le RIC le « hérisse » ; aucune déclaration plus récente trouvée.",
       "source": "https://www.franceinfo.fr/politique/grand-debat-national/video-le-ric-me-herisse-edouard-philippe-dit-son-opposition-au-referendum-d-initiative-citoyenne-lors-d-un-debat-dans-les-yvelines_3161975.html",
+      "citation": "\"Si je voulais le dire en une formule, je dirais : le RIC me hérisse.\"",
       "date_source": "2019-01-25",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_6e": {
       "valeur": null,
       "resume": "Aucune position récente vérifiable trouvée sur le passage à une VIe République ou la réduction des pouvoirs présidentiels.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position trouvée sur l'interdiction des ventes de voitures thermiques neuves en 2035 ; son site propose seulement d'étendre les aides à l'achat aux véhicules électriques d'occasion.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la taxation du transport aérien.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Propose de lever l'excuse de minorité et de créer la comparution immédiate des mineurs, uniquement pour les faits liés au narcotrafic.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "citation": "Lever l'excuse de minorité pour les faits en lien avec le narcotrafic et créer la comparution immédiate des mineurs pour ces infractions.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": 0,
       "resume": "Propose « l'utilisation ciblée de la reconnaissance faciale » dans le cadre d'un « état d'urgence narco », sans proposer de généralisation de la vidéosurveillance algorithmique.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "citation": "Créer un « état d'urgence narco » avec des moyens juridiques d'exception limités dans le temps et dans l'espace, allant jusqu'à l'utilisation ciblée de la reconnaissance faciale.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": 1,
       "resume": "Propose de suspendre le droit du sol à Mayotte ; aucune proposition trouvée de le restreindre sur le reste du territoire.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "citation": "Suspendre le droit du sol à Mayotte.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_preference": {
       "valeur": 0,
       "resume": "Propose d'aligner les aides sociales versées aux étrangers sur la moyenne européenne et, selon un compte rendu de mars 2026, d'allonger la durée de résidence exigée pour les prestations non contributives ; ne propose pas de priorité fondée sur la nationalité.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "citation": "Aligner les aides sociales versées aux étrangers sur la moyenne européenne, pour qu'ils choisissent la France pour y travailler et s'y intégrer, pas pour ses aides.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_otan": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le commandement intégré de l'OTAN.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_defense3": {
       "valeur": null,
       "resume": "Aucun objectif chiffré de budget de la défense trouvé dans ses propositions de campagne.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position trouvée sur un remboursement à 100 % par la Sécurité sociale ; son programme vise à « stabiliser les dépenses de santé ».",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": 2,
       "resume": "Propose de réduire à 12 mois maximum la durée d'indemnisation chômage pour les moins de 50 ans, contre 18 mois aujourd'hui.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "citation": "Réduire à 12 mois maximum la durée d'indemnisation chômage pour les moins de 50 ans, contre 18 mois aujourd'hui, sur le modèle allemand.",
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_signes": {
       "valeur": -1,
       "resume": "Alors Premier ministre (octobre 2019), a estimé qu'il ne fallait pas légiférer pour interdire le voile aux accompagnatrices de sorties scolaires, le droit existant permettant d'agir contre le prosélytisme ; aucune déclaration plus récente trouvée.",
       "source": "https://www.maire-info.com/laicite/port-du-voile-par-les-accompagnatrices-des-sorties-scolaires-le-premier-ministre-oppose-%C3%A0-une-loi-article-23495",
+      "citation": "« Tel est l’état du droit. Je ne pense pas que l’enjeu soit aujourd’hui de voter une loi sur les accompagnants scolaires », a conclu sans ambiguïté le Premier ministre",
       "date_source": "2019-10",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Aucune position trouvée sur une allocation d'autonomie étudiante.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position trouvée sur l'entrée en apprentissage dès 14 ans.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": 1,
       "resume": "Alors Premier ministre, a présenté en avril 2018 une réforme institutionnelle réduisant d'environ un tiers le nombre de députés et de sénateurs (ramené ensuite à 25 %) ; aucune déclaration plus récente trouvée.",
       "source": "https://www.info.gouv.fr/upload/media/default/0001/01/2018_04_discours_de_m._edouard_philippe_premier_ministre_-_reforme_des_institutions_-_mercredi_4_avril_2018.pdf",
+      "citation": "les projets de lois organiques et ordinaires prévoient quant à eux […] une réduction de 30% du nombre de députés et de sénateurs dans des conditions qui garantissent la représentation de tous les départements et territoires",
       "date_source": "2018-04-04",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la reconnaissance du vote blanc.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }

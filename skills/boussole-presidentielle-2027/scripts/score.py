@@ -15,11 +15,22 @@ Format des réponses :
 }
 
 Une réponse null (ou absente) signifie que l'utilisateur a passé la question : elle ne compte pas.
-Pour chaque question où l'utilisateur ET le candidat ont une position, l'accord vaut
-1 - |écart| / 4 (1 = identique, 0 = opposé). Le score est la moyenne pondérée par l'importance
-du thème multipliée par la confiance dans la position du candidat (POIDS_CONFIANCE). La couverture
-indique sur combien de questions répondues le candidat a une position connue : un score sur peu de
-questions est peu fiable, il est donc classé à part.
+Pour chaque question où l'utilisateur ET le candidat ont une position, l'accord brut vaut
+1 - |écart| / 4 (1 = identique, 0 = opposé). Il est ensuite corrigé du hasard, comme un kappa de
+Cohen : (accord - accord_hasard) / (1 - accord_hasard), où accord_hasard est l'accord moyen avec une
+réponse tirée au hasard (0,7 pour une position à 0, 0,65 à ±1, 0,5 à ±2). Sans cette correction, une
+position nuancée est mécaniquement plus proche de n'importe quelle réponse qu'une position tranchée.
+L'accord corrigé vaut 1 pour une réponse identique, 0 pour un accord égal au hasard, moins de 0 en
+dessous.
+
+Le score est la moyenne de ces accords, pondérée par l'importance du thème multipliée par la
+confiance dans la position du candidat (POIDS_CONFIANCE). Chaque question répondue sur laquelle le
+candidat n'a pas de position connue compte comme un accord égal au hasard (0), avec le poids
+POIDS_INCONNUE × importance × confiance moyenne des positions connues du candidat : le score d'un candidat peu renseigné est ainsi rapproché de 50 %, ce
+qui évite qu'il sorte en tête sur la foi de quelques questions. Le résultat est affiché de 0 à 100 :
+50 + 50 × moyenne (50 % = pas plus proche que le hasard, 100 % = mêmes réponses partout). La
+couverture indique sur combien de questions répondues le candidat a une position connue : sous
+COUVERTURE_MIN, le score est classé à part.
 
 La marge d'incertitude vient d'un rééchantillonnage (bootstrap) : on retire TIRAGES fois, avec remise,
 autant de questions qu'il y a de réponses, on recalcule chaque score, et la marge est la moitié de
@@ -34,6 +45,12 @@ from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 COUVERTURE_MIN = 0.5
+
+# Poids d'une question répondue dont la position du candidat est inconnue (en part de l'importance du
+# thème). √2 - 1 rend la dispersion du score, face à des réponses au hasard, identique à 50 % et à
+# 100 % de couverture (et à 2 % près entre les deux) : un candidat peu renseigné n'a alors ni plus ni
+# moins de chances qu'un autre de sortir premier par hasard (voir le README, section Méthode).
+POIDS_INCONNUE = 2 ** 0.5 - 1
 
 # Poids d'une position selon sa confiance (champ "confiance" des fiches). Il multiplie l'importance du
 # thème : une position écrite dans le programme 2027 compte pleinement, une déclaration un peu moins
@@ -50,6 +67,22 @@ POIDS_CONFIANCE = {
 TIRAGES = 1000
 NIVEAU = 0.90
 GRAINE = 2027
+
+
+def accord_hasard(v):
+    """Accord brut moyen entre la position v et une réponse tirée uniformément de -2 à 2."""
+    return sum(1 - abs(u - v) / 4 for u in range(-2, 3)) / 5
+
+
+def accord_corrige(u, v):
+    """Accord corrigé du hasard : 1 = identique, 0 = comme le hasard, négatif = plus éloigné."""
+    e = accord_hasard(v)
+    return (1 - abs(u - v) / 4 - e) / (1 - e)
+
+
+def pourcentage(moyenne):
+    """Moyenne d'accords corrigés (de -1,14 à 1) → score affiché de 0 à 100, 50 = hasard."""
+    return min(100.0, max(0.0, 50 + 50 * moyenne))
 
 
 def charger():
@@ -75,8 +108,8 @@ def quantile(valeurs_triees, p):
 def marge_bootstrap(contributions, tirages, graine):
     """Demi-largeur de l'intervalle à NIVEAU des scores rééchantillonnés, en points.
 
-    contributions : une entrée par question répondue, (poids × accord, poids) ou None si le candidat
-    n'a pas de position. Les tirages où le candidat n'a aucune position sont ignorés.
+    contributions : une entrée par question répondue, (poids × accord corrigé, poids) ; une question
+    sans position connue contribue (0, poids de l'inconnue).
     """
     n = len(contributions)
     rng = random.Random(graine)
@@ -85,11 +118,10 @@ def marge_bootstrap(contributions, tirages, graine):
         p = w = 0.0
         for _ in range(n):
             c = contributions[rng.randrange(n)]
-            if c is not None:
-                p += c[0]
-                w += c[1]
+            p += c[0]
+            w += c[1]
         if w:
-            scores.append(100 * p / w)
+            scores.append(pourcentage(p / w))
     if not scores:
         return None
     scores.sort()
@@ -108,6 +140,8 @@ def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
     resultats = []
     for c in candidats:
         total_p = total_w = 0.0
+        poids_connus = []    # poids de confiance des positions connues
+        sans_position = []   # (rang dans contributions, importance du thème)
         par_theme = {}
         accords, desaccords = [], []
         par_confiance = {k: 0 for k in POIDS_CONFIANCE}
@@ -117,14 +151,16 @@ def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
             u = reponses[qid]
             pos = c.get("positions", {}).get(qid) or {}
             v = pos.get("valeur")
+            theme = theme_de[qid]
             if v is None:
+                sans_position.append((len(contributions), float(importance.get(theme, 1))))
                 contributions.append(None)
                 continue
-            theme = theme_de[qid]
             confiance = pos.get("confiance") if pos.get("confiance") in POIDS_CONFIANCE else "deduite"
             par_confiance[confiance] += 1
+            poids_connus.append(POIDS_CONFIANCE[confiance])
             w = float(importance.get(theme, 1)) * POIDS_CONFIANCE[confiance]
-            accord = 1 - abs(u - v) / 4
+            accord = accord_corrige(u, v)
             contributions.append((w * accord, w))
             total_p += w * accord
             total_w += w
@@ -135,6 +171,14 @@ def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
                 accords.append(qid)
             elif abs(u - v) >= 3:
                 desaccords.append(qid)
+        # Une question sans position pèse POIDS_INCONNUE × importance × confiance moyenne des positions
+        # connues du candidat : le rétrécissement vers 50 % ne dépend pas de la confiance de ses positions.
+        confiance_moyenne = sum(poids_connus) / len(poids_connus) if poids_connus else 0.0
+        total_w_inconnues = 0.0
+        for i, imp in sans_position:
+            w = imp * POIDS_INCONNUE * confiance_moyenne
+            contributions[i] = (0.0, w)
+            total_w_inconnues += w
         couvertes = sum(1 for qid in reponses if (c.get("positions", {}).get(qid) or {}).get("valeur") is not None)
         themes_repondus = {theme_de[qid] for qid in reponses}
         prioritaires_sans_donnee = sorted(
@@ -145,10 +189,10 @@ def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
             "nom": c["nom"],
             "parti": c.get("parti"),
             "statut": c.get("statut"),
-            "score": round(100 * total_p / total_w) if total_w else None,
+            "score": round(pourcentage(total_p / (total_w + total_w_inconnues))) if total_w else None,
             "marge": marge_bootstrap(contributions, tirages, graine) if total_w else None,
             "couverture": round(couvertes / len(reponses), 2) if reponses else 0,
-            "par_theme": {t: round(100 * s / n) for t, (s, n) in par_theme.items()},
+            "par_theme": {t: round(pourcentage(s / n)) for t, (s, n) in par_theme.items()},
             "par_confiance": par_confiance,
             "accords": accords,
             "desaccords": desaccords,

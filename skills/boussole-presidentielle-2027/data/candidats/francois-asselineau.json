@@ -12,281 +12,361 @@
       "valeur": null,
       "resume": "Le programme 2022 promettait de « mettre fin au processus de réforme – par le bas – des retraites » sans fixer d'âge légal ; pas de position récente trouvée sur l'âge de départ.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eco_smic": {
       "valeur": 2,
       "resume": "Position déduite du programme 2022 de l'UPR : augmenter le SMIC brut de 24 % sur le quinquennat.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous augmenterons le SMIC brut de +24% sur le quinquennat (soit une moyenne de +4,4% par an cumulés sur 5 ans)",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du programme 2022 : plan de 27 milliards d'euros d'économies par an (contribution à l'UE, régions, CICE des grandes entreprises…) avant d'« envisager une baisse de la fiscalité », combiné à de nouvelles tranches d'impôt pour les très hauts revenus ; en 2026 il propose aussi la suppression des régions.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous réaliserons le plus grand plan d’économies budgétaires des 50 dernières années, sans dégrader la qualité des services publics. […] Et, dans un second temps, d’envisager une baisse de la fiscalité.",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : deux nouvelles tranches d'impôt sur le revenu au-delà de 250 000 et 500 000 euros et un « impôt exceptionnel de solidarité » sur les très grandes fortunes enrichies pendant la crise du Covid, sans rétablissement de l'ISF.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "À la création de deux nouvelles tranches d’imposition pour les très hauts revenus (supérieurs à 250 000 € et 500 000 € par an), ainsi que d’un impôt exceptionnel de solidarité pour les quelques dizaines de très grandes fortunes s’étant accrues pendant la crise de la Covid-19.",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eco_35h": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 2,
       "resume": "Position déduite de sa réponse de candidat au Shift Project (février 2022) : « lancer la construction de dix nouvelles centrales » nucléaires et mettre fin au « démembrement de la filière nucléaire française ».",
       "source": "https://theshiftproject.org/app/uploads/2025/02/Reponse-de-Francois-ASSELINEAU-a-The-Shift-Project.pdf",
+      "citation": "je prévois de développer la filière nucléaire française en lançant la construction de dix nouvelles centrales qui seront des exemples en matière de limitation des déchets produits et qui contribueront à renouveler notre parc.",
       "date_source": "2022-02-05",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": -1,
       "resume": "Position déduite de sa réponse de candidat au Shift Project (février 2022) : bilan complet de l'éolien et, « dans l'attente, un moratoire » sur l'installation d'éoliennes ; pas de mesure sur le solaire.",
       "source": "https://theshiftproject.org/app/uploads/2025/02/Reponse-de-Francois-ASSELINEAU-a-The-Shift-Project.pdf",
+      "citation": "De la même façon, nous établirons un bilan complet, sans tabou ni complaisance, de l’énergie produite par éolienne […]. Dans l’attente, un moratoire sera imposé sur leur installation.",
       "date_source": "2022-02-05",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": null,
       "resume": "Le programme 2022 prévoit un « choc de simplification des normes » européennes pour la compétitivité, sans position spécifique sur les normes environnementales.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_peines": {
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : rétablir des peines planchers pour les récidivistes d'infractions violentes, avec des planchers croissant à chaque récidive.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous rétablirons des peines planchers pour les auteurs récidivistes de ces mêmes infractions, avec des planchers augmentant à chaque nouvelle récidive",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_prisons": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_baisse": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : « coup d'arrêt à l'immigration subie », sortie de Schengen et référendum sur la politique de regroupement familial et le droit du sol.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous ferons respecter nos frontières dès la première année du quinquennat, en donnant un coup d’arrêt à l’immigration subie. […] nous nous retirerons de l’Espace Schengen et établirons des contrôles à toutes les frontières",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_integration": {
       "valeur": -2,
       "resume": "Il s'engage à activer l'article 50 du traité sur l'UE dès la première semaine de son mandat pour sortir de l'Union européenne et de l'euro.",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "citation": "Activation de l’article 50 (Frexit) : dès la première semaine de son mandat, il s’engage à notifier l’activation de l’article 50 du Traité sur l’Union européenne afin d’engager une procédure de sortie sous deux ans.",
       "date_source": "2026-09-30",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": 2,
       "resume": "Il prône le Frexit par activation de l'article 50 sans référendum préalable, son élection valant mandat selon lui.",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "citation": "dès la première semaine de son mandat, il s’engage à notifier l’activation de l’article 50 du Traité sur l’Union européenne afin d’engager une procédure de sortie sous deux ans. Il refuse l’idée d’un référendum préalable sur le sujet, estimant que son élection vaudra mandat.",
       "date_source": "2026-09-30",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": -2,
       "resume": "Il annonce l'arrêt immédiat de toute aide financière et militaire à l'Ukraine dès sa prise de fonction.",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "citation": "Guerre en Ukraine : arrêt immédiat de tout versement d’aides financières et militaires à l’Ukraine dès sa prise de fonction.",
       "date_source": "2026-09-30",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_medecins": {
       "valeur": null,
       "resume": "Le programme 2022 proposait une majoration de 20 % des actes des médecins dans les déserts médicaux (incitation), sans position sur la régulation de l'installation.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_findevie": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_rsa": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_autorite": {
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : « grand retour de la discipline », sanctions immédiates pour toute agression contre les enseignants, notation et classement, port de vêtements neutres favorisé.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous veillerons au grand retour de la discipline et du respect des enseignants. La moindre agression, ne fût-elle que verbale, fera l’objet de sanctions immédiates, voire de poursuites judiciaires. Le port de vêtements neutres pour les élèves sera favorisé",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : introduire « un système de proportionnelle partielle » aux élections législatives.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Introduire un système de proportionnelle partielle aux élections législatives",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ins_ric": {
       "valeur": 2,
       "resume": "Il propose l'instauration du référendum d'initiative citoyenne (RIC).",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "citation": "Démocratie directe et liberté d’expression : instauration du Référendum d’Initiative Citoyenne (RIC).",
       "date_source": "2026-09-30",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_6e": {
       "valeur": -1,
       "resume": "Position déduite du programme 2022 : réformer la Constitution de la Ve République (RIC, révision uniquement par référendum, Cour constitutionnelle) tout en rétablissant le septennat présidentiel, sans proposer de VIe République.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Remplacer le Conseil constitutionnel par une véritable Cour constitutionnelle composée de professionnels jugeant en droit, élus par les parlementaires pour un mandat non renouvelable de 12 ans […] Rétablir le septennat pour le mandat du Président de la République",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": -1,
       "resume": "Position déduite du programme 2022 : proposer « l'interdiction constitutionnelle de toute surveillance généralisée de la population » (QR code, passe sanitaire, identité numérique), sans mention explicite de la vidéosurveillance algorithmique.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "De même, nous proposerons l’interdiction constitutionnelle de toute surveillance généralisée de la population, par QR code, Passe sanitaire ou vaccinal , Digital ID Wallet etc.",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : un référendum demanderait aux Français de trancher « les modifications à apporter au droit du sol », jugé problématique à Mayotte et en Guyane.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Un référendum organisé avant la fin de l’année 2022 demandera notamment aux Français de trancher : • La politique de regroupement familial ; • Les modifications à apporter au droit du sol, dont le système actuel pose des problèmes particulièrement criants à Mayotte et en Guyane.",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_preference": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_otan": {
       "valeur": 2,
       "resume": "Il annonce la notification immédiate de la sortie de la France de l'Alliance atlantique (article 13), au-delà du seul commandement intégré.",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "citation": "Libération de l’OTAN : notification immédiate au Département d’État américain via l’article 13 pour faire sortir la France de l’alliance sous un an.",
       "date_source": "2026-09-30",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_defense3": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : porter le budget de la défense « à hauteur d'au moins 3 % du PIB » sur le quinquennat.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous porterons le budget de la défense à hauteur d’au moins 3% du PIB sur la durée du quinquennat (contre 1,9% en 2019)",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Le programme 2022 propose de consolider l'Assurance maladie et de mettre fin aux déremboursements, sans position sur les complémentaires santé.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : passer à une « politique de sanction de l'inactivité choisie », les allocations chômage pouvant être supprimées après deux refus d'offres d'embauche.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Ainsi, les allocations-chômage pourront être supprimées après deux refus de propositions d’embauche correspondant aux critères géographiques du demandeur d’emploi.",
       "date_source": "2022-02",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Le programme 2022 propose de revaloriser les bourses de 25 % et de pérenniser les repas à 1 euro, sans allocation universelle.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": 2,
-      "resume": "Il propose la « réduction du nombre de députés et de sénateurs » ; son programme 2022 chiffrait la baisse à 500 députés et environ 100 sénateurs.",
+      "resume": "Il propose la « réduction du nombre de députés et de sénateurs » (discours de rentrée 2026), sans chiffrage dans ce discours.",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "citation": "Réduction drastique des élus et des structures : réduction du nombre de députés et de sénateurs",
       "date_source": "2026-09-30",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }

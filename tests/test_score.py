@@ -129,6 +129,46 @@ class Ponderation(unittest.TestCase):
         self.assertEqual(r["par_confiance"], {"programme": 1, "declaration": 0, "deduite": 1})
 
 
+class CorrectionDuHasard(unittest.TestCase):
+    def test_accord_hasard(self):
+        self.assertAlmostEqual(score.accord_hasard(0), 0.7)
+        self.assertAlmostEqual(score.accord_hasard(1), 0.65)
+        self.assertAlmostEqual(score.accord_hasard(-2), 0.5)
+
+    def test_neutre_face_au_hasard(self):
+        # Face à une réponse uniforme, l'accord corrigé moyen est nul quelle que soit la position :
+        # une position nuancée n'est plus avantagée.
+        for v in range(-2, 3):
+            self.assertAlmostEqual(sum(score.accord_corrige(u, v) for u in range(-2, 3)), 0)
+            self.assertAlmostEqual(score.accord_corrige(v, v), 1)
+
+    def test_nuance_et_tranche(self):
+        # Réponse « tout à fait d'accord » : le candidat à 2 l'emporte sur celui à 0, qui fait moins
+        # bien que le hasard.
+        user = {"reponses": {"eco_1": 2, "eco_2": 2}}
+        tranche = candidat("tranche", {"eco_1": (2, "programme"), "eco_2": (2, "programme")})
+        nuance = candidat("nuance", {"eco_1": (0, "programme"), "eco_2": (0, "programme")})
+        r = par_slug(score.calculer(user, QUESTIONS, [tranche, nuance]))
+        self.assertEqual(r["tranche"]["score"], 100)
+        self.assertEqual(r["nuance"]["score"], round(50 + 50 * (0.5 - 0.7) / 0.3))
+
+    def test_position_inconnue_rapproche_de_50(self):
+        # Accord parfait sur 2 questions, position inconnue sur la 3e : score tiré vers 50 %.
+        alice = candidat("alice", {"eco_1": (2, "programme"), "eco_2": (-2, "programme")})
+        user = {"reponses": {"eco_1": 2, "eco_2": -2, "eco_3": 1}}
+        r = par_slug(score.calculer(user, QUESTIONS, [alice]))["alice"]
+        self.assertEqual(r["score"], round(50 + 50 * 2 / (2 + score.POIDS_INCONNUE)))
+        self.assertEqual(r["couverture"], 0.67)
+
+    def test_poids_inconnue_egalise_la_dispersion(self):
+        # Écart-type relatif du score face au hasard : identique à 50 % et 100 % de couverture.
+        def dispersion(f):
+            return f ** 0.5 / (f + score.POIDS_INCONNUE * (1 - f))
+        self.assertAlmostEqual(dispersion(0.5), dispersion(1.0))
+        for f in (0.6, 0.7, 0.8, 0.9):
+            self.assertLess(abs(dispersion(f) - 1), 0.02)
+
+
 class Reproductibilite(unittest.TestCase):
     USER = {"reponses": {"eco_1": 2, "eco_2": -1, "eco_3": 0, "ecl_1": 1, "ecl_2": -2},
             "importance": {"ecologie": 2}}

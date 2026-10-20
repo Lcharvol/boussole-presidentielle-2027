@@ -12,281 +12,361 @@
       "valeur": 2,
       "resume": "Le cahier de campagne sur les travailleurs essentiels revendique « la retraite à 60 ans » dans la continuité du programme du NFP ; il a voté pour la suspension de la réforme des retraites (12 novembre 2025).",
       "source": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "citation": "Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
       "date_source": "2026-04-13",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_smic": {
       "valeur": 2,
       "resume": "Le cahier de campagne sur les travailleurs essentiels cite « le SMIC à 1 600 € » parmi les mesures, avec indexation des salaires sur l'inflation.",
       "source": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "citation": "Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
       "date_source": "2026-04-13",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Déduit du manifeste de Debout ! : critique des « budgets à tailler » et « coupes sèches » dans les services publics et appel à des « impôts justes » faisant davantage contribuer le capital.",
       "source": "https://debout.fr/notre-manifeste/",
+      "citation": "Quand, chaque été les urgences sont en crise, l’École n’arrive pas à recruter, la Justice est sous l’eau, quelle réponse? Des budgets à tailler, des coupes sèches, pour réduire le déficit. Sans jamais, ô grand jamais, toucher au grisbi.",
       "date_source": "2026-04",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 2,
-      "resume": "A voté pour le rétablissement de l'ISF (17 octobre 2022) ; le manifeste de Debout ! veut « abaisser le plafond » des plus riches et mettre « une limite à l'accumulation ».",
-      "source": "https://datan.fr/votes/legislature-16/vote_325",
+      "resume": "A voté pour l'amendement n° 2657 de Philippe Brun au projet de loi de finances pour 2023, qui visait à rétablir l'impôt sur la fortune (scrutin n°325, 17 octobre 2022) ; le manifeste de Debout ! veut « abaisser le plafond » des plus riches.",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/325",
+      "citation": "Scrutin public n°325 sur l'amendement n° 2657 de M. Philippe Brun après l'article 3 du projet de loi de finances pour 2023 (première lecture).",
       "date_source": "2022-10-17",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_35h": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 1,
       "resume": "Le cahier « travaillisme écologique » prévoit de prolonger les centrales existantes, de poursuivre les six EPR2 et de décider de huit EPR2 supplémentaires selon le devis d'EDF.",
       "source": "https://nouspresident.fr/travaillisme-ecologique/",
+      "citation": "Nous poursuivrons aussi la construction des six réacteurs EPR2 […] La décision de construire ou non huit réacteurs EPR2 supplémentaires sera prise en fonction du devis proposé par EDF",
       "date_source": "2026-09-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 1,
       "resume": "Le cahier « travaillisme écologique » prévoit de poursuivre le développement de l'éolien et des autres renouvelables, planifié par EDF et les collectivités, aux côtés du nucléaire.",
       "source": "https://nouspresident.fr/travaillisme-ecologique/",
+      "citation": "[…] nous poursuivrons le développement de l’énergie éolienne, car elle produit davantage en hiver, lorsque nous en avons besoin. Nous développerons également les autres formes d’énergies renouvelables pour accompagner l’électrification des usages.",
       "date_source": "2026-09-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": 0,
       "resume": "Le cahier « travaillisme écologique » préfère rémunérer les services environnementaux et garantir des prix agricoles minimums plutôt qu'une « logique de normes », tout en voulant étendre le bio ; il a voté contre la loi d'urgence agricole de juillet 2026 permettant de réautoriser l'acétamipride.",
       "source": "https://nouspresident.fr/travaillisme-ecologique/",
+      "citation": "Par l’incitation financière à introduire des couverts végétaux, à allonger des rotations, à entretenir des prairies permanentes, nous pouvons sortir d’une logique de normes qui montre ses limites.",
       "date_source": "2026-09-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_prisons": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": 2,
       "resume": "Cosignataire de la proposition de loi n° 4746 (30 novembre 2021) visant à légaliser la production, la vente et la consommation de cannabis sous contrôle de l'État ; aucune déclaration plus récente trouvée.",
       "source": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4746_proposition-loi.pdf",
+      "citation": "PROPOSITION DE LOI relative à la légalisation de la production, de la vente et de la consommation du cannabis sous le contrôle de l’État",
       "date_source": "2021-11-30",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_baisse": {
       "valeur": 0,
-      "resume": "Position déduite du manifeste de son parti Debout !, qui s'oppose aux « filières d'immigration » voulues par le patronat pour combler des pénuries, tout en refusant de faire des migrants des boucs émissaires ; il ne propose ni quotas ni restriction du regroupement familial.",
+      "resume": "Position déduite du manifeste de son parti Debout !, qui s'oppose aux « filières d'immigration » voulues par le patronat pour combler des pénuries tout en demandant la régularisation de tous les travailleurs présents sur le territoire ; il ne propose ni quotas ni restriction du regroupement familial.",
       "source": "https://debout.fr/notre-manifeste/",
+      "citation": "Tous les travailleurs et travailleuses sur notre territoire doivent être régularisés pour ne plus vivre dans la peur du lendemain. Nous sommes opposés à la volonté du patronat de filières d’immigration pour trouver une main d’œuvre manquante.",
       "date_source": "2026-04",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": 1,
       "resume": "Dit soutenir la régularisation des personnes « qui sont sur le territoire et qui travaillent » dans les métiers en tension, tout en refusant une immigration choisie pour combler les manques (Sud Radio, novembre 2022).",
       "source": "https://www.sudradio.fr/linvite-politique/je-refuse-une-immigration-choisie-qui-vienne-combler-les-manques-estime-francois-ruffin",
+      "citation": "[…] le parlementaire LFI se positionne pour une régularisation \"de ceux qui sont sur le territoire et qui travaillent dans ces secteurs\" , mais s'oppose à \"une immigration spécifique\" .",
       "date_source": "2022-11-03",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_integration": {
       "valeur": 0,
       "resume": "Position déduite du manifeste de son parti Debout !, qui se dit critique d'une construction européenne « faite sans les peuples » mais propose de chercher des alliés pour un grand plan d'investissement européen.",
       "source": "https://debout.fr/notre-manifeste/",
+      "citation": "[…] nous sommes toujours critiques d’une construction européenne qui s’est faite sans les peuples, dans le dos des peuples. […] la France doit chercher des alliés en Europe pour s’engouffrer dans la brèche ouverte: […] un grand plan d’investissement européen […]",
       "date_source": "2026-04",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": 1,
       "resume": "Position déduite du manifeste de son parti Debout !, qui affirme : « Nous désobéirons aux traités européens lorsqu'ils entrent en contradiction avec nos engagements », sans proposer de sortie de l'UE.",
       "source": "https://debout.fr/notre-manifeste/",
+      "citation": "Nous désobéirons aux traités européens lorsqu’ils entrent en contradiction avec nos engagements.",
       "date_source": "2026-04",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": -1,
-      "resume": "S'est abstenu sur la résolution du 12 mars 2025 appelant à renforcer le soutien à l'Ukraine (son groupe a voté pour) et a voté contre la stratégie d'aide du gouvernement en mars 2024 ; le manifeste condamne l'invasion russe.",
-      "source": "https://datan.fr/votes/legislature-17/vote_988",
+      "resume": "S'est abstenu (la page du scrutin le liste en « Abstention ») sur la résolution du 12 mars 2025 appelant au renforcement du soutien à l'Ukraine, son groupe ayant voté pour ; il a voté contre la stratégie d'aide du gouvernement en mars 2024 ; le manifeste condamne l'invasion russe.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "citation": "Scrutin public n°988 sur l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
       "date_source": "2025-03-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_medecins": {
-      "valeur": 2,
-      "resume": "A voté pour la régulation de l'installation des médecins dans les zones bien pourvues (14 juin 2023).",
-      "source": "https://datan.fr/votes/legislature-16/vote_1812",
+      "valeur": -2,
+      "resume": "A voté pour l'amendement Garot régulant l'installation des médecins dans les zones bien pourvues (scrutin n°1812, 14 juin 2023).",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1812",
+      "citation": "Scrutin public n°1812 sur l'amendement n° 1 de M. Garot et les amendements identiques suivants après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
       "date_source": "2023-06-14",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_findevie": {
       "valeur": 2,
       "resume": "A voté pour la loi créant un droit à l'aide à mourir lors de la lecture définitive (15 juillet 2026).",
-      "source": "https://datan.fr/votes/legislature-17/vote_8280",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+      "citation": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
       "date_source": "2026-07-15",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_rsa": {
       "valeur": -2,
       "resume": "A voté contre la loi « plein emploi » qui impose 15 heures d'activité aux allocataires du RSA (14 novembre 2023).",
-      "source": "https://datan.fr/votes/legislature-16/vote_2965",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2965",
+      "citation": "Scrutin public n°2965 sur l'ensemble du projet de loi pour le plein emploi (texte de la commission mixte paritaire).",
       "date_source": "2023-11-14",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_autorite": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": 2,
       "resume": "Position déduite de 2021 : cosignataire de la proposition de loi n° 4013 (23 mars 2021) visant à instaurer « la proportionnelle intégrale au scrutin législatif » ; aucune déclaration plus récente trouvée.",
       "source": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4013_proposition-loi.pdf",
+      "citation": "PROPOSITION DE LOI visant à instaurer la proportionnelle intégrale au scrutin législatif",
       "date_source": "2021-03-23",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ins_ric": {
       "valeur": 2,
       "resume": "Cosignataire de la proposition de loi constitutionnelle instaurant un RIC délibératif (décembre 2025) ; le manifeste de Debout ! propose le RIC.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2260_proposition-loi.pdf",
+      "citation": "PROPOSITION DE LOI CONSTITUTIONNELLE instaurant un référendum d’initiative citoyenne délibératif",
       "date_source": "2025-12-18",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_6e": {
       "valeur": 1,
       "resume": "Le cahier de campagne « séparer l'argent de l'État » propose de permettre aux parlementaires de s'opposer aux nominations présidentielles à la majorité simple et de mettre fin à « l'inviolabilité pénale et civile complète du Président », sans proposer de VIe République.",
       "source": "https://nouspresident.fr/separation-argent-etat/",
+      "citation": "Nous mettrons fin à l’inviolabilité pénale et civile complète du Président de la République et au privilège de juridiction des ministres.",
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": 1,
-      "resume": "Le cahier « Pour un travaillisme écologique » prévoit d'interdire les vols intérieurs lorsqu'existe une alternative en train de moins de 4 heures et de réduire de moitié le trafic aérien ; il ne prévoit pas de taxe spécifique, le manifeste de Debout ! dénonçant par ailleurs la détaxation du kérosène.",
-      "source": "https://nouspresident.fr/travaillisme-ecologique/",
-      "date_source": "2026-09-09",
-      "confiance": "programme"
+      "resume": "Position déduite du manifeste de son parti Debout !, qui dénonce la détaxation du kérosène des avions ; son cahier « travaillisme écologique » prévoit par ailleurs d'interdire les vols intérieurs remplaçables par un train de moins de 4 heures, sans taxe aérienne spécifique.",
+      "source": "https://debout.fr/notre-manifeste/",
+      "citation": "C’est la taxe carbone sur l’essence des Gilets jaunes quand le kérozène des avions et le fioul des porte-conteneurs est détaxé.",
+      "date_source": "2026-04",
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "A voté contre la loi Attal sur la justice des mineurs (texte de CMP, 13 mai 2025), qui facilite la comparution immédiate des mineurs de plus de 16 ans et restreint l'excuse de minorité pour les récidivistes de plus de 16 ans.",
-      "source": "https://datan.fr/votes/legislature-17/vote_1624",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
       "date_source": "2025-05-13",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": -1,
       "resume": "A voté contre le projet de loi relatif aux Jeux olympiques de 2024 (28 mars 2023), qui autorisait l'expérimentation de la vidéosurveillance algorithmique ; pas de déclaration spécifique trouvée sur la reconnaissance faciale.",
-      "source": "https://datan.fr/votes/legislature-16/vote_1305",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
+      "citation": "Scrutin public n°1305 sur l'ensemble du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions (première lecture).",
       "date_source": "2023-03-28",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": -2,
-      "resume": "A voté contre la proposition de loi restreignant le droit du sol à Mayotte (6 février 2025).",
-      "source": "https://datan.fr/votes/legislature-17/vote_697",
+      "resume": "A voté contre l'amendement de rédaction globale de la proposition de loi renforçant les conditions d'accès à la nationalité française à Mayotte, qui restreint le droit du sol (scrutin n°697, 6 février 2025).",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/697",
+      "citation": "Scrutin public n°697 sur l'amendement n° 7 de M. Gillet et l'amendement identique suivant de rédaction globale de l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
       "date_source": "2025-02-06",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_preference": {
       "valeur": -2,
       "resume": "Le cahier de campagne sur le logement rejette la proposition de « réserver le logement social et les aides personnalisées au logement aux personnes de nationalité française », qu'il juge xénophobe et inefficace.",
       "source": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+      "citation": "Face à cette faillite, l’extrême droite promet de réserver le logement social et les aides personnalisées au logement aux personnes de nationalité française. Outre la xénophobie et le racisme qui sous-tendent cette proposition, celle-ci ne serait d’aucune efficacité […]",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_otan": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_defense3": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": -2,
-      "resume": "Cosignataire d'un amendement de suppression du projet de loi transposant l'avenant n°3 à l'assurance chômage, qui réduit notamment la durée d'indemnisation de 18 à 15 mois pour les moins de 55 ans ; il a voté contre le texte le 2 juin 2026.",
+      "resume": "Cosignataire d'un amendement de suppression du projet de loi transposant l'avenant à l'assurance chômage, qui réduit notamment de 18 à 15 mois la durée d'indemnisation des moins de 55 ans après une rupture conventionnelle ; il a voté contre le texte le 2 juin 2026.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2633/AN/5",
+      "citation": "Le groupe Ecologiste et social s'oppose à la réduction de la durée d'indemnisation des demandeurs d'emploi suite à une rupture conventionnelle.",
       "date_source": "2026-04-10",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }

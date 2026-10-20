@@ -12,281 +12,361 @@
       "valeur": 1,
       "resume": "Le programme propose de « baisser l'âge de départ à la retraite » une fois la France sortie de l'UE, « si les Français le désirent », sans fixer d'âge cible.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Délivrée de la menace bruxelloise, la France pourra souverainement déterminer les conditions d’accession à la retraite et baisser l’âge de départ si les Français le désirent.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_smic": {
       "valeur": null,
       "resume": "Le livret 2026-2027 ne contient pas de mesure sur le SMIC.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme veut redresser les finances publiques « sans augmenter le niveau d'imposition » par une réduction du train de vie de l'État et la sortie de l'UE, tout en rejetant les « plans d'austérité » imposés par Bruxelles.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Pour réaliser ce redressement sans augmenter le niveau d’imposition déjà record subi par les Français, la solution devra d’abord venir d’une réduction du train de vie de l’Etat […]",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": null,
       "resume": "Le livret évoque la justice fiscale, la lutte contre l'optimisation des grands groupes et une moindre taxation des petits héritages, sans mesure sur la taxation des hauts patrimoines (ISF ou équivalent).",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eco_35h": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 2,
       "resume": "Le programme prévoit d'« investir massivement dans le nucléaire » et un « plan d'investissement massif dans le nucléaire de nouvelle génération ».",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Il faut non seulement préserver cet avantage stratégique, mais aussi le renforcer par un plan d’investissement massif dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": -2,
       "resume": "Le programme demande un « moratoire total et définitif » sur l'éolien terrestre et en mer et un plan de démantèlement des éoliennes installées ; il ne prévoit pas de développement du solaire.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Il faut donc un moratoire total et définitif sur cette méthode de production d’électricité qui nous est là encore imposée par l’Union européenne. Il faut engager un plan de démantèlement des éoliennes installées et de recyclage des matériaux qui en sont issus.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": -1,
       "resume": "Le programme veut supprimer la PAC « et ses normes absurdes », préserver la voiture thermique au-delà de 2035, tout en proposant un plan national de protection de la faune et de la flore et le développement de l'agriculture biologique.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Supprimer la PAC, ses normes absurdes (tel que le taux de jachère obligatoire) et ses contraintes administratives.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_peines": {
       "valeur": 2,
       "resume": "Le programme propose de « réinstaurer les peines planchers » et de supprimer les réductions automatiques de peine.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Il convient donc de réinstaurer les peines planchers et de généraliser les sanctions dès la première infraction.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_prisons": {
       "valeur": 2,
       "resume": "Le programme propose de « construire les dizaines de milliers de places de prison qui manquent » et d'expulser les détenus étrangers.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Construire les dizaines de milliers de places de prison qui manquent et expulser les prisonniers étrangers (ils représentent 25% du total des prisonniers).",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_baisse": {
       "valeur": 2,
       "resume": "Le programme vise à revenir à des flux migratoires « extrêmement limités », à mettre fin à l'immigration de travail et à quitter la CEDH, notamment pour pouvoir remettre en cause le regroupement familial.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "L’objectif est de mettre un terme à la politique d’immigration massive en revenant à des flux extrêmement limités et en reconduisant aux frontières ceux qui n’ont rien à faire en France.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
       "resume": "Le livret 2026-2027 ne mentionne pas l'AME.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": -2,
       "resume": "Le programme veut « mettre fin à l'immigration de travail », renvoyer les étrangers en situation irrégulière et appliquer les OQTF ; il ne prévoit aucune régularisation.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Mettre fin à l’immigration de travail et à la directive européenne des travailleurs détachés.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_integration": {
       "valeur": -2,
       "resume": "Le programme prône la sortie de l'UE et de l'euro (Frexit) et rejette toute armée européenne.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Rejeter la création d’une armée européenne.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": 2,
       "resume": "Le programme fait du Frexit « la clé de voûte » du projet, avec sortie de l'UE, de l'euro, de Schengen, de la CEDH, de l'OTAN et de l'OMS, jugeant les traités « irréformables ».",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Le Frexit est ainsi la clé de voûte du projet des Patriotes, car c’est la condition incontournable du redressement de notre pays.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": -2,
       "resume": "Le programme demande de « cesser d'entretenir la guerre en Ukraine » et de couper les financements européens à l'Ukraine.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Cesser d’entretenir la guerre en Ukraine.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_medecins": {
       "valeur": null,
       "resume": "Le livret propose des centres de santé locaux et la suppression des ARS et du Conseil de l'Ordre, sans mesure sur la liberté d'installation des médecins.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_findevie": {
       "valeur": null,
       "resume": "Le livret refuse « toute politique d'incitation à l'euthanasie » des personnes handicapées, sans position explicite sur la légalisation générale de l'aide à mourir ; aucune déclaration récente trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_rsa": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_autorite": {
       "valeur": 1,
       "resume": "Le programme veut « refonder l'autorité des professeurs », une hiérarchie claire dans l'Éducation nationale et en finir avec le collège unique, sans mentionner l'uniforme.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Refonder l’autorité des professeurs et redonner du sens à la vocation enseignante.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
       "resume": "Le livret 2026-2027 ne mentionne pas le mode de scrutin législatif.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_ric": {
       "valeur": 2,
       "resume": "Le programme propose de « créer le référendum d'initiative citoyenne (RIC) sur tout sujet et l'inscrire dans la Constitution ».",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Créer le référendum d’initiative citoyenne (RIC) sur tout sujet et l’inscrire dans la Constitution.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_6e": {
       "valeur": null,
       "resume": "Le livret propose le RIC et la révision de la Constitution uniquement par référendum, sans proposer de VIe République ni de réduction des pouvoirs présidentiels.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": -2,
       "resume": "Le programme propose de « préserver la voiture thermique au-delà de 2035 », qualifiant l'interdiction européenne de « socialement injuste et faussement utile ».",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Préserver la voiture thermique au-delà de 2035. Actuellement, l’Europe a décidé d’interdire la vente des voitures thermiques neuves à l’horizon 2035. Cette mesure socialement injuste et faussement utile sur le plan environnemental […]",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme veut que l'excuse de minorité ne s'applique que si le juge la motive spécialement (« qui tue comme un adulte doit être jugé comme un adulte »), sans fixer de seuil d'âge à 16 ans.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "La responsabilité doit primer et l’excuse de minorité ne doit s’appliquer qu’à la condition que le juge la motive spécialement. Les actes graves doivent être jugés comme tels : qui tue comme un adulte doit être jugé comme un adulte.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": null,
       "resume": "Le livret refuse l'identité numérique européenne et l'euro numérique au nom des libertés, sans position explicite sur la vidéosurveillance algorithmique.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": 1,
       "resume": "Position déduite de la charte fondatrice des Patriotes (2017), qui propose « le droit du sol conditionné au mérite » ; le livret 2026-2027 n'aborde pas ce point.",
       "source": "https://www.publicsenat.fr/actualites/politique/philippot-presente-la-charte-des-patriotes-en-reclamant-un-frexit-79488",
+      "citation": "En 26 points, le texte fondateur du nouveau parti propose le recours aux référendums d'initiative populaire, la suppression du Sénat et des conseils régionaux ou le droit du sol conditionné au mérite.",
       "date_source": "2017-11-07",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_preference": {
       "valeur": null,
       "resume": "Le livret conditionne les prestations sociales des parents de mineurs récidivistes, sans proposer de priorité aux Français pour les prestations ou le logement social.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_otan": {
       "valeur": 2,
       "resume": "Le programme propose de « quitter l'OTAN » (et non seulement son commandement intégré), jugeant que la France n'en a pas besoin pour assurer sa défense.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Quitter l’OTAN est l’une des conditions de notre indépendance sur la scène internationale.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_defense3": {
       "valeur": null,
       "resume": "Le livret rejette une armée européenne, sans objectif chiffré de budget de défense.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": -1,
       "resume": "Le programme indique qu'après le Frexit les réformes « visant à raboter les indemnités chômage » pourront être supprimées.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Les réformes récentes, exigées par la Commission européenne, visant à raboter les indemnités chômage, à fermer des lits à l’hôpital ou à arrêter le remboursement des médicaments pourront être supprimées.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "Le livret fait de la laïcité un pilier de l'école, sans mesure sur les parents accompagnateurs de sorties scolaires.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": 1,
       "resume": "Le programme veut en finir avec le collège unique et proposer « dès 14 ans des parcours différenciés, y compris vers l'apprentissage ».",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "citation": "Il faut rompre avec le dogme du collège unique, qui nivelle par le bas, pour proposer dès 14 ans des parcours différenciés, y compris vers l’apprentissage.",
       "date_source": "2026-09",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": 1,
       "resume": "Position déduite de la charte fondatrice des Patriotes (2017), qui propose la suppression du Sénat et des conseils régionaux ; aucun chiffre sur le nombre de députés.",
       "source": "https://www.publicsenat.fr/actualites/politique/philippot-presente-la-charte-des-patriotes-en-reclamant-un-frexit-79488",
+      "citation": "En 26 points, le texte fondateur du nouveau parti propose le recours aux référendums d'initiative populaire, la suppression du Sénat et des conseils régionaux ou le droit du sol conditionné au mérite.",
       "date_source": "2017-11-07",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }
