@@ -12,281 +12,361 @@
       "valeur": 0,
       "resume": "Propose de supprimer l'âge légal au profit d'une règle de durée de cotisation, avec une prise en compte sérieuse de la pénibilité ; ne propose pas explicitement un retour à 62 ans.",
       "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "citation": null,
       "date_source": "2026-03-27",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_smic": {
       "valeur": -1,
       "resume": "Ne propose pas de hausse du SMIC : son projet augmente le salaire net en basculant « plus de 200 Md€ de cotisations » vers une CSG universelle, soit « +100 € au Smic ».",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
+      "citation": null,
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_depenses": {
       "valeur": 0,
       "resume": "Pour réduire le déficit sous 3 % d'ici 2031, il prône à la fois « des hausses d'impôt justes et des baisses de dépenses ciblées », sans hiérarchie entre les deux.",
       "source": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html",
+      "citation": null,
       "date_source": "2026-08-21",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 2,
       "resume": "Propose un impôt unique et fortement progressif sur le patrimoine des 1 % les plus riches, dès 2,2 millions d'euros, et des droits de succession progressifs au-delà d'un million d'euros.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
+      "citation": null,
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_35h": {
       "valeur": 1,
       "resume": "S'interroge sur une remise en cause des 35 heures et des règles des heures supplémentaires, et souhaite donner plus de place à la négociation de branche.",
       "source": "https://lafrancehumaniste.fr/articles/un-nouveau-monde-du-travail.html",
+      "citation": null,
       "date_source": "2025-12-08",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 1,
       "resume": "Propose six nouveaux réacteurs EPR2 et un plan national pour le nouveau nucléaire.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
+      "citation": null,
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 1,
       "resume": "Propose d'industrialiser l'éolien en mer et d'électrifier massivement les usages dans un mix avec le nucléaire ; l'éolien terrestre et le solaire ne sont pas abordés.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
+      "citation": null,
       "date_source": "2026",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": 1,
       "resume": "S'est opposé à la loi Duplomb, jugée dangereuse pour l'environnement et la santé, tout en prônant ailleurs la fin des surtranspositions et moins d'« interdits imposés d'en haut ».",
       "source": "https://lafrancehumaniste.fr/articles/sur-la-loi-duplomb.html",
+      "citation": null,
       "date_source": "2025-07-20",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "sec_peines": {
       "valeur": null,
       "resume": "Insiste sur « l'exécution effective des peines » et la lutte contre le narcotrafic, sans position trouvée sur les peines planchers ou un durcissement des peines.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_prisons": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la construction de places de prison.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la légalisation du cannabis.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_baisse": {
       "valeur": null,
       "resume": "Se dit favorable à une immigration « maîtrisée » et conditionne l'accueil à l'acceptation des retours, sans position trouvée sur une forte réduction de l'immigration légale, les quotas ou le regroupement familial.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
       "resume": "Aucune position vérifiable trouvée sur l'AME.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": 0,
       "resume": "Rejette toute « régularisation massive et globale » et propose d'enregistrer les sans-papiers par des documents biométriques ; aucune position trouvée sur des régularisations ciblées dans les métiers en tension.",
       "source": "https://www.20minutes.fr/politique/4246387-20260918-presidentielle-2027-regularisation-massive-globale-dit-villepin-immigration",
+      "citation": null,
       "date_source": "2026-09-18",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_integration": {
       "valeur": 1,
       "resume": "Soutient des ressources propres et un emprunt mutualisé européens, un élargissement du vote à la majorité qualifiée, un Conseil de sécurité européen et des programmes de défense financés en commun, mais propose aussi une « pause sur la logique d'unification ».",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "citation": null,
       "date_source": "2026-03-06",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": -1,
       "resume": "Critique les juridictions nationales qui veulent reprendre l'interprétation des traités et propose une juridiction supranationale d'ordre constitutionnel, tout en défendant un « pacte de souveraineté » entre États.",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "citation": null,
       "date_source": "2026-03-06",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": 0,
       "resume": "Évoque le prêt européen à l'Ukraine, une adhésion accélérée ou une association renforcée et le renforcement militaire du flanc est, tout en privilégiant la diplomatie, un cessez-le-feu et une « coexistence pacifique » avec la Russie.",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "citation": null,
       "date_source": "2026-03-06",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_medecins": {
       "valeur": 1,
       "resume": "Prend acte de la loi soumettant l'installation des médecins à une autorisation de l'ARS en mettant en garde contre la bureaucratie, et propose d'aller plus loin (bourses conditionnées à un exercice dans les territoires en crise).",
       "source": "https://lafrancehumaniste.fr/articles/sante-et-environnement.html",
+      "citation": null,
       "date_source": "2025-08-27",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_findevie": {
       "valeur": null,
       "resume": "Aucune position vérifiable trouvée sur l'aide active à mourir.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_rsa": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la conditionnalité du RSA ; il propose de simplifier et unifier les minima sociaux.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_prive": {
       "valeur": 1,
       "resume": "Estime que le privé « largement financé sur fonds publics » doit prendre sa part de la mixité sociale et propose de moduler l'aide publique selon le profil social des élèves accueillis.",
       "source": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "citation": null,
       "date_source": "2026-09-01",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "edu_autorite": {
       "valeur": 0,
       "resume": "Prône la « tolérance zéro » contre les violences envers les enseignants et l'interdiction des téléphones, mais veut « réduire la caporalisation » et préfère la remédiation en petits groupes ; ni uniforme ni groupes de niveau.",
       "source": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "citation": null,
       "date_source": "2026-09-01",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
       "resume": "Aucune position trouvée sur l'élection des députés à la proportionnelle.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_ric": {
       "valeur": 1,
       "resume": "Propose un « référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux », préparé par une convention citoyenne permanente.",
       "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "citation": null,
       "date_source": "2026-03-27",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_6e": {
       "valeur": -1,
       "resume": "Défend la Ve République et les pouvoirs du président en temps de crise, tout en proposant de renforcer le Parlement (vote de confiance systématique, motion de défiance constructive).",
       "source": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+      "citation": null,
       "date_source": "2026-05-24",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position trouvée sur l'interdiction des voitures thermiques en 2035 ; il juge que la réduction récente des objectifs européens de décarbonation pour 2035 et 2040 est une « fragilisation majeure », sans viser explicitement l'automobile.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la taxation du transport aérien.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le jugement des mineurs comme des majeurs.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la vidéosurveillance algorithmique ou la reconnaissance faciale.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le droit du sol.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_preference": {
       "valeur": -2,
       "resume": "Estime qu'une préférence nationale, « contraire aujourd'hui à notre Constitution », bouleverserait l'égalité devant la loi et les droits fondamentaux.",
       "source": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+      "citation": null,
       "date_source": "2026-05-24",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_otan": {
       "valeur": 0,
       "resume": "Veut une sécurité européenne « dans l'OTAN, mais viable sans l'OTAN » et juge l'Alliance nécessaire à court terme ; opposé en 2009 au retour dans le commandement intégré, il ne propose pas d'en sortir dans les textes trouvés.",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "citation": null,
       "date_source": "2026-03-06",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_defense3": {
       "valeur": null,
       "resume": "Estime qu'« avant de chiffrer les crédits, une revue stratégique devra définir nos besoins » ; pas d'objectif en pourcentage du PIB.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position trouvée sur un remboursement à 100 % ou le rôle des complémentaires santé.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": null,
       "resume": "Aucune position trouvée sur l'indemnisation chômage.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "Aucune position trouvée sur les signes religieux des parents accompagnateurs ; il propose une commission laïcité dans chaque conseil d'école ou d'établissement.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Aucune proposition d'allocation d'autonomie trouvée ; il évoque des bourses renforcées pour des cursus de préparation au métier d'enseignant.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position trouvée sur l'entrée en apprentissage dès 14 ans.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le nombre de parlementaires.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la reconnaissance du vote blanc.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }

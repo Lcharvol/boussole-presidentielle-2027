@@ -12,281 +12,361 @@
       "valeur": null,
       "resume": "Le programme 2022 propose d'« établir l'âge de la retraite en fonction des annuités de cotisation » sans fixer d'âge légal ; aucune position récente trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eco_smic": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : revaloriser le SMIC à 1 400 euros net, soit une hausse de 8 %.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eco_depenses": {
       "valeur": null,
       "resume": "Le programme 2022 propose un audit citoyen de la dette, sans arbitrage entre baisse des dépenses et hausse des impôts.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : rétablir l'ISF et supprimer l'IFI.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eco_35h": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : prolonger de 25 ans les centrales en fin de vie et développer des centrales de 4e génération, dans une « transition énergétique du nucléaire », sans nombre de réacteurs précisé.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 0,
       "resume": "Position déduite du programme 2022 : « stopper l'éolien » (interdire les projets non validés par les maires) mais développer le solaire, avec des centrales solaires, et les énergies marines.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": -1,
       "resume": "Position déduite du programme 2022 : lutter contre « le poids des normes et des surréglementations » et sortir des directives européennes « Habitats » et « Oiseaux » et de la Convention de Berne, tout en réorientant la PAC vers les paysans qui respectent leur terre.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_peines": {
       "valeur": null,
       "resume": "Le programme 2022 vise l'exécution des peines courtes, sans proposer de peines planchers ou minimales.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_prisons": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : lancer un plan de construction de prisons « à taille humaine » pour garantir l'application des peines courtes, sans objectif chiffré.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : légaliser le cannabis en encadrant strictement sa vente et en consacrant une grande part des recettes à la lutte contre l'addiction.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "imm_baisse": {
       "valeur": null,
       "resume": "Le programme 2022 propose de renforcer les douanes contre l'immigration illégale et de respecter le droit d'asile, sans mesure sur l'immigration légale.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_integration": {
       "valeur": -1,
       "resume": "Position déduite du programme 2022 : « Europe des Nations » avec coopérations bilatérales au cas par cas, révision de la contribution française au budget européen et vote du Parlement sur toute législation d'origine européenne.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : faire débattre et voter au Parlement toute législation européenne, « réviser nos marges de décision » (budget, PAC, directive Habitats) et sortir de certaines directives, sans proposer de sortie de l'UE.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": null,
       "resume": "En février 2022, il a condamné l'invasion russe, demandé des « mesures de fermeté contre le pouvoir russe » et un cessez-le-feu via l'ONU, sans position trouvée sur le soutien militaire à l'Ukraine.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_medecins": {
       "valeur": null,
       "resume": "Le programme 2022 propose de financer les études des médecins qui s'engagent six ans dans les territoires déficitaires (incitation), sans position sur la régulation de l'installation.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_findevie": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_rsa": {
       "valeur": null,
       "resume": "Le programme 2022 propose d'étendre le RSA aux jeunes, sous condition de revenus ou de formation, sans position sur un conditionnement à des heures d'activité.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_autorite": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_ric": {
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : instaurer le RIC, déclenchable avec le soutien de 700 000 citoyens.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ins_6e": {
       "valeur": -1,
       "resume": "Position déduite du programme 2022 : « ressusciter l'esprit de la Ve République » par le RIC et la reconnaissance du vote blanc, avec un référendum sur le choix entre septennat et quinquennat, sans proposer de VIe République.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_preference": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_otan": {
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : « préparer notre désengagement de l'OTAN », sans calendrier précis.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "eur_defense3": {
       "valeur": null,
       "resume": "Le programme 2022 propose de rebâtir l'industrie d'armement et de renforcer la cyberdéfense, sans objectif chiffré de budget de défense.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_100secu": {
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : « la Sécurité sociale couvrira toutes les dépenses de santé », sur le modèle du régime local d'Alsace-Moselle, évitant un double remboursement par les mutuelles.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "soc_chomage": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Le programme 2022 propose un prêt étudiant de 20 000 euros à taux zéro garanti par l'État, et non une allocation universelle.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Le programme 2022 veut valoriser l'alternance et aider les TPE à embaucher des apprentis, sans âge d'entrée fixé.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : institutionnaliser la « reconnaissance effective du vote blanc » (proposition de loi constitutionnelle de 2021), les candidats devant en tirer les conséquences s'il arrive en tête.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": null,
       "date_source": "2022-02-25",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     }
   }
 }

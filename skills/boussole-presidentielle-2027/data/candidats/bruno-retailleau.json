@@ -12,281 +12,361 @@
       "valeur": -2,
       "resume": "Son plan de finances publiques prévoit une décote pour les départs entre 63 et 65 ans, une part de capitalisation et la fin des derniers régimes spéciaux ; aucun retour à 62 ans.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "citation": null,
       "date_source": "2026-10-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_smic": {
       "valeur": -1,
       "resume": "S'est opposé à une forte hausse du SMIC (jugée facteur de dette) ; en 2026 il privilégie l'exonération des heures travaillées au-delà de 1 607 h et le plafonnement des aides à 70 % du SMIC plutôt qu'un coup de pouce.",
       "source": "https://www.publicsenat.fr/actualites/non-classe/augmenter-le-smic-de-20-declencherait-le-detonateur-de-la-dette-pour-retailleau-lr",
+      "citation": null,
       "date_source": "2018-07-05",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_depenses": {
       "valeur": 2,
       "resume": "Plan de 197 Md€ d'économies sur cinq ans (dont non-remplacement de 400 000 agents partant à la retraite), avec des baisses d'impôts pour ménages et entreprises.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "citation": null,
       "date_source": "2026-10-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": -2,
       "resume": "Comme président de LR, a indiqué que son parti ne participerait à aucun gouvernement intégrant la taxe Zucman ; LR refuse aussi tout « recyclage de l'ISF ».",
       "source": "https://www.20minutes.fr/politique/4172990-20250914-devrions-faire-trahir-bruno-retailleau-pose-limites-participer-gouvernement",
+      "citation": null,
       "date_source": "2025-09-14",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eco_35h": {
       "valeur": 2,
       "resume": "Veut « sortir des 35 heures » en annualisant le temps de travail (1 623 h au lieu de 1 607 h) avec zéro cotisation et zéro impôt au-delà, hors CSG-CRDS.",
       "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "citation": null,
       "date_source": "2026-01-07",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 1,
       "resume": "Plan énergie LR qu'il porte : « rebâtir un parc nucléaire », en priorisant la prolongation des centrales existantes et un remplacement partiel et progressif, sans nombre de réacteurs chiffré.",
       "source": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
+      "citation": null,
       "date_source": "2025-07-02",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": -2,
       "resume": "Son plan d'économies prévoit la fin du soutien public aux nouvelles installations solaires et éoliennes, qu'il juge intermittentes et coûteuses.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "citation": null,
       "date_source": "2026-10-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": -1,
       "resume": "Lors de son premier meeting, veut prendre la « tronçonneuse » pour couper dans les normes et critique le principe de précaution ; défend une « écologie de droite » sans mesure précise.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-jirai-jusquau-bout-de-lelection-pour-remettre-la-france-a-lendroit-clame-bruno-retailleau-a-son-premier-grand-meeting",
+      "citation": null,
       "date_source": "2026-06-20",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "sec_peines": {
       "valeur": 2,
       "resume": "Propose une « charte de l'ordre républicain » rendant obligatoires des peines minimales pour certaines infractions, ainsi que le retour des courtes peines de prison.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+      "citation": null,
       "date_source": "2026-09-03",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "sec_prisons": {
       "valeur": 1,
       "resume": "Position déduite : les députés LR ont fait voter en 2023 un amendement pour 3 000 places de prison supplémentaires ; aucun chiffre propre au candidat n'a été trouvé dans une source primaire.",
       "source": "https://lcp.fr/actualites/3-000-places-de-prison-supplementaires-la-majorite-vote-un-amendement-propose-par-les",
+      "citation": null,
       "date_source": "2023",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": -2,
       "resume": "Se dit « totalement contre » la légalisation du cannabis, estimant qu'elle ne fonctionne pas contre les trafics.",
       "source": "https://www.europe1.fr/politique/legalisation-du-cannabis-ca-ne-marche-pas-estime-bruno-retailleau-396031",
+      "citation": null,
       "date_source": "2025-02-18",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_baisse": {
       "valeur": 2,
       "resume": "Veut « réduire drastiquement l'immigration » : restriction du regroupement familial et du nombre d'étudiants accueillis, révision constitutionnelle par référendum.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "citation": null,
       "date_source": "2026-10-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_ame": {
       "valeur": 2,
       "resume": "A porté au Sénat (2023) le remplacement de l'AME par une aide médicale d'urgence et a voulu, comme ministre, réviser l'AME pour que la France ne soit pas « le pays le plus attractif » en matière de soins.",
       "source": "https://www.france24.com/fr/france/20240924-bruno-retailleau-rouvre-le-dossier-explosif-de-la-r%C3%A9forme-de-l-aide-m%C3%A9dicale-d-%C3%A9tat",
+      "citation": null,
       "date_source": "2024-09-24",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": -2,
       "resume": "Sa circulaire de janvier 2025, comme ministre de l'Intérieur, a durci l'admission exceptionnelle au séjour (sept ans de présence exigés, critères de langue et d'ordre public), les métiers en tension restant la voie principale.",
       "source": "https://www.brut.media/fr/articles/immigration-ce-que-contient-la-nouvelle-circulaire-de-bruno-retailleau",
+      "citation": null,
       "date_source": "2025-01",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_integration": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_primaute": {
       "valeur": 1,
       "resume": "Propose un « bouclier constitutionnel » permettant, « dans certains cas », de déroger à la primauté du droit européen par loi organique ou référendum ; il ne propose pas de sortir des traités.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+      "citation": null,
       "date_source": "2026-09-03",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": 1,
       "resume": "A consacré son premier déplacement international de campagne à Kiev et réaffirmé son soutien à l'Ukraine face à l'agression russe, sans détailler d'aide militaire précise.",
       "source": "https://thepublic.info/en/news/bruno-retailleau-arrived-in-kyiv-ahead-of-the-french-elections",
+      "citation": null,
       "date_source": "2026-05-20",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_medecins": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_findevie": {
       "valeur": -1,
       "resume": "A voté contre au Sénat et réclamé un référendum ; après l'adoption définitive, il ne promet pas d'abroger la loi mais dit qu'il fera « un bilan au bout d'un an » avant de décider s'il demande aux Français de trancher.",
       "source": "https://www.franceinfo.fr/societe/euthanasie/presidentielle-2027-les-candidats-hostiles-a-la-loi-sur-la-fin-de-vie-vont-ils-promettre-de-l-abroger_8108582.html",
+      "citation": null,
       "date_source": "2026-07-17",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "soc_rsa": {
       "valeur": 2,
       "resume": "Propose 15 heures d'activité obligatoires pour les bénéficiaires du RSA et un plafonnement du cumul des aides à 70 % du SMIC.",
       "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "citation": null,
       "date_source": "2026-01-07",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_autorite": {
       "valeur": 2,
       "resume": "A cosigné au Sénat une proposition de loi rendant obligatoire une tenue d'établissement de l'école au lycée.",
       "source": "https://www.publicsenat.fr/actualites/politique/uniformes-obligatoires-a-l-ecole-une-proposition-de-loi-deposee-au-senat-231733",
+      "citation": null,
       "date_source": "2023",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": -2,
       "resume": "Opposé à la proportionnelle aux législatives, il a refusé de porter cette réforme et n'excluait pas de quitter le gouvernement à ce sujet.",
       "source": "https://www.publicsenat.fr/actualites/politique/hostile-a-la-proportionnelle-bruno-retailleau-necarte-pas-une-demission-du-gouvernement",
+      "citation": null,
       "date_source": "2025-06-02",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_ric": {
       "valeur": 1,
       "resume": "Ne propose pas de RIC, mais veut étendre le référendum de l'article 11 à « toute question législative » et abaisser de 5 à 2,5 millions de signatures le seuil du référendum d'initiative partagée.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+      "citation": null,
       "date_source": "2026-09-03",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_6e": {
       "valeur": -1,
       "resume": "Propose de réviser la Constitution de la Ve République, notamment pour permettre au président de soumettre au référendum une loi censurée par le Conseil constitutionnel ; aucune proposition de VIe République ni de réduction des pouvoirs présidentiels.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+      "citation": null,
       "date_source": "2026-09-03",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
       "valeur": 2,
       "resume": "Comme ministre de l'Intérieur, a déclaré que l'excuse de minorité, « aujourd'hui la règle », devait « devenir l'exception » et appelé à réformer profondément la justice des mineurs.",
       "source": "https://www.europe1.fr/politique/aujourdhui-lexcuse-de-minorite-est-la-regle-demain-elle-doit-devenir-lexception-affirme-bruno-retailleau-669464",
+      "citation": null,
       "date_source": "2025-03-25",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": 1,
       "resume": "Comme ministre de l'Intérieur, a voulu généraliser par la loi la vidéosurveillance algorithmique expérimentée aux JO ; aucune position publique vérifiée sur la reconnaissance faciale.",
       "source": "https://next.ink/brief-article/le-gouvernement-barnier-veut-generaliser-la-videosurveillance-algorithmique-vsa/",
+      "citation": null,
       "date_source": "2024-10-02",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": 2,
       "resume": "Son projet de réforme constitutionnelle prévoit d'« abolir le droit du sol » pour qu'il n'y ait plus de naturalisations automatiques.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+      "citation": null,
       "date_source": "2026-09-03",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_preference": {
       "valeur": 1,
       "resume": "Propose d'imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives (via une révision constitutionnelle par référendum), sans réserver explicitement ces prestations aux Français.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "citation": null,
       "date_source": "2026-10-12",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_otan": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_defense3": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": 2,
       "resume": "Veut limiter la durée et plafonner le montant de l'indemnisation après une rupture conventionnelle, supprimer l'allocation après un troisième refus d'offre et aligner les règles d'indemnisation sur les « standards européens ».",
       "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "citation": null,
       "date_source": "2026-01-07",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "edu_signes": {
       "valeur": 2,
       "resume": "Comme ministre de l'Intérieur, a dit vouloir une loi pour que les accompagnatrices de sorties scolaires ne soient pas voilées (« les sorties scolaires, c'est l'école hors les murs »).",
       "source": "https://www.leclubdesjuristes.com/en-bref/bruno-retailleau-souhaite-interdire-le-port-du-voile-pour-les-accompagnatrices-scolaires-8664/",
+      "citation": null,
       "date_source": "2025-01-07",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": 1,
       "resume": "En 2017, s'est dit favorable à la réduction du nombre de parlementaires « à la condition » qu'elle donne plus de moyens aux élus ; aucune déclaration récente vérifiée.",
       "source": "https://www.publicsenat.fr/actualites/politique/la-reduction-du-nombre-de-parlementaires-divise-les-interesses-75611",
+      "citation": null,
       "date_source": "2017-07-04",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }

@@ -12,281 +12,361 @@
       "valeur": 2,
       "resume": "Le document de campagne d'octobre 2026 prévoit d'abroger la réforme de 2023 (retraite à 64 ans) puis de revenir à la retraite à 60 ans avec 40 annuités au cours du mandat.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "citation": null,
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_smic": {
       "valeur": 2,
       "resume": "Le document de campagne d'octobre 2026 prévoit une hausse du SMIC à 1 700 euros net et l'indexation des salaires sur l'inflation.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "citation": null,
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_depenses": {
       "valeur": -2,
       "resume": "Le document de campagne d'octobre 2026 rejette les coupes dans les dépenses publiques et prévoit de réduire le déficit par environ 106 milliards d'euros de recettes nouvelles et par l'investissement.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "citation": null,
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 2,
       "resume": "Le document de campagne d'octobre 2026 prévoit le rétablissement d'un impôt sur la fortune renforcé (10 milliards d'euros attendus) et la suppression de la flat tax.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "citation": null,
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_35h": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « rétablir immédiatement la durée légale hebdomadaire à 35 heures » et de passer aux 32 heures dans les métiers pénibles ou de nuit.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « sortir du nucléaire » en abandonnant les projets d'EPR et en planifiant le démantèlement des sites.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) vise « le 100 % d'énergies renouvelables » en 2050 et un « plan d'urgence pour l'éolien maritime ».",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de réduire progressivement engrais et pesticides, d'interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l'importation de productions qui en contiennent.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_prisons": {
       "valeur": -1,
       "resume": "Le programme L'Avenir en commun (édition 2025) veut « en finir avec la surpopulation carcérale » par « un mécanisme contraignant de régulation carcérale », sans programme de construction de places.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « légaliser et encadrer par un monopole d'État la consommation, la production et la vente de cannabis à des fins récréatives ».",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_baisse": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « faciliter l'accès aux visas », de faire de la carte de séjour de dix ans le titre de référence et d'abroger les dernières lois asile et immigration.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_ame": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « garantir l'accès à l'aide médicale d'État (AME) ».",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « régulariser les travailleurs, étudiants, parents d'enfants scolarisés ».",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_integration": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de suspendre la participation (opt-out) de la France à des programmes comme « l'Europe de la défense » et de désobéir aux règles européennes jugées bloquantes.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": 1,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de désobéir « aux règles européennes incompatibles » avec le programme, sans proposer de sortie de l'UE.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": -1,
       "resume": "Déduit du vote du groupe LFI (Mélenchon n'est pas député) : contre la résolution du 12 mars 2025 appelant à renforcer le soutien, y compris militaire, à l'Ukraine.",
       "source": "https://datan.fr/votes/legislature-17/vote_988",
+      "citation": null,
       "date_source": "2025-03-12",
-      "confiance": "deduite"
+      "confiance": "deduite",
+      "relu": false
     },
     "soc_medecins": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « réguler l'installation des médecins » parmi les leviers contre les déserts médicaux.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_findevie": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'inscrire dans la Constitution « le droit de mourir dans la dignité (y compris avec assistance) » ; le groupe LFI a voté pour la loi sur l'aide à mourir le 15 juillet 2026.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_rsa": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'« abroger la loi France Travail et l'obligation de réaliser 15h d'activités hebdomadaires » pour les allocataires du RSA.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_prive": {
       "valeur": 1,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'« abolir les privilèges de l'enseignement privé », d'abroger la loi Carle et d'appliquer un malus au financement public des établissements privés sous contrat contribuant à la ségrégation scolaire.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_autorite": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « suspendre l'expérimentation de l'uniforme », d'abroger le « Choc des savoirs » et de mettre fin aux groupes de niveau au collège.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'« élire l'Assemblée nationale au scrutin proportionnel ».",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_ric": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'instaurer le RIC permettant de révoquer des élus, proposer ou abroger une loi et modifier la Constitution.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_6e": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de réunir une Assemblée constituante pour passer à la 6e République et d'« abolir la monarchie présidentielle ».",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": 1,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « mettre fin aux niches fiscales sur le kérosène » et de supprimer les lignes aériennes lorsque l'alternative en train dure moins de quatre heures ; il ne prévoit pas de taxe sur les billets.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_mineurs": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de garantir les principes de l'ordonnance de 1945 sur l'enfance délinquante et d'abroger le code de justice pénale des mineurs pour le remplacer par un code de l'enfance.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) veut interdire certains usages de l'intelligence artificielle comme les identifications biométriques et privilégier les moyens humains du renseignement plutôt que la surveillance technologique.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « garantir le droit du sol intégral », de le rétablir sur l'ensemble du territoire national et de faciliter l'accès à la nationalité.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "imm_preference": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_otan": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de se retirer immédiatement du commandement intégré de l'OTAN puis, par étapes, de l'organisation elle-même.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_defense3": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_100secu": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'instaurer le « 100 % Sécu » en remboursant à 100 % les soins prescrits et en intégrant les mutuelles dans la Sécurité sociale.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_chomage": {
       "valeur": -2,
       "resume": "Le document de campagne d'octobre 2026 propose d'abroger dès 2027 les réformes de l'assurance chômage qui ont réduit les conditions d'accès, le montant, la durée et rendu l'indemnité dégressive.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "citation": null,
       "date_source": "2026-10",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": 1,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit une « garantie d'autonomie » portant au-dessus du seuil de pauvreté (1 216 euros) le revenu des jeunes détachés du foyer fiscal parental ; il ne s'agit pas d'une allocation réservée ni versée à tous les étudiants.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": -1,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'étendre la scolarité obligatoire à 18 ans et critique la « généralisation aveugle de l'apprentissage » ; il ne mentionne pas explicitement l'âge de 14 ans.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « reconnaître le vote blanc », d'instaurer le vote obligatoire et un seuil de votes exprimés pour valider une élection.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "citation": null,
       "date_source": "2025-02",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     }
   }
 }

@@ -23,13 +23,15 @@ Pour chaque fiche à rafraîchir, et pour chacune des 40 questions de `data/ques
 3. Sinon, la position du parti ou le programme de 2022, avec `confiance: "deduite"` et en le disant dans le résumé.
 4. Rien de trouvé → `null`. Ne jamais déduire une position de l'étiquette politique : c'est précisément ce qui biaiserait le test.
 
-Chaque position non nulle a une URL source précise et une `date_source`. Le résumé décrit la position en une phrase, sans adjectif évaluatif. Mets à jour `mis_a_jour` avec la date du jour.
+Chaque position non nulle a une URL source précise, une `date_source` et une `citation` : la phrase exacte de la source qui justifie la valeur (300 caractères au plus), recopiée après avoir ouvert la page. Si aucune phrase de la source ne justifie la valeur, corrige la valeur ou passe-la à `null`. Les agrégateurs (votons-2027.fr, elyseescope, monvote2027…) ne comptent jamais comme source. Toute position créée ou modifiée garde (ou repasse à) `relu: false`. Le résumé décrit la position en une phrase, sans adjectif évaluatif. Mets à jour `mis_a_jour` avec la date du jour.
 
 Avec beaucoup de fiches, répartis le travail entre plusieurs agents (4 ou 5 candidats chacun), en leur donnant ce fichier et `_FORMAT.md` comme consignes.
 
 ## 4. Vérifier
 
-Relance `python3 scripts/check_data.py` : il doit sortir sans erreur. Puis relis quelques positions au hasard en ouvrant la source, surtout les valeurs extrêmes (2 ou -2) et les positions « deduite ».
+Relance `python3 scripts/check_data.py` : il doit sortir sans erreur. Il signale en alerte les positions sans citation et affiche, par candidat, combien de positions ont été relues par un humain.
+
+Puis fais relire les positions par un humain : `python3 scripts/a_relire.py > a-relire.md` produit une liste à cocher, valeurs extrêmes (2 ou -2) et positions « deduite » en tête. Le relecteur ouvre la source, vérifie que la citation y figure mot pour mot et justifie la valeur, puis passe `relu` à `true`. Seul un humain passe `relu` à `true`.
 
 ## Recalculer les modes rapide et moyen
 

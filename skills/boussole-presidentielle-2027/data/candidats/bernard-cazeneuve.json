@@ -12,281 +12,361 @@
       "valeur": -1,
       "resume": "Privilégie la durée de cotisation plutôt qu'un nouveau recul de l'âge légal, avec rétablissement de la pénibilité et des carrières longues ; ne propose pas de ramener l'âge légal à 62 ans.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_smic": {
       "valeur": null,
       "resume": "Aucune proposition sur le SMIC ; la lettre refuse toute « formule magique » sur le pouvoir d'achat.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eco_depenses": {
       "valeur": -1,
       "resume": "Attribue la hausse de la dette surtout à des choix fiscaux (suppression de l'ISF, flat tax) plutôt qu'aux dépenses sociales, et met l'accent sur la justice fiscale et la réduction des niches, tout en appelant à « dépenser plus efficacement ».",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_patrimoine": {
       "valeur": 1,
       "resume": "Propose une fiscalité « atteignant réellement les très grandes fortunes, les plus hauts revenus du capital et les rentes », sans nommer l'ISF ni la taxe Zucman, en précisant qu'« une fiscalité juste n'est pas punitive ».",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eco_35h": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la durée légale du travail.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_nucleaire": {
       "valeur": 1,
       "resume": "Veut « assumer » la filière électronucléaire et planifier le renouvellement du parc, sans préciser de nombre de réacteurs.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 0,
       "resume": "Propose une « rationalisation des investissements dans les énergies renouvelables » au service de l'électrification, sans objectif d'accélération.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_normes": {
       "valeur": 0,
       "resume": "Défend une écologie « populaire et planifiée » qui ne punisse pas les plus modestes, et en parallèle une simplification des normes (deux supprimées pour une créée) et la fin des surtranspositions.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_peines": {
       "valeur": -1,
       "resume": "Demande des « peines réellement exécutées » contre le narcotrafic, mais propose de sortir du « tout-comparution immédiate et de la prison par défaut » ; aucune proposition de peines planchers.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_prisons": {
       "valeur": -1,
       "resume": "Estime que « la prison ne peut pas être la réponse par défaut » et critique la surpopulation carcérale, sans proposer de programme de construction de places.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la légalisation du cannabis.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_baisse": {
       "valeur": null,
       "resume": "La lettre pose trois principes (humanité, intégration, fermeté contre l'immigration irrégulière) sans se prononcer sur le niveau de l'immigration légale, les quotas ou le regroupement familial.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
       "resume": "Aucune position trouvée sur l'AME.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la régularisation des travailleurs sans papiers.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_integration": {
       "valeur": 1,
       "resume": "Propose la fin de la règle de l'unanimité au profit des décisions à la majorité, une réforme budgétaire et une politique industrielle commune, tout en voulant contribuer à l'Europe de la défense « sans prétendre s'y substituer ».",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": -1,
       "resume": "Défend une Europe qui décide à la majorité et retrouve « l'ambition de ses pères fondateurs » ; ne propose ni primauté du droit national ni renégociation des traités dans ce sens.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_ukraine": {
       "valeur": 1,
       "resume": "Juge la défense de l'Ukraine « indissociable de l'idée d'un continent libre » et prône un réarmement « à proportion de la menace », sans détailler l'aide militaire.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "soc_medecins": {
       "valeur": null,
       "resume": "La lettre traite de l'accès aux soins et des métiers du soin, sans position trouvée sur la régulation de l'installation des médecins.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_findevie": {
       "valeur": null,
       "resume": "La lettre mentionne le débat éthique sur la fin de vie sans prendre position sur l'aide à mourir.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_rsa": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la conditionnalité du RSA ; la lettre propose de simplifier, unifier et automatiser les aides.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_prive": {
       "valeur": 0,
       "resume": "Combat « l'évitement organisé » et la ségrégation scolaire, mais estime que « ce n'est pas la coexistence du public et du privé qui pose problème » ; aucune proposition sur le financement du privé.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_autorite": {
       "valeur": null,
       "resume": "Aucune position trouvée sur l'uniforme, les sanctions ou les groupes de niveau ; la lettre insiste sur la transmission des savoirs et la « civilité laïque ».",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": 1,
       "resume": "Propose d'introduire une dose de proportionnelle aux législatives.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ins_ric": {
       "valeur": null,
       "resume": "Propose d'ouvrir la fabrique de la loi à la participation des citoyens, sans se prononcer sur le RIC.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_6e": {
       "valeur": -1,
       "resume": "Écarte un changement de régime, mais propose de rétablir le septennat, de restaurer le rôle du Premier ministre et de discipliner le recours au 49.3 et aux ordonnances.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "ecol_thermique2035": {
       "valeur": null,
       "resume": "La lettre ne traite pas des voitures thermiques ; elle prône l'électrification des usages et la sortie des énergies fossiles sans se prononcer sur 2035.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ecol_aerien": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la taxation du transport aérien.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_mineurs": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le jugement des mineurs ; la lettre propose de sortir du « tout-comparution immédiate » sans viser les mineurs.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "sec_videosurveillance": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la vidéosurveillance algorithmique ou la reconnaissance faciale.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "imm_droitdusol": {
       "valeur": -2,
       "resume": "Ministre de l'Intérieur en 2015, a qualifié d'« absurde » la remise en cause du droit du sol, qui ne serait pas la cause des flux migratoires ; aucune déclaration plus récente trouvée.",
       "source": "https://www.lecourrierdelatlas.com/france-la-remise-en-cause-du-droit-du-sol-est-absurde-selon-cazeneuve-3243/",
+      "citation": null,
       "date_source": "2015-06-22",
-      "confiance": "declaration"
+      "confiance": "declaration",
+      "relu": false
     },
     "imm_preference": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la préférence nationale ; la lettre pose trois principes (humanité, intégration, fermeté) sans aborder l'accès des étrangers aux prestations.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "eur_otan": {
       "valeur": -1,
       "resume": "Propose de « demeurer dans l'OTAN, sans rien y abdiquer » tout en contribuant à l'Europe de la défense ; ne propose pas de quitter le commandement intégré (non mentionné explicitement).",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "eur_defense3": {
       "valeur": null,
       "resume": "Veut « réarmer, à proportion de la menace » et rendre des moyens aux armées, sans objectif chiffré en pourcentage du PIB.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le remboursement à 100 % ou le rôle des complémentaires santé.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "soc_chomage": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la durée ou le montant de l'indemnisation chômage.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
       "resume": "La lettre défend la laïcité comme « principe de liberté » sans se prononcer sur les signes religieux des parents accompagnateurs.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "edu_etudiants": {
       "valeur": -1,
       "resume": "Ne propose pas d'allocation universelle : propose une aide d'au moins 2 000 euros pour les étudiants boursiers de première et deuxième année et une « avance jeunesse » de 3 000 euros sous conditions de ressources pour les 18-24 ans sans diplôme ni emploi.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": null,
       "date_source": "2026-07",
-      "confiance": "programme"
+      "confiance": "programme",
+      "relu": false
     },
     "edu_apprentissage": {
       "valeur": null,
       "resume": "Propose de « généraliser l'apprentissage dès le premier cycle universitaire », sans position sur l'entrée en apprentissage à 14 ans.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le nombre de parlementaires.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la reconnaissance du vote blanc.",
       "source": null,
+      "citation": null,
       "date_source": null,
-      "confiance": null
+      "confiance": null,
+      "relu": false
     }
   }
 }
