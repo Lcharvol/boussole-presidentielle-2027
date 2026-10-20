@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "partiel",
   "programme_url": "https://nouspresident.fr/notre-programme/",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Député de la Somme (groupe Écologiste et Social). Candidat déclaré ; il devait concourir à la primaire de la « gauche unitaire » du 11 octobre 2026, de facto abandonnée depuis juillet 2026 après le retrait du PS ; il avait annoncé qu'il irait seul en l'absence de primaire (https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026). Programme publié sous forme de « cahiers de campagne » thématiques (7 à ce jour) sur nouspresident.fr ; plusieurs thèmes (sécurité, école, institutions) ne sont pas encore couverts. Plusieurs positions s'appuient sur ses votes de député (datan.fr) ou sur le manifeste de Debout !.",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://nouspresident.fr/separation-argent-etat/",
       "date_source": "2026-07",
       "confiance": "programme"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": 1,
+      "resume": "Le cahier « Pour un travaillisme écologique » prévoit d'interdire les vols intérieurs lorsqu'existe une alternative en train de moins de 4 heures et de réduire de moitié le trafic aérien ; il ne prévoit pas de taxe spécifique, le manifeste de Debout ! dénonçant par ailleurs la détaxation du kérosène.",
+      "source": "https://nouspresident.fr/travaillisme-ecologique/",
+      "date_source": "2026-09-09",
+      "confiance": "programme"
+    },
+    "sec_mineurs": {
+      "valeur": -2,
+      "resume": "A voté contre la loi Attal sur la justice des mineurs (texte de CMP, 13 mai 2025), qui facilite la comparution immédiate des mineurs de plus de 16 ans et restreint l'excuse de minorité pour les récidivistes de plus de 16 ans.",
+      "source": "https://datan.fr/votes/legislature-17/vote_1624",
+      "date_source": "2025-05-13",
+      "confiance": "declaration"
+    },
+    "sec_videosurveillance": {
+      "valeur": -1,
+      "resume": "A voté contre le projet de loi relatif aux Jeux olympiques de 2024 (28 mars 2023), qui autorisait l'expérimentation de la vidéosurveillance algorithmique ; pas de déclaration spécifique trouvée sur la reconnaissance faciale.",
+      "source": "https://datan.fr/votes/legislature-16/vote_1305",
+      "date_source": "2023-03-28",
+      "confiance": "declaration"
+    },
+    "imm_droitdusol": {
+      "valeur": -2,
+      "resume": "A voté contre la proposition de loi restreignant le droit du sol à Mayotte (6 février 2025).",
+      "source": "https://datan.fr/votes/legislature-17/vote_697",
+      "date_source": "2025-02-06",
+      "confiance": "declaration"
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Le cahier de campagne sur le logement rejette la proposition de « réserver le logement social et les aides personnalisées au logement aux personnes de nationalité française », qu'il juge xénophobe et inefficace.",
+      "source": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Cosignataire d'un amendement de suppression du projet de loi transposant l'avenant n°3 à l'assurance chômage, qui réduit notamment la durée d'indemnisation de 18 à 15 mois pour les moins de 55 ans ; il a voté contre le texte le 2 juin 2026.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2633/AN/5",
+      "date_source": "2026-04-10",
+      "confiance": "declaration"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

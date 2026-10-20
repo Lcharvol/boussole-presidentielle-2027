@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "partiel",
   "programme_url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "S'est déclaré candidat dans Le Figaro le 28 avril 2026, puis a confirmé sa « volonté pleine et entière » le 19 mai (France Inter) et dit le 30 juillet que son objectif est de devenir président. Son statut reste ambigu : sa « Lettre aux Françaises et aux Français » (86 pages, mi-juillet 2026, 30 propositions) dit qu'« aucune candidature n'est déclarée », et certains suivis le classent comme « probable ». Cette lettre tient lieu de socle programmatique (site de campagne : bc2027.fr). Il refuse une primaire de la gauche. Beaucoup de thèmes de la boussole n'y sont pas traités.",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
       "date_source": "2026-07",
       "confiance": "programme"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "La lettre ne traite pas des voitures thermiques ; elle prône l'électrification des usages et la sortie des énergies fossiles sans se prononcer sur 2035.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la taxation du transport aérien.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur le jugement des mineurs ; la lettre propose de sortir du « tout-comparution immédiate » sans viser les mineurs.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la vidéosurveillance algorithmique ou la reconnaissance faciale.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": -2,
+      "resume": "Ministre de l'Intérieur en 2015, a qualifié d'« absurde » la remise en cause du droit du sol, qui ne serait pas la cause des flux migratoires ; aucune déclaration plus récente trouvée.",
+      "source": "https://www.lecourrierdelatlas.com/france-la-remise-en-cause-du-droit-du-sol-est-absurde-selon-cazeneuve-3243/",
+      "date_source": "2015-06-22",
+      "confiance": "declaration"
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la préférence nationale ; la lettre pose trois principes (humanité, intégration, fermeté) sans aborder l'accès des étrangers aux prestations.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": -1,
+      "resume": "Propose de « demeurer dans l'OTAN, sans rien y abdiquer » tout en contribuant à l'Europe de la défense ; ne propose pas de quitter le commandement intégré (non mentionné explicitement).",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Veut « réarmer, à proportion de la menace » et rendre des moyens aux armées, sans objectif chiffré en pourcentage du PIB.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur le remboursement à 100 % ou le rôle des complémentaires santé.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la durée ou le montant de l'indemnisation chômage.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "La lettre défend la laïcité comme « principe de liberté » sans se prononcer sur les signes religieux des parents accompagnateurs.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": -1,
+      "resume": "Ne propose pas d'allocation universelle : propose une aide d'au moins 2 000 euros pour les étudiants boursiers de première et deuxième année et une « avance jeunesse » de 3 000 euros sous conditions de ressources pour les 18-24 ans sans diplôme ni emploi.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Propose de « généraliser l'apprentissage dès le premier cycle universitaire », sans position sur l'entrée en apprentissage à 14 ans.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur le nombre de parlementaires.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la reconnaissance du vote blanc.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

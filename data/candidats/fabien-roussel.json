@@ -5,7 +5,7 @@
   "statut": "désigné par son parti",
   "programme": "non publié",
   "programme_url": null,
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Candidature approuvée par 72 % des adhérents du PCF lors de la consultation du 3 au 6 septembre 2026 (https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389). Le site fabienroussel2027.fr ne présente pas encore de programme. Plusieurs positions s'appuient sur des discours de 2025 publiés sur pcf.fr ; les autres sont déduites du programme « La France des Jours heureux » publié sur pcf.fr (programme 2022, SMIC actualisé à 1 600 € net sur le site) ; Roussel n'est plus député depuis 2024. À revoir à la publication du programme 2027.",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://www.pcf.fr/moyen_2",
       "date_source": "2022",
       "confiance": "deduite"
+    },
+    "ecol_thermique2035": {
+      "valeur": 0,
+      "resume": "Position déduite : la liste PCF aux européennes de 2024 (Léon Deffontaines) ne s'oppose pas à l'interdiction mais veut repousser l'échéance au-delà de 2035 ; en mars 2022, Fabien Roussel se disait favorable à la sortie du thermique « dans le calendrier le plus rapide possible ».",
+      "source": "https://journalauto.com/constructeurs/elections-europeennes-et-automobile-quelles-sont-les-positions-des-partis-politiques/",
+      "date_source": "2024-06-07",
+      "confiance": "deduite"
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": -1,
+      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : supprimer l'enfermement des jeunes de 13 à 16 ans et limiter celui des 16-18 ans ; le programme ne traite pas directement du jugement des mineurs comme des majeurs.",
+      "source": "https://www.pcf.fr/moyen_2",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : la France quitterait l'OTAN, immédiatement son commandement intégré, et demanderait sa dissolution.",
+      "source": "https://www.pcf.fr/moyen_3",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": 1,
+      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : mettre fin au reste à charge et aller vers une prise en charge des soins à 100 % par la Sécurité sociale, sans préciser le sort des complémentaires santé.",
+      "source": "https://www.pcf.fr/objectif_2",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : abrogation immédiate de la loi Borne sur l'assurance chômage.",
+      "source": "https://www.pcf.fr/objectif_1",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": 2,
+      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : un revenu de 850 euros par mois pour tous les étudiants, financé par une cotisation sociale et par l'État.",
+      "source": "https://www.pcf.fr/objectif_3",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

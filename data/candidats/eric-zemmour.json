@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "non publié",
   "programme_url": null,
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "A annoncé sur BFMTV le 17 septembre 2026 qu'il serait candidat (« Je serai candidat à la présidentielle ») ; son entourage annonçait une déclaration formelle à l'automne. Sarah Knafo, un temps évoquée, l'a présenté comme le candidat naturel et doit jouer un rôle majeur dans la campagne. Aucun programme 2027 publié : la plupart des positions sont déduites du programme présidentiel 2022 ; les déclarations de « Face à BFM » (17/09/2026) ont été vérifiées via des comptes rendus de presse (la page BFMTV n'a pas pu être consultée directement). Sources : https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html ; https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871 Au 20/10/2026, aucune déclaration formelle de candidature postérieure au 17/09/2026 n'a été trouvée.",
   "positions": {
     "eco_retraite": {
@@ -179,6 +179,111 @@
     "ins_6e": {
       "valeur": null,
       "resume": "Aucune position publique vérifiée sur une VIe République ou la réduction des pouvoirs du président.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_thermique2035": {
+      "valeur": -1,
+      "resume": "Position déduite (2022) : jugeait que le calendrier européen de fin des moteurs thermiques en 2035 avait été décidé « sans concertation » et devait être renégocié.",
+      "source": "https://journalauto.com/services/presidentielle-2022-eric-zemmour-r-jai-lintime-conviction-que-la-voiture-va-evoluer-avec-son-temps-et-perdurer/",
+      "date_source": "2022-03-24",
+      "confiance": "deduite"
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : abaisser l'âge de la majorité pénale de 18 à 16 ans.",
+      "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
+      "date_source": "2022-02-15",
+      "confiance": "deduite"
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : suppression du droit du sol.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "date_source": "2022-03-23",
+      "confiance": "deduite"
+    },
+    "imm_preference": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : suppression des aides sociales non contributives aux étrangers extra-européens et interdiction d'accès des étrangers aux logements sociaux.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "date_source": "2022-03-23",
+      "confiance": "deduite"
+    },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "Position déduite (campagne 2022) : voulait faire sortir la France du commandement intégré de l'OTAN, au nom de l'autonomie stratégique.",
+      "source": "https://www.publicsenat.fr/actualites/politique/otan-les-propositions-des-candidats-a-la-presidentielle-200136",
+      "date_source": "2022-03-25",
+      "confiance": "deduite"
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucune position exprimée en pourcentage du PIB ; son programme 2022 visait un budget de la défense de 70 milliards d'euros en 2030.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_signes": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : interdiction du port du voile dans l'espace public.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "date_source": "2022-03-23",
+      "confiance": "deduite"
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
       "source": null,
       "date_source": null,
       "confiance": null

@@ -5,7 +5,7 @@
   "statut": "pressenti",
   "programme": "non publié",
   "programme_url": null,
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Le 10 juillet 2026, il a lancé une cagnotte pour financer une troisième candidature (au moins 100 000 euros visés) et revendique 250 parrainages sur 500 ; il a dit qu'il déciderait à l'automne selon le résultat de la collecte (https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html). Le 8 octobre 2026, au Sommet de l'élevage, il déclarait encore : « Je n'ai pas encore pris la décision. Je vais voir » (https://www.pleinchamp.com/actualite/fezzfffzfz). Aucune déclaration de candidature, renoncement ou ralliement trouvé au 20 octobre 2026. Pas de programme 2027 et aucune déclaration 2025-2026 trouvée sur les thèmes du test (ses interventions de 2026 portent sur la bureaucratie, la mondialisation et l'agriculture, sans mesure précise) : les positions restent déduites de son programme présidentiel 2022 « La France authentique » (PDF officiel de jl2022.fr, consulté via archive.org), non démenti à notre connaissance.",
   "positions": {
     "eco_retraite": {
@@ -179,6 +179,111 @@
     "ins_6e": {
       "valeur": -1,
       "resume": "Position déduite du programme 2022 : « ressusciter l'esprit de la Ve République » par le RIC et la reconnaissance du vote blanc, avec un référendum sur le choix entre septennat et quinquennat, sans proposer de VIe République.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "date_source": "2022-02-25",
+      "confiance": "deduite"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : « préparer notre désengagement de l'OTAN », sans calendrier précis.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "date_source": "2022-02-25",
+      "confiance": "deduite"
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Le programme 2022 propose de rebâtir l'industrie d'armement et de renforcer la cyberdéfense, sans objectif chiffré de budget de défense.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : « la Sécurité sociale couvrira toutes les dépenses de santé », sur le modèle du régime local d'Alsace-Moselle, évitant un double remboursement par les mutuelles.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "date_source": "2022-02-25",
+      "confiance": "deduite"
+    },
+    "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Le programme 2022 propose un prêt étudiant de 20 000 euros à taux zéro garanti par l'État, et non une allocation universelle.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Le programme 2022 veut valoriser l'alternance et aider les TPE à embaucher des apprentis, sans âge d'entrée fixé.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : institutionnaliser la « reconnaissance effective du vote blanc » (proposition de loi constitutionnelle de 2021), les candidats devant en tirer les conséquences s'il arrive en tête.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "date_source": "2022-02-25",
       "confiance": "deduite"

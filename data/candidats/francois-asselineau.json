@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "non publié",
   "programme_url": null,
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Campagne officiellement lancée lors de son discours de rentrée du 30 septembre 2026 (https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale) ; en recherche de parrainages (appel du 19 octobre 2026). Le site de l'UPR indique que le programme présidentiel 2027 « sera publié prochainement » (https://www.upr.fr/notre-programme). Les positions sont donc tirées des mesures annoncées en septembre 2026 (confiance « declaration ») et, à défaut, du programme 2022 de l'UPR et de sa réponse de candidat au Shift Project de février 2022 (confiance « deduite ») ; Asselineau n'avait pas obtenu les parrainages en 2022.",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://www.upr.fr/notre-programme/programme-2022",
       "date_source": "2022-02",
       "confiance": "deduite"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_videosurveillance": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : proposer « l'interdiction constitutionnelle de toute surveillance généralisée de la population » (QR code, passe sanitaire, identité numérique), sans mention explicite de la vidéosurveillance algorithmique.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "imm_droitdusol": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : un référendum demanderait aux Français de trancher « les modifications à apporter au droit du sol », jugé problématique à Mayotte et en Guyane.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "Il annonce la notification immédiate de la sortie de la France de l'Alliance atlantique (article 13), au-delà du seul commandement intégré.",
+      "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "date_source": "2026-09-30",
+      "confiance": "declaration"
+    },
+    "eur_defense3": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : porter le budget de la défense « à hauteur d'au moins 3 % du PIB » sur le quinquennat.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Le programme 2022 propose de consolider l'Assurance maladie et de mettre fin aux déremboursements, sans position sur les complémentaires santé.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : passer à une « politique de sanction de l'inactivité choisie », les allocations chômage pouvant être supprimées après deux refus d'offres d'embauche.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Le programme 2022 propose de revaloriser les bourses de 25 % et de pérenniser les repas à 1 euro, sans allocation universelle.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": 2,
+      "resume": "Il propose la « réduction du nombre de députés et de sénateurs » ; son programme 2022 chiffrait la baisse à 500 députés et environ 100 sénateurs.",
+      "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "date_source": "2026-09-30",
+      "confiance": "declaration"
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

@@ -16,7 +16,7 @@ Cherche sur le web la liste actuelle (sources conseillées : la page Wikipédia 
 
 ## 3. Mettre à jour les positions
 
-Pour chaque fiche à rafraîchir, et pour chacune des 25 questions de `data/questions.json` :
+Pour chaque fiche à rafraîchir, et pour chacune des 40 questions de `data/questions.json` :
 
 1. Cherche d'abord dans le programme officiel (`programme_url`) ; s'il vient d'être publié, c'est la priorité absolue.
 2. Sinon, des déclarations récentes (entretiens, discours, votes au Parlement).
@@ -31,6 +31,10 @@ Avec beaucoup de fiches, répartis le travail entre plusieurs agents (4 ou 5 can
 
 Relance `python3 scripts/check_data.py` : il doit sortir sans erreur. Puis relis quelques positions au hasard en ouvrant la source, surtout les valeurs extrêmes (2 ou -2) et les positions « deduite ».
 
+## Recalculer les modes rapide et moyen
+
+Après une mise à jour importante des fiches, lance `python3 scripts/choisir_niveaux.py` : il affiche, thème par thème, le pouvoir de départage de chaque question. Si le classement a changé, enregistre les nouveaux niveaux avec `--ecrire`, et signale-le dans le message de commit.
+
 ## Modifier les questions
 
-Évite de changer les questions en cours de campagne : chaque modification oblige à recoder la question pour tous les candidats. Si c'est nécessaire (sujet devenu central, question qui ne départage plus personne), change `version` dans `questions.json` et remplis la nouvelle question pour **tous** les candidats avant de publier, sinon les scores ne sont plus comparables.
+Évite de changer les questions en cours de campagne : chaque modification oblige à recoder la question pour tous les candidats. Si c'est nécessaire (sujet devenu central, question qui ne départage plus personne), change `version` dans `questions.json` et remplis la nouvelle question pour **tous** les candidats avant de publier, sinon les scores ne sont plus comparables. Relance ensuite `choisir_niveaux.py --ecrire` pour lui attribuer un niveau.

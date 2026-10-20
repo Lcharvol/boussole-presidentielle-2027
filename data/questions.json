@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-20",
+  "version": "2026-10-21",
   "echelle": {
     "2": "Tout à fait d'accord",
     "1": "Plutôt d'accord",
@@ -19,37 +19,245 @@
     "institutions": "Institutions et démocratie"
   },
   "questions": [
-    {"id": "eco_retraite", "theme": "economie", "texte": "L'âge légal de départ à la retraite doit être ramené à 62 ans ou moins."},
-    {"id": "eco_smic", "theme": "economie", "texte": "L'État doit augmenter nettement le SMIC, au-delà de la revalorisation automatique."},
-    {"id": "eco_depenses", "theme": "economie", "texte": "Pour réduire le déficit, il faut d'abord baisser fortement les dépenses publiques plutôt qu'augmenter les impôts."},
-    {"id": "eco_patrimoine", "theme": "economie", "texte": "Il faut taxer davantage les très hauts patrimoines (rétablissement de l'ISF, taxe de type Zucman…)."},
-    {"id": "eco_35h", "theme": "economie", "texte": "Il faut assouplir la durée légale du travail (35 heures) pour permettre de travailler plus."},
-
-    {"id": "ecol_nucleaire", "theme": "ecologie", "texte": "La France doit construire de nombreux nouveaux réacteurs nucléaires."},
-    {"id": "ecol_renouvelables", "theme": "ecologie", "texte": "Il faut accélérer fortement le développement de l'éolien et du solaire."},
-    {"id": "ecol_normes", "theme": "ecologie", "texte": "Il faut renforcer les normes environnementales, même si cela pèse sur les agriculteurs et les entreprises."},
-
-    {"id": "sec_peines", "theme": "securite", "texte": "Il faut durcir les peines, par exemple avec des peines planchers ou minimales."},
-    {"id": "sec_prisons", "theme": "securite", "texte": "Il faut construire massivement de nouvelles places de prison."},
-    {"id": "sec_cannabis", "theme": "securite", "texte": "La consommation de cannabis doit être légalisée et encadrée par l'État."},
-
-    {"id": "imm_baisse", "theme": "immigration", "texte": "Il faut réduire fortement l'immigration légale (quotas, restriction du regroupement familial…)."},
-    {"id": "imm_ame", "theme": "immigration", "texte": "L'Aide médicale d'État (AME) pour les étrangers en situation irrégulière doit être supprimée ou réduite à l'urgence."},
-    {"id": "imm_regularisation", "theme": "immigration", "texte": "Il faut faciliter la régularisation des travailleurs sans papiers, notamment dans les métiers en tension."},
-
-    {"id": "eur_integration", "theme": "europe", "texte": "Il faut renforcer l'intégration européenne (défense commune, emprunt commun, davantage de décisions à la majorité)."},
-    {"id": "eur_primaute", "theme": "europe", "texte": "Le droit français doit primer sur le droit européen, quitte à renégocier ou sortir des traités."},
-    {"id": "eur_ukraine", "theme": "europe", "texte": "La France doit continuer à soutenir militairement l'Ukraine."},
-
-    {"id": "soc_medecins", "theme": "social", "texte": "Il faut réguler l'installation des médecins pour lutter contre les déserts médicaux, quitte à limiter leur liberté d'installation."},
-    {"id": "soc_findevie", "theme": "social", "texte": "L'aide à mourir, légalisée en 2026 sous conditions strictes, doit être maintenue plutôt qu'abrogée."},
-    {"id": "soc_rsa", "theme": "social", "texte": "Le versement du RSA doit être conditionné à des heures d'activité."},
-
-    {"id": "edu_prive", "theme": "education", "texte": "Il faut réduire le financement public de l'enseignement privé sous contrat."},
-    {"id": "edu_autorite", "theme": "education", "texte": "Il faut restaurer l'autorité à l'école (uniforme, sanctions renforcées, groupes de niveau)."},
-
-    {"id": "ins_proportionnelle", "theme": "institutions", "texte": "Les députés doivent être élus à la proportionnelle."},
-    {"id": "ins_ric", "theme": "institutions", "texte": "Il faut instaurer le référendum d'initiative citoyenne (RIC)."},
-    {"id": "ins_6e", "theme": "institutions", "texte": "Il faut passer à une VIe République et réduire les pouvoirs du président."}
+    {
+      "id": "eco_retraite",
+      "theme": "economie",
+      "texte": "L'âge légal de départ à la retraite doit être ramené à 62 ans ou moins.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "eco_smic",
+      "theme": "economie",
+      "texte": "L'État doit augmenter nettement le SMIC, au-delà de la revalorisation automatique.",
+      "niveau": "long"
+    },
+    {
+      "id": "eco_depenses",
+      "theme": "economie",
+      "texte": "Pour réduire le déficit, il faut d'abord baisser fortement les dépenses publiques plutôt qu'augmenter les impôts.",
+      "niveau": "rapide"
+    },
+    {
+      "id": "eco_patrimoine",
+      "theme": "economie",
+      "texte": "Il faut taxer davantage les très hauts patrimoines (rétablissement de l'ISF, taxe de type Zucman…).",
+      "niveau": "moyen"
+    },
+    {
+      "id": "eco_35h",
+      "theme": "economie",
+      "texte": "Il faut assouplir la durée légale du travail (35 heures) pour permettre de travailler plus.",
+      "niveau": "long"
+    },
+    {
+      "id": "ecol_nucleaire",
+      "theme": "ecologie",
+      "texte": "La France doit construire de nombreux nouveaux réacteurs nucléaires.",
+      "niveau": "rapide"
+    },
+    {
+      "id": "ecol_renouvelables",
+      "theme": "ecologie",
+      "texte": "Il faut accélérer fortement le développement de l'éolien et du solaire.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "ecol_normes",
+      "theme": "ecologie",
+      "texte": "Il faut renforcer les normes environnementales, même si cela pèse sur les agriculteurs et les entreprises.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "ecol_thermique2035",
+      "theme": "ecologie",
+      "texte": "L'interdiction de vendre des voitures thermiques neuves à partir de 2035 doit être maintenue.",
+      "niveau": "long"
+    },
+    {
+      "id": "ecol_aerien",
+      "theme": "ecologie",
+      "texte": "Il faut taxer davantage le transport aérien (billets, kérosène) pour financer la transition écologique.",
+      "niveau": "long"
+    },
+    {
+      "id": "sec_peines",
+      "theme": "securite",
+      "texte": "Il faut durcir les peines, par exemple avec des peines planchers ou minimales.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "sec_prisons",
+      "theme": "securite",
+      "texte": "Il faut construire massivement de nouvelles places de prison.",
+      "niveau": "long"
+    },
+    {
+      "id": "sec_cannabis",
+      "theme": "securite",
+      "texte": "La consommation de cannabis doit être légalisée et encadrée par l'État.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "sec_mineurs",
+      "theme": "securite",
+      "texte": "Les mineurs de 16 ans et plus doivent pouvoir être jugés comme des majeurs.",
+      "niveau": "rapide"
+    },
+    {
+      "id": "sec_videosurveillance",
+      "theme": "securite",
+      "texte": "Il faut généraliser la vidéosurveillance algorithmique (détection automatique, reconnaissance faciale) dans l'espace public.",
+      "niveau": "long"
+    },
+    {
+      "id": "imm_baisse",
+      "theme": "immigration",
+      "texte": "Il faut réduire fortement l'immigration légale (quotas, restriction du regroupement familial…).",
+      "niveau": "rapide"
+    },
+    {
+      "id": "imm_ame",
+      "theme": "immigration",
+      "texte": "L'Aide médicale d'État (AME) pour les étrangers en situation irrégulière doit être supprimée ou réduite à l'urgence.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "imm_regularisation",
+      "theme": "immigration",
+      "texte": "Il faut faciliter la régularisation des travailleurs sans papiers, notamment dans les métiers en tension.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "imm_droitdusol",
+      "theme": "immigration",
+      "texte": "Le droit du sol doit être supprimé ou fortement restreint.",
+      "niveau": "long"
+    },
+    {
+      "id": "imm_preference",
+      "theme": "immigration",
+      "texte": "Certaines prestations sociales et l'accès au logement social doivent être réservés en priorité aux Français.",
+      "niveau": "long"
+    },
+    {
+      "id": "eur_integration",
+      "theme": "europe",
+      "texte": "Il faut renforcer l'intégration européenne (défense commune, emprunt commun, davantage de décisions à la majorité).",
+      "niveau": "moyen"
+    },
+    {
+      "id": "eur_primaute",
+      "theme": "europe",
+      "texte": "Le droit français doit primer sur le droit européen, quitte à renégocier ou sortir des traités.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "eur_ukraine",
+      "theme": "europe",
+      "texte": "La France doit continuer à soutenir militairement l'Ukraine.",
+      "niveau": "rapide"
+    },
+    {
+      "id": "eur_otan",
+      "theme": "europe",
+      "texte": "La France doit quitter le commandement intégré de l'OTAN.",
+      "niveau": "long"
+    },
+    {
+      "id": "eur_defense3",
+      "theme": "europe",
+      "texte": "Le budget de la défense doit être porté à au moins 3 % du PIB.",
+      "niveau": "long"
+    },
+    {
+      "id": "soc_medecins",
+      "theme": "social",
+      "texte": "Il faut réguler l'installation des médecins pour lutter contre les déserts médicaux, quitte à limiter leur liberté d'installation.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "soc_findevie",
+      "theme": "social",
+      "texte": "L'aide à mourir, légalisée en 2026 sous conditions strictes, doit être maintenue plutôt qu'abrogée.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "soc_rsa",
+      "theme": "social",
+      "texte": "Le versement du RSA doit être conditionné à des heures d'activité.",
+      "niveau": "long"
+    },
+    {
+      "id": "soc_100secu",
+      "theme": "social",
+      "texte": "La Sécurité sociale doit rembourser à 100 % les soins prescrits, en supprimant le rôle des complémentaires santé.",
+      "niveau": "long"
+    },
+    {
+      "id": "soc_chomage",
+      "theme": "social",
+      "texte": "Il faut réduire la durée ou le montant de l'indemnisation chômage pour inciter au retour à l'emploi.",
+      "niveau": "rapide"
+    },
+    {
+      "id": "edu_prive",
+      "theme": "education",
+      "texte": "Il faut réduire le financement public de l'enseignement privé sous contrat.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "edu_autorite",
+      "theme": "education",
+      "texte": "Il faut restaurer l'autorité à l'école (uniforme, sanctions renforcées, groupes de niveau).",
+      "niveau": "rapide"
+    },
+    {
+      "id": "edu_signes",
+      "theme": "education",
+      "texte": "Le port de signes religieux doit être interdit aux parents qui accompagnent les sorties scolaires.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "edu_etudiants",
+      "theme": "education",
+      "texte": "Il faut créer une allocation d'autonomie versée à tous les étudiants.",
+      "niveau": "long"
+    },
+    {
+      "id": "edu_apprentissage",
+      "theme": "education",
+      "texte": "Il faut permettre l'entrée en apprentissage dès 14 ans.",
+      "niveau": "long"
+    },
+    {
+      "id": "ins_proportionnelle",
+      "theme": "institutions",
+      "texte": "Les députés doivent être élus à la proportionnelle.",
+      "niveau": "rapide"
+    },
+    {
+      "id": "ins_ric",
+      "theme": "institutions",
+      "texte": "Il faut instaurer le référendum d'initiative citoyenne (RIC).",
+      "niveau": "moyen"
+    },
+    {
+      "id": "ins_6e",
+      "theme": "institutions",
+      "texte": "Il faut passer à une VIe République et réduire les pouvoirs du président.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "ins_parlementaires",
+      "theme": "institutions",
+      "texte": "Il faut réduire le nombre de députés et de sénateurs.",
+      "niveau": "long"
+    },
+    {
+      "id": "ins_voteblanc",
+      "theme": "institutions",
+      "texte": "Le vote blanc doit être reconnu comme un suffrage exprimé.",
+      "niveau": "long"
+    }
   ]
 }

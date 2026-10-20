@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "partiel",
   "programme_url": "https://lafrancehumaineetforte.fr/manifeste.html",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Maire PS de Saint-Ouen-sur-Seine ; candidature annoncée le 9 juin 2026 sur France Inter. A refusé de participer à la primaire PS–Place publique (BFMTV, 26/08/2026) remportée par Raphaël Glucksmann le 11 octobre 2026 ; avait annoncé « faire le point fin octobre » (Sud Radio, 31/08/2026). Au 20/10/2026, aucune déclaration de retrait, de ralliement ou de maintien après la primaire n'a été trouvée ; son site de campagne (karimbouamrane2027.org) affiche toujours « Je suis candidat ». Statut à revérifier fin octobre 2026. Son manifeste énonce des orientations générales sans mesures chiffrées, d'où de nombreuses positions nulles.",
   "positions": {
     "eco_retraite": {
@@ -177,6 +177,111 @@
       "confiance": null
     },
     "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Son manifeste promet d'« augmenter l'effort de défense » sans objectif chiffré en % du PIB.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Son manifeste promet de défendre la laïcité « sans compromis et sans instrumentalisation » sans évoquer les sorties scolaires.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,

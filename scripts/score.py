@@ -23,6 +23,7 @@ from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 COUVERTURE_MIN = 0.5
+ECART_SERRE = 5
 
 
 def charger():
@@ -67,6 +68,10 @@ def calculer(user, questions, candidats):
             elif abs(u - v) >= 3:
                 desaccords.append(qid)
         couvertes = sum(1 for qid in reponses if (c.get("positions", {}).get(qid) or {}).get("valeur") is not None)
+        themes_repondus = {theme_de[qid] for qid in reponses}
+        prioritaires_sans_donnee = sorted(
+            t for t in themes_repondus if float(importance.get(t, 1)) > 1 and t not in par_theme
+        )
         resultats.append({
             "slug": c["slug"],
             "nom": c["nom"],
@@ -77,21 +82,31 @@ def calculer(user, questions, candidats):
             "par_theme": {t: round(100 * s / n) for t, (s, n) in par_theme.items()},
             "accords": accords,
             "desaccords": desaccords,
+            "prioritaires_sans_donnee": prioritaires_sans_donnee,
         })
 
     fiables = [r for r in resultats if r["score"] is not None and r["couverture"] >= COUVERTURE_MIN]
     peu_fiables = [r for r in resultats if r not in fiables]
     fiables.sort(key=lambda r: (-r["score"], -r["couverture"]))
     peu_fiables.sort(key=lambda r: (-(r["score"] or 0)))
-    return {"nb_reponses": len(reponses), "classement": fiables, "donnees_insuffisantes": peu_fiables}
+    # Candidats dont le score est à moins de ECART_SERRE points du premier : les départager n'a pas de sens.
+    peloton = [r["nom"] for r in fiables if fiables[0]["score"] - r["score"] <= ECART_SERRE] if fiables else []
+    return {"nb_reponses": len(reponses), "classement": fiables, "donnees_insuffisantes": peu_fiables,
+            "peloton_de_tete": peloton}
 
 
 def markdown(res, questions):
     themes = questions["themes"]
     lignes = [f"Réponses prises en compte : {res['nb_reponses']}", "",
-              "| Rang | Candidat | Parti | Proximité | Couverture |", "|---|---|---|---|---|"]
+              "| Rang | Candidat | Parti | Proximité | Couverture | Alerte |", "|---|---|---|---|---|---|"]
     for i, r in enumerate(res["classement"], 1):
-        lignes.append(f"| {i} | {r['nom']} | {r['parti']} | {r['score']} % | {round(100 * r['couverture'])} % |")
+        alerte = ""
+        if r["prioritaires_sans_donnee"]:
+            alerte = "aucune position connue sur : " + ", ".join(themes[t] for t in r["prioritaires_sans_donnee"])
+        lignes.append(f"| {i} | {r['nom']} | {r['parti']} | {r['score']} % | {round(100 * r['couverture'])} % | {alerte} |")
+    if len(res["peloton_de_tete"]) > 1:
+        lignes += ["", f"Écart serré : {len(res['peloton_de_tete'])} candidats à {ECART_SERRE} points ou moins "
+                       f"du premier ({', '.join(res['peloton_de_tete'])}). Leur ordre n'est pas significatif."]
     if res["donnees_insuffisantes"]:
         lignes += ["", "Positions connues insuffisantes pour un score fiable :"]
         for r in res["donnees_insuffisantes"]:

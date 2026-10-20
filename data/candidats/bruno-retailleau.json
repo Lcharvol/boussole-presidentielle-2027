@@ -5,7 +5,7 @@
   "statut": "désigné par son parti",
   "programme": "partiel",
   "programme_url": null,
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Candidature annoncée en février 2026 ; soutenu directement par les adhérents LR le 19 avril 2026 (pas de primaire). Pas de programme complet publié : projet présenté par thèmes (plan de finances publiques du 12/10/2026, réforme constitutionnelle du 03/09/2026, travail le 07/01/2026). Plusieurs positions reposent sur des déclarations 2023-2025 (Sénat, ministère de l'Intérieur). Position SMIC sourcée par une déclaration ancienne (2018).",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
       "date_source": "2026-09-03",
       "confiance": "declaration"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": 2,
+      "resume": "Comme ministre de l'Intérieur, a déclaré que l'excuse de minorité, « aujourd'hui la règle », devait « devenir l'exception » et appelé à réformer profondément la justice des mineurs.",
+      "source": "https://www.europe1.fr/politique/aujourdhui-lexcuse-de-minorite-est-la-regle-demain-elle-doit-devenir-lexception-affirme-bruno-retailleau-669464",
+      "date_source": "2025-03-25",
+      "confiance": "declaration"
+    },
+    "sec_videosurveillance": {
+      "valeur": 1,
+      "resume": "Comme ministre de l'Intérieur, a voulu généraliser par la loi la vidéosurveillance algorithmique expérimentée aux JO ; aucune position publique vérifiée sur la reconnaissance faciale.",
+      "source": "https://next.ink/brief-article/le-gouvernement-barnier-veut-generaliser-la-videosurveillance-algorithmique-vsa/",
+      "date_source": "2024-10-02",
+      "confiance": "declaration"
+    },
+    "imm_droitdusol": {
+      "valeur": 2,
+      "resume": "Son projet de réforme constitutionnelle prévoit d'« abolir le droit du sol » pour qu'il n'y ait plus de naturalisations automatiques.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+      "date_source": "2026-09-03",
+      "confiance": "declaration"
+    },
+    "imm_preference": {
+      "valeur": 1,
+      "resume": "Propose d'imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives (via une révision constitutionnelle par référendum), sans réserver explicitement ces prestations aux Français.",
+      "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "date_source": "2026-10-12",
+      "confiance": "declaration"
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": 2,
+      "resume": "Veut limiter la durée et plafonner le montant de l'indemnisation après une rupture conventionnelle, supprimer l'allocation après un troisième refus d'offre et aligner les règles d'indemnisation sur les « standards européens ».",
+      "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "date_source": "2026-01-07",
+      "confiance": "declaration"
+    },
+    "edu_signes": {
+      "valeur": 2,
+      "resume": "Comme ministre de l'Intérieur, a dit vouloir une loi pour que les accompagnatrices de sorties scolaires ne soient pas voilées (« les sorties scolaires, c'est l'école hors les murs »).",
+      "source": "https://www.leclubdesjuristes.com/en-bref/bruno-retailleau-souhaite-interdire-le-port-du-voile-pour-les-accompagnatrices-scolaires-8664/",
+      "date_source": "2025-01-07",
+      "confiance": "declaration"
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": 1,
+      "resume": "En 2017, s'est dit favorable à la réduction du nombre de parlementaires « à la condition » qu'elle donne plus de moyens aux élus ; aucune déclaration récente vérifiée.",
+      "source": "https://www.publicsenat.fr/actualites/politique/la-reduction-du-nombre-de-parlementaires-divise-les-interesses-75611",
+      "date_source": "2017-07-04",
+      "confiance": "declaration"
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

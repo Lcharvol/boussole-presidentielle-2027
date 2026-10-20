@@ -5,7 +5,7 @@
   "statut": "désigné par son parti",
   "programme": "non publié",
   "programme_url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Conductrice de bus, tête de liste NPA-R aux européennes de 2024 ; candidature annoncée le 17 juin 2026 avec Gaël Quirante. Candidature conditionnée à l'obtention des 500 parrainages : le NPA-R indiquait une centaine de promesses à la fin de l'été 2026 (AFP, 9 octobre 2026). Pas de programme détaillé publié : positions tirées de son discours à la Fête de l'Humanité (12 septembre 2026) et, à défaut, de ses réponses à des questionnaires lors des européennes de 2024 ou d'articles du NPA-R (signalées comme déduites).",
   "positions": {
     "eco_retraite": {
@@ -177,6 +177,111 @@
       "confiance": null
     },
     "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": -2,
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui rejette le projet de Gabriel Attal d'atténuer l'excuse de minorité et de juger plus vite les mineurs de 16 ans et plus.",
+      "source": "https://npa-revolutionnaires.org/excuse-de-minorite-les-fantasmes-de-gabriel-attal/",
+      "date_source": "2024-04-21",
+      "confiance": "deduite"
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Qualifie la proposition d'un référendum pour instaurer la préférence nationale de « pur racisme ».",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
+    },
+    "eur_otan": {
+      "valeur": 1,
+      "resume": "Position déduite de la profession de foi de sa liste aux européennes de 2024 (« Troupes de l'Otan hors d'Europe et du reste du monde ! ») ; elle ne se prononce pas explicitement sur le commandement intégré.",
+      "source": "https://npa-revolutionnaires.org/articles/profession-de-foi-de-la-liste-pour-un-monde-sans-frontieres-ni-patrons-urgence-revolution",
+      "date_source": "2024-05-13",
+      "confiance": "deduite"
+    },
+    "eur_defense3": {
+      "valeur": -2,
+      "resume": "Dénonce un « record de dépenses militaires » et revendique « pas un euro pour les guerres impérialistes ».",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Dénonce un gouvernement qui « rackette les chômeurs » et s'oppose aux atteintes à l'assurance chômage.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,

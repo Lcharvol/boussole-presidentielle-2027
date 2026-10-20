@@ -1,0 +1,15 @@
+{
+  "name": "lcharvol-skills",
+  "description": "Skills Claude de Lcharvol.",
+  "owner": {
+    "name": "Lcharvol",
+    "url": "https://github.com/Lcharvol"
+  },
+  "plugins": [
+    {
+      "name": "boussole-presidentielle-2027",
+      "source": "./",
+      "description": "Boussole électorale neutre pour la présidentielle française 2027 : questionnaire comparé aux positions sourcées des candidats."
+    }
+  ]
+}

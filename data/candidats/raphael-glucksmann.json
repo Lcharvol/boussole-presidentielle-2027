@@ -5,7 +5,7 @@
   "statut": "désigné par son parti",
   "programme": "non publié",
   "programme_url": null,
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Candidature annoncée le 23 août 2026 ; vainqueur dès le 1er tour (66,17 %) de la primaire PS–Place publique des 10-11 octobre 2026 (LCP, 11/10/2026), candidat commun PS, Place publique et Gauche républicaine et socialiste. Aucun programme de candidat publié au 20 octobre 2026 (le plan « 100 jours de la révolution écologique » annoncé fin août n'est pas paru). Les positions tirées d'« Acte I – notre vision pour la France », projet de Place publique de juin 2025 (https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i), antérieur à la candidature, sont marquées « deduite » ; celles réaffirmées en 2025-2026 citent la déclaration correspondante.",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
       "date_source": "2025-06",
       "confiance": "deduite"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": 2,
+      "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : suppression des exonérations de TVA et de taxe sur le kérosène et taxation des « plus gros pollueurs individuels (jets privés, yachts, SUV…) ».",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "date_source": "2025-06",
+      "confiance": "deduite"
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucun objectif en % du PIB trouvé ; « Acte I » (juin 2025) propose un fonds européen de défense de 500 milliards d'euros financé par emprunt commun.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": -1,
+      "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : le texte maintient l'articulation entre assurance maladie obligatoire et complémentaires santé, dont il propose de mutualiser les systèmes d'information.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "date_source": "2025-06",
+      "confiance": "deduite"
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : « Abroger la réforme Macron de l'assurance chômage, injuste et inefficace ».",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "date_source": "2025-06",
+      "confiance": "deduite"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position trouvée ; « Acte I » (juin 2025) veut « garantir la laïcité à l'école » sans évoquer les accompagnateurs de sorties scolaires.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur une allocation d'autonomie étudiante ; « Acte I » (juin 2025) propose de réinventer les bourses et d'étudier un « capital formation universel ».",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }
