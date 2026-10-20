@@ -12,7 +12,7 @@
       "valeur": -2,
       "resume": "Position déduite (2021-2022) : favorable à un recul progressif de l'âge légal vers 64 puis 65 ans ; en 2026 il défend en outre la retraite par capitalisation, sans âge précisé.",
       "source": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/elections-legislatives-xavier-bertrand-se-veut-rassembleur_5180029.html",
-      "citation": null,
+      "citation": "Xavier Bertrand milite pour une retraite à 65 ans avec des ajustements possibles.",
       "date_source": "2022-06-05",
       "confiance": "deduite",
       "relu": false
@@ -21,7 +21,7 @@
       "valeur": -1,
       "resume": "Position déduite (programme 2021) : propose une « prime au travail » versée par l'État pour que tout salarié à temps plein touche au moins 1 500 € net, plutôt qu'une hausse du SMIC à la charge des entreprises.",
       "source": "https://www.nousfrance.fr/2021/10/pour-une-societe-du-travail/",
-      "citation": null,
+      "citation": "Avant la fin de l’année 2022, tous les salariés travaillant à temps complet toucheront au moins 1500€ nets par mois. C’est mon engagement. Il repose sur un dispositif nouveau, la prime au travail. […] Elle se fera sans surcoût pour les entreprises […]",
       "date_source": "2021-10-02",
       "confiance": "deduite",
       "relu": false
@@ -30,7 +30,7 @@
       "valeur": 1,
       "resume": "Dit vouloir réduire les dépenses sociales et prioriser les classes moyennes, sans chiffrage publié.",
       "source": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
-      "citation": null,
+      "citation": "Priorisation de la classe moyenne, réduction des dépenses sociales, défense de la retraite par capitalisation : le président des Hauts-de-France a d'ores et déjà livré les grandes lignes de son projet […]",
       "date_source": "2026-08-03",
       "confiance": "declaration",
       "relu": false
@@ -48,7 +48,7 @@
       "valeur": 1,
       "resume": "Position déduite (programme 2021) : heures travaillées au-delà de 35 h sans impôt ni charges sociales, la durée légale restant le seuil de référence.",
       "source": "https://www.nousfrance.fr/2021/10/pour-une-societe-du-travail/",
-      "citation": null,
+      "citation": "Les heures travaillées au-delà de 35h seront clairement sans impôt et sans charge sociale comme l’étaient les heures supplémentaires en 2007.",
       "date_source": "2021-10-02",
       "confiance": "deduite",
       "relu": false
@@ -57,7 +57,7 @@
       "valeur": 2,
       "resume": "Position déduite (campagne 2021) : promettait la relance d'un programme nucléaire « digne de ce nom » avec de nouveaux EPR dès l'été suivant son élection.",
       "source": "https://www.linfodurable.fr/presidentielle-2022-xavier-bertrand-pour-la-relance-du-nucleaire-28042",
-      "citation": null,
+      "citation": "\"Si je suis élu, je choisirai dès l'été prochain la relance d'un programme nucléaire digne de ce nom dont on a besoin pour rester indépendant et pour que l'électricité arrête d'augmenter dans notre pays\"",
       "date_source": "2021-07-27",
       "confiance": "deduite",
       "relu": false
@@ -66,7 +66,7 @@
       "valeur": -2,
       "resume": "Position déduite (2021) : demande de bloquer les projets éoliens dans les Hauts-de-France et soutien « massif » aux associations anti-éoliennes.",
       "source": "https://www.linfodurable.fr/presidentielle-2022-xavier-bertrand-pour-la-relance-du-nucleaire-28042",
-      "citation": null,
+      "citation": "Concernant les éoliennes dans sa région, Xavier Bertrand a réclamé, à propos du chef de l'Etat: \"qu'il donne instruction demain aux cinq préfets (de la région) de bloquer maintenant tous les projets éoliens\".",
       "date_source": "2021-07-27",
       "confiance": "deduite",
       "relu": false
@@ -84,7 +84,7 @@
       "valeur": 2,
       "resume": "Position déduite (2021) : propose une peine encadrée entre un minimum et un maximum, plus contraignante que les peines planchers de 2007, via une révision constitutionnelle.",
       "source": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
-      "citation": null,
+      "citation": "Pour éviter cela, l’équipe de Xavier Bertrand a pensé à une « individualisation de la peine entre un minimum et un maximum », ce qui supposerait effectivement une « modification constitutionnelle ». « J’y suis prêt, les Français aussi » affirme solennellement Xavier Bertrand",
       "date_source": "2021-09-15",
       "confiance": "deduite",
       "relu": false
@@ -93,7 +93,7 @@
       "valeur": 2,
       "resume": "Position déduite (2021) : propose de créer 20 000 places de prison pour que les peines soient exécutées.",
       "source": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
-      "citation": null,
+      "citation": "Xavier Bertrand appelle d’ailleurs à « retrouver des principes simples », comme l’application effective des peines en créant 20 000 places de prison pour sortir de la « gestion immobilière de la délinquance »",
       "date_source": "2021-09-15",
       "confiance": "deduite",
       "relu": false
@@ -102,7 +102,7 @@
       "valeur": -2,
       "resume": "Position déduite (2021) : « Légaliser le cannabis ? … avec moi, jamais ».",
       "source": "https://www.lemondedutabac.com/cannabis-recreatif-legaliser-le-cannabis-avec-moi-jamais/",
-      "citation": null,
+      "citation": "[…] répondant à une question sur le cannabis, le président de la région Hauts-de-France et candidat à la présidence de la République s’est montré tranchant : « légaliser le cannabis ? … avec moi, jamais … »",
       "date_source": "2021-04-25",
       "confiance": "deduite",
       "relu": false
@@ -111,7 +111,7 @@
       "valeur": 2,
       "resume": "Position déduite (programme 2021) : quotas annuels votés par le Parlement par type d'immigration (hors asile) après référendum constitutionnel, et « passeport républicain » préalable au regroupement familial.",
       "source": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
-      "citation": null,
+      "citation": "Chaque année, le Parlement fixera des quotas par type d’immigration, en-dehors de l’asile qui fera l’objet d’une réforme spécifique. La Constitution sera révisée, dès l’automne 2022, par référendum populaire, pour le permettre.",
       "date_source": "2021-11",
       "confiance": "deduite",
       "relu": false
@@ -120,7 +120,7 @@
       "valeur": 2,
       "resume": "Position déduite (programme 2021) : supprimer l'AME pour les adultes et limiter leur prise en charge aux soins urgents et vitaux, l'aide complète restant réservée aux enfants.",
       "source": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
-      "citation": null,
+      "citation": "Enfin, il est impératif de supprimer l’aide médicale d’État pour les adultes, et de limiter leur prise en charge aux seuls soins urgents et vitaux.",
       "date_source": "2021-11",
       "confiance": "deduite",
       "relu": false
@@ -129,7 +129,7 @@
       "valeur": -2,
       "resume": "Position déduite (programme 2021) : « mettre fin au système actuel de régularisation » et abroger la circulaire de 2012.",
       "source": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
-      "citation": null,
+      "citation": "Tout d’abord, je mettrai fin au système actuel de régularisation. […] C’est pourquoi j’abrogerai la circulaire de régularisation de novembre 2012.",
       "date_source": "2021-11",
       "confiance": "deduite",
       "relu": false
@@ -156,17 +156,17 @@
       "valeur": 2,
       "resume": "Se dit « de façon indéfectible aux côtés des Ukrainiens », appelle à rétablir le rapport de force avec la Russie et à livrer ce qui a été promis.",
       "source": "https://www.boursorama.com/actualite-economique/actualites/guerre-en-ukraine-il-y-a-une-urgence-absolue-a-retablir-le-rapport-de-force-avec-la-russie-de-poutine-estime-xavier-bertrand-9b5d09bf36af035837e07e23287c55d6",
-      "citation": null,
+      "citation": "[…] a martelé Xavier Bertrand, avant de conclure : \"pour ce rapport de force, on livre ce que l'on a promis et on est de façon indéfectible aux côtés de Ukrainiens.\"",
       "date_source": "2024-02-27",
       "confiance": "declaration",
       "relu": false
     },
     "soc_medecins": {
       "valeur": -1,
-      "resume": "Position déduite (2021) : sur les déserts médicaux, privilégie les incitations plutôt que la contrainte ; en janvier 2026, il refusait des méthodes « punitives » envers la médecine libérale.",
-      "source": "https://medecine-generale.lequotidiendumedecin.fr/actus-medicales/politique-de-sante/xavier-bertrand-supprimer-laide-medicale-detat",
-      "citation": null,
-      "date_source": "2021-12-03",
+      "resume": "Position déduite (2021) : interrogé sur France Bleu Gironde en septembre 2021, s'est « fermement opposé » à l'obligation pour les jeunes médecins d'exercer un an dans les déserts médicaux (« C'est pas des pions les médecins »).",
+      "source": "https://www.lequotidiendumedecin.fr/liberal/installation/cest-pas-des-pions-les-medecins-xavier-bertrand-rejette-la-coercition-linstallation-pour-les-jeunes",
+      "citation": "Obliger les jeunes à exercer un an dans les déserts médicaux, la solution revient régulièrement sur le tapis. Questionné ce mercredi matin sur le sujet par France bleu Gironde , Xavier Bertrand s’y est fermement opposé.",
+      "date_source": "2021-09-22",
       "confiance": "deduite",
       "relu": false
     },
@@ -201,7 +201,7 @@
       "valeur": 1,
       "resume": "Comme président de région, a remis en septembre 2024 une tenue unique aux élèves d'un lycée expérimental (« Les différences doivent se faire par la personnalité, pas par la tenue vestimentaire ») ; aucune autre mesure sur l'autorité à l'école trouvée.",
       "source": "https://generation.hautsdefrance.fr/crepy-en-valois-xavier-bertrand-remet-la-tenue-unique-aux-eleves/",
-      "citation": null,
+      "citation": "« Les différences doivent se faire par la personnalité, pas par la tenue vestimentaire » , souligne Xavier Bertrand.",
       "date_source": "2024-09-02",
       "confiance": "declaration",
       "relu": false
@@ -210,7 +210,7 @@
       "valeur": -2,
       "resume": "Position déduite (2022) : opposé à la proportionnelle aux législatives par crainte d'un « hémicycle ingouvernable » ; aucune déclaration plus récente vérifiée.",
       "source": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/elections-legislatives-xavier-bertrand-se-veut-rassembleur_5180029.html",
-      "citation": null,
+      "citation": "Par ailleurs, Xavier Bertrand ne veut pas l’instauration de la proportionnelle pour les élections législatives de peur de voir un hémicycle ingouvernable.",
       "date_source": "2022-06-05",
       "confiance": "deduite",
       "relu": false
@@ -253,10 +253,10 @@
     },
     "sec_mineurs": {
       "valeur": 2,
-      "resume": "Position déduite (2021) : se disait favorable à l'instauration de la majorité pénale à 15 ans (JDD, 15 mai 2021) ; aucune déclaration 2025-2026 trouvée.",
-      "source": "https://www.revuepolitique.fr/mieux-sanctionner-penalement-les-mineurs-avez-vous-dit/",
-      "citation": null,
-      "date_source": "2021-05-18",
+      "resume": "Position déduite (2021) : proposait l'abaissement de la majorité pénale à 15 ans parmi ses mesures de sécurité ; aucune déclaration 2025-2026 trouvée.",
+      "source": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
+      "citation": "Xavier Bertrand appelle d’ailleurs à « retrouver des principes simples », comme l’application effective des peines en créant 20 000 places de prison pour sortir de la « gestion immobilière de la délinquance », ou bien l’abaissement de la majorité pénale à 15 ans.",
+      "date_source": "2021-09-15",
       "confiance": "deduite",
       "relu": false
     },
@@ -282,7 +282,7 @@
       "valeur": 1,
       "resume": "Position déduite (programme 2021) : se dit prêt à durcir les conditions de séjour régulier exigées pour les prestations et à réserver les aides au logement aux étrangers « durablement installés », sans réserver de prestations aux Français.",
       "source": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
-      "citation": null,
+      "citation": "Je suis prêt à aller plus loin, mais il faut dire la vérité sur ce qui existe déjà. Je propose que, désormais, les aides au logement ne soient accordées qu’à ceux qui sont durablement installés de façon légale sur notre sol.",
       "date_source": "2021-11",
       "confiance": "deduite",
       "relu": false

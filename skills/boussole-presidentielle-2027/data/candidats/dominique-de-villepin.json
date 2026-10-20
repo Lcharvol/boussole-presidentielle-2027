@@ -12,7 +12,7 @@
       "valeur": 0,
       "resume": "Propose de supprimer l'âge légal au profit d'une règle de durée de cotisation, avec une prise en compte sérieuse de la pénibilité ; ne propose pas explicitement un retour à 62 ans.",
       "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
-      "citation": null,
+      "citation": "Ma préférence va à un système plus souple, plus juste, plus simple. Il supprimerait l’âge légal et reposerait sur une règle de durée de cotisations, avec une prise en compte sérieuse de la pénibilité des métiers.",
       "date_source": "2026-03-27",
       "confiance": "declaration",
       "relu": false
@@ -21,7 +21,7 @@
       "valeur": -1,
       "resume": "Ne propose pas de hausse du SMIC : son projet augmente le salaire net en basculant « plus de 200 Md€ de cotisations » vers une CSG universelle, soit « +100 € au Smic ».",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
-      "citation": null,
+      "citation": "Plus de 200 Md€ de cotisations basculés vers une CSG universelle : +200 € nets par mois en moyenne, +100 € au Smic.",
       "date_source": "2026",
       "confiance": "programme",
       "relu": false
@@ -30,7 +30,7 @@
       "valeur": 0,
       "resume": "Pour réduire le déficit sous 3 % d'ici 2031, il prône à la fois « des hausses d'impôt justes et des baisses de dépenses ciblées », sans hiérarchie entre les deux.",
       "source": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html",
-      "citation": null,
+      "citation": "Et bien sûr, ce cadre une fois en place, il faudra des hausses d’impôt justes et des baisses de dépenses ciblées, à hauteur des besoins, c’est-à-dire pour plus de 120 Mds€ à l’horizon 2031.",
       "date_source": "2026-08-21",
       "confiance": "declaration",
       "relu": false
@@ -39,7 +39,7 @@
       "valeur": 2,
       "resume": "Propose un impôt unique et fortement progressif sur le patrimoine des 1 % les plus riches, dès 2,2 millions d'euros, et des droits de succession progressifs au-delà d'un million d'euros.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
-      "citation": null,
+      "citation": "Un impôt unique sur le patrimoine des 1 % […] Dès 2,2 M€, fortement progressif. Il frappe la rente qui dort, pas l’entrepreneur qui risque.",
       "date_source": "2026",
       "confiance": "programme",
       "relu": false
@@ -48,7 +48,7 @@
       "valeur": 1,
       "resume": "S'interroge sur une remise en cause des 35 heures et des règles des heures supplémentaires, et souhaite donner plus de place à la négociation de branche.",
       "source": "https://lafrancehumaniste.fr/articles/un-nouveau-monde-du-travail.html",
-      "citation": null,
+      "citation": "Sur le temps de travail, et notamment les 35 heures ou les heures supplémentaires, […] n’est-il pas possible […] de confier davantage encore qu’aujourd’hui de responsabilités et de liberté de négociation aux branches ?",
       "date_source": "2025-12-08",
       "confiance": "declaration",
       "relu": false
@@ -57,7 +57,7 @@
       "valeur": 1,
       "resume": "Propose six nouveaux réacteurs EPR2 et un plan national pour le nouveau nucléaire.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
-      "citation": null,
+      "citation": "6 EPR2, éolien en mer industrialisé, électrification massive des usages, pour les ménages comme pour l’industrie.",
       "date_source": "2026",
       "confiance": "programme",
       "relu": false
@@ -66,16 +66,16 @@
       "valeur": 1,
       "resume": "Propose d'industrialiser l'éolien en mer et d'électrifier massivement les usages dans un mix avec le nucléaire ; l'éolien terrestre et le solaire ne sont pas abordés.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
-      "citation": null,
+      "citation": "6 EPR2, éolien en mer industrialisé, électrification massive des usages, pour les ménages comme pour l’industrie.",
       "date_source": "2026",
       "confiance": "programme",
       "relu": false
     },
     "ecol_normes": {
       "valeur": 1,
-      "resume": "S'est opposé à la loi Duplomb, jugée dangereuse pour l'environnement et la santé, tout en prônant ailleurs la fin des surtranspositions et moins d'« interdits imposés d'en haut ».",
+      "resume": "S'est opposé à la loi Duplomb, qu'il juge « dangereuse pour notre environnement, dangereuse pour la santé des Français ».",
       "source": "https://lafrancehumaniste.fr/articles/sur-la-loi-duplomb.html",
-      "citation": null,
+      "citation": "Non à la loi Duplomb, adoptée sans réflexion et sans concertation. Une loi dangereuse pour notre environnement, dangereuse pour la santé des Français […]",
       "date_source": "2025-07-20",
       "confiance": "declaration",
       "relu": false
@@ -129,7 +129,7 @@
       "valeur": 0,
       "resume": "Rejette toute « régularisation massive et globale » et propose d'enregistrer les sans-papiers par des documents biométriques ; aucune position trouvée sur des régularisations ciblées dans les métiers en tension.",
       "source": "https://www.20minutes.fr/politique/4246387-20260918-presidentielle-2027-regularisation-massive-globale-dit-villepin-immigration",
-      "citation": null,
+      "citation": "« Pas de régularisation massive et globale », affirme Dominique de Villepin",
       "date_source": "2026-09-18",
       "confiance": "declaration",
       "relu": false
@@ -138,7 +138,7 @@
       "valeur": 1,
       "resume": "Soutient des ressources propres et un emprunt mutualisé européens, un élargissement du vote à la majorité qualifiée, un Conseil de sécurité européen et des programmes de défense financés en commun, mais propose aussi une « pause sur la logique d'unification ».",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
-      "citation": null,
+      "citation": "La clé, c’est à la fois davantage de ressources propres européennes et l’emprunt mutualisé à l’échelle de l’Union, pour financer des politiques nationales validées pour leur valeur collective.",
       "date_source": "2026-03-06",
       "confiance": "declaration",
       "relu": false
@@ -147,7 +147,7 @@
       "valeur": -1,
       "resume": "Critique les juridictions nationales qui veulent reprendre l'interprétation des traités et propose une juridiction supranationale d'ordre constitutionnel, tout en défendant un « pacte de souveraineté » entre États.",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
-      "citation": null,
+      "citation": "il faut aussi envisager une juridiction supranationale d’ordre constitutionnel, éventuellement sous forme d’une chambre extraordinaire de la CJUE",
       "date_source": "2026-03-06",
       "confiance": "declaration",
       "relu": false
@@ -156,7 +156,7 @@
       "valeur": 0,
       "resume": "Évoque le prêt européen à l'Ukraine, une adhésion accélérée ou une association renforcée et le renforcement militaire du flanc est, tout en privilégiant la diplomatie, un cessez-le-feu et une « coexistence pacifique » avec la Russie.",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
-      "citation": null,
+      "citation": "Soyons réalistes : l’issue sera sans doute un cessez-le-feu amélioré, peut-être une paix armée ou un no man’s land du “ni paix, ni guerre”. Le renforcement militaire à l’est de l’Europe va s’accentuer et porter davantage sur les armements de pointe.",
       "date_source": "2026-03-06",
       "confiance": "declaration",
       "relu": false
@@ -165,7 +165,7 @@
       "valeur": 1,
       "resume": "Prend acte de la loi soumettant l'installation des médecins à une autorisation de l'ARS en mettant en garde contre la bureaucratie, et propose d'aller plus loin (bourses conditionnées à un exercice dans les territoires en crise).",
       "source": "https://lafrancehumaniste.fr/articles/sante-et-environnement.html",
-      "citation": null,
+      "citation": "J’entends aller plus loin en conditionnant l’attribution de bourses exceptionnelles aux étudiants en médecine à un engagement d’exercice dans les territoires les plus en crise.",
       "date_source": "2025-08-27",
       "confiance": "declaration",
       "relu": false
@@ -192,7 +192,7 @@
       "valeur": 1,
       "resume": "Estime que le privé « largement financé sur fonds publics » doit prendre sa part de la mixité sociale et propose de moduler l'aide publique selon le profil social des élèves accueillis.",
       "source": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
-      "citation": null,
+      "citation": "Le privé, largement financé sur fonds publics, doit prendre toute sa part de la mixité sociale. […] moduler la prise en charge publique en fonction de la condition sociale des élèves et des publics accueillis",
       "date_source": "2026-09-01",
       "confiance": "declaration",
       "relu": false
@@ -201,7 +201,7 @@
       "valeur": 0,
       "resume": "Prône la « tolérance zéro » contre les violences envers les enseignants et l'interdiction des téléphones, mais veut « réduire la caporalisation » et préfère la remédiation en petits groupes ; ni uniforme ni groupes de niveau.",
       "source": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
-      "citation": null,
+      "citation": "Plus de sécurité, cela passe par la tolérance zéro vis-à-vis des violences à l’encontre des enseignants et de l’ensemble de la communauté éducative. Plus de liberté, cela signifie réduire la caporalisation et la bureaucratisation qui se sont emparées du système éducatif.",
       "date_source": "2026-09-01",
       "confiance": "declaration",
       "relu": false
@@ -219,7 +219,7 @@
       "valeur": 1,
       "resume": "Propose un « référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux », préparé par une convention citoyenne permanente.",
       "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
-      "citation": null,
+      "citation": "Nous avons besoin pour débloquer le pays d'un référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux, préparé par une convention citoyenne permanente.",
       "date_source": "2026-03-27",
       "confiance": "declaration",
       "relu": false
@@ -228,7 +228,7 @@
       "valeur": -1,
       "resume": "Défend la Ve République et les pouvoirs du président en temps de crise, tout en proposant de renforcer le Parlement (vote de confiance systématique, motion de défiance constructive).",
       "source": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
-      "citation": null,
+      "citation": "L’une de ces réformes devrait être le caractère systématique du vote de confiance de l’Assemblée, mais également l’encadrement de la censure du gouvernement par une motion de défiance constructive",
       "date_source": "2026-05-24",
       "confiance": "declaration",
       "relu": false
@@ -282,7 +282,7 @@
       "valeur": -2,
       "resume": "Estime qu'une préférence nationale, « contraire aujourd'hui à notre Constitution », bouleverserait l'égalité devant la loi et les droits fondamentaux.",
       "source": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
-      "citation": null,
+      "citation": "on demande au peuple de placer au-dessus des garanties constitutionnelles ordinaires une préférence nationale qui bouleverserait l’égalité devant la loi, les droits fondamentaux et nos engagements européens et internationaux.",
       "date_source": "2026-05-24",
       "confiance": "declaration",
       "relu": false
@@ -291,7 +291,7 @@
       "valeur": 0,
       "resume": "Veut une sécurité européenne « dans l'OTAN, mais viable sans l'OTAN » et juge l'Alliance nécessaire à court terme ; opposé en 2009 au retour dans le commandement intégré, il ne propose pas d'en sortir dans les textes trouvés.",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
-      "citation": null,
+      "citation": "Il faut produire un projet de sécurité dans l’OTAN, mais viable sans l’OTAN.",
       "date_source": "2026-03-06",
       "confiance": "declaration",
       "relu": false

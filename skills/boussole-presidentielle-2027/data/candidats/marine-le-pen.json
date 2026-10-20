@@ -12,7 +12,7 @@
       "valeur": 2,
       "resume": "Maintient le retour à un âge légal de 62 ans, voire 60 ans avec 40 annuités pour ceux ayant commencé à travailler avant 20 ans (débat du Medef, 27 août 2026).",
       "source": "https://www.journaldunet.com/business/action-publique/1554113-marine-le-pen-maintient-le-retour-a-la-retraite-a-62-ans/",
-      "citation": null,
+      "citation": "La candidate du RN a officialisé son souhait de conserver la retraite à 62 ans, voire 60 ans, lors de ce débat, précisant ainsi les contours d’une réforme déjà présentée lors des élections législatives de 2024.",
       "date_source": "2026-08-27",
       "confiance": "declaration",
       "relu": false
@@ -21,7 +21,7 @@
       "valeur": -1,
       "resume": "Position déduite : le programme RN privilégie des hausses de salaires exonérées de cotisations patronales plutôt qu'un relèvement du SMIC par l'État.",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": null,
+      "citation": "Permettre aux entreprises une hausse des salaires de 10% (jusqu'à 3 smic) en exonérant cette augmentation de cotisations patronales.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": false
@@ -30,7 +30,7 @@
       "valeur": 1,
       "resume": "Le contre-budget RN promet 140 milliards d'euros d'économies nettes d'ici 2032 et un déficit sous 3 % dès 2030, avec une « règle d'or » soumise à référendum ; la répartition entre baisses de dépenses et recettes n'est pas détaillée.",
       "source": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-a-2032_8224807.html",
-      "citation": null,
+      "citation": "la candidate du RN a promis \"140 milliards d'euros net d'économies\" d'ici 2032 par rapport à 2026, tout en assurant que le déficit public pouvait passer sous la barre des 3% dès 2030.",
       "date_source": "2026-10-06",
       "confiance": "programme",
       "relu": false
@@ -39,7 +39,7 @@
       "valeur": 0,
       "resume": "Juge la taxe Zucman « stupide et nocive » (le groupe RN l'a bloquée au budget 2026) mais défend un impôt sur la fortune financière excluant biens professionnels et résidence principale.",
       "source": "https://www.publicsenat.fr/actualites/economie/budget-2026-le-rn-seloigne-de-la-gauche-sur-la-fiscalite",
-      "citation": null,
+      "citation": "Hier, ces derniers ont fait barrage contre ce que Marine Le Pen qualifiait il y a quelques jours de proposition « stupide et nocive » […] Sa proposition d’un « impôt sur la fortune financière », présenté comme le retour à un « impôt sur la fortune » mais qui exclurait les biens professionnels […]",
       "date_source": "2025-10-21",
       "confiance": "declaration",
       "relu": false
@@ -48,7 +48,7 @@
       "valeur": -1,
       "resume": "N'envisage pas d'augmenter la durée légale du travail mais veut rendre les heures supplémentaires plus rémunératrices (« travailler plus pour garder plus »).",
       "source": "https://contrepoints.org/travailler-plus-oui-mais-collectivement-ou-individuellement/",
-      "citation": null,
+      "citation": "Son credo est « Travailler plus pour garder plus » : il s’agit de faciliter le recours aux heures supplémentaires en faisant en sorte qu’elles rapportent davantage. Augmenter la durée légale de travail n’est pas envisagé.",
       "date_source": "2026-09-02",
       "confiance": "declaration",
       "relu": false
@@ -57,7 +57,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : relance du nucléaire avec cinq paires d'EPR et cinq EPR2, prolongation des centrales à 60 ans et réouverture de Fessenheim.",
       "source": "https://www.linfodurable.fr/politique/le-programme-ecolo-de-marine-le-pen-31355",
-      "citation": null,
+      "citation": "Relancer le nucléaire via la création de cinq paires d’EPR et cinq autre EPR2, le prolongement jusqu’à soixante ans des centrales et la réouverture de Fessenheim.",
       "date_source": "2022-03",
       "confiance": "deduite",
       "relu": false
@@ -66,7 +66,7 @@
       "valeur": -2,
       "resume": "Le RN a soutenu en juin 2025 un moratoire sur tout nouveau projet éolien ou solaire, présenté par le député Jean-Philippe Tanguy comme « au cœur du projet de Marine Le Pen » ; le programme 2022 prévoyait le démantèlement des éoliennes.",
       "source": "https://www.connaissancedesenergies.org/afp/futur-energetique-de-la-france-un-moratoire-sur-leolien-et-le-solaire-fait-derailler-lexamen-lassemblee-250620",
-      "citation": null,
+      "citation": "Ce moratoire \"est au cœur du projet de Marine Le Pen\", s'est félicité le député RN Jean-Philippe Tanguy.",
       "date_source": "2025-06-20",
       "confiance": "declaration",
       "relu": false
@@ -75,7 +75,7 @@
       "valeur": -2,
       "resume": "Demande la suppression de la surtransposition des normes et l'arrêt de leur multiplication pour les agriculteurs, et qualifie le Pacte vert européen de « stupidité économique et politique ».",
       "source": "https://www.publicsenat.fr/actualites/politique/prix-planchers-dans-lagriculture-un-prix-garanti-ne-peut-fonctionner-que-si-on-nimpose-pas-la-multiplication-des-normes-estime-marine-le-pen",
-      "citation": null,
+      "citation": "« Si on ne supprime pas les surtranspositions de normes inutiles qui empêchent les agriculteurs de travailler et renchérissent les prix, alors le prix garanti est signé d’échec », a-t-elle ajouté.",
       "date_source": "2024-02",
       "confiance": "declaration",
       "relu": false
@@ -84,7 +84,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 et des propositions du groupe RN : instauration de peines minimales (peines planchers) et réduction des remises de peine.",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": null,
+      "citation": "Rétablir les peines planchers pour que tout criminel et délinquant aient une sanction.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": false
@@ -93,7 +93,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : augmentation massive de la capacité carcérale (objectif de 85 000 places selon le chiffrage de l'Institut Montaigne).",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": null,
+      "citation": "Atteindre 85 000 places de prison en 2027.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": false
@@ -102,7 +102,7 @@
       "valeur": -2,
       "resume": "Position déduite du parti : le RN s'oppose à la légalisation du cannabis, Jordan Bardella y voyant un « signal dramatique » de banalisation.",
       "source": "https://www.europe1.fr/politique/legaliser-le-cannabis-cest-envoyer-un-signal-dramatique-estime-jordan-bardella-3905772",
-      "citation": null,
+      "citation": "\"Légaliser le cannabis c'est envoyer un signal dramatique en termes de banalisation de la consommation de ce genre de produits\", a-t-il poursuivi. \"Au RN, \"nous y sommes opposés.\"",
       "date_source": "2019-06-21",
       "confiance": "deduite",
       "relu": false
@@ -111,7 +111,7 @@
       "valeur": 2,
       "resume": "Position déduite des programmes 2022 et 2024 : référendum sur l'immigration, restriction puis fin du regroupement familial, suppression du droit du sol et priorité nationale.",
       "source": "https://lcp.fr/actualites/legislatives-2024-le-programme-du-rassemblement-national-en-matiere-d-immigration-a-l",
-      "citation": null,
+      "citation": "Suppression du droit du sol, priorité nationale, allocations familiales réservées aux Français, restriction du regroupement familial...",
       "date_source": "2024-06-28",
       "confiance": "deduite",
       "relu": false
@@ -120,7 +120,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme législatif 2024 : remplacement de l'AME par une aide médicale d'urgence.",
       "source": "https://lcp.fr/actualites/legislatives-2024-le-programme-du-rassemblement-national-en-matiere-d-immigration-a-l",
-      "citation": null,
+      "citation": "Selon le programme de la formation de Marine le Pen, le remplacement de l' Aide médicale d'Etat (AME) en aide médicale d'urgence figurerait aussi dans ce paquet législatif.",
       "date_source": "2024-06-28",
       "confiance": "deduite",
       "relu": false
@@ -129,7 +129,7 @@
       "valeur": -2,
       "resume": "A jugé que le titre de séjour « métiers en tension » proposé par le gouvernement créerait « un appel d'air » pour l'immigration clandestine.",
       "source": "https://www.algerie360.com/loi-dimmigration-france-quels-sont-les-metiers-en-tension/",
-      "citation": null,
+      "citation": "Par exemple, Marine Le Pen considère que la création de ce nouveau titre de séjour revient à lancer « un appel d’air » pour une immigration clandestine nouvelle, a-t-elle déclaré à FranceInfo.",
       "date_source": "2022-11",
       "confiance": "declaration",
       "relu": false
@@ -138,16 +138,16 @@
       "valeur": -2,
       "resume": "Position déduite : a renoncé à la sortie de l'UE et de l'euro mais veut retirer à Bruxelles l'essentiel de ses pouvoirs pour en faire une alliance de nations plus souple.",
       "source": "https://fr.euronews.com/my-europe/2026/09/17/marine-le-pen-veut-elle-ou-non-organiser-un-referendum-sur-le-frexit-si-elle-est-elue",
-      "citation": null,
+      "citation": "Lors de l'élection de 2022, elle a plutôt défendu l'idée de réformer en profondeur l'UE de l'intérieur, en retirant à Bruxelles l'essentiel de ses pouvoirs et en transformant le bloc en une alliance de nations plus souple.",
       "date_source": "2026-09-17",
       "confiance": "deduite",
       "relu": false
     },
     "eur_primaute": {
-      "valeur": 1,
-      "resume": "Position déduite : sa proposition de loi constitutionnelle de janvier 2024, à adopter par référendum, vise à rétablir la primauté du droit national en matière d'immigration et d'identité, sans proposer de sortie de l'UE.",
+      "valeur": 2,
+      "resume": "Position déduite : sa proposition de loi constitutionnelle de janvier 2024, à adopter par référendum, pose la supériorité de la Constitution sur toute norme internationale et prévoit une renégociation du droit dérivé « voire des Traités eux-mêmes », sans proposer de sortie de l'UE.",
       "source": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b2120_proposition-loi.pdf",
-      "citation": null,
+      "citation": "Dès lors que la sortie de l’Union européenne n’est nullement à l’ordre du jour, […] permettra au Président de la République et au Gouvernement d’engager une renégociation de nombreux textes de droit dérivé, voire des Traités eux-mêmes.",
       "date_source": "2024-01-25",
       "confiance": "deduite",
       "relu": false
@@ -156,7 +156,7 @@
       "valeur": -1,
       "resume": "Annonce qu'élue elle maintiendrait l'aide à l'Ukraine six mois puis cesserait l'aide financière faute de moyens, tout en évoquant la poursuite de la formation et de matériel défensif.",
       "source": "https://fr.euronews.com/2026/10/16/marine-le-pen-prete-a-debattre-avec-zelensky-apres-avoir-promis-de-couper-laide-francaise-",
-      "citation": null,
+      "citation": "“À partir de mon élection, durant six mois nous maintiendrons les aides [...] pour ne mettre personne au pied du mur. Mais après nous cesserons l'aide financière à l'Ukraine car nous n'avons plus les moyens de le faire\" , avait-elle déclaré.",
       "date_source": "2026-10-16",
       "confiance": "declaration",
       "relu": false
@@ -165,7 +165,7 @@
       "valeur": -1,
       "resume": "Position déduite du groupe RN : abstention sur la loi Garot (mai 2025) en souhaitant que le Sénat supprime l'article régulant l'installation des médecins.",
       "source": "https://lcp.fr/actualites/deserts-medicaux-l-assemblee-adopte-la-proposition-de-loi-qui-prevoit-de-reguler-l",
-      "citation": null,
+      "citation": "Et le Rassemblement national s'est abstenu \" en espérant que les sénateurs, dans leur grande sagesse, supprimeront l'article 1 [qui régule l'installation des médecins]\", a expliqué Claire Marais-Beuil (RN).",
       "date_source": "2025-05-08",
       "confiance": "deduite",
       "relu": false
@@ -174,7 +174,7 @@
       "valeur": 0,
       "resume": "Position déduite des propos du porte-parole du RN Laurent Jacobelli (16 juillet 2026) : le RN au pouvoir ne reviendrait pas sur la loi mais serait « très vigilant à ce qu'il n'y ait pas d'excès » ; Marine Le Pen a elle-même voté contre le texte en lecture définitive (scrutin n° 8280) et aucune promesse d'abrogation de sa part n'a été trouvée.",
       "source": "https://www.linfodurable.fr/aide-mourir-le-rn-au-pouvoir-ne-reviendrait-pas-sur-la-loi-mais-serait-tres-vigilant-58089",
-      "citation": null,
+      "citation": "Le Rassemblement national, dont les députés ont voté massivement contre la loi sur l'aide à mourir adoptée mercredi, ne reviendra pas sur ce texte s'il arrivait au pouvoir mais sera \"très vigilant\" sur son application, a affirmé jeudi le porte-parole du parti Laurent Jacobelli.",
       "date_source": "2026-07-16",
       "confiance": "deduite",
       "relu": false
@@ -201,7 +201,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : uniforme à l'école et recentrage sur les savoirs fondamentaux.",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": null,
+      "citation": "Rétablir l’autorité de l’institution scolaire par l’instauration d’un uniforme au primaire et au collège tout en sanctionnant les absences et les incivilités.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": false
@@ -210,7 +210,7 @@
       "valeur": 2,
       "resume": "Favorable à la proportionnelle aux législatives ; juge la proportionnelle intégrale par département (modèle 1986) « un moindre mal », sans exiger de prime majoritaire.",
       "source": "https://lcp.fr/actualites/proportionnelle-aux-legislatives-francois-bayrou-consulte-les-avis-divergent-sur-le",
-      "citation": null,
+      "citation": "indiqué que \"le scrutin de 1986, c'est-à-dire la proportionnelle intégrale par département, nous apparaît être un moindre mal par rapport à un système majoritaire qui aujourd'hui ne permet pas que chaque voix des Français soit entendue et respectée\"",
       "date_source": "2025-04-30",
       "confiance": "declaration",
       "relu": false
@@ -219,7 +219,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : RIC pour proposer ou abroger une loi à partir de 500 000 signatures, avec garde-fous.",
       "source": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-detaille-sa-revolution-referendaire-202358",
-      "citation": null,
+      "citation": "Mais surtout, la mesure phare de cette « révolution référendaire » consiste à abaisser à 500 000 électeurs la barre de déclenchement d’un référendum d’initiative citoyenne (RIC), qui permettrait d’abroger une loi ou d’en proposer une nouvelle.",
       "date_source": "2022-04-12",
       "confiance": "deduite",
       "relu": false
@@ -228,7 +228,7 @@
       "valeur": -1,
       "resume": "Position déduite : ne propose pas de VIe République mais une réforme de la Ve (septennat non renouvelable, référendums), sans réduction affichée des pouvoirs présidentiels.",
       "source": "https://www.cnews.fr/france/2022-04-12/proportionnelle-referendum-septennat-marine-le-pen-precise-son-programme-avant-le",
-      "citation": null,
+      "citation": "De plus, Marine Le Pen voudrait instaurer un septennat non-renouvelable. Un changement qui nécessiterait un référendum.",
       "date_source": "2022-04-12",
       "confiance": "deduite",
       "relu": false
@@ -237,16 +237,16 @@
       "valeur": -2,
       "resume": "Position déduite du groupe RN : ses députés ont fait supprimer en février 2025 l'article inscrivant la fin des ventes de voitures thermiques neuves en 2035, jugeant cet objectif « irréaliste ».",
       "source": "https://lcp.fr/actualites/fin-de-la-vente-des-voitures-thermiques-neuves-en-2035-l-assemblee-s-y-oppose-lors-d-un",
-      "citation": null,
+      "citation": "Dans un hémicycle clairsemé, 34 députés ont voté pour la suppression de l'article, en majorité du Rassemblement national, et 30 élus s'y sont opposés, issus des rangs de la coalition présidentielle et de la gauche.",
       "date_source": "2025-02-18",
       "confiance": "deduite",
       "relu": false
     },
     "ecol_aerien": {
-      "valeur": -1,
-      "resume": "Position déduite du groupe RN : il a voté contre la hausse de la taxe sur les billets d'avion au budget 2025, tout en proposant de taxer davantage la classe affaires et les jets privés.",
+      "valeur": -2,
+      "resume": "Position déduite du groupe RN : au budget 2025, la députée RN Alexandra Masson a dénoncé la hausse de la taxe sur les billets d'avion, jugeant qu'elle pénaliserait la compétitivité du transport aérien français.",
       "source": "https://www.linfodurable.fr/les-deputes-approuvent-lalourdissement-de-la-fiscalite-du-transport-aerien-pour-un-47838",
-      "citation": null,
+      "citation": "La hausse de la taxe présentée par le gouvernement va se traduire par une perte de compétitivité du transport aérien français et pénaliser l'attractivité de la destination France\", a également craint la députée RN Alexandra Masson.",
       "date_source": "2024-11-09",
       "confiance": "deduite",
       "relu": false
@@ -255,7 +255,7 @@
       "valeur": 1,
       "resume": "Position déduite : Jordan Bardella a proposé en 2024 de « mettre un terme à l'excuse de minorité », sans préciser les âges concernés.",
       "source": "https://vl-media.fr/cest-quoi-lexcuse-de-minorite-que-veut-supprimer-jordan-bardella/",
-      "citation": null,
+      "citation": "Président du Rassemblement national, Jordan Bardella a affirmé ce mercredi matin sur le plateau de BFMTV, vouloir mettre un terme à “l’excuse de minorité”, ou dit “atténuation de responsabilité”, selon l’article 122-8 du Code pénal.",
       "date_source": "2024-04-17",
       "confiance": "deduite",
       "relu": false
@@ -273,7 +273,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : supprimer le droit du sol et limiter l'accès à la nationalité à la naturalisation.",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": null,
+      "citation": "Supprimer le droit du sol et limiter l’accès à la nationalité à la seule naturalisation sur des critères de mérite et d’assimilation.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": false
@@ -282,7 +282,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : priorité nationale d'accès au logement social et à l'emploi, et aides sociales réservées aux Français.",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": null,
+      "citation": "Réserver les aides sociales aux Français, et conditionner à 5 années de travail en France l’accès aux prestations de solidarité. Assurer la priorité nationale d’accès au logement social et à l’emploi.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": false
@@ -291,7 +291,7 @@
       "valeur": 2,
       "resume": "A déclaré qu'élue elle ferait sortir la France du commandement militaire intégré de l'OTAN, tout en restant dans l'Alliance.",
       "source": "https://bdnews24.com/world/ae2775074f20",
-      "citation": null,
+      "citation": "Far-right leader Marine Le Pen said on Friday she would withdraw France from NATO's integrated military command if elected president next year, a stance dismissed by Foreign Minister Jean-Noel Barrot as \"irresponsible\".",
       "date_source": "2026-05-23",
       "confiance": "declaration",
       "relu": false
@@ -300,7 +300,7 @@
       "valeur": 2,
       "resume": "Position déduite : un amendement de députés RN à l'actualisation de la loi de programmation militaire (avril 2026) visait « au minimum 3 % » du PIB pour la défense en 2030, rappelant que c'est le programme du RN depuis 2017.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2695/AN/565",
-      "citation": null,
+      "citation": "Cette exigence est portée de longue date par le Rassemblement national, dont le programme prévoit depuis 2017 de porter l’effort de défense à minimum 3 % du PIB.",
       "date_source": "2026-04-29",
       "confiance": "deduite",
       "relu": false
@@ -318,7 +318,7 @@
       "valeur": -2,
       "resume": "S'est opposée en 2019 à la réforme de l'assurance chômage et à la dégressivité des allocations, qualifiées de « coup de rabot » de la protection sociale ; le groupe RN a aussi critiqué les réductions de durée d'indemnisation en 2023-2024.",
       "source": "https://www.publicsenat.fr/actualites/politique/assurance-chomage-le-pen-denonce-un-nouveau-coup-de-rabot-de-la-protection-sociale",
-      "citation": null,
+      "citation": "a fustigé \"des processus de culpabilisation des Français, de surveillance des chômeurs, de dégressivité des indemnités chômage (qui) correspondent à une vision de réduction comptable\".",
       "date_source": "2019-06-18",
       "confiance": "declaration",
       "relu": false
@@ -327,7 +327,7 @@
       "valeur": 2,
       "resume": "Position déduite (2019) : a jugé le voile non souhaitable lors des sorties scolaires, et le RN veut étendre l'interdiction des signes religieux de la loi de 2004 à tout l'espace public.",
       "source": "https://www.publicsenat.fr/actualites/politique/la-femme-voilee-prise-a-partie-est-une-militante-selon-marine-le-pen-146393",
-      "citation": null,
+      "citation": "La dirigeante d'extrême droite s'est dite \"d'accord\" avec le ministre de l'Education Jean-Michel Blanquer, qui ne juge \"pas souhaitable\" le port du voile en sortie scolaire […] Le RN veut étendre la loi de 2004, qui interdit le port de signes religieux à l'école, à \"tout l'espace public\".",
       "date_source": "2019-10-17",
       "confiance": "deduite",
       "relu": false
@@ -354,7 +354,7 @@
       "valeur": 2,
       "resume": "Position déduite (campagne 2017) : proposait de réduire le Parlement à 300 députés et 200 sénateurs ; aucune déclaration récente vérifiée.",
       "source": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-veut-reduire-le-nombre-de-deputes-et-un-senat-allege-52359",
-      "citation": null,
+      "citation": "\"Beaucoup d'élus pourraient être économisés. La diminution du nombre de parlementaires doit être inscrite dans la Constitution\", a défendu l'eurodéputée sur BFMTV-RMC. \"Je demanderai aux Français d'avoir (...) 300 députés, 200 sénateurs\"",
       "date_source": "2017-01-03",
       "confiance": "deduite",
       "relu": false

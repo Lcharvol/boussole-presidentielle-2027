@@ -21,7 +21,7 @@
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : revaloriser le SMIC à 1 400 euros net, soit une hausse de 8 %.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Revaloriser le SMIC à 1 400 euros net. Cette augmentation de 8 % doperait notamment une consommation tournée vers des secteurs à bas revenus (hôtellerie, restauration).",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -39,7 +39,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : rétablir l'ISF et supprimer l'IFI.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Rétablir l’ISF (Impôt sur la fortune) et supprimer l’IFI (Impôt sur la fortune immobilière).",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -57,7 +57,7 @@
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : prolonger de 25 ans les centrales en fin de vie et développer des centrales de 4e génération, dans une « transition énergétique du nucléaire », sans nombre de réacteurs précisé.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Préparer la transition énergétique du nucléaire. Rénover et prolonger de 25 ans les centrales nucléaires en fin de vie.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -66,7 +66,7 @@
       "valeur": 0,
       "resume": "Position déduite du programme 2022 : « stopper l'éolien » (interdire les projets non validés par les maires) mais développer le solaire, avec des centrales solaires, et les énergies marines.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Stopper l’éolien. […] Développer l’énergie solaire (production et stockage) avec pour objectif de créer des centrales solaires.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -75,7 +75,7 @@
       "valeur": -1,
       "resume": "Position déduite du programme 2022 : lutter contre « le poids des normes et des surréglementations » et sortir des directives européennes « Habitats » et « Oiseaux » et de la Convention de Berne, tout en réorientant la PAC vers les paysans qui respectent leur terre.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Luttons contre le poids des normes et des surréglementations.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -93,7 +93,7 @@
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : lancer un plan de construction de prisons « à taille humaine » pour garantir l'application des peines courtes, sans objectif chiffré.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Lancer un plan de construction de prisons afin de garantir que les peines courtes seront appliquées et que les conditions d’hygiène / sécurité seront respectées. Elles devront être à taille humaine.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -102,7 +102,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : légaliser le cannabis en encadrant strictement sa vente et en consacrant une grande part des recettes à la lutte contre l'addiction.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Légaliser le cannabis, en encadrant strictement sa vente et en dédiant une grande part des recettes à la lutte contre l’addiction.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -138,7 +138,7 @@
       "valeur": -1,
       "resume": "Position déduite du programme 2022 : « Europe des Nations » avec coopérations bilatérales au cas par cas, révision de la contribution française au budget européen et vote du Parlement sur toute législation d'origine européenne.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Dans l'Europe des Nations Pouvoir coopérer de manière bilatérale avec nos voisins, au cas par cas, selon les projets. Revoir la participation financière de la France au budget européen.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -147,7 +147,7 @@
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : faire débattre et voter au Parlement toute législation européenne, « réviser nos marges de décision » (budget, PAC, directive Habitats) et sortir de certaines directives, sans proposer de sortie de l'UE.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Débattre et voter au Parlement toute législation d’origine européenne au lieu de laisser l’exécutif approuver par ordonnance pour les transposer en droit français.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -219,7 +219,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : instaurer le RIC, déclenchable avec le soutien de 700 000 citoyens.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "ma proposition de loi constitutionnelle de novembre 2021 sur le RIC permettrait de lancer une telle initiative une fois recueilli le soutien de 700 000 citoyens.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -228,7 +228,7 @@
       "valeur": -1,
       "resume": "Position déduite du programme 2022 : « ressusciter l'esprit de la Ve République » par le RIC et la reconnaissance du vote blanc, avec un référendum sur le choix entre septennat et quinquennat, sans proposer de VIe République.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Ce contexte imposera de choisir, le moment venu, par référendum entre septennat ou maintien du quinquennat.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -291,7 +291,7 @@
       "valeur": 1,
       "resume": "Position déduite du programme 2022 : « préparer notre désengagement de l'OTAN », sans calendrier précis.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Préparer notre désengagement de l’OTAN.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -309,7 +309,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : « la Sécurité sociale couvrira toutes les dépenses de santé », sur le modèle du régime local d'Alsace-Moselle, évitant un double remboursement par les mutuelles.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "La Sécurité Sociale couvrira toutes les dépenses de santé. C’est le cas en Alsace-Moselle, où le système de Sécurité sociale comprend un « régime local » complémentaire pour tous, ce qui évite un double traitement par le régime général puis par des « mutuelles ».",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false
@@ -363,7 +363,7 @@
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : institutionnaliser la « reconnaissance effective du vote blanc » (proposition de loi constitutionnelle de 2021), les candidats devant en tirer les conséquences s'il arrive en tête.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": null,
+      "citation": "Ma proposition de loi constitutionnelle de février 2021, représentée en janvier 2022, vise à institutionnaliser la reconnaissance effective du vote blanc.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false

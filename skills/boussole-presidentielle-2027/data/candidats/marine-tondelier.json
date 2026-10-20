@@ -12,7 +12,7 @@
       "valeur": 2,
       "resume": "Abroger le report à 64 ans pour « revenir immédiatement à un âge minimum à 62 ans » et viser la retraite à 60 ans.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Abroger l’âge légal de départ à la retraite à 64 ans (réforme Borne) pour revenir immédiatement à un âge minimum à 62 ans et viser une retraite à 60 ans […]",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -21,7 +21,7 @@
       "valeur": 2,
       "resume": "« Passer le salaire minimum à 2000€ brut par mois dès 2027 ».",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Passer le salaire minimum à 2000€ brut par mois dès 2027.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -30,7 +30,7 @@
       "valeur": -2,
       "resume": "Le programme finance ses mesures par de nouvelles recettes (taxe Zucman, fiscalité écologique) et veut exclure les investissements de transition du calcul du déficit ; il ne cible que des dépenses « inutiles et fossiles ».",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Exclure immédiatement les investissements liés à la transition écologique (énergies renouvelables, rénovation énergétique, transports collectifs et mobilités actives…) du calcul du déficit autorisé.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -39,7 +39,7 @@
       "valeur": 2,
       "resume": "« Rétablir la fiscalité sur la grande fortune » et « mettre en place une taxe Zucman de 2 % au-delà de 100 millions d'euros de patrimoine ».",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Rétablir la fiscalité sur la grande fortune. Mettre en place une taxe Zucman de 2 % au-delà de 100 millions d’euros de patrimoine.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -48,7 +48,7 @@
       "valeur": -2,
       "resume": "Veut une « nouvelle étape pour la diminution du temps de travail », avec les 32 heures sans perte de salaire dans les métiers pénibles ou de nuit.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Franchir une nouvelle étape pour la diminution du temps de travail. Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit en y conditionnant les aides aux entreprises.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -57,16 +57,16 @@
       "valeur": -2,
       "resume": "« Planifier la sortie du nucléaire » : mettre fin aux programmes EPR2 et SMR et étaler l'arrêt du parc sur une vingtaine d'années.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Planifier la sortie du nucléaire. Mettre fin aux nouveaux programmes EPR-2 et SMR extrêmement dispendieux.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 2,
-      "resume": "Veut refonder la politique énergétique sur la sobriété et les renouvelables, porter leur part à 44 % de la consommation finale dans la PPE3 et soutenir les filières éolienne et solaire.",
+      "resume": "Veut refonder la politique énergétique sur la sobriété et les renouvelables, porter leur part à 44 % de la consommation finale brute d'électricité en 2030 dans la PPE3 et soutenir les filières éolienne et solaire.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Modifier les objectifs et les moyens financiers de la troisième Planification Pluriannuelle de l’Énergie (PPE3) pour que la part des ENR atteigne 44 % de la consommation finale brute d’électricité en 2030.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -75,7 +75,7 @@
       "valeur": 2,
       "resume": "Prévoit une sortie progressive des pesticides de synthèse d'ici 2050, l'interdiction immédiate des pesticides cancérogènes et des « normes environnementales contraignantes ».",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Planifier une sortie progressive des pesticides de synthèse et des engrais azotés à l’horizon 2050. […] Interdire immédiatement les pesticides cancérigènes, mutagènes, […]",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -84,7 +84,7 @@
       "valeur": -1,
       "resume": "Le programme ne mentionne pas les peines planchers mais affirme que « la prison doit rester l'exception » et réaffirme la primauté de l'éducatif sur le répressif pour les mineurs.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "La prison doit rester l’exception, pas devenir la règle. L’objectif ultime doit rester la réinsertion des personnes condamnées y compris si c’est à long terme.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -93,7 +93,7 @@
       "valeur": -2,
       "resume": "Estime que « construire toujours plus de prisons est une impasse » et propose un numerus clausus carcéral.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Nous estimons que construire toujours plus de prisons est une impasse. Plus on construit, plus on enferme, sans jamais mieux enfermer.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -102,7 +102,7 @@
       "valeur": 2,
       "resume": "« Légaliser et encadrer la production, la vente et la consommation de cannabis », avec distribution par des structures à but non lucratif.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Légaliser et encadrer la production, la vente et la consommation de cannabis.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -111,7 +111,7 @@
       "valeur": -2,
       "resume": "Veut « garantir les libertés de migration », rendre effectif le regroupement familial et refaire de la France un pays attractif pour les migrants.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Rendre effectif le droit au regroupement familial par une révision des conditions d’octroi des titres de séjour en adoptant un renouvellement automatique et pluriannuel",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -120,7 +120,7 @@
       "valeur": -2,
       "resume": "Veut garantir l'accès à l'Aide médicale d'État pour les personnes exilées, et l'étendre à Mayotte.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Garantir l’accès à l’Aide Médicale d’État (AME).",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -129,7 +129,7 @@
       "valeur": 2,
       "resume": "« Régulariser les travailleur·ses, les étudiant·es et les parents d'enfants scolarisés » sur critères objectifs.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Régulariser les travailleur·ses, les étudiant·es et les parents d’enfants scolarisés sur la base de critères objectifs (durée de résidence, effectivité du lien familial, durée ou promesse d’activité professionnelle).",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -138,7 +138,7 @@
       "valeur": 2,
       "resume": "Prône un « saut fédéral européen » : remplacer les veto nationaux par la majorité qualifiée (y compris en politique étrangère) et construire une défense européenne autonome.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Faire un saut fédéral européen. Partager plus de domaines de compétence entre les Etats et l’Union Européenne. Remplacer les droits de veto nationaux par une majorité qualifiée […]",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -147,7 +147,7 @@
       "valeur": -2,
       "resume": "Le programme défend une « Europe fédérale » et une révision des traités dans le sens d'une intégration accrue, à l'opposé d'une primauté du droit national.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Faire un saut fédéral européen. Partager plus de domaines de compétence entre les Etats et l’Union Européenne.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -156,7 +156,7 @@
       "valeur": 2,
       "resume": "« Soutenir militairement l'Ukraine » : matériel militaire y compris frappes à longue portée, défense antiaérienne, formation et renseignement.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Soutenir militairement l’Ukraine. Fournir du matériel militaire, y compris de capacités de frappe à longue portée et des moyens de défense antiaérienne pour protéger le ciel ukrainien.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -165,7 +165,7 @@
       "valeur": 2,
       "resume": "Réguler l'installation des médecins libéraux par une autorisation délivrée par l'ARS, de droit en zone sous-dotée.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Réguler l’installation des médecins libéraux par une autorisation d’installation des médecins délivrée par l’Agence Régionale de Santé – de droit dans les zones sous-dotées et en lien avec la cessation d’activité d’un·e praticien·ne ailleurs.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -174,7 +174,7 @@
       "valeur": 2,
       "resume": "Légaliser l'aide active à mourir « en conservant l'équilibre des textes votés en 1re lecture ».",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Permettre l’accès universel aux soins palliatifs et légaliser l’aide active à mourir en conservant l’équilibre des textes votés en 1re lecture.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -183,7 +183,7 @@
       "valeur": -2,
       "resume": "Remplacer le RSA par une « garantie d'autonomie » et supprimer la contrepartie de 15 heures d'activité.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "En finir avec la logique de stigmatisation en supprimant la contrepartie de 15 heures d’activités hebdomadaires.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -192,7 +192,7 @@
       "valeur": 2,
       "resume": "« Diminuer et conditionner les subventions à l'enseignement privé ».",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Mieux maîtriser les dépenses publiques inutiles et fossiles. Diminuer et conditionner les subventions à l’enseignement privé.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -201,7 +201,7 @@
       "valeur": -1,
       "resume": "Veut abroger le « choc des savoirs » (groupes de niveau en sixième et cinquième) ; pas de mesure sur l'uniforme ou les sanctions.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -210,7 +210,7 @@
       "valeur": 2,
       "resume": "« Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives », sur base de circonscriptions régionales.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives […]",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -219,7 +219,7 @@
       "valeur": 2,
       "resume": "Mettre en œuvre le « Référendum d'Initiative Citoyenne (RIC) propositionnel ou abrogatif » sous contrôle de constitutionnalité préalable.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Renforcer la démocratie directe par la mise en œuvre du Référendum d’Initiative Citoyenne (RIC) propositionnel ou abrogatif – sous condition d’un contrôle de constitutionnalité préalable.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -228,7 +228,7 @@
       "valeur": 2,
       "resume": "Propose de « passer à la Première République écologique et citoyenne » : septennat unique, abrogation de l'article 16, président recentré sur un rôle de garant.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Etablir un septennat unique. Abroger les pouvoirs conférés par l’actuel article 16 et les pouvoirs de nomination de l’article 13 (à confier au Gouvernement).",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -237,7 +237,7 @@
       "valeur": 2,
       "resume": "Le programme veut « maintenir l'objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs ».",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Maintenir l’objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -246,7 +246,7 @@
       "valeur": 2,
       "resume": "Le programme veut « augmenter la fiscalité sur les billets d'avion » (TSBA et TVA) et réduire les taux réduits sur le kérosène des vols intérieurs, ainsi qu'interdire l'atterrissage des jets privés.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Augmenter la fiscalité sur les billets d’avion (Taxe sur les Billets d’Avion ou TSBA et taux de TVA) pour compenser les exonérations fiscales sectorielles.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -255,7 +255,7 @@
       "valeur": -2,
       "resume": "Le programme réaffirme « la primauté de l'éducatif sur le répressif » pour les mineurs délinquants, veut limiter les jugements rapides et abroger la loi Attal de 2025 (qui restreignait l'excuse de minorité pour les 16-18 ans).",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Réaffirmer le principe de la primauté de l’éducatif sur le répressif pour les mineur·es délinquants. […] Abroger la loi Attal de 2025.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -264,7 +264,7 @@
       "valeur": -2,
       "resume": "Le programme veut « interdire la reconnaissance faciale », encadrer la vidéosurveillance et en faire évaluer les dispositifs de manière indépendante.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Encadrer la vidéosurveillance et renforcer la présence humaine. Interdire la reconnaissance faciale et évaluer de manière indépendante les dispositifs de vidéosurveillance en lien avec la Défenseure des droits.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -273,7 +273,7 @@
       "valeur": -2,
       "resume": "Le programme veut « garantir l'application du droit du sol pour les enfants nés en France indépendamment de la situation des parents » et supprimer le régime dérogatoire de Mayotte.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Garantir l’application du droit du sol pour les enfants nés en France indépendamment de la situation des parents. Supprimer le régime dérogatoire à Mayotte.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -291,7 +291,7 @@
       "valeur": -1,
       "resume": "Le programme estime que « nous ne pouvons pas nous priver de l'Alliance atlantique à court terme » et veut bâtir un commandement militaire intégré européen tenant compte du pilier européen de l'OTAN ; il ne propose pas de quitter le commandement intégré de l'OTAN.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Nous ne pouvons pas nous priver de l’Alliance atlantique à court terme, mais elle n’est plus acquise dans sa forme historique.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -309,7 +309,7 @@
       "valeur": 1,
       "resume": "Le programme veut « bâtir la Grande Sécu » : prise en charge à 100 % par l'Assurance maladie des « soins essentiels », suppression des franchises et couverture des mutuelles limitée « aux seuls soins optionnels ».",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Garantir un remboursement total des soins essentiels nécessaires au maintien de l’autonomie et de la qualité de vie par la prise en charge à 100 % par l’Assurance maladie. Supprimer les franchises. Concentrer la couverture par les mutuelles aux seuls soins optionnels.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -318,7 +318,7 @@
       "valeur": -2,
       "resume": "Le programme veut abroger les réformes de l'assurance chômage des deux derniers quinquennats, dont celle du calcul de l'allocation, et indexer les allocations sur l'inflation.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Abroger les réformes régressives adoptées lors des deux derniers quinquennats notamment celle sur le calcul de l’Allocation de Retour à l’Emploi. Indexer le montant des allocations sur l’inflation.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -327,7 +327,7 @@
       "valeur": -2,
       "resume": "Le programme affirme que la laïcité « impose la neutralité au service public et à ses agent·es, pas à ses usagers » et qu'il faut respecter le port de vêtements religieux ; il ne mentionne pas explicitement les sorties scolaires (position interprétée).",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "La laïcité impose la neutralité au service public et à ses agent·es, pas à ses usagers ni aux habitant·es.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -336,7 +336,7 @@
       "valeur": 1,
       "resume": "Le programme étend la « garantie d'autonomie » (50 % du Smic net) dès 18 ans aux jeunes fiscalement indépendants et refond les bourses pour les étudiants rattachés à leur famille, sans allocation universelle pour tous les étudiants.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Étendre la protection sociale aux jeunes adultes par l’extension de la garantie d’autonomie dès 18 ans pour toutes les personnes indépendantes fiscalement [cf proposition 32-1].",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -345,7 +345,7 @@
       "valeur": -1,
       "resume": "Le programme veut « défendre un collège unique et inclusif permettant d'accueillir tous les élèves » ; il ne traite pas explicitement de l'apprentissage à 14 ans (position interprétée).",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Défendre un collège unique et inclusif permettant d’accueillir tous les élèves […]",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -361,9 +361,9 @@
     },
     "ins_voteblanc": {
       "valeur": 1,
-      "resume": "Le programme veut « reconnaître le vote blanc » en attribuant un nombre équivalent de sièges à des citoyens tirés au sort pour les élections territoriales.",
+      "resume": "Le programme veut « reconnaître le vote blanc » en attribuant le taux équivalent de sièges à des citoyens tirés au sort sur les listes électorales pour les élections territoriales.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": null,
+      "citation": "Reconnaître le vote blanc en attribuant le taux équivalent à des citoyen·nes tirés au sort sur les listes électorales pour les élections territoriales.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false

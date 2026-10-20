@@ -12,7 +12,7 @@
       "valeur": -2,
       "resume": "Son plan de finances publiques prévoit une décote pour les départs entre 63 et 65 ans, une part de capitalisation et la fin des derniers régimes spéciaux ; aucun retour à 62 ans.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
-      "citation": null,
+      "citation": "Sa réforme paramétrique, avec l’introduction d’une décote en cas de départ entre 63 et 65 ans, ne concourt qu’à hauteur de 12 milliards d’euros sur cette somme.",
       "date_source": "2026-10-12",
       "confiance": "declaration",
       "relu": false
@@ -21,7 +21,7 @@
       "valeur": -1,
       "resume": "S'est opposé à une forte hausse du SMIC (jugée facteur de dette) ; en 2026 il privilégie l'exonération des heures travaillées au-delà de 1 607 h et le plafonnement des aides à 70 % du SMIC plutôt qu'un coup de pouce.",
       "source": "https://www.publicsenat.fr/actualites/non-classe/augmenter-le-smic-de-20-declencherait-le-detonateur-de-la-dette-pour-retailleau-lr",
-      "citation": null,
+      "citation": "Augmenter le Smic de 20%, mesure soutenue par certains cadres de LR, ne manquerait pas de \"déclencher le détonateur\" de la \"bombe à retardement\" que \"constitue la dette\" française, a fustigé jeudi Bruno Retailleau, le président du groupe Les Républicains au Sénat.",
       "date_source": "2018-07-05",
       "confiance": "declaration",
       "relu": false
@@ -30,16 +30,16 @@
       "valeur": 2,
       "resume": "Plan de 197 Md€ d'économies sur cinq ans (dont non-remplacement de 400 000 agents partant à la retraite), avec des baisses d'impôts pour ménages et entreprises.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
-      "citation": null,
+      "citation": "Il s’engage à réaliser 197 milliards d’euros d’économies, dont 56 milliards redirigés sous forme de baisse de la fiscalité des entreprises et des ménages.",
       "date_source": "2026-10-12",
       "confiance": "declaration",
       "relu": false
     },
     "eco_patrimoine": {
       "valeur": -2,
-      "resume": "Comme président de LR, a indiqué que son parti ne participerait à aucun gouvernement intégrant la taxe Zucman ; LR refuse aussi tout « recyclage de l'ISF ».",
+      "resume": "Comme président de LR (septembre 2025), a mis en garde contre l'instauration de la taxe Zucman, qui selon lui ferait fuir les entreprises, et a posé des limites à la participation de son parti au gouvernement.",
       "source": "https://www.20minutes.fr/politique/4172990-20250914-devrions-faire-trahir-bruno-retailleau-pose-limites-participer-gouvernement",
-      "citation": null,
+      "citation": "« Si demain une politique devait être faite pour satisfaire la gauche, si demain on devait instituer la taxe Zucman […], nos propres entreprises pourraient s’enfuir, on pourrait assister à une délocalisation », avertit le ministre de l’Intérieur démissionnaire",
       "date_source": "2025-09-14",
       "confiance": "declaration",
       "relu": false
@@ -48,7 +48,7 @@
       "valeur": 2,
       "resume": "Veut « sortir des 35 heures » en annualisant le temps de travail (1 623 h au lieu de 1 607 h) avec zéro cotisation et zéro impôt au-delà, hors CSG-CRDS.",
       "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
-      "citation": null,
+      "citation": "Sans surprise, Bruno Retailleau reprend l’un des vieux tubes de la droite : « Sortir des 35 heures ». Il propose d’annualiser le temps de travail, en passant de 1607 heures (les 35 heures hebdomadaires) à 1623 heures",
       "date_source": "2026-01-07",
       "confiance": "declaration",
       "relu": false
@@ -57,7 +57,7 @@
       "valeur": 1,
       "resume": "Plan énergie LR qu'il porte : « rebâtir un parc nucléaire », en priorisant la prolongation des centrales existantes et un remplacement partiel et progressif, sans nombre de réacteurs chiffré.",
       "source": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
-      "citation": null,
+      "citation": "Notre priorité doit être de rebâtir un parc nucléaire en reconstituant une compétence industrielle française, afin d’éviter l’effet falaise lié au vieillissement des centrales actuelles.",
       "date_source": "2025-07-02",
       "confiance": "declaration",
       "relu": false
@@ -66,7 +66,7 @@
       "valeur": -2,
       "resume": "Son plan d'économies prévoit la fin du soutien public aux nouvelles installations solaires et éoliennes, qu'il juge intermittentes et coûteuses.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
-      "citation": null,
+      "citation": "23 milliards d’euros d’économies sont aussi prévues, en agrégé, sur la fin du soutien aux nouvelles installations d’énergie photovoltaïque ou éolienne […]",
       "date_source": "2026-10-12",
       "confiance": "declaration",
       "relu": false
@@ -75,7 +75,7 @@
       "valeur": -1,
       "resume": "Lors de son premier meeting, veut prendre la « tronçonneuse » pour couper dans les normes et critique le principe de précaution ; défend une « écologie de droite » sans mesure précise.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-jirai-jusquau-bout-de-lelection-pour-remettre-la-france-a-lendroit-clame-bruno-retailleau-a-son-premier-grand-meeting",
-      "citation": null,
+      "citation": "Bruno Retailleau réclame un « vent de liberté » pour le monde des entrepreneurs et une « tronçonneuse » pour « couper dans les normes ». Le principe de précaution est vilipendé.",
       "date_source": "2026-06-20",
       "confiance": "declaration",
       "relu": false
@@ -84,34 +84,34 @@
       "valeur": 2,
       "resume": "Propose une « charte de l'ordre républicain » rendant obligatoires des peines minimales pour certaines infractions, ainsi que le retour des courtes peines de prison.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
-      "citation": null,
+      "citation": "Les peines minimales pour certaines infractions seront « rendues obligatoires » sans dépendre de leur application par les juges.",
       "date_source": "2026-09-03",
       "confiance": "declaration",
       "relu": false
     },
     "sec_prisons": {
       "valeur": 1,
-      "resume": "Position déduite : les députés LR ont fait voter en 2023 un amendement pour 3 000 places de prison supplémentaires ; aucun chiffre propre au candidat n'a été trouvé dans une source primaire.",
-      "source": "https://lcp.fr/actualites/3-000-places-de-prison-supplementaires-la-majorite-vote-un-amendement-propose-par-les",
-      "citation": null,
-      "date_source": "2023",
-      "confiance": "deduite",
+      "resume": "Comme ministre de l'Intérieur (octobre 2024), a plaidé avec Michel Barnier pour des courtes peines de prison et la création d'établissements pénitentiaires différenciés, notamment pour mineurs ; aucun objectif chiffré de places trouvé dans une source primaire.",
+      "source": "https://www.publicsenat.fr/actualites/politique/bruno-retailleau-favorable-aux-courtes-peines-de-prison-ce-nest-pas-une-solution-magique",
+      "citation": "Michel Barnier et Bruno Retailleau plaident pour la création « d’établissements différenciés, notamment adaptés aux mineurs, pour mettre en œuvre les courtes peines ».",
+      "date_source": "2024-10-10",
+      "confiance": "declaration",
       "relu": false
     },
     "sec_cannabis": {
       "valeur": -2,
       "resume": "Se dit « totalement contre » la légalisation du cannabis, estimant qu'elle ne fonctionne pas contre les trafics.",
       "source": "https://www.europe1.fr/politique/legalisation-du-cannabis-ca-ne-marche-pas-estime-bruno-retailleau-396031",
-      "citation": null,
+      "citation": "\"Je suis contre. Totalement contre. Et ce qui se passe, dans les pays qui ont pu légaliser, montre que la légalisation de la drogue, notamment dite douce, ça ne marche pas\", a déclaré le ministre sur TF1.",
       "date_source": "2025-02-18",
       "confiance": "declaration",
       "relu": false
     },
     "imm_baisse": {
       "valeur": 2,
-      "resume": "Veut « réduire drastiquement l'immigration » : restriction du regroupement familial et du nombre d'étudiants accueillis, révision constitutionnelle par référendum.",
+      "resume": "Son plan prévoit 10 Md€ d'économies sur l'immigration, notamment par la réduction du regroupement familial et du nombre d'étudiants accueillis, une grande partie des mesures étant conditionnée à une révision constitutionnelle par référendum.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
-      "citation": null,
+      "citation": "10 milliards d’euros d’économies sont aussi annoncés sur l’immigration, à travers la réduction de certains droits et surtout la réduction du regroupement familial ou encore du nombre d’étudiants accueillis.",
       "date_source": "2026-10-12",
       "confiance": "declaration",
       "relu": false
@@ -120,7 +120,7 @@
       "valeur": 2,
       "resume": "A porté au Sénat (2023) le remplacement de l'AME par une aide médicale d'urgence et a voulu, comme ministre, réviser l'AME pour que la France ne soit pas « le pays le plus attractif » en matière de soins.",
       "source": "https://www.france24.com/fr/france/20240924-bruno-retailleau-rouvre-le-dossier-explosif-de-la-r%C3%A9forme-de-l-aide-m%C3%A9dicale-d-%C3%A9tat",
-      "citation": null,
+      "citation": "Lors de l’examen de la dernière loi Immigration, la droite sénatoriale emmenée par Bruno Retailleau avait tenté de la supprimer pour la remplacer par une aide médicale d'urgence",
       "date_source": "2024-09-24",
       "confiance": "declaration",
       "relu": false
@@ -129,7 +129,7 @@
       "valeur": -2,
       "resume": "Sa circulaire de janvier 2025, comme ministre de l'Intérieur, a durci l'admission exceptionnelle au séjour (sept ans de présence exigés, critères de langue et d'ordre public), les métiers en tension restant la voie principale.",
       "source": "https://www.brut.media/fr/articles/immigration-ce-que-contient-la-nouvelle-circulaire-de-bruno-retailleau",
-      "citation": null,
+      "citation": "Mais dans la nouvelle circulaire qui sera prochainement publiée, M. Retailleau écrit qu'\"une durée de présence d'au moins 7 ans constitue l'un des indices d'intégration pertinent\".",
       "date_source": "2025-01",
       "confiance": "declaration",
       "relu": false
@@ -147,7 +147,7 @@
       "valeur": 1,
       "resume": "Propose un « bouclier constitutionnel » permettant, « dans certains cas », de déroger à la primauté du droit européen par loi organique ou référendum ; il ne propose pas de sortir des traités.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
-      "citation": null,
+      "citation": "« […] Dans ces cas-là, je propose qu’une loi organique puisse revenir sur une jurisprudence européenne si elle est contraire à nos intérêts fondamentaux », justifie-t-il.",
       "date_source": "2026-09-03",
       "confiance": "declaration",
       "relu": false
@@ -156,7 +156,7 @@
       "valeur": 1,
       "resume": "A consacré son premier déplacement international de campagne à Kiev et réaffirmé son soutien à l'Ukraine face à l'agression russe, sans détailler d'aide militaire précise.",
       "source": "https://thepublic.info/en/news/bruno-retailleau-arrived-in-kyiv-ahead-of-the-french-elections",
-      "citation": null,
+      "citation": "“In Kyiv. I have decided to dedicate my first international campaign tour to Ukraine, which has been facing Russian aggression for over four years,” Retailleau said.",
       "date_source": "2026-05-20",
       "confiance": "declaration",
       "relu": false
@@ -174,7 +174,7 @@
       "valeur": -1,
       "resume": "A voté contre au Sénat et réclamé un référendum ; après l'adoption définitive, il ne promet pas d'abroger la loi mais dit qu'il fera « un bilan au bout d'un an » avant de décider s'il demande aux Français de trancher.",
       "source": "https://www.franceinfo.fr/societe/euthanasie/presidentielle-2027-les-candidats-hostiles-a-la-loi-sur-la-fin-de-vie-vont-ils-promettre-de-l-abroger_8108582.html",
-      "citation": null,
+      "citation": "Il maintient cette position s'il accédait à l'Elysée : \"Je ferai un bilan au bout d'un an et, en fonction, je verrai si je ne demande pas aux Français de trancher par eux-mêmes\", déclarait-il mercredi soir sur BFMTV.",
       "date_source": "2026-07-17",
       "confiance": "declaration",
       "relu": false
@@ -183,7 +183,7 @@
       "valeur": 2,
       "resume": "Propose 15 heures d'activité obligatoires pour les bénéficiaires du RSA et un plafonnement du cumul des aides à 70 % du SMIC.",
       "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
-      "citation": null,
+      "citation": "Deuxième mesure importante : le « revenu d’incitation à l’activité », en rendant obligatoire les 15 heures d’activité complémentaire au RSA […]",
       "date_source": "2026-01-07",
       "confiance": "declaration",
       "relu": false
@@ -201,7 +201,7 @@
       "valeur": 2,
       "resume": "A cosigné au Sénat une proposition de loi rendant obligatoire une tenue d'établissement de l'école au lycée.",
       "source": "https://www.publicsenat.fr/actualites/politique/uniformes-obligatoires-a-l-ecole-une-proposition-de-loi-deposee-au-senat-231733",
-      "citation": null,
+      "citation": "La sénatrice LR de Paris Céline Boulay-Espéronnier vient de déposer une proposition de loi visant à « rendre obligatoire le port d’une tenue d’établissement scolaire ». Le texte, co-signé par Bruno Retailleau, président des sénateurs LR […]",
       "date_source": "2023",
       "confiance": "declaration",
       "relu": false
@@ -210,7 +210,7 @@
       "valeur": -2,
       "resume": "Opposé à la proportionnelle aux législatives, il a refusé de porter cette réforme et n'excluait pas de quitter le gouvernement à ce sujet.",
       "source": "https://www.publicsenat.fr/actualites/politique/hostile-a-la-proportionnelle-bruno-retailleau-necarte-pas-une-demission-du-gouvernement",
-      "citation": null,
+      "citation": "A la sortie de la réunion, Bruno Retailleau a déclaré « refuser de porter » une telle réforme.",
       "date_source": "2025-06-02",
       "confiance": "declaration",
       "relu": false
@@ -219,7 +219,7 @@
       "valeur": 1,
       "resume": "Ne propose pas de RIC, mais veut étendre le référendum de l'article 11 à « toute question législative » et abaisser de 5 à 2,5 millions de signatures le seuil du référendum d'initiative partagée.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
-      "citation": null,
+      "citation": "Plus consensuel, Bruno Retailleau souhaite aussi « alléger les contraintes nécessaires à l’organisation d’un référendum d’initiative partagée (RIP) » avec 2,5 millions de signatures nécessaires contre 5 millions aujourd’hui.",
       "date_source": "2026-09-03",
       "confiance": "declaration",
       "relu": false
@@ -228,7 +228,7 @@
       "valeur": -1,
       "resume": "Propose de réviser la Constitution de la Ve République, notamment pour permettre au président de soumettre au référendum une loi censurée par le Conseil constitutionnel ; aucune proposition de VIe République ni de réduction des pouvoirs présidentiels.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
-      "citation": null,
+      "citation": "« À l’avenir, lorsque le Conseil constitutionnel censurera une loi votée par le Parlement, le président de la République pourra donner la parole au peuple français pour censurer la censure. Soit par référendum, soit en réunissant le Parlement en congrès »",
       "date_source": "2026-09-03",
       "confiance": "declaration",
       "relu": false
@@ -255,7 +255,7 @@
       "valeur": 2,
       "resume": "Comme ministre de l'Intérieur, a déclaré que l'excuse de minorité, « aujourd'hui la règle », devait « devenir l'exception » et appelé à réformer profondément la justice des mineurs.",
       "source": "https://www.europe1.fr/politique/aujourdhui-lexcuse-de-minorite-est-la-regle-demain-elle-doit-devenir-lexception-affirme-bruno-retailleau-669464",
-      "citation": null,
+      "citation": "\"Aujourd'hui, l'excuse de minorité est la règle, demain elle doit devenir l'exception\", a affirmé Bruno Retailleau, ministre de l'Intérieur",
       "date_source": "2025-03-25",
       "confiance": "declaration",
       "relu": false
@@ -264,7 +264,7 @@
       "valeur": 1,
       "resume": "Comme ministre de l'Intérieur, a voulu généraliser par la loi la vidéosurveillance algorithmique expérimentée aux JO ; aucune position publique vérifiée sur la reconnaissance faciale.",
       "source": "https://next.ink/brief-article/le-gouvernement-barnier-veut-generaliser-la-videosurveillance-algorithmique-vsa/",
-      "citation": null,
+      "citation": "« C’est bien l’intention du ministre [de l’Intérieur, Bruno Retailleau, ndlr] de tirer les enseignements des JO. Ce point en fait partie et la nécessité d’une loi est incontournable » précise le ministère de l’Intérieur à Tech&Co.",
       "date_source": "2024-10-02",
       "confiance": "declaration",
       "relu": false
@@ -273,7 +273,7 @@
       "valeur": 2,
       "resume": "Son projet de réforme constitutionnelle prévoit d'« abolir le droit du sol » pour qu'il n'y ait plus de naturalisations automatiques.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
-      "citation": null,
+      "citation": "Elle permettra en outre « d’expulser tous ceux qui n’ont rien à faire en France, supprimer le droit au mariage pour les OQTF, abolir le droit du sol et revenir à l’assimilation pour qu’il n’y ait plus de naturalisations automatiques ».",
       "date_source": "2026-09-03",
       "confiance": "declaration",
       "relu": false
@@ -282,7 +282,7 @@
       "valeur": 1,
       "resume": "Propose d'imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives (via une révision constitutionnelle par référendum), sans réserver explicitement ces prestations aux Français.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
-      "citation": null,
+      "citation": "Sans elle, impossible d’imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives, ou encore de l’examen de l’asile en dehors des frontières.",
       "date_source": "2026-10-12",
       "confiance": "declaration",
       "relu": false
@@ -318,16 +318,16 @@
       "valeur": 2,
       "resume": "Veut limiter la durée et plafonner le montant de l'indemnisation après une rupture conventionnelle, supprimer l'allocation après un troisième refus d'offre et aligner les règles d'indemnisation sur les « standards européens ».",
       "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
-      "citation": null,
+      "citation": "Pour freiner cette « dérive », il veut « limiter la durée d’indemnisation et plafonner la hauteur de l’allocation, suite à une rupture conventionnelle ».",
       "date_source": "2026-01-07",
       "confiance": "declaration",
       "relu": false
     },
     "edu_signes": {
       "valeur": 2,
-      "resume": "Comme ministre de l'Intérieur, a dit vouloir une loi pour que les accompagnatrices de sorties scolaires ne soient pas voilées (« les sorties scolaires, c'est l'école hors les murs »).",
+      "resume": "Comme ministre de l'Intérieur (janvier 2025), a prôné l'interdiction du port du voile pour les accompagnatrices de sorties scolaires, estimant qu'elles devraient être soumises aux principes de neutralité et de laïcité.",
       "source": "https://www.leclubdesjuristes.com/en-bref/bruno-retailleau-souhaite-interdire-le-port-du-voile-pour-les-accompagnatrices-scolaires-8664/",
-      "citation": null,
+      "citation": "En ce sens, Bruno Retailleau prône également l’interdiction du port du voile pour les accompagnantes de sorties scolaires, estimant qu’elles devraient être soumises aux principes de neutralité et de laïcité.",
       "date_source": "2025-01-07",
       "confiance": "declaration",
       "relu": false
@@ -354,7 +354,7 @@
       "valeur": 1,
       "resume": "En 2017, s'est dit favorable à la réduction du nombre de parlementaires « à la condition » qu'elle donne plus de moyens aux élus ; aucune déclaration récente vérifiée.",
       "source": "https://www.publicsenat.fr/actualites/politique/la-reduction-du-nombre-de-parlementaires-divise-les-interesses-75611",
-      "citation": null,
+      "citation": "\"Je suis pour, à la condition que cela puisse donner un certain nombre de moyens aux parlementaires\", a déclaré le sénateur Bruno Retailleau",
       "date_source": "2017-07-04",
       "confiance": "declaration",
       "relu": false
