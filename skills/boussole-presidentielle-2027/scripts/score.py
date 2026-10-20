@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """Calcule la proximité entre les réponses d'un utilisateur et les positions des candidats.
 
-Usage :
-    python3 score.py reponses.json            # tableau Markdown
-    python3 score.py reponses.json --json     # résultat brut
+Usage (les réponses arrivent sur l'entrée standard, rien n'est écrit sur le disque) :
+    python3 score.py <<'FIN'
+    {"reponses": {...}, "importance": {...}}
+    FIN
+    python3 score.py --json <<'FIN' ... FIN    # résultat brut
+    python3 score.py reponses.json             # à partir d'un fichier (tests)
 
-Format de reponses.json :
+Format des réponses :
 {
   "reponses":   {"eco_retraite": 2, "eco_smic": -1, "sec_cannabis": null, ...},
   "importance": {"economie": 2, "immigration": 3}      # optionnel, 1 par défaut (1 à 3)
@@ -123,9 +126,16 @@ def markdown(res, questions):
 
 
 def main():
-    if len(sys.argv) < 2:
+    fichiers = [a for a in sys.argv[1:] if not a.startswith("--")]
+    if fichiers and fichiers[0] != "-":
+        brut = Path(fichiers[0]).read_text(encoding="utf-8")
+    elif not sys.stdin.isatty():
+        brut = sys.stdin.read()
+    else:
         raise SystemExit(__doc__)
-    user = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
+    if not brut.strip():
+        raise SystemExit("Aucune réponse reçue sur l'entrée standard.")
+    user = json.loads(brut)
     questions, candidats = charger()
     res = calculer(user, questions, candidats)
     if "--json" in sys.argv:
