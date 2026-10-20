@@ -105,7 +105,7 @@
       "citation": "NDA sur France Bleu : « Je suis contre la dépénalisation du cannabis »",
       "date_source": "2016-10-17",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": 2,
@@ -267,7 +267,7 @@
       "citation": "La surveillance généralisée de la population, via l’utilisation de l’intelligence artificielle, ne peut aboutir qu’à l’autoritarisme.",
       "date_source": "2023-03-16",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_droitdusol": {
       "valeur": 2,

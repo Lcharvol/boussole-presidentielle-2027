@@ -123,7 +123,7 @@
       "citation": "Cette campagne permanente visant à faire croire que le déficit de l’Assurance maladie serait dû à une aide ne représentant que 0,47 % des dépenses de santé est ignoble.",
       "date_source": "2026-02-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": 2,
@@ -177,7 +177,7 @@
       "citation": "Cette loi est une avancée pour les patients concernés et pour leur entourage, c’est un soulagement. Mais elle reste d’une immense hypocrisie.",
       "date_source": "2026-07-22",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": -2,
@@ -186,7 +186,7 @@
       "citation": "Ces mesures font partie d’une campagne politique qui présente ceux qui n’ont pas de travail comme des fainéants qui n’ont pas le courage de « traverser la rue »",
       "date_source": "2025-10-29",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": 1,

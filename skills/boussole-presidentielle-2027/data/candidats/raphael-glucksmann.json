@@ -18,13 +18,13 @@
       "relu": false
     },
     "eco_smic": {
-      "valeur": 2,
+      "valeur": 1,
       "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025), qui propose un SMIC à 1 600 euros net en deux ans ; candidat, il met en avant la hausse du salaire net par la baisse des cotisations, financée par la taxation des gros héritages, sans reprendre ce chiffre.",
       "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
       "citation": "Augmenter le SMIC à 1600 euros net dans les deux ans qui suivent notre accession au pouvoir.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 1,
@@ -150,7 +150,7 @@
       "citation": "Porter d’ici 2030 un grand traité de réunification européenne qui sera aussi un traité de refondation institutionnelle, clarifiant et démocratisant le fonctionnement de l’Union passant à la majorité qualifiée au Conseil européen […]",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": 2,
@@ -249,7 +249,7 @@
       "citation": "Mettre fin aux privilèges actuels des transports polluants : suppression des exonérations de TVA et de taxe sur le kérosène, étendre l’interdiction des vols intérieurs avec alternative ferroviaire viable, taxation des plus gros pollueurs individuels (jets privés, yachts, SUV…)",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_mineurs": {
       "valeur": null,
@@ -321,7 +321,7 @@
       "citation": "Abroger la réforme Macron de l’assurance chômage, injuste et inefficace.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,
