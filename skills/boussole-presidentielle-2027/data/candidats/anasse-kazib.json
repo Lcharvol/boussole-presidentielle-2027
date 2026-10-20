@@ -33,7 +33,7 @@
       "citation": "Investissements massifs dans les services publics, qui doivent être placés sous le contrôle des travailleur·ses.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 1,

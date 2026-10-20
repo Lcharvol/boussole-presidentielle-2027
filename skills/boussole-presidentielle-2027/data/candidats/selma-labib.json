@@ -33,7 +33,7 @@
       "citation": "De la gauche de Hollande à l’extrême droite, les candidats n’ont comme promesses que du sang et des larmes, l’austérité à tous les étages, la retraite à 67 ans et j’en passe.",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 1,
