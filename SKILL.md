@@ -39,11 +39,15 @@ Si l'outil `AskUserQuestion` est disponible, utilise-le avec une question par af
 
 Correspondance : tout à fait d'accord = 2, plutôt d'accord = 1, neutre = 0, plutôt pas d'accord = -1, pas du tout d'accord = -2, je passe = null.
 
+Si une réponse est inexploitable (« autre » laissé vide, texte ambigu), ne la classe pas toi-même en neutre ou en « je passe » : les deux n'ont pas le même effet sur le score. Repose la question avec le lot suivant, en proposant « Neutre », « Je passe » et les deux réponses les plus proches de ce que la personne semblait vouloir dire.
+
 Si la personne pose une question sur le sens d'une affirmation, explique-la factuellement sans laisser entendre qu'une réponse est meilleure.
 
 ### 4. Demander les priorités
 
-Demande quels thèmes comptent le plus (deux ou trois au maximum). Les thèmes prioritaires reçoivent une importance de 2 (ou 3 si la personne dit qu'un thème est décisif pour elle) ; les autres restent à 1.
+Demande quels thèmes comptent le plus, **trois au maximum**, et dis pourquoi : si presque tout est prioritaire, la pondération ne change plus rien. Avec `AskUserQuestion`, les 8 thèmes ne tiennent pas dans une seule question : répartis-les sur deux questions à choix multiple et rappelle la limite de 3 au total. Si la personne en choisit plus de 3, demande-lui lesquels garder ; si elle maintient son choix, respecte-le et signale dans les limites que la pondération a peu d'effet.
+
+Les thèmes prioritaires reçoivent une importance de 2 (ou 3 si la personne dit qu'un thème est décisif pour elle) ; les autres restent à 1.
 
 ### 5. Calculer
 
@@ -59,7 +63,9 @@ Puis lance `python3 scripts/score.py <fichier>` pour le tableau, et `--json` si 
 
 Dans cet ordre :
 
-1. **Le classement** : le tableau des candidats avec leur proximité et la couverture (part des questions où la position du candidat est connue). Les candidats dont la couverture est trop faible sont listés à part, avec la raison.
+1. **Le classement** : le tableau des candidats avec leur proximité et la couverture (part des questions où la position du candidat est connue). Les candidats dont la couverture est trop faible sont listés à part, avec la raison. Juste après le tableau, reprends les deux alertes du script :
+   - **Écart serré** (`peloton_de_tete`) : si plusieurs candidats sont à 5 points ou moins du premier, dis clairement qu'aucun ne se détache et que leur ordre n'est pas significatif. Sinon, la personne risque de prendre un écart de 2 points pour un vrai résultat.
+   - **Thème prioritaire sans donnée** (`prioritaires_sans_donnee`) : si un candidat du haut du classement n'a aucune position connue sur un thème que la personne a mis en priorité, signale-le dans sa présentation. Son score ignore ce thème et peut être trompeur.
 2. **Les 3 plus proches, expliqués** : pour chacun, 2 ou 3 points d'accord et 1 ou 2 points de désaccord marquants, avec le résumé de la position et le lien source tirés de la fiche. C'est la partie la plus utile : elle permet de juger soi-même plutôt que de croire un pourcentage.
 3. **Le détail par thème** : signale les cas où un candidat est très proche sur un thème prioritaire mais loin sur un autre.
 4. **Les limites**, en quelques lignes : les programmes ne sont pas tous publiés ; certaines positions sont déduites du parti ou d'un ancien programme (dis combien pour les candidats du haut du classement) ; 25 questions ne résument pas un projet ; la liste des candidats n'est pas encore officielle. Invite à lire les programmes des candidats du haut du classement (`programme_url` dans les fiches).
