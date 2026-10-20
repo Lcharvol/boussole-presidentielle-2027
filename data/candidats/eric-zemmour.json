@@ -1,0 +1,187 @@
+{
+  "slug": "eric-zemmour",
+  "nom": "Éric Zemmour",
+  "parti": "Reconquête",
+  "statut": "déclaré",
+  "programme": "non publié",
+  "programme_url": null,
+  "mis_a_jour": "2026-10-20",
+  "notes": "A annoncé sur BFMTV le 17 septembre 2026 qu'il serait candidat (« Je serai candidat à la présidentielle ») ; son entourage annonçait une déclaration formelle à l'automne. Sarah Knafo, un temps évoquée, l'a présenté comme le candidat naturel et doit jouer un rôle majeur dans la campagne. Aucun programme 2027 publié : la plupart des positions sont déduites du programme présidentiel 2022 ; les déclarations de « Face à BFM » (17/09/2026) ont été vérifiées via des comptes rendus de presse (la page BFMTV n'a pas pu être consultée directement). Sources : https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html ; https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+  "positions": {
+    "eco_retraite": {
+      "valeur": -2,
+      "resume": "Se dit favorable à une retraite à « 64 ans voire 65 » et à un passage progressif à la capitalisation, en désaccord explicite avec Marine Le Pen.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
+      "date_source": "2026-09-17",
+      "confiance": "declaration"
+    },
+    "eco_smic": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : hausse du salaire net des bas salaires (jusqu'à 105 euros par mois au niveau du SMIC) par une baisse de la CSG, et non par un relèvement du SMIC.",
+      "source": "https://www.toutsurmesfinances.com/argent/a/eric-zemmour-programme",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eco_depenses": {
+      "valeur": 2,
+      "resume": "Propose 140 milliards d'euros de baisse des dépenses de l'État et la suppression de 800 000 postes de fonctionnaires sur cinq ans, jugeant insuffisant le plan d'économies du gouvernement.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
+      "date_source": "2026-09-17",
+      "confiance": "declaration"
+    },
+    "eco_patrimoine": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : maintien de l'IFI mais en retirant la résidence principale de son assiette ; pas de rétablissement de l'ISF.",
+      "source": "https://www.toutsurmesfinances.com/argent/a/eric-zemmour-programme",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eco_35h": {
+      "valeur": 0,
+      "resume": "Position déduite du programme 2022 : défiscalisation intégrale des heures supplémentaires (« travailler plus pour gagner plus ») sans proposition vérifiée de modification de la durée légale.",
+      "source": "https://www.toutsurmesfinances.com/argent/a/eric-zemmour-programme",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ecol_nucleaire": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : construction de 14 nouveaux EPR et remise en cause de la fermeture prévue de douze réacteurs.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "date_source": "2022-03-23",
+      "confiance": "deduite"
+    },
+    "ecol_renouvelables": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : interdiction de tout nouveau projet éolien terrestre et en mer, gel des projets en mer et réorientation du soutien public de l'éolien et du solaire vers les renouvelables thermiques.",
+      "source": "https://www.linfodurable.fr/politique/le-programme-ecolo-deric-zemmour-31380",
+      "date_source": "2022-03",
+      "confiance": "deduite"
+    },
+    "ecol_normes": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : fin de la surtransposition des normes européennes en agriculture, tout en interdisant l'importation de produits non conformes aux standards français.",
+      "source": "https://www.linfodurable.fr/politique/le-programme-ecolo-deric-zemmour-31380",
+      "date_source": "2022-03",
+      "confiance": "deduite"
+    },
+    "sec_peines": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : peines planchers pour chaque crime et délit, perpétuité réelle et réduction drastique des remises de peine.",
+      "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "sec_prisons": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : construction de 10 000 places de prison supplémentaires et expulsion de plus de 10 000 détenus étrangers.",
+      "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "sec_cannabis": {
+      "valeur": 0,
+      "resume": "Position ambiguë : avait évoqué en mai 2021 une « légalisation ordonnée » du cannabis, puis son programme 2022 ne comportait aucune mesure de légalisation mais une force nationale anti-drogue.",
+      "source": "https://www.cnews.fr/france/2022-02-01/repression-legalisation-depenalisation-que-pensent-les-candidats-la-presidentielle",
+      "date_source": "2022-02-01",
+      "confiance": "deduite"
+    },
+    "imm_baisse": {
+      "valeur": 2,
+      "resume": "Défend la « remigration » : renvoi des clandestins, des délinquants étrangers, des chômeurs étrangers de longue durée (après un an) et de ceux qui vivent des aides sociales ; son programme 2022 prévoyait la suppression du regroupement familial.",
+      "source": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+      "date_source": "2026-09-17",
+      "confiance": "declaration"
+    },
+    "imm_ame": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : suppression de l'aide médicale d'État et de toutes les aides sociales non contributives aux étrangers extra-européens.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "date_source": "2022-03-23",
+      "confiance": "deduite"
+    },
+    "imm_regularisation": {
+      "valeur": -2,
+      "resume": "Affirme qu'il faut « renvoyer » les clandestins, ainsi que les étrangers au chômage depuis plus d'un an même en situation régulière.",
+      "source": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
+      "date_source": "2026-09-17",
+      "confiance": "declaration"
+    },
+    "eur_integration": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : référendum obligatoire pour toute ratification de traité et supériorité des lois nationales sur les textes européens.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "date_source": "2022-03-23",
+      "confiance": "deduite"
+    },
+    "eur_primaute": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : révision de l'article 55 de la Constitution pour instaurer la « supériorité des nouvelles lois nationales sur tous les textes internationaux et européens ».",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "date_source": "2022-03-23",
+      "confiance": "deduite"
+    },
+    "eur_ukraine": {
+      "valeur": -1,
+      "resume": "Selon le compte rendu de BFMTV, ne place plus l'Ukraine parmi ses priorités d'aide et plaide pour une médiation de la France ; en 2022 il s'opposait aux livraisons d'armes tout en condamnant l'invasion.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
+      "date_source": "2026-09-17",
+      "confiance": "declaration"
+    },
+    "soc_medecins": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : opposé à la restriction de la liberté d'installation, il privilégiait l'incitation (consultations majorées) et le recrutement de 1 000 médecins salariés par l'État.",
+      "source": "https://www.egora.fr/actus-pro/politiques/obligation-de-garde-medecins-salaries-dans-les-deserts-ame-et-ars-aux",
+      "date_source": "2022-03",
+      "confiance": "deduite"
+    },
+    "soc_findevie": {
+      "valeur": -2,
+      "resume": "Opposé à l'aide à mourir, qu'il qualifie d'« espèce de rétablissement de la peine de mort qui ne dit pas son nom ».",
+      "source": "https://www.cnews.fr/france/2025-05-18/aide-mourir-cest-une-espece-de-retablissement-de-la-peine-de-mort-qui-ne-dit-pas",
+      "date_source": "2025-05-18",
+      "confiance": "declaration"
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position vérifiée sur le conditionnement du RSA à des heures d'activité ; selon un compte rendu de BFMTV (17/09/2026), il propose de plafonner le RSA à trois ans.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur le financement de l'enseignement privé sous contrat.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": 2,
+      "resume": "Estime qu'« il est plus que temps d'imposer l'uniforme à l'école » ; son programme 2022 prévoyait aussi l'interdiction de la « propagande idéologique » à l'école.",
+      "source": "https://www.cnews.fr/france/2023-09-10/eric-zemmour-il-est-plus-que-temps-dimposer-luniforme-lecole-1395112",
+      "date_source": "2023-09-10",
+      "confiance": "declaration"
+    },
+    "ins_proportionnelle": {
+      "valeur": 0,
+      "resume": "Position déduite et évolutive : critique de la proportionnelle en 2021, mais Reconquête compte en 2024 sur son instauration, Sarah Knafo y voyant « une garantie d'avoir des élus ».",
+      "source": "https://www.europe1.fr/politique/apres-la-tempete-reconquete-fait-sa-rentree-politique-a-orange-4266102",
+      "date_source": "2024-09-07",
+      "confiance": "deduite"
+    },
+    "ins_ric": {
+      "valeur": -1,
+      "resume": "Position déduite : défendait le RIC en 2018 mais ne le propose plus, préférant que le président propose les référendums, notamment sur l'immigration.",
+      "source": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-ric-rip-50-nuances-de-referendums-dans-les-programmes-des-candidats",
+      "date_source": "2022-02-15",
+      "confiance": "deduite"
+    },
+    "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiée sur une VIe République ou la réduction des pouvoirs du président.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    }
+  }
+}

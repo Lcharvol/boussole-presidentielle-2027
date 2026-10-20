@@ -1,0 +1,187 @@
+{
+  "slug": "francois-asselineau",
+  "nom": "François Asselineau",
+  "parti": "Union populaire républicaine (UPR)",
+  "statut": "déclaré",
+  "programme": "non publié",
+  "programme_url": null,
+  "mis_a_jour": "2026-10-20",
+  "notes": "Campagne officiellement lancée lors de son discours de rentrée du 30 septembre 2026 (https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale) ; en recherche de parrainages (appel du 19 octobre 2026). Le site de l'UPR indique que le programme présidentiel 2027 « sera publié prochainement » (https://www.upr.fr/notre-programme). Les positions sont donc tirées des mesures annoncées en septembre 2026 (confiance « declaration ») et, à défaut, du programme 2022 de l'UPR (confiance « deduite ») ; Asselineau n'avait pas obtenu les parrainages en 2022.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": null,
+      "resume": "Le programme 2022 promettait de « mettre fin au processus de réforme – par le bas – des retraites » sans fixer d'âge légal ; pas de position récente trouvée sur l'âge de départ.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eco_smic": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 de l'UPR : augmenter le SMIC brut de 24 % sur le quinquennat.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "eco_depenses": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : plan de 27 milliards d'euros d'économies par an (contribution à l'UE, régions, CICE des grandes entreprises…) avant d'« envisager une baisse de la fiscalité », combiné à de nouvelles tranches d'impôt pour les très hauts revenus ; en 2026 il propose aussi la suppression des régions.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "eco_patrimoine": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : deux nouvelles tranches d'impôt sur le revenu au-delà de 250 000 et 500 000 euros et un « impôt exceptionnel de solidarité » sur les très grandes fortunes enrichies pendant la crise du Covid, sans rétablissement de l'ISF.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "eco_35h": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_nucleaire": {
+      "valeur": null,
+      "resume": "Le programme 2022 mentionne seulement la recherche sur la fusion nucléaire ; aucune position trouvée sur la construction de nouveaux réacteurs.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_renouvelables": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_normes": {
+      "valeur": null,
+      "resume": "Le programme 2022 prévoit un « choc de simplification des normes » européennes pour la compétitivité, sans position spécifique sur les normes environnementales.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_peines": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : rétablir des peines planchers pour les récidivistes d'infractions violentes, avec des planchers croissant à chaque récidive.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "sec_prisons": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_baisse": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : « coup d'arrêt à l'immigration subie », sortie de Schengen et référendum sur la politique de regroupement familial et le droit du sol.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_integration": {
+      "valeur": -2,
+      "resume": "Il s'engage à activer l'article 50 du traité sur l'UE dès la première semaine de son mandat pour sortir de l'Union européenne et de l'euro.",
+      "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "date_source": "2026-09-30",
+      "confiance": "declaration"
+    },
+    "eur_primaute": {
+      "valeur": 2,
+      "resume": "Il prône le Frexit par activation de l'article 50 sans référendum préalable, son élection valant mandat selon lui.",
+      "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "date_source": "2026-09-30",
+      "confiance": "declaration"
+    },
+    "eur_ukraine": {
+      "valeur": -2,
+      "resume": "Il annonce l'arrêt immédiat de toute aide financière et militaire à l'Ukraine dès sa prise de fonction.",
+      "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "date_source": "2026-09-30",
+      "confiance": "declaration"
+    },
+    "soc_medecins": {
+      "valeur": null,
+      "resume": "Le programme 2022 proposait une majoration de 20 % des actes des médecins dans les déserts médicaux (incitation), sans position sur la régulation de l'installation.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_findevie": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : « grand retour de la discipline », sanctions immédiates pour toute agression contre les enseignants, notation et classement, port de vêtements neutres favorisé.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "ins_proportionnelle": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : introduire « un système de proportionnelle partielle » aux élections législatives.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    },
+    "ins_ric": {
+      "valeur": 2,
+      "resume": "Il propose l'instauration du référendum d'initiative citoyenne (RIC).",
+      "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "date_source": "2026-09-30",
+      "confiance": "declaration"
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : réformer la Constitution de la Ve République (RIC, révision uniquement par référendum, Cour constitutionnelle) tout en rétablissant le septennat présidentiel, sans proposer de VIe République.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "date_source": "2022-02",
+      "confiance": "deduite"
+    }
+  }
+}

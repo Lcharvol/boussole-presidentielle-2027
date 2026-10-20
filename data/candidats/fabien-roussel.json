@@ -1,0 +1,187 @@
+{
+  "slug": "fabien-roussel",
+  "nom": "Fabien Roussel",
+  "parti": "Parti communiste français",
+  "statut": "désigné par son parti",
+  "programme": "non publié",
+  "programme_url": null,
+  "mis_a_jour": "2026-10-20",
+  "notes": "Candidature approuvée par 72 % des adhérents du PCF lors de la consultation du 3 au 6 septembre 2026 (https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389). Le site fabienroussel2027.fr ne présente pas encore de programme. Les positions sont principalement déduites du programme « La France des Jours heureux » publié sur pcf.fr (programme 2022, SMIC actualisé à 1 600 € net sur le site) ; Roussel n'est plus député depuis 2024. À revoir à la publication du programme 2027.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF : « une loi rétablira la retraite à 60 ans, à taux plein ».",
+      "source": "https://www.pcf.fr/objectif_1",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eco_smic": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF en ligne : porter rapidement le SMIC à 1 600 euros net par mois.",
+      "source": "https://www.pcf.fr/objectif_1",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eco_depenses": {
+      "valeur": -2,
+      "resume": "Déduit du programme du PCF : en finir avec la règle des 3 % de déficit et le « carcan austéritaire », financer les dépenses par la création de richesses et la fiscalité du capital.",
+      "source": "https://www.pcf.fr/moyen_3",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eco_patrimoine": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF : rétablir l'impôt sur la fortune en accentuant taux et progressivité, avec un montant « triplé ».",
+      "source": "https://www.pcf.fr/moyen_1",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eco_35h": {
+      "valeur": -2,
+      "resume": "Déduit du programme du PCF : passer à la semaine de 32 heures sans diminution de salaire.",
+      "source": "https://www.pcf.fr/objectif_1",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ecol_nucleaire": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF : construire « six EPR supplémentaires au minimum » ; Roussel défend le nucléaire comme socle de l'électricité décarbonée.",
+      "source": "https://www.pcf.fr/objectif_4",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ecol_renouvelables": {
+      "valeur": 0,
+      "resume": "Déduit du programme du PCF : investir dans le solaire et l'éolien « et surtout dans l'hydraulique », aux côtés du nucléaire, sans objectif d'accélération forte de l'éolien et du solaire.",
+      "source": "https://www.pcf.fr/objectif_4",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ecol_normes": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_peines": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_prisons": {
+      "valeur": -2,
+      "resume": "Déduit du programme du PCF : développer les alternatives à l'incarcération « plutôt que la construction de nouvelles prisons ».",
+      "source": "https://www.pcf.fr/moyen_2",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "sec_cannabis": {
+      "valeur": 0,
+      "resume": "Déduit du programme du PCF : la légalisation ou la dépénalisation du cannabis « nécessiteront un débat démocratique », sans prise de position.",
+      "source": "https://www.pcf.fr/objectif_2",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "imm_baisse": {
+      "valeur": -1,
+      "resume": "Déduit du programme du PCF : ouvrir des « voies légales et sécurisées » pour les migrants et renforcer l'accueil des réfugiés ; aucune proposition de restriction de l'immigration légale.",
+      "source": "https://www.pcf.fr/moyen_3",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF : « les travailleuses et travailleurs sans papiers en activité seront régularisés ».",
+      "source": "https://www.pcf.fr/objectif_6",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_integration": {
+      "valeur": -1,
+      "resume": "Déduit du programme du PCF : une Union de « nations et de peuples souverains » et une Europe « à géométrie choisie », sortie de l'OTAN, fin de l'indépendance de la BCE.",
+      "source": "https://www.pcf.fr/moyen_3",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_primaute": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_ukraine": {
+      "valeur": 0,
+      "resume": "Dit soutenir l'Ukraine y compris par des armes défensives, mais refuse les armes permettant de frapper la Russie et l'accord bilatéral de sécurité de 2024, en privilégiant un cessez-le-feu (Sud Radio, mars 2024).",
+      "source": "https://www.sudradio.fr/linvite-politique/ukraine-je-ne-veux-pas-que-la-france-entre-en-guerre-contre-la-russie-declare-fabien-roussel",
+      "date_source": "2024-03-07",
+      "confiance": "declaration"
+    },
+    "soc_medecins": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF : conventionnement sélectif ; en zone dense, un médecin ne pourra s'installer que si un autre part à la retraite.",
+      "source": "https://www.pcf.fr/objectif_2",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "soc_findevie": {
+      "valeur": 1,
+      "resume": "Déduit du vote du groupe GDR (incluant les députés communistes ; Roussel n'est plus député) : majoritairement pour la loi sur l'aide à mourir (10 pour, 3 abstentions, 2 contre) le 15 juillet 2026.",
+      "source": "https://datan.fr/votes/legislature-17/vote_8280",
+      "date_source": "2026-07-15",
+      "confiance": "deduite"
+    },
+    "soc_rsa": {
+      "valeur": 0,
+      "resume": "A dit en février 2025 vouloir supprimer le RSA au profit d'un emploi ou d'une formation rémunérés garantis à chacun, sans se prononcer sur les heures d'activité ; le groupe GDR avait voté contre la loi « plein emploi » de 2023.",
+      "source": "https://econostrum.info/suppression-rsa-proposition-choc/",
+      "date_source": "2025-02-23",
+      "confiance": "declaration"
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_proportionnelle": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF : « la proportionnelle intégrale » pour les élections.",
+      "source": "https://www.pcf.fr/moyen_2",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ins_ric": {
+      "valeur": 1,
+      "resume": "Déduit du programme du PCF : le déclenchement d'un référendum reviendrait à un million de citoyens, et un droit de pétition à 500 000 citoyens permettrait d'inscrire une proposition de loi.",
+      "source": "https://www.pcf.fr/moyen_2",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ins_6e": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF : bâtir une « nouvelle République », supprimer l'élection du président au suffrage universel et donner la primauté au Parlement.",
+      "source": "https://www.pcf.fr/moyen_2",
+      "date_source": "2022",
+      "confiance": "deduite"
+    }
+  }
+}

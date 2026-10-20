@@ -1,0 +1,187 @@
+{
+  "slug": "marine-le-pen",
+  "nom": "Marine Le Pen",
+  "parti": "Rassemblement national",
+  "statut": "déclaré",
+  "programme": "partiel",
+  "programme_url": "https://rassemblementnational.fr/22-mesures",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Candidature annoncée le 7 juillet 2026 après l'arrêt de la cour d'appel de Paris (affaire des assistants parlementaires FN) : condamnation confirmée, 3 ans de prison dont 2 avec sursis (partie ferme sous bracelet électronique) et inéligibilité ramenée à 45 mois dont 30 avec sursis, soit 15 mois fermes considérés comme déjà purgés depuis l'exécution provisoire du 31 mars 2025 ; elle est donc juridiquement éligible. Elle s'est pourvue en cassation (pourvoi suspensif de la peine de prison) ; selon la presse, le parquet général a renoncé à se pourvoir. Des juristes estiment que son propre pourvoi pourrait faire revivre la peine de première instance (5 ans d'inéligibilité avec exécution provisoire) — point débattu ; la Cour de cassation doit statuer avant le premier tour (18 avril 2027), date non fixée. Jordan Bardella n'est PAS candidat : il soutient Marine Le Pen, qui l'a présenté comme son futur Premier ministre ; il reste le recours du RN si l'inéligibilité était rétablie. Programme 2027 non publié en entier : contre-budget présenté le 6 octobre 2026, volet retraites annoncé pour le 17 novembre 2026. Plusieurs positions sont déduites du programme 2022 (22 mesures), du programme législatif 2024 ou des votes du groupe RN. Sources : https://www.rts.ch/info/monde/2026/article/condamnee-en-appel-marine-le-pen-pourra-se-presenter-en-2027-29296439.html ; https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/presidentielle-bracelet-electronique-pourvoi-en-cassation-les-questions-qui-se-posent-apres-la-condamnation-reduite-de-marine-le-pen-en-appel_8097893.html ; https://www.france24.com/fr/france/20260708-jordan-bardella-se-r%C3%A9jouit-marine-le-pen-pr%C3%A9sidentielle-2027-extreme-droite-rassemblement-national-campagne",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 2,
+      "resume": "Maintient le retour à un âge légal de 62 ans, voire 60 ans avec 40 annuités pour ceux ayant commencé à travailler avant 20 ans (débat du Medef, 27 août 2026).",
+      "source": "https://www.journaldunet.com/business/action-publique/1554113-marine-le-pen-maintient-le-retour-a-la-retraite-a-62-ans/",
+      "date_source": "2026-08-27",
+      "confiance": "declaration"
+    },
+    "eco_smic": {
+      "valeur": -1,
+      "resume": "Position déduite : le programme RN privilégie des hausses de salaires exonérées de cotisations patronales plutôt qu'un relèvement du SMIC par l'État.",
+      "source": "https://rassemblementnational.fr/22-mesures",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eco_depenses": {
+      "valeur": 1,
+      "resume": "Le contre-budget RN promet 140 milliards d'euros d'économies nettes d'ici 2032 et un déficit sous 3 % dès 2030, avec une « règle d'or » soumise à référendum ; la répartition entre baisses de dépenses et recettes n'est pas détaillée.",
+      "source": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-a-2032_8224807.html",
+      "date_source": "2026-10-06",
+      "confiance": "programme"
+    },
+    "eco_patrimoine": {
+      "valeur": 0,
+      "resume": "Juge la taxe Zucman « stupide et nocive » (le groupe RN l'a bloquée au budget 2026) mais défend un impôt sur la fortune financière excluant biens professionnels et résidence principale.",
+      "source": "https://www.publicsenat.fr/actualites/economie/budget-2026-le-rn-seloigne-de-la-gauche-sur-la-fiscalite",
+      "date_source": "2025-10-21",
+      "confiance": "declaration"
+    },
+    "eco_35h": {
+      "valeur": -1,
+      "resume": "N'envisage pas d'augmenter la durée légale du travail mais veut rendre les heures supplémentaires plus rémunératrices (« travailler plus pour garder plus »).",
+      "source": "https://contrepoints.org/travailler-plus-oui-mais-collectivement-ou-individuellement/",
+      "date_source": "2026-09-02",
+      "confiance": "declaration"
+    },
+    "ecol_nucleaire": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : relance du nucléaire avec cinq paires d'EPR et cinq EPR2, prolongation des centrales à 60 ans et réouverture de Fessenheim.",
+      "source": "https://www.linfodurable.fr/politique/le-programme-ecolo-de-marine-le-pen-31355",
+      "date_source": "2022-03",
+      "confiance": "deduite"
+    },
+    "ecol_renouvelables": {
+      "valeur": -2,
+      "resume": "Le RN a soutenu en juin 2025 un moratoire sur tout nouveau projet éolien ou solaire, présenté par le député Jean-Philippe Tanguy comme « au cœur du projet de Marine Le Pen » ; le programme 2022 prévoyait le démantèlement des éoliennes.",
+      "source": "https://www.connaissancedesenergies.org/afp/futur-energetique-de-la-france-un-moratoire-sur-leolien-et-le-solaire-fait-derailler-lexamen-lassemblee-250620",
+      "date_source": "2025-06-20",
+      "confiance": "declaration"
+    },
+    "ecol_normes": {
+      "valeur": -2,
+      "resume": "Demande la suppression de la surtransposition des normes et l'arrêt de leur multiplication pour les agriculteurs, et qualifie le Pacte vert européen de « stupidité économique et politique ».",
+      "source": "https://www.publicsenat.fr/actualites/politique/prix-planchers-dans-lagriculture-un-prix-garanti-ne-peut-fonctionner-que-si-on-nimpose-pas-la-multiplication-des-normes-estime-marine-le-pen",
+      "date_source": "2024-02",
+      "confiance": "declaration"
+    },
+    "sec_peines": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 et des propositions du groupe RN : instauration de peines minimales (peines planchers) et réduction des remises de peine.",
+      "source": "https://rassemblementnational.fr/22-mesures",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "sec_prisons": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : augmentation massive de la capacité carcérale (objectif de 85 000 places selon le chiffrage de l'Institut Montaigne).",
+      "source": "https://rassemblementnational.fr/22-mesures",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "sec_cannabis": {
+      "valeur": -2,
+      "resume": "Position déduite du parti : le RN s'oppose à la légalisation du cannabis, Jordan Bardella y voyant un « signal dramatique » de banalisation.",
+      "source": "https://www.europe1.fr/politique/legaliser-le-cannabis-cest-envoyer-un-signal-dramatique-estime-jordan-bardella-3905772",
+      "date_source": "2019-06-21",
+      "confiance": "deduite"
+    },
+    "imm_baisse": {
+      "valeur": 2,
+      "resume": "Position déduite des programmes 2022 et 2024 : référendum sur l'immigration, restriction puis fin du regroupement familial, suppression du droit du sol et priorité nationale.",
+      "source": "https://lcp.fr/actualites/legislatives-2024-le-programme-du-rassemblement-national-en-matiere-d-immigration-a-l",
+      "date_source": "2024-06-28",
+      "confiance": "deduite"
+    },
+    "imm_ame": {
+      "valeur": 2,
+      "resume": "Position déduite du programme législatif 2024 : remplacement de l'AME par une aide médicale d'urgence.",
+      "source": "https://lcp.fr/actualites/legislatives-2024-le-programme-du-rassemblement-national-en-matiere-d-immigration-a-l",
+      "date_source": "2024-06-28",
+      "confiance": "deduite"
+    },
+    "imm_regularisation": {
+      "valeur": -2,
+      "resume": "A jugé que le titre de séjour « métiers en tension » proposé par le gouvernement créerait « un appel d'air » pour l'immigration clandestine.",
+      "source": "https://www.algerie360.com/loi-dimmigration-france-quels-sont-les-metiers-en-tension/",
+      "date_source": "2022-11",
+      "confiance": "declaration"
+    },
+    "eur_integration": {
+      "valeur": -2,
+      "resume": "Position déduite : a renoncé à la sortie de l'UE et de l'euro mais veut retirer à Bruxelles l'essentiel de ses pouvoirs pour en faire une alliance de nations plus souple.",
+      "source": "https://fr.euronews.com/my-europe/2026/09/17/marine-le-pen-veut-elle-ou-non-organiser-un-referendum-sur-le-frexit-si-elle-est-elue",
+      "date_source": "2026-09-17",
+      "confiance": "deduite"
+    },
+    "eur_primaute": {
+      "valeur": 1,
+      "resume": "Position déduite : sa proposition de loi constitutionnelle de janvier 2024, à adopter par référendum, vise à rétablir la primauté du droit national en matière d'immigration et d'identité, sans proposer de sortie de l'UE.",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b2120_proposition-loi.pdf",
+      "date_source": "2024-01-25",
+      "confiance": "deduite"
+    },
+    "eur_ukraine": {
+      "valeur": -1,
+      "resume": "Annonce qu'élue elle maintiendrait l'aide à l'Ukraine six mois puis cesserait l'aide financière faute de moyens, tout en évoquant la poursuite de la formation et de matériel défensif.",
+      "source": "https://fr.euronews.com/2026/10/16/marine-le-pen-prete-a-debattre-avec-zelensky-apres-avoir-promis-de-couper-laide-francaise-",
+      "date_source": "2026-10-16",
+      "confiance": "declaration"
+    },
+    "soc_medecins": {
+      "valeur": -1,
+      "resume": "Position déduite du groupe RN : abstention sur la loi Garot (mai 2025) en souhaitant que le Sénat supprime l'article régulant l'installation des médecins.",
+      "source": "https://lcp.fr/actualites/deserts-medicaux-l-assemblee-adopte-la-proposition-de-loi-qui-prevoit-de-reguler-l",
+      "date_source": "2025-05-08",
+      "confiance": "deduite"
+    },
+    "soc_findevie": {
+      "valeur": -2,
+      "resume": "A voté contre la proposition de loi relative au droit à l'aide à mourir lors de la lecture définitive à l'Assemblée (le RN laissant la liberté de vote).",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+      "date_source": "2026-07-15",
+      "confiance": "declaration"
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur le conditionnement du RSA à des heures d'activité ; le programme RN conditionne surtout les prestations non contributives des étrangers à cinq ans de travail en France.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur le financement de l'enseignement privé sous contrat.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : uniforme à l'école et recentrage sur les savoirs fondamentaux.",
+      "source": "https://rassemblementnational.fr/22-mesures",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ins_proportionnelle": {
+      "valeur": 2,
+      "resume": "Favorable à la proportionnelle aux législatives ; juge la proportionnelle intégrale par département (modèle 1986) « un moindre mal », sans exiger de prime majoritaire.",
+      "source": "https://lcp.fr/actualites/proportionnelle-aux-legislatives-francois-bayrou-consulte-les-avis-divergent-sur-le",
+      "date_source": "2025-04-30",
+      "confiance": "declaration"
+    },
+    "ins_ric": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : RIC pour proposer ou abroger une loi à partir de 500 000 signatures, avec garde-fous.",
+      "source": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-detaille-sa-revolution-referendaire-202358",
+      "date_source": "2022-04-12",
+      "confiance": "deduite"
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Position déduite : ne propose pas de VIe République mais une réforme de la Ve (septennat non renouvelable, référendums), sans réduction affichée des pouvoirs présidentiels.",
+      "source": "https://www.cnews.fr/france/2022-04-12/proportionnelle-referendum-septennat-marine-le-pen-precise-son-programme-avant-le",
+      "date_source": "2022-04-12",
+      "confiance": "deduite"
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "david-lisnard",
+  "nom": "David Lisnard",
+  "parti": "Nouvelle Énergie",
+  "statut": "déclaré",
+  "programme": "partiel",
+  "programme_url": "https://www.unenouvelleenergie.fr/notre-programme/",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Maire de Cannes, président de l'AMF ; candidature annoncée au printemps 2026 (31 mars selon France-Vote, à confirmer) après son départ de LR. Favorable à une primaire ouverte de la droite et du centre, qui n'a pas eu lieu. Programme publié par thèmes sur le site de Nouvelle Énergie, non daté mesure par mesure (date 2026 = consultation du site). Plusieurs sources sont des pages FAQ du mouvement lui-même, qui citent des discours et interviews datés.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": -2,
+      "resume": "Le programme juge « impératif » de porter l'âge légal à 65 ans, avec une pension minimale par répartition et une bascule progressive vers la capitalisation.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eco_smic": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eco_depenses": {
+      "valeur": 2,
+      "resume": "Le programme prévoit une « réduction drastique des dépenses publiques » pour passer de 55,6 % à moins de 50 % du PIB en dix ans, avec une règle d'or constitutionnelle sur le fonctionnement.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eco_patrimoine": {
+      "valeur": -2,
+      "resume": "Qualifie la taxe Zucman d'« illusion dangereuse » et cite l'ancien ISF comme destructeur de capital ; estime que la France souffre d'un excès de dépenses, pas d'un manque de recettes.",
+      "source": "https://www.lejdd.fr/politique/david-lisnard-la-taxe-zucman-est-une-illusion-dangereuse-162101",
+      "date_source": "2025-09-21",
+      "confiance": "declaration"
+    },
+    "eco_35h": {
+      "valeur": 2,
+      "resume": "Veut « laisser les accords d'entreprise libérer le temps de travail », le Code du travail se limitant aux principes généraux, pour augmenter le volume de travail.",
+      "source": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-assouplir-les-35-heures/",
+      "date_source": "2026-08-29",
+      "confiance": "declaration"
+    },
+    "ecol_nucleaire": {
+      "valeur": 2,
+      "resume": "Propose de stopper le démantèlement de réacteurs, de prolonger le parc à 60 ans et d'engager une première série de six EPR (proposition formulée dès 2021 et reprise par son mouvement).",
+      "source": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-construire-de-nouveaux-reacteurs-nucleaires/",
+      "date_source": "2021-08-01",
+      "confiance": "declaration"
+    },
+    "ecol_renouvelables": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_normes": {
+      "valeur": -1,
+      "resume": "Le programme veut remplacer le principe de précaution par un principe de responsabilité, mettre fin aux surtranspositions et supprimer les normes agricoles redondantes, tout en rémunérant les services environnementaux.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "sec_peines": {
+      "valeur": 2,
+      "resume": "Le programme prévoit de rétablir les peines planchers pour les récidivistes et une sanction, même courte, dès la première infraction.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "sec_prisons": {
+      "valeur": 2,
+      "resume": "A promis lors d'un meeting de construire « enfin les vingt mille places de prison ».",
+      "source": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-construire-des-places-de-prison/",
+      "date_source": "2026-07-03",
+      "confiance": "declaration"
+    },
+    "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_baisse": {
+      "valeur": 2,
+      "resume": "Le programme prévoit de diviser par huit la délivrance de titres de séjour, des quotas de main-d'œuvre qualifiée et un regroupement familial conditionné à des critères de revenus et d'intégration.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "imm_ame": {
+      "valeur": 2,
+      "resume": "Le programme prévoit de supprimer l'AME et de la remplacer par une aide d'urgence.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "imm_regularisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_integration": {
+      "valeur": -1,
+      "resume": "Rejette le fédéralisme et juge « oxymore » la souveraineté européenne ; propose un traité de « démocratisation » réduisant les pouvoirs de la Commission, de la CJUE et de la BCE, et des coopérations volontaires par projets.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eur_primaute": {
+      "valeur": 1,
+      "resume": "Veut inscrire dans la Constitution la primauté nationale en matière migratoire (décisions CJUE/CEDH contraires inapplicables), un opt-out à la danoise et, en dernier recours, une sortie de la CEDH, tout en excluant de quitter l'UE.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eur_ukraine": {
+      "valeur": 2,
+      "resume": "Soutient l'Ukraine face à l'invasion russe, juge que l'intérêt de la France est que la Russie ne gagne pas, et veut que des armes soient produites et livrées.",
+      "source": "https://www.unenouvelleenergie.fr/questions/quelle-est-la-position-de-david-lisnard-sur-la-guerre-en-ukraine/",
+      "date_source": "2025-03-05",
+      "confiance": "declaration"
+    },
+    "soc_medecins": {
+      "valeur": 0,
+      "resume": "Le programme privilégie des incitations (remboursement différencié selon les zones, maisons de santé par canton, doublement des étudiants en médecine) et une régulation de l'offre par des communautés médicales locales, sans obligation d'installation explicite.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "soc_findevie": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": -2,
+      "resume": "Le programme propose un chèque-éducation, soit une subvention publique équivalente quelle que soit l'école choisie par la famille, et la suppression de la carte scolaire.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "edu_autorite": {
+      "valeur": 1,
+      "resume": "Le programme veut « rétablir l'autorité du professeur », permettre aux chefs d'établissement de refuser les élèves perturbateurs et créer des classes d'excellence ; l'uniforme n'est pas mentionné.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_ric": {
+      "valeur": 2,
+      "resume": "Propose un « véritable référendum d'initiative populaire » sur le modèle suisse.",
+      "source": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-des-referendums/",
+      "date_source": "2026-08-29",
+      "confiance": "declaration"
+    },
+    "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "francois-ruffin",
+  "nom": "François Ruffin",
+  "parti": "Debout !",
+  "statut": "déclaré",
+  "programme": "partiel",
+  "programme_url": "https://nouspresident.fr/notre-programme/",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Député de la Somme (groupe Écologiste et Social). Candidat déclaré ; il devait concourir à la primaire de la « gauche unitaire » du 11 octobre 2026, de facto abandonnée depuis juillet 2026 après le retrait du PS ; il avait annoncé qu'il irait seul en l'absence de primaire (https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026). Programme publié sous forme de « cahiers de campagne » thématiques (7 à ce jour) sur nouspresident.fr ; plusieurs thèmes (sécurité, école, institutions) ne sont pas encore couverts. Plusieurs positions s'appuient sur ses votes de député (datan.fr) ou sur le manifeste de Debout !.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 2,
+      "resume": "Le cahier de campagne sur les travailleurs essentiels revendique « la retraite à 60 ans » dans la continuité du programme du NFP ; il a voté pour la suspension de la réforme des retraites (12 novembre 2025).",
+      "source": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "date_source": "2026-04-13",
+      "confiance": "programme"
+    },
+    "eco_smic": {
+      "valeur": 2,
+      "resume": "Le cahier de campagne sur les travailleurs essentiels cite « le SMIC à 1 600 € » parmi les mesures, avec indexation des salaires sur l'inflation.",
+      "source": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "date_source": "2026-04-13",
+      "confiance": "programme"
+    },
+    "eco_depenses": {
+      "valeur": -2,
+      "resume": "Déduit du manifeste de Debout ! : critique des « budgets à tailler » et « coupes sèches » dans les services publics et appel à des « impôts justes » faisant davantage contribuer le capital.",
+      "source": "https://debout.fr/notre-manifeste/",
+      "date_source": "2026-04",
+      "confiance": "deduite"
+    },
+    "eco_patrimoine": {
+      "valeur": 2,
+      "resume": "A voté pour le rétablissement de l'ISF (17 octobre 2022) ; le manifeste de Debout ! veut « abaisser le plafond » des plus riches et mettre « une limite à l'accumulation ».",
+      "source": "https://datan.fr/votes/legislature-16/vote_325",
+      "date_source": "2022-10-17",
+      "confiance": "declaration"
+    },
+    "eco_35h": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_nucleaire": {
+      "valeur": 1,
+      "resume": "Le cahier « travaillisme écologique » prévoit de prolonger les centrales existantes, de poursuivre les six EPR2 et de décider de huit EPR2 supplémentaires selon le devis d'EDF.",
+      "source": "https://nouspresident.fr/travaillisme-ecologique/",
+      "date_source": "2026-09-09",
+      "confiance": "programme"
+    },
+    "ecol_renouvelables": {
+      "valeur": 1,
+      "resume": "Le cahier « travaillisme écologique » prévoit de poursuivre le développement de l'éolien et des autres renouvelables, planifié par EDF et les collectivités, aux côtés du nucléaire.",
+      "source": "https://nouspresident.fr/travaillisme-ecologique/",
+      "date_source": "2026-09-09",
+      "confiance": "programme"
+    },
+    "ecol_normes": {
+      "valeur": 0,
+      "resume": "Le cahier « travaillisme écologique » préfère rémunérer les services environnementaux et garantir des prix agricoles minimums plutôt qu'une « logique de normes », tout en voulant étendre le bio ; il a voté contre la loi d'urgence agricole de juillet 2026 permettant de réautoriser l'acétamipride.",
+      "source": "https://nouspresident.fr/travaillisme-ecologique/",
+      "date_source": "2026-09-09",
+      "confiance": "programme"
+    },
+    "sec_peines": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_prisons": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_cannabis": {
+      "valeur": 2,
+      "resume": "Cosignataire de la proposition de loi n° 4746 (30 novembre 2021) visant à légaliser la production, la vente et la consommation de cannabis sous contrôle de l'État ; aucune déclaration plus récente trouvée.",
+      "source": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4746_proposition-loi.pdf",
+      "date_source": "2021-11-30",
+      "confiance": "declaration"
+    },
+    "imm_baisse": {
+      "valeur": 0,
+      "resume": "Le manifeste de Debout ! s'oppose aux « filières d'immigration » voulues par le patronat pour combler des pénuries, tout en refusant de faire des migrants des boucs émissaires ; il ne propose ni quotas ni restriction du regroupement familial.",
+      "source": "https://debout.fr/notre-manifeste/",
+      "date_source": "2026-04",
+      "confiance": "deduite"
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": 1,
+      "resume": "Dit soutenir la régularisation des personnes « qui sont sur le territoire et qui travaillent » dans les métiers en tension, tout en refusant une immigration choisie pour combler les manques (Sud Radio, novembre 2022).",
+      "source": "https://www.sudradio.fr/linvite-politique/je-refuse-une-immigration-choisie-qui-vienne-combler-les-manques-estime-francois-ruffin",
+      "date_source": "2022-11-03",
+      "confiance": "declaration"
+    },
+    "eur_integration": {
+      "valeur": 0,
+      "resume": "Le manifeste de Debout ! se dit critique d'une construction européenne « faite sans les peuples » mais propose de chercher des alliés pour un grand plan d'investissement européen.",
+      "source": "https://debout.fr/notre-manifeste/",
+      "date_source": "2026-04",
+      "confiance": "deduite"
+    },
+    "eur_primaute": {
+      "valeur": 1,
+      "resume": "Le manifeste de Debout ! affirme : « Nous désobéirons aux traités européens lorsqu'ils entrent en contradiction avec nos engagements », sans proposer de sortie de l'UE.",
+      "source": "https://debout.fr/notre-manifeste/",
+      "date_source": "2026-04",
+      "confiance": "deduite"
+    },
+    "eur_ukraine": {
+      "valeur": -1,
+      "resume": "S'est abstenu sur la résolution du 12 mars 2025 appelant à renforcer le soutien à l'Ukraine (son groupe a voté pour) et a voté contre la stratégie d'aide du gouvernement en mars 2024 ; le manifeste condamne l'invasion russe.",
+      "source": "https://datan.fr/votes/legislature-17/vote_988",
+      "date_source": "2025-03-12",
+      "confiance": "declaration"
+    },
+    "soc_medecins": {
+      "valeur": 2,
+      "resume": "A voté pour la régulation de l'installation des médecins dans les zones bien pourvues (14 juin 2023).",
+      "source": "https://datan.fr/votes/legislature-16/vote_1812",
+      "date_source": "2023-06-14",
+      "confiance": "declaration"
+    },
+    "soc_findevie": {
+      "valeur": 2,
+      "resume": "A voté pour la loi créant un droit à l'aide à mourir lors de la lecture définitive (15 juillet 2026).",
+      "source": "https://datan.fr/votes/legislature-17/vote_8280",
+      "date_source": "2026-07-15",
+      "confiance": "declaration"
+    },
+    "soc_rsa": {
+      "valeur": -2,
+      "resume": "A voté contre la loi « plein emploi » qui impose 15 heures d'activité aux allocataires du RSA (14 novembre 2023).",
+      "source": "https://datan.fr/votes/legislature-16/vote_2965",
+      "date_source": "2023-11-14",
+      "confiance": "declaration"
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_ric": {
+      "valeur": 2,
+      "resume": "Cosignataire de la proposition de loi constitutionnelle instaurant un RIC délibératif (décembre 2025) ; le manifeste de Debout ! propose le RIC.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2260_proposition-loi.pdf",
+      "date_source": "2025-12-18",
+      "confiance": "declaration"
+    },
+    "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    }
+  }
+}

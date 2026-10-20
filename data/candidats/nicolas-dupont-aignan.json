@@ -1,0 +1,187 @@
+{
+  "slug": "nicolas-dupont-aignan",
+  "nom": "Nicolas Dupont-Aignan",
+  "parti": "Debout la France",
+  "statut": "déclaré",
+  "programme": "partiel",
+  "programme_url": "https://www.debout-la-france.fr/notre-projet/",
+  "mis_a_jour": "2026-10-20",
+  "notes": "A officialisé sa quatrième candidature présidentielle le 19 septembre 2026 à Yerres ; il se présente comme le seul candidat proposant la sortie de l'Union européenne (par référendum). Il évoque des difficultés de financement et devra réunir ses 500 parrainages. Le projet de Debout la France est en cours d'actualisation pour 2027 : certaines pages thématiques (ex. retraites) semblent antérieures à 2023 ; le communiqué « 20 mesures chocs » du 20 octobre 2026 constitue le document de campagne le plus récent. Source statut : https://www.cnews.fr/france/2026-09-19/presidentielle-2027-depuis-son-fief-de-yerres-nicolas-dupont-aignan-se-lance-dans",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 2,
+      "resume": "Le projet DLF prévoit de maintenir l'âge minimum de départ et la durée de cotisation issus de la réforme de 2010 (soit 62 ans) ; DLF s'est opposé au passage à 64 ans en 2023.",
+      "source": "https://www.debout-la-france.fr/projet/retraites/",
+      "date_source": "2023",
+      "confiance": "programme"
+    },
+    "eco_smic": {
+      "valeur": -1,
+      "resume": "Propose d'augmenter de 8 % les salaires jusqu'à 3 SMIC par une baisse des cotisations salariales, sans hausse du SMIC décidée par l'État.",
+      "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eco_depenses": {
+      "valeur": 1,
+      "resume": "Annonce 130 milliards d'euros d'économies en cinq ans pour ramener le déficit sous 3 %, « sans faire souffrir les Français », tout en créant un impôt sur les très grandes fortunes et une taxe numérique.",
+      "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eco_patrimoine": {
+      "valeur": 1,
+      "resume": "Propose de rétablir un impôt sur les très grandes fortunes, en excluant la résidence principale et en permettant de déduire les investissements dans des entreprises produisant en France.",
+      "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eco_35h": {
+      "valeur": 0,
+      "resume": "Propose de défiscaliser les heures supplémentaires au-delà de 1 607 heures par an (dans la limite de 100 heures), sans modifier la durée légale du travail.",
+      "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ecol_nucleaire": {
+      "valeur": 1,
+      "resume": "Veut maintenir le nucléaire à au moins 70 % de la production d'électricité, abandonner l'objectif de 50 %, et soutenir les réacteurs de génération IV et une filière thorium, sans chiffrer de nouveaux réacteurs.",
+      "source": "https://www.debout-la-france.fr/projet/environnement-energie/",
+      "date_source": "2022",
+      "confiance": "programme"
+    },
+    "ecol_renouvelables": {
+      "valeur": -2,
+      "resume": "Juge qu'une politique tournée vers l'éolien et le photovoltaïque « ne pourra jamais tenir ses promesses » et propose de redéployer les 4 milliards consacrés au solaire et à l'éolien vers l'isolation et le nucléaire.",
+      "source": "https://www.debout-la-france.fr/projet/environnement-energie/",
+      "date_source": "2022",
+      "confiance": "programme"
+    },
+    "ecol_normes": {
+      "valeur": -2,
+      "resume": "Veut sortir de la PAC, mettre fin au Pacte vert européen et aux quotas de jachères et simplifier les normes agricoles, tout en bloquant les importations ne respectant pas les normes françaises.",
+      "source": "https://www.debout-la-france.fr/projet/agriculture/",
+      "date_source": "2025",
+      "confiance": "programme"
+    },
+    "sec_peines": {
+      "valeur": 2,
+      "resume": "Propose de réinstaurer et d'élargir les peines planchers (agressions de policiers, gendarmes, pompiers, enseignants, soignants), la perpétuité réelle et la prison ferme pour les multirécidivistes.",
+      "source": "https://www.dupontaignan.fr/actualite/communique-nicolas-dupont-aignan-a-limoges/",
+      "date_source": "2026-10-20",
+      "confiance": "programme"
+    },
+    "sec_prisons": {
+      "valeur": 2,
+      "resume": "Propose la construction de 40 000 nouvelles places de prison.",
+      "source": "https://www.dupontaignan.fr/actualite/communique-nicolas-dupont-aignan-a-limoges/",
+      "date_source": "2026-10-20",
+      "confiance": "programme"
+    },
+    "sec_cannabis": {
+      "valeur": -2,
+      "resume": "Position déduite d'une déclaration ancienne : « Je suis contre la dépénalisation du cannabis » (France Bleu, 2016).",
+      "source": "https://www.debout-la-france.fr/actualite/nda-sur-france-bleu-je-suis-contre-la-depenalisation-du-cannabis/",
+      "date_source": "2016-10-17",
+      "confiance": "deduite"
+    },
+    "imm_baisse": {
+      "valeur": 2,
+      "resume": "Propose la suppression du droit du sol, la suspension du regroupement familial, le rétablissement des frontières nationales et la fin des aides sociales non contributives aux étrangers.",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "date_source": "2025",
+      "confiance": "programme"
+    },
+    "imm_ame": {
+      "valeur": 2,
+      "resume": "Propose de supprimer l'AME et de la remplacer par une aide médicale exceptionnelle limitée aux urgences et aux maladies contagieuses.",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "date_source": "2025",
+      "confiance": "programme"
+    },
+    "imm_regularisation": {
+      "valeur": -2,
+      "resume": "Propose de supprimer la régularisation des étrangers en situation irrégulière et de rétablir le délit de séjour irrégulier.",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "date_source": "2025",
+      "confiance": "programme"
+    },
+    "eur_integration": {
+      "valeur": -2,
+      "resume": "Propose de sortir de l'Union européenne, après référendum, pour la remplacer par une « Europe des nations libres » et des coopérations à la carte.",
+      "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eur_primaute": {
+      "valeur": 2,
+      "resume": "Propose de rétablir par référendum dans la Constitution la primauté du droit français sur toute norme européenne, dans le cadre d'une sortie de l'UE.",
+      "source": "https://www.dupontaignan.fr/actualite/communique-nicolas-dupont-aignan-a-limoges/",
+      "date_source": "2026-10-20",
+      "confiance": "programme"
+    },
+    "eur_ukraine": {
+      "valeur": -2,
+      "resume": "Déclare qu'élu président il arrêterait « toutes subventions à l'Ukraine » ; son projet vise la paix et la relance d'un partenariat avec la Russie.",
+      "source": "https://www.dupontaignan.fr/actualite/president-jarreterai-toutes-subventions-a-lukraine-%c2%b7-bfmtv-21-09-26-2/",
+      "date_source": "2026-09-21",
+      "confiance": "declaration"
+    },
+    "soc_medecins": {
+      "valeur": -2,
+      "resume": "Position déduite : DLF jugeait en 2017 que « la liberté d'installation ne peut être remise en cause » ; le projet actuel privilégie une bourse aux étudiants en échange d'une installation en zone sous-dotée.",
+      "source": "https://www.debout-la-france.fr/actualite/appuyons-nous-sur-les-medecins-et-les-professionnels-de-sante-pour-preserver-le-modele/",
+      "date_source": "2017-12-01",
+      "confiance": "deduite"
+    },
+    "soc_findevie": {
+      "valeur": -2,
+      "resume": "Opposé à la légalisation de l'euthanasie et du suicide assisté (vote contre en 2024) ; il dénonçait encore en 2026 « l'euthanasie de nos aînés ».",
+      "source": "https://www.debout-la-france.fr/actualite/la-macronie-est-contre-la-peine-de-mort-pour-les-meurtriers-mais-pour-leuthanasie-de-nos-aines-%c2%b7-bfmtv-01-07-26/",
+      "date_source": "2026-07-01",
+      "confiance": "declaration"
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur le conditionnement du RSA à des heures d'activité ; le projet prévoit un délai de carence de 5 ans pour le RSA des étrangers et un plafond de prestations à 70 % du SMIC net pour les inactifs.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": -1,
+      "resume": "Le projet propose d'accepter les créations de classes demandées par les établissements privés pour répondre à la demande des familles, sous inspection régulière.",
+      "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "edu_autorite": {
+      "valeur": 2,
+      "resume": "Propose l'uniforme obligatoire, la tolérance zéro, l'exclusion des élèves harceleurs, des établissements « d'apaisement civique » et des classes de niveau au collège.",
+      "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ins_proportionnelle": {
+      "valeur": -2,
+      "resume": "Qualifie la proportionnelle de « fausse bonne idée » qui rendrait le pays ingouvernable, et lui préfère le référendum et le RIC.",
+      "source": "https://www.debout-la-france.fr/actualite/communique-de-presse-%c2%b7-la-proportionnelle-le-piege-du-systeme-pour-priver-la-france-dalternative-politique/",
+      "date_source": "2025-04-30",
+      "confiance": "declaration"
+    },
+    "ins_ric": {
+      "valeur": 2,
+      "resume": "Propose un RIC législatif et constituant déclenché par un million d'électeurs, précédé d'un débat de six mois.",
+      "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Ne propose pas de VIe République mais un retour à l'« esprit de la Ve » : septennat avec référendum révocatoire d'initiative citoyenne à mi-mandat et référendum obligatoire pour certaines réformes.",
+      "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "date_source": "2026",
+      "confiance": "programme"
+    }
+  }
+}

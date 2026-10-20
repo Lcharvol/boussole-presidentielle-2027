@@ -1,0 +1,187 @@
+{
+  "slug": "anasse-kazib",
+  "nom": "Anasse Kazib",
+  "parti": "Révolution permanente",
+  "statut": "déclaré",
+  "programme": "partiel",
+  "programme_url": "https://anasse2027.fr/programme",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Candidature annoncée le 1er-2 juin 2026 (Franceinfo, Libération). En 2022, il n'avait pas obtenu les 500 parrainages ; la collecte 2027 est en cours, ce qui rend sa présence au premier tour incertaine. Le programme 2027 est « en cours d'élaboration » : seul un 4 pages de premières mesures (6 axes) est publié sur anasse2027.fr (non daté ; date indiquée 2026-06 = mois du lancement de campagne, approximative) ; certaines positions sont déduites du programme de pré-campagne 2022 republié sur le même site.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 2,
+      "resume": "Les premières mesures 2027 prévoient la retraite à 60 ans, et à 55 ans pour les métiers pénibles, sans condition d'annuités.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "eco_smic": {
+      "valeur": 2,
+      "resume": "Les premières mesures 2027 prévoient un SMIC à 2 000 euros net, 500 euros d'augmentation des salaires et leur indexation sur l'inflation.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "eco_depenses": {
+      "valeur": -2,
+      "resume": "Les premières mesures 2027 prévoient des investissements massifs dans les services publics et la suppression des aides publiques aux grandes entreprises.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "eco_patrimoine": {
+      "valeur": 2,
+      "resume": "Le programme 2022 demandait le rétablissement de l'impôt sur les grandes fortunes ; les mesures 2027 jugent que « taxer les riches ne suffit pas » et proposent l'expropriation des secteurs stratégiques.",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eco_35h": {
+      "valeur": -2,
+      "resume": "Les premières mesures 2027 prévoient une répartition du travail avec une semaine de 28 heures sans baisse de salaire.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "ecol_nucleaire": {
+      "valeur": -2,
+      "resume": "Déduit du programme 2022 : il critique le « tout nucléaire » et évoque « une transition pour sortir du nucléaire ».",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ecol_renouvelables": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_normes": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_peines": {
+      "valeur": -2,
+      "resume": "Déduit des mesures 2027 (« abrogation de toutes les lois sécuritaires ») et du programme 2022, qui critique le durcissement de la réponse pénale comme renforcement du système répressif.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "deduite"
+    },
+    "sec_prisons": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_cannabis": {
+      "valeur": 2,
+      "resume": "Déduit du programme 2022 : légaliser sous contrôle de l'État, avec suivi médical, l'ensemble des substances stupéfiantes, à commencer par le cannabis.",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "imm_baisse": {
+      "valeur": -2,
+      "resume": "Les premières mesures 2027 revendiquent la « liberté de circulation et d'installation » ; le programme 2022 défendait l'ouverture des frontières et le regroupement familial.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": 2,
+      "resume": "Les premières mesures 2027 revendiquent la régularisation de tous les sans-papiers.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "eur_integration": {
+      "valeur": -1,
+      "resume": "Déduit du programme 2022 (« Ni Frexit ni Europe du Capital ») : rejet de l'Union européenne actuelle au profit d'« États-Unis socialistes d'Europe » ; les mesures 2027 refusent tout budget militaire (« pas un euro pour la guerre »).",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_primaute": {
+      "valeur": -1,
+      "resume": "Déduit du programme 2022 : rejet du retour aux « États-nations souverains » et du Frexit, présentés comme une régression pour les classes populaires.",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_ukraine": {
+      "valeur": -2,
+      "resume": "Les premières mesures 2027 réclament « pas un euro pour la guerre » et le démantèlement de l'industrie d'armement française.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "soc_medecins": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_findevie": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_ric": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_6e": {
+      "valeur": 2,
+      "resume": "Les premières mesures 2027 demandent la fin de la Ve République, du Sénat et de la « figure présidentielle » ; le programme 2022 proposait une assemblée unique élue pour deux ans.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "bernard-cazeneuve",
+  "nom": "Bernard Cazeneuve",
+  "parti": "La Convention",
+  "statut": "déclaré",
+  "programme": "partiel",
+  "programme_url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+  "mis_a_jour": "2026-10-20",
+  "notes": "S'est déclaré candidat dans Le Figaro le 28 avril 2026, puis a confirmé sa « volonté pleine et entière » le 19 mai (France Inter) et dit le 30 juillet que son objectif est de devenir président. Son statut reste ambigu : sa « Lettre aux Françaises et aux Français » (86 pages, mi-juillet 2026, 30 propositions) dit qu'« aucune candidature n'est déclarée », et certains suivis le classent comme « probable ». Cette lettre tient lieu de socle programmatique (site de campagne : bc2027.fr). Il refuse une primaire de la gauche. Beaucoup de thèmes de la boussole n'y sont pas traités.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": -1,
+      "resume": "Privilégie la durée de cotisation plutôt qu'un nouveau recul de l'âge légal, avec rétablissement de la pénibilité et des carrières longues ; ne propose pas de ramener l'âge légal à 62 ans.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "eco_smic": {
+      "valeur": null,
+      "resume": "Aucune proposition sur le SMIC ; la lettre refuse toute « formule magique » sur le pouvoir d'achat.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eco_depenses": {
+      "valeur": -1,
+      "resume": "Attribue la hausse de la dette surtout à des choix fiscaux (suppression de l'ISF, flat tax) plutôt qu'aux dépenses sociales, et met l'accent sur la justice fiscale et la réduction des niches, tout en appelant à « dépenser plus efficacement ».",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "eco_patrimoine": {
+      "valeur": 1,
+      "resume": "Propose une fiscalité « atteignant réellement les très grandes fortunes, les plus hauts revenus du capital et les rentes », sans nommer l'ISF ni la taxe Zucman, en précisant qu'« une fiscalité juste n'est pas punitive ».",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "eco_35h": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la durée légale du travail.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_nucleaire": {
+      "valeur": 1,
+      "resume": "Veut « assumer » la filière électronucléaire et planifier le renouvellement du parc, sans préciser de nombre de réacteurs.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "ecol_renouvelables": {
+      "valeur": 0,
+      "resume": "Propose une « rationalisation des investissements dans les énergies renouvelables » au service de l'électrification, sans objectif d'accélération.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "ecol_normes": {
+      "valeur": 0,
+      "resume": "Défend une écologie « populaire et planifiée » qui ne punisse pas les plus modestes, et en parallèle une simplification des normes (deux supprimées pour une créée) et la fin des surtranspositions.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "sec_peines": {
+      "valeur": -1,
+      "resume": "Demande des « peines réellement exécutées » contre le narcotrafic, mais propose de sortir du « tout-comparution immédiate et de la prison par défaut » ; aucune proposition de peines planchers.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "sec_prisons": {
+      "valeur": -1,
+      "resume": "Estime que « la prison ne peut pas être la réponse par défaut » et critique la surpopulation carcérale, sans proposer de programme de construction de places.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la légalisation du cannabis.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_baisse": {
+      "valeur": null,
+      "resume": "La lettre pose trois principes (humanité, intégration, fermeté contre l'immigration irrégulière) sans se prononcer sur le niveau de l'immigration légale, les quotas ou le regroupement familial.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur l'AME.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la régularisation des travailleurs sans papiers.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_integration": {
+      "valeur": 1,
+      "resume": "Propose la fin de la règle de l'unanimité au profit des décisions à la majorité, une réforme budgétaire et une politique industrielle commune, tout en voulant contribuer à l'Europe de la défense « sans prétendre s'y substituer ».",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "eur_primaute": {
+      "valeur": -1,
+      "resume": "Défend une Europe qui décide à la majorité et retrouve « l'ambition de ses pères fondateurs » ; ne propose ni primauté du droit national ni renégociation des traités dans ce sens.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "eur_ukraine": {
+      "valeur": 1,
+      "resume": "Juge la défense de l'Ukraine « indissociable de l'idée d'un continent libre » et prône un réarmement « à proportion de la menace », sans détailler l'aide militaire.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "soc_medecins": {
+      "valeur": null,
+      "resume": "La lettre traite de l'accès aux soins et des métiers du soin, sans position trouvée sur la régulation de l'installation des médecins.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_findevie": {
+      "valeur": null,
+      "resume": "La lettre mentionne le débat éthique sur la fin de vie sans prendre position sur l'aide à mourir.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la conditionnalité du RSA ; la lettre propose de simplifier, unifier et automatiser les aides.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": 0,
+      "resume": "Combat « l'évitement organisé » et la ségrégation scolaire, mais estime que « ce n'est pas la coexistence du public et du privé qui pose problème » ; aucune proposition sur le financement du privé.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur l'uniforme, les sanctions ou les groupes de niveau ; la lettre insiste sur la transmission des savoirs et la « civilité laïque ».",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_proportionnelle": {
+      "valeur": 1,
+      "resume": "Propose d'introduire une dose de proportionnelle aux législatives.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "ins_ric": {
+      "valeur": null,
+      "resume": "Propose d'ouvrir la fabrique de la loi à la participation des citoyens, sans se prononcer sur le RIC.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Écarte un changement de régime, mais propose de rétablir le septennat, de restaurer le rôle du Premier ministre et de discipliner le recours au 49.3 et aux ordonnances.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    }
+  }
+}

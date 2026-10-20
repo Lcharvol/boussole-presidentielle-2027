@@ -1,0 +1,187 @@
+{
+  "slug": "selma-labib",
+  "nom": "Selma Labib",
+  "parti": "NPA-Révolutionnaires",
+  "statut": "désigné par son parti",
+  "programme": "non publié",
+  "programme_url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Conductrice de bus, tête de liste NPA-R aux européennes de 2024 ; candidature annoncée le 17 juin 2026 avec Gaël Quirante. Candidature conditionnée à l'obtention des 500 parrainages, non atteints selon les informations disponibles. Pas de programme détaillé publié : positions tirées de son discours à la Fête de l'Humanité (12 septembre 2026).",
+  "positions": {
+    "eco_retraite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eco_smic": {
+      "valeur": 2,
+      "resume": "Revendique une hausse de 400 euros par mois de tous les salaires et pensions et qu'aucun revenu ne soit inférieur à 2 000 euros net.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
+    },
+    "eco_depenses": {
+      "valeur": -2,
+      "resume": "S'oppose aux budgets d'austérité et aux coupes budgétaires, et veut réorienter l'argent des aides aux entreprises et des dépenses militaires.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
+    },
+    "eco_patrimoine": {
+      "valeur": 1,
+      "resume": "Veut « faire payer » les actionnaires et les milliardaires pour financer des mesures d'urgence, sans préciser d'instrument fiscal.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
+    },
+    "eco_35h": {
+      "valeur": -2,
+      "resume": "Revendique une forte réduction du temps de travail sans perte de salaire jusqu'à la disparition du chômage.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
+    },
+    "ecol_nucleaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_renouvelables": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_normes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_peines": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_prisons": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_baisse": {
+      "valeur": -2,
+      "resume": "Revendique la « liberté de circulation et d'installation » des étrangers.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": 2,
+      "resume": "Revendique la régularisation de tous les travailleurs sans papiers.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
+    },
+    "eur_integration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_primaute": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_ukraine": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_medecins": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_findevie": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_ric": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    }
+  }
+}

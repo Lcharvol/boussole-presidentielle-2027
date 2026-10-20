@@ -1,0 +1,187 @@
+{
+  "slug": "jean-luc-melenchon",
+  "nom": "Jean-Luc Mélenchon",
+  "parti": "La France insoumise",
+  "statut": "déclaré",
+  "programme": "partiel",
+  "programme_url": "https://melenchon2027.fr/programme/decouvrir/",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Candidature annoncée le 3 mai 2026 au JT de TF1 (https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851). Le livre-programme « L'Avenir en commun » est en cours de réactualisation ; nouvelle version annoncée pour les 6-7 novembre 2026. Seul document 2027 publié consulté : « Comment nous allons remettre de l'ordre dans les comptes publics » (octobre 2026). Les autres positions sont déduites du programme 2022 (laec.fr) ou des votes du groupe LFI à l'Assemblée (Mélenchon n'est pas député) : à revoir après la publication du programme 2027.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 2,
+      "resume": "Le document de campagne d'octobre 2026 prévoit d'abroger la réforme de 2023 (retraite à 64 ans) puis de revenir à la retraite à 60 ans avec 40 annuités au cours du mandat.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "date_source": "2026-10",
+      "confiance": "programme"
+    },
+    "eco_smic": {
+      "valeur": 2,
+      "resume": "Le document de campagne d'octobre 2026 prévoit une hausse du SMIC à 1 700 euros net et l'indexation des salaires sur l'inflation.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "date_source": "2026-10",
+      "confiance": "programme"
+    },
+    "eco_depenses": {
+      "valeur": -2,
+      "resume": "Le document de campagne d'octobre 2026 rejette les coupes dans les dépenses publiques et prévoit de réduire le déficit par environ 106 milliards d'euros de recettes nouvelles et par l'investissement.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "date_source": "2026-10",
+      "confiance": "programme"
+    },
+    "eco_patrimoine": {
+      "valeur": 2,
+      "resume": "Le document de campagne d'octobre 2026 prévoit le rétablissement d'un impôt sur la fortune renforcé (10 milliards d'euros attendus) et la suppression de la flat tax.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "date_source": "2026-10",
+      "confiance": "programme"
+    },
+    "eco_35h": {
+      "valeur": -2,
+      "resume": "Déduit du programme 2022 : rétablir effectivement les 35 heures (heures supplémentaires majorées) et passer aux 32 heures dans les métiers pénibles, avec généralisation par la négociation.",
+      "source": "https://laec.fr/section/36/reduire-le-temps-de-travail-et-faire-naitre-une-societe-du-temps-choisi",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ecol_nucleaire": {
+      "valeur": -2,
+      "resume": "Déduit du programme 2022 : sortir du nucléaire, abandonner les projets d'EPR et planifier le démantèlement des sites.",
+      "source": "https://laec.fr/section/19/organiser-le-100-denergies-renouvelables-en-2050-et-la-renovation-energetique",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ecol_renouvelables": {
+      "valeur": 2,
+      "resume": "Déduit du programme 2022 : planifier le passage à 100 % d'énergies renouvelables en 2050.",
+      "source": "https://laec.fr/section/19/organiser-le-100-denergies-renouvelables-en-2050-et-la-renovation-energetique",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ecol_normes": {
+      "valeur": 2,
+      "resume": "Déduit du programme 2022 : réduire progressivement engrais et pesticides et interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes).",
+      "source": "https://laec.fr/section/21/souverainete-alimentaire-et-revolution-agricole-pour-une-agriculture-ecologique-et-paysanne",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "sec_peines": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_prisons": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_cannabis": {
+      "valeur": 2,
+      "resume": "Déduit du programme 2022 : légaliser et encadrer par un monopole d'État la production, la vente et la consommation de cannabis récréatif (proposition de loi n° 4746 cosignée en 2021).",
+      "source": "https://laec.fr/section/11/addictions-et-drogues-il-faut-changer-de-strategie",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "imm_baisse": {
+      "valeur": -2,
+      "resume": "Déduit du programme 2022 : faciliter l'accès aux visas et faire de la carte de séjour de dix ans le titre de référence.",
+      "source": "https://laec.fr/section/76/pour-une-politique-migratoire-humaniste-et-realiste",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": 2,
+      "resume": "Déduit du programme 2022 : régulariser les travailleurs, étudiants et parents d'enfants scolarisés sans papiers.",
+      "source": "https://laec.fr/section/76/pour-une-politique-migratoire-humaniste-et-realiste",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_integration": {
+      "valeur": -2,
+      "resume": "Déduit du programme 2022 : suspendre la participation de la France (opt-out) à des programmes comme l'Europe de la défense et désobéir aux règles européennes jugées bloquantes.",
+      "source": "https://laec.fr/section/70/desobeir-a-chaque-fois-que-cest-necessaire-pour-mettre-en-uvre-notre-programme",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_primaute": {
+      "valeur": 1,
+      "resume": "Déduit du programme 2022 : désobéir aux règles européennes incompatibles avec le programme tant qu'un changement des traités n'est pas obtenu, sans proposer de sortie de l'UE.",
+      "source": "https://laec.fr/section/70/desobeir-a-chaque-fois-que-cest-necessaire-pour-mettre-en-uvre-notre-programme",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_ukraine": {
+      "valeur": -1,
+      "resume": "Déduit du vote du groupe LFI (Mélenchon n'est pas député) : contre la résolution du 12 mars 2025 appelant à renforcer le soutien, y compris militaire, à l'Ukraine.",
+      "source": "https://datan.fr/votes/legislature-17/vote_988",
+      "date_source": "2025-03-12",
+      "confiance": "deduite"
+    },
+    "soc_medecins": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_findevie": {
+      "valeur": 2,
+      "resume": "Déduit du programme 2022 (droit de mourir dans la dignité « y compris avec assistance ») ; le groupe LFI a voté pour la loi sur l'aide à mourir le 15 juillet 2026.",
+      "source": "https://laec.fr/section/56/une-nouvelle-etape-des-libertes-et-de-lemancipation-individuelle",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "soc_rsa": {
+      "valeur": -2,
+      "resume": "Déduit du vote du groupe LFI : contre la loi « plein emploi » de 2023 qui impose 15 heures d'activité aux allocataires du RSA.",
+      "source": "https://datan.fr/votes/legislature-16/vote_2965",
+      "date_source": "2023-11-14",
+      "confiance": "deduite"
+    },
+    "edu_prive": {
+      "valeur": 1,
+      "resume": "Déduit du programme 2022 : « abolir les privilèges de l'enseignement privé » (abrogation de la loi Carle, interdiction des subventions extralégales des collectivités).",
+      "source": "https://laec.fr/section/65/reconstruire-une-ecole-globale-pour-legalite-et-lemancipation",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_proportionnelle": {
+      "valeur": 2,
+      "resume": "Déduit du programme 2022 : élire l'Assemblée nationale au scrutin proportionnel départemental.",
+      "source": "https://laec.fr/section/2/abolir-la-monarchie-presidentielle",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ins_ric": {
+      "valeur": 2,
+      "resume": "Déduit du programme 2022 : instaurer le RIC (révocatoire, législatif, abrogatif et constituant).",
+      "source": "https://laec.fr/section/4/une-republique-permettant-lintervention-populaire",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "ins_6e": {
+      "valeur": 2,
+      "resume": "Déduit du programme 2022 : convoquer une Assemblée constituante pour passer à la 6e République et « abolir la monarchie présidentielle ».",
+      "source": "https://laec.fr/section/1/reunir-une-assemblee-constituante-pour-passer-a-la-6e-republique",
+      "date_source": "2022",
+      "confiance": "deduite"
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "delphine-batho",
+  "nom": "Delphine Batho",
+  "parti": "Génération Écologie",
+  "statut": "désigné par son parti",
+  "programme": "non publié",
+  "programme_url": null,
+  "mis_a_jour": "2026-10-20",
+  "notes": "Candidature déclarée fin novembre 2025, investie à l'unanimité par la convention nationale de Génération Écologie le 6 juin 2026. Refuse toute primaire ; doit réunir les 500 parrainages. Son site (delphinebatho.fr) indique que le programme est en cours d'élaboration avec les citoyens. Faute de programme, les positions reposent surtout sur ses votes de députée des Deux-Sèvres (relevés Datan, d'après les scrutins publics de l'Assemblée) et sur le texte d'orientation de son parti (2023).",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 1,
+      "resume": "A voté la suspension de la réforme des retraites jusqu'au 1er janvier 2028 et s'était opposée à la réforme de 2023 ; aucune déclaration récente trouvée sur un retour explicite à 62 ans.",
+      "source": "https://datan.fr/votes/legislature-17/vote_3684",
+      "date_source": "2025-11-12",
+      "confiance": "declaration"
+    },
+    "eco_smic": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eco_depenses": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eco_patrimoine": {
+      "valeur": 2,
+      "resume": "A voté pour la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra-riches (taxe Zucman) en première lecture.",
+      "source": "https://datan.fr/votes/legislature-17/vote_881",
+      "date_source": "2025-02-20",
+      "confiance": "declaration"
+    },
+    "eco_35h": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_nucleaire": {
+      "valeur": -2,
+      "resume": "A voté contre le projet de loi d'accélération du nucléaire ouvrant la voie à de nouveaux réacteurs EPR2.",
+      "source": "https://datan.fr/votes/legislature-16/vote_1243",
+      "date_source": "2023-03-21",
+      "confiance": "declaration"
+    },
+    "ecol_renouvelables": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_normes": {
+      "valeur": 2,
+      "resume": "A voté contre le texte de compromis de la loi Duplomb, qui réautorisait sous conditions un néonicotinoïde à la demande d'une partie du monde agricole.",
+      "source": "https://datan.fr/votes/legislature-17/vote_2957",
+      "date_source": "2025-07-08",
+      "confiance": "declaration"
+    },
+    "sec_peines": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_prisons": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_baisse": {
+      "valeur": -1,
+      "resume": "A voté contre la loi immigration de décembre 2023, qui durcissait notamment le regroupement familial.",
+      "source": "https://datan.fr/votes/legislature-16/vote_3213",
+      "date_source": "2023-12-19",
+      "confiance": "declaration"
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_integration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_primaute": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_ukraine": {
+      "valeur": 2,
+      "resume": "A voté pour la proposition de résolution de l'Assemblée visant à renforcer le soutien à l'Ukraine.",
+      "source": "https://datan.fr/votes/legislature-17/vote_988",
+      "date_source": "2025-03-12",
+      "confiance": "declaration"
+    },
+    "soc_medecins": {
+      "valeur": 2,
+      "resume": "A voté pour la proposition de loi transpartisane Garot qui régule l'installation des médecins dans les zones bien dotées.",
+      "source": "https://datan.fr/votes/legislature-17/vote_1607",
+      "date_source": "2025-05-07",
+      "confiance": "declaration"
+    },
+    "soc_findevie": {
+      "valeur": 2,
+      "resume": "A voté pour la loi créant un droit à l'aide à mourir, à chaque lecture, jusqu'à l'adoption définitive.",
+      "source": "https://datan.fr/votes/legislature-17/vote_8280",
+      "date_source": "2026-07-15",
+      "confiance": "declaration"
+    },
+    "soc_rsa": {
+      "valeur": -1,
+      "resume": "A voté contre la loi « plein emploi » qui a instauré l'accompagnement avec 15 heures d'activité pour les allocataires du RSA.",
+      "source": "https://datan.fr/votes/legislature-16/vote_2965",
+      "date_source": "2023-11-14",
+      "confiance": "declaration"
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_ric": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_6e": {
+      "valeur": 2,
+      "resume": "Position déduite du texte d'orientation de Génération Écologie (déc. 2023), qui fait de « l'abolition du présidentialisme » et de nouvelles institutions démocratiques un axe central.",
+      "source": "https://www.generationecologie.fr/app/uploads/2025/07/VIVRE-AUTREMENT-14eme-convention-nationale.pdf",
+      "date_source": "2023-12",
+      "confiance": "deduite"
+    }
+  }
+}

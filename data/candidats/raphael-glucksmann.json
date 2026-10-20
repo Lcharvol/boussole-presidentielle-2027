@@ -1,0 +1,187 @@
+{
+  "slug": "raphael-glucksmann",
+  "nom": "Raphaël Glucksmann",
+  "parti": "Place publique / Parti socialiste",
+  "statut": "désigné par son parti",
+  "programme": "partiel",
+  "programme_url": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Candidature annoncée le 23 août 2026 ; vainqueur dès le 1er tour (66,17 %) de la primaire PS–Place publique des 10-11 octobre 2026 (LCP, 11/10/2026), candidat commun PS, Place publique et Gauche républicaine et socialiste. Programme présidentiel détaillé non encore publié : les positions « programme » s'appuient sur « Acte I – notre vision pour la France », projet de Place publique présenté par R. Glucksmann le 23 juin 2025 (PDF lié depuis la page source), complété par des déclarations récentes.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 1,
+      "resume": "Acte I prévoit d'abroger la réforme de 2023 (retour de fait à 62 ans) mais veut cesser de se focaliser sur l'âge légal : certains pourraient partir à 60 ans, d'autres devraient travailler davantage selon la pénibilité et l'espérance de vie.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "eco_smic": {
+      "valeur": 2,
+      "resume": "Propose d'augmenter le SMIC à 1 600 euros net dans les deux ans suivant l'accession au pouvoir, avec des conférences salariales par branche.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "eco_depenses": {
+      "valeur": -1,
+      "resume": "Acte I mise sur la suppression des dépenses inefficaces et des niches fiscales injustifiées, la contribution des ultra-riches et un « réinvestissement stratégique de la puissance publique », sans priorité à une forte baisse des dépenses.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "eco_patrimoine": {
+      "valeur": 2,
+      "resume": "Propose de taxer davantage les successions supérieures à 2 millions d'euros (environ 15 Md€ par an reversés aux salaires) et a qualifié la taxe sur les plus grandes fortunes de « base de tout accord » budgétaire en septembre 2025.",
+      "source": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/augmenter-les-salaires-en-taxant-les-plus-gros-heritages-la-proposition-de-raphael-glucksmann-est-elle-realiste_8076284.html",
+      "date_source": "2026-08-25",
+      "confiance": "declaration"
+    },
+    "eco_35h": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_nucleaire": {
+      "valeur": 1,
+      "resume": "Acte I veut « conforter le rôle du nucléaire » en assurant la sûreté des centrales existantes et « la construction à temps de nouvelles unités », en complément des renouvelables.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "ecol_renouvelables": {
+      "valeur": 2,
+      "resume": "Prévoit un « grand plan d'investissement pluriannuel dans toutes les énergies renouvelables » décliné en plans régionaux (solaire, vent, hydraulique, géothermie…).",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "ecol_normes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_peines": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_prisons": {
+      "valeur": 0,
+      "resume": "Acte I veut lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus et en investissant dans des « prisons rénovées et dignes », sans objectif de construction massive.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "sec_cannabis": {
+      "valeur": 0,
+      "resume": "Propose une convention citoyenne sur la politique des drogues, « notamment la question de la légalisation du cannabis », sans trancher.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "imm_baisse": {
+      "valeur": -1,
+      "resume": "Juge que « l'immigration zéro n'est ni souhaitable, ni possible », propose des voies légales d'immigration de travail et une convention citoyenne sur l'immigration.",
+      "source": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "date_source": "2026-05-26",
+      "confiance": "declaration"
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": 2,
+      "resume": "Acte I prévoit de « faciliter les démarches de régularisation des travailleurs sans papiers » et d'ouvrir le droit au travail des demandeurs d'asile.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "eur_integration": {
+      "valeur": 2,
+      "resume": "Défend une « ambition fédérale pour l'Europe » : fonds européen de défense de 500 Md€ via un emprunt commun, passage à la majorité qualifiée au Conseil européen, hausse massive du budget de l'UE.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "eur_primaute": {
+      "valeur": -2,
+      "resume": "Projet explicitement fédéraliste (« Pour une Europe fédérale », nouveau traité de refondation de l'UE), à l'opposé d'une primauté du droit national ou d'une sortie des traités.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "eur_ukraine": {
+      "valeur": 2,
+      "resume": "Acte I prévoit d'« augmenter drastiquement l'aide militaire à l'Ukraine », qualifiée de « première ligne de défense ».",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "soc_medecins": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_findevie": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": 1,
+      "resume": "Lors d'un débat de la primaire, a proposé de conditionner les quelque 10 Md€ annuels d'aides publiques à l'enseignement privé au respect de la mixité sociale ; Acte I prévoit d'intégrer le privé sous contrat à la carte scolaire.",
+      "source": "https://www.youtube.com/watch?v=r7UKzIUNrZE",
+      "date_source": "2026-10-01",
+      "confiance": "declaration"
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_proportionnelle": {
+      "valeur": 2,
+      "resume": "Propose d'« instaurer immédiatement la proportionnelle », de préférence par circonscriptions régionales.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "ins_ric": {
+      "valeur": 1,
+      "resume": "Propose un « droit d'initiative citoyenne » permettant de déclencher des référendums locaux et nationaux, sans employer le terme RIC.",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    },
+    "ins_6e": {
+      "valeur": 1,
+      "resume": "Propose de supprimer l'article 16, de renforcer le Parlement et de lancer une convention citoyenne préparant une assemblée constituante, sans employer l'expression « VIe République ».",
+      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+      "date_source": "2025-06",
+      "confiance": "programme"
+    }
+  }
+}

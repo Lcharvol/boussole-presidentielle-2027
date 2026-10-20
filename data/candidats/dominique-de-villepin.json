@@ -1,0 +1,187 @@
+{
+  "slug": "dominique-de-villepin",
+  "nom": "Dominique de Villepin",
+  "parti": "La France humaniste",
+  "statut": "pressenti",
+  "programme": "partiel",
+  "programme_url": "https://lafrancehumaniste.fr/france2027.html",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Fondateur de La France humaniste (juin 2025). A dit le 30 août 2026 vouloir être candidat, mais n'a pas officiellement déclaré sa candidature : mi-septembre 2026, il attendait encore « le moment opportun ». Il recherche les 500 parrainages et refuse une primaire. Pas de programme présidentiel complet : un « Projet France 2027 » avec 20 propositions économiques et des chroniques thématiques sur lafrancehumaniste.fr. Les positions viennent surtout de ces textes signés de sa main.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 0,
+      "resume": "Propose de supprimer l'âge légal au profit d'une règle de durée de cotisation, avec une prise en compte sérieuse de la pénibilité ; ne propose pas explicitement un retour à 62 ans.",
+      "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "date_source": "2026-03-27",
+      "confiance": "declaration"
+    },
+    "eco_smic": {
+      "valeur": null,
+      "resume": "Aucune proposition de hausse du SMIC trouvée ; il propose d'augmenter le salaire net en transférant des cotisations vers une CSG universelle.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eco_depenses": {
+      "valeur": 0,
+      "resume": "Pour réduire le déficit sous 3 % d'ici 2031, il prône à la fois « des hausses d'impôt justes et des baisses de dépenses ciblées », sans hiérarchie entre les deux.",
+      "source": "https://lafrancehumaniste.fr/articles/la-dette-cest-la-defaite.html",
+      "date_source": "2026-08-21",
+      "confiance": "declaration"
+    },
+    "eco_patrimoine": {
+      "valeur": 2,
+      "resume": "Propose un impôt unique et fortement progressif sur le patrimoine des 1 % les plus riches, dès 2,2 millions d'euros, et des droits de succession progressifs au-delà d'un million d'euros.",
+      "source": "https://lafrancehumaniste.fr/programme/economie.html",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eco_35h": {
+      "valeur": 1,
+      "resume": "S'interroge sur une remise en cause des 35 heures et des règles des heures supplémentaires, et souhaite donner plus de place à la négociation de branche.",
+      "source": "https://lafrancehumaniste.fr/articles/un-nouveau-monde-du-travail.html",
+      "date_source": "2025-12-08",
+      "confiance": "declaration"
+    },
+    "ecol_nucleaire": {
+      "valeur": 1,
+      "resume": "Propose six nouveaux réacteurs EPR2 et un plan national pour le nouveau nucléaire.",
+      "source": "https://lafrancehumaniste.fr/programme/economie.html",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ecol_renouvelables": {
+      "valeur": 1,
+      "resume": "Propose d'industrialiser l'éolien en mer et d'électrifier massivement les usages dans un mix avec le nucléaire ; l'éolien terrestre et le solaire ne sont pas abordés.",
+      "source": "https://lafrancehumaniste.fr/programme/economie.html",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ecol_normes": {
+      "valeur": 1,
+      "resume": "S'est opposé à la loi Duplomb, jugée dangereuse pour l'environnement et la santé, tout en prônant ailleurs la fin des surtranspositions et moins d'« interdits imposés d'en haut ».",
+      "source": "https://lafrancehumaniste.fr/articles/sur-la-loi-duplomb.html",
+      "date_source": "2025-07-20",
+      "confiance": "declaration"
+    },
+    "sec_peines": {
+      "valeur": null,
+      "resume": "Insiste sur « l'exécution effective des peines » et la lutte contre le narcotrafic, sans position trouvée sur les peines planchers ou un durcissement des peines.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_prisons": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la construction de places de prison.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la légalisation du cannabis.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_baisse": {
+      "valeur": null,
+      "resume": "Se dit favorable à une immigration « maîtrisée » et conditionne l'accueil à l'acceptation des retours, sans position trouvée sur une forte réduction de l'immigration légale, les quotas ou le regroupement familial.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Aucune position vérifiable trouvée sur l'AME.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": 0,
+      "resume": "Rejette toute « régularisation massive et globale » et propose d'enregistrer les sans-papiers par des documents biométriques ; aucune position trouvée sur des régularisations ciblées dans les métiers en tension.",
+      "source": "https://www.20minutes.fr/politique/4246387-20260918-presidentielle-2027-regularisation-massive-globale-dit-villepin-immigration",
+      "date_source": "2026-09-18",
+      "confiance": "declaration"
+    },
+    "eur_integration": {
+      "valeur": 1,
+      "resume": "Soutient des ressources propres et un emprunt mutualisé européens, un élargissement du vote à la majorité qualifiée, un Conseil de sécurité européen et des programmes de défense financés en commun, mais propose aussi une « pause sur la logique d'unification ».",
+      "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "date_source": "2026-03-06",
+      "confiance": "declaration"
+    },
+    "eur_primaute": {
+      "valeur": -1,
+      "resume": "Critique les juridictions nationales qui veulent reprendre l'interprétation des traités et propose une juridiction supranationale d'ordre constitutionnel, tout en défendant un « pacte de souveraineté » entre États.",
+      "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "date_source": "2026-03-06",
+      "confiance": "declaration"
+    },
+    "eur_ukraine": {
+      "valeur": 0,
+      "resume": "Évoque le prêt européen à l'Ukraine, une adhésion accélérée ou une association renforcée et le renforcement militaire du flanc est, tout en privilégiant la diplomatie, un cessez-le-feu et une « coexistence pacifique » avec la Russie.",
+      "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "date_source": "2026-03-06",
+      "confiance": "declaration"
+    },
+    "soc_medecins": {
+      "valeur": 1,
+      "resume": "Prend acte de la loi soumettant l'installation des médecins à une autorisation de l'ARS en mettant en garde contre la bureaucratie, et propose d'aller plus loin (bourses conditionnées à un exercice dans les territoires en crise).",
+      "source": "https://lafrancehumaniste.fr/articles/sante-et-environnement.html",
+      "date_source": "2025-08-27",
+      "confiance": "declaration"
+    },
+    "soc_findevie": {
+      "valeur": null,
+      "resume": "Aucune position vérifiable trouvée sur l'aide active à mourir.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la conditionnalité du RSA ; il propose de simplifier et unifier les minima sociaux.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": 1,
+      "resume": "Estime que le privé « largement financé sur fonds publics » doit prendre sa part de la mixité sociale et propose de moduler l'aide publique selon le profil social des élèves accueillis.",
+      "source": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "date_source": "2026-09-01",
+      "confiance": "declaration"
+    },
+    "edu_autorite": {
+      "valeur": 0,
+      "resume": "Prône la « tolérance zéro » contre les violences envers les enseignants et l'interdiction des téléphones, mais veut « réduire la caporalisation » et préfère la remédiation en petits groupes ; ni uniforme ni groupes de niveau.",
+      "source": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
+      "date_source": "2026-09-01",
+      "confiance": "declaration"
+    },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur l'élection des députés à la proportionnelle.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_ric": {
+      "valeur": 1,
+      "resume": "Propose un « référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux », préparé par une convention citoyenne permanente.",
+      "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "date_source": "2026-03-27",
+      "confiance": "declaration"
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Défend la Ve République et les pouvoirs du président en temps de crise, tout en proposant de renforcer le Parlement (vote de confiance systématique, motion de défiance constructive).",
+      "source": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+      "date_source": "2026-05-24",
+      "confiance": "declaration"
+    }
+  }
+}

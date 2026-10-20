@@ -1,0 +1,187 @@
+{
+  "slug": "gabriel-attal",
+  "nom": "Gabriel Attal",
+  "parti": "Renaissance",
+  "statut": "déclaré",
+  "programme": "partiel",
+  "programme_url": "https://attalpresident.fr/programme",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Candidature officialisée le 22 mai 2026 (Mur-de-Barrez, Aveyron) ; désignation par vote interne de Renaissance. Pas de programme complet : six « chantiers » thématiques sur attalpresident.fr (pages non datées) et un « pacte pour la jeunesse » présenté le 10 octobre 2026. Une candidature unique avec Édouard Philippe reste discutée (proposition de médiation de Jean-Louis Borloo, à laquelle Attal s'est dit ouvert). Plusieurs mesures du programme sont citées via l'agrégateur votons-2027.fr, qui renvoie à attalpresident.fr/programme. Certaines positions reposent sur des déclarations de 2024, quand il était Premier ministre.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": -1,
+      "resume": "Propose de supprimer l'âge légal au profit de la seule durée de cotisation, avec décote pour un départ anticipé, surcote pour un départ tardif et une part de capitalisation ; ne propose pas de revenir à 62 ans.",
+      "source": "https://attalpresident.fr/programme/travail-salaires",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eco_smic": {
+      "valeur": -1,
+      "resume": "Ne propose pas de coup de pouce au SMIC ; veut réduire les cotisations salariales pour augmenter le net et annonce une « stratégie complète » sur les salaires.",
+      "source": "https://attalpresident.fr/programme/travail-salaires",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eco_depenses": {
+      "valeur": 1,
+      "resume": "Vise un déficit nul en dix ans maximum, estime qu'« aucune dépense ne doit être un tabou » et propose un frein d'urgence sur les dépenses sociales ; aucune hausse d'impôt n'est proposée.",
+      "source": "https://attalpresident.fr/programme/dette-de-letat",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eco_patrimoine": {
+      "valeur": -1,
+      "resume": "Position déduite : aucune proposition trouvée ; son groupe parlementaire (Ensemble pour la République) a voté contre la taxe Zucman le 31 octobre 2025.",
+      "source": "https://datan.fr/votes/legislature-17/vote_3300",
+      "date_source": "2025-10-31",
+      "confiance": "deduite"
+    },
+    "eco_35h": {
+      "valeur": 1,
+      "resume": "Propose de supprimer le plafond légal d'heures supplémentaires et de réécrire le Code du travail autour de quelques principes, sans remettre explicitement en cause la durée légale de 35 heures.",
+      "source": "https://attalpresident.fr/programme/travail-salaires",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ecol_nucleaire": {
+      "valeur": 2,
+      "resume": "Premier ministre, a défendu la relance du nucléaire et la construction de nouveaux réacteurs dans sa déclaration de politique générale ; son programme 2027 ne donne pas de chiffre.",
+      "source": "https://www.vie-publique.fr/discours/292847-declaration-de-politique-generale-gabriel-attal-30012024",
+      "date_source": "2024-01-30",
+      "confiance": "declaration"
+    },
+    "ecol_renouvelables": {
+      "valeur": 1,
+      "resume": "A dénoncé le moratoire sur l'éolien et le photovoltaïque voté à l'Assemblée et plaide pour une programmation énergétique combinant nucléaire et renouvelables.",
+      "source": "https://lcp.fr/actualites/gabriel-attal-denonce-un-axe-anti-ecologie-lr-rn-a-l-assemblee-nationale-384529",
+      "date_source": "2025-06-23",
+      "confiance": "declaration"
+    },
+    "ecol_normes": {
+      "valeur": -1,
+      "resume": "Premier ministre pendant la crise agricole, a annoncé des mesures de simplification et d'allègement des contraintes pour les agriculteurs ; son programme 2027 ne traite pas des normes environnementales.",
+      "source": "https://www.vie-publique.fr/discours/293101-gabriel-attal-21022024-crise-agricole-et-souverainete-agricole",
+      "date_source": "2024-02-21",
+      "confiance": "declaration"
+    },
+    "sec_peines": {
+      "valeur": 1,
+      "resume": "Propose de supprimer le juge de l'application des peines et les remises automatiques de peine, et de durcir la justice des mineurs ; aucune proposition de peines planchers trouvée.",
+      "source": "https://votons-2027.fr/candidats/attal/programme/securite",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "sec_prisons": {
+      "valeur": 2,
+      "resume": "Propose de construire davantage de places de prison, l'État choisissant lui-même les implantations.",
+      "source": "https://votons-2027.fr/candidats/attal/programme/securite",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position récente trouvée sur la légalisation du cannabis.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_baisse": {
+      "valeur": 2,
+      "resume": "Veut « accueillir moins pour accueillir mieux » : priorité à l'immigration de travail via un système à points, quotas votés par le Parlement et regroupement familial mieux encadré et en baisse.",
+      "source": "https://attalpresident.fr/programme/frontieres",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "imm_ame": {
+      "valeur": 0,
+      "resume": "Premier ministre, s'est engagé à tenir la promesse de réformer l'AME, sans proposer sa suppression ; son programme 2027 n'en parle pas.",
+      "source": "https://www.lejdd.fr/politique/gabriel-attal-promet-de-reformer-laide-medicale-detat-141258",
+      "date_source": "2024-01-16",
+      "confiance": "declaration"
+    },
+    "imm_regularisation": {
+      "valeur": -1,
+      "resume": "Propose de réformer Schengen pour interdire les régularisations massives unilatérales ; le programme ne prévoit pas de voie de régularisation par le travail.",
+      "source": "https://votons-2027.fr/candidats/attal/programme",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eur_integration": {
+      "valeur": 2,
+      "resume": "Propose de créer des « États-Unis d'Europe » par un premier référendum européen, avec des investissements communs, un marché unique des capitaux, une politique industrielle unique et un président européen élu.",
+      "source": "https://votons-2027.fr/candidats/attal/programme/europe",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eur_primaute": {
+      "valeur": -2,
+      "resume": "Défend un approfondissement fédéral de l'Union (« États-Unis d'Europe ») et ne propose ni primauté du droit national ni sortie des traités.",
+      "source": "https://votons-2027.fr/candidats/attal/programme/europe",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eur_ukraine": {
+      "valeur": 2,
+      "resume": "S'engage à « continuer sans relâche à soutenir l'Ukraine » et à poursuivre le réarmement.",
+      "source": "https://votons-2027.fr/candidats/attal/programme/securite",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "soc_medecins": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la régulation de l'installation des médecins.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_findevie": {
+      "valeur": 2,
+      "resume": "A défendu publiquement la proposition de loi créant une aide à mourir, notamment dans une tribune cosignée avec Line Renaud.",
+      "source": "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-bruno-retailleau-s-oppose-au-texte-line-renaud-et-gabriel-attal-le-defendent_7240641.html",
+      "date_source": "2025-05",
+      "confiance": "declaration"
+    },
+    "soc_rsa": {
+      "valeur": 2,
+      "resume": "Premier ministre, a annoncé la généralisation du RSA conditionné à 15 heures d'activité dans sa déclaration de politique générale ; le programme 2027 n'en parle pas.",
+      "source": "https://www.vie-publique.fr/discours/292847-declaration-de-politique-generale-gabriel-attal-30012024",
+      "date_source": "2024-01-30",
+      "confiance": "declaration"
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur le financement public de l'enseignement privé sous contrat.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": 2,
+      "resume": "Veut rétablir les mesures du « Choc des savoirs » (dont les groupes de niveau) et faire respecter l'autorité du professeur ; Premier ministre, il avait lancé une expérimentation de l'uniforme.",
+      "source": "https://attalpresident.fr/programme/education",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ins_proportionnelle": {
+      "valeur": -1,
+      "resume": "Position déduite : son groupe a jugé le scrutin actuel « le moins pire » et la proportionnelle « pas forcément une priorité » ; aucune proposition personnelle trouvée.",
+      "source": "https://lcp.fr/actualites/proportionnelle-aux-legislatives-francois-bayrou-consulte-les-avis-divergent-sur-le",
+      "date_source": "2025-04-30",
+      "confiance": "deduite"
+    },
+    "ins_ric": {
+      "valeur": 0,
+      "resume": "Propose une journée référendaire annuelle sur de grands choix nationaux, préparée avec les partis et les partenaires sociaux, sans référendum d'initiative citoyenne.",
+      "source": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+      "date_source": "2026-08-02",
+      "confiance": "declaration"
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Appelle à une « Ve République du XXIe siècle » plutôt qu'à une VIe République, tout en invitant à « partager le pouvoir » et à renoncer à « l'homme providentiel ».",
+      "source": "https://www.franceinfo.fr/politique/gabriel-attal/en-meeting-a-arras-gabriel-attal-appelle-a-une-ve-republique-du-21e-siecle_7505410.html",
+      "date_source": "2025-09-21",
+      "confiance": "declaration"
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "florian-philippot",
+  "nom": "Florian Philippot",
+  "parti": "Les Patriotes",
+  "statut": "déclaré",
+  "programme": "disponible",
+  "programme_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+  "mis_a_jour": "2026-10-20",
+  "notes": "Candidature annoncée le 9 mai 2026 sur France 2 (https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027), assortie d'un engagement à se retirer en cas de candidature jugée plus rassembleuse dans le camp souverainiste (Philippe de Villiers) ; le site du parti évoque aussi une « primaire souverainiste ». N'avait obtenu qu'un parrainage en 2022. Programme : livret « Projet pour la France », édition 2026-2027 (publié en septembre 2026), centré sur le Frexit ; plusieurs mesures y sont présentées comme conditionnées à la sortie de l'UE. Prudence : des résumés de moteurs de recherche attribuaient au programme un rétablissement de l'ISF et une hausse du SMIC de 15 % ; ces mesures ne figurent ni dans le livret officiel ni sur l'agrégateur cité, elles n'ont donc pas été retenues.",
+  "positions": {
+    "eco_retraite": {
+      "valeur": 1,
+      "resume": "Le programme propose de « baisser l'âge de départ à la retraite » une fois la France sortie de l'UE, « si les Français le désirent », sans fixer d'âge cible.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "eco_smic": {
+      "valeur": null,
+      "resume": "Le livret 2026-2027 ne contient pas de mesure sur le SMIC.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eco_depenses": {
+      "valeur": 1,
+      "resume": "Le programme veut redresser les finances publiques « sans augmenter le niveau d'imposition » par une réduction du train de vie de l'État et la sortie de l'UE, tout en rejetant les « plans d'austérité » imposés par Bruxelles.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "eco_patrimoine": {
+      "valeur": null,
+      "resume": "Le livret évoque la justice fiscale, la lutte contre l'optimisation des grands groupes et une moindre taxation des petits héritages, sans mesure sur la taxation des hauts patrimoines (ISF ou équivalent).",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eco_35h": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_nucleaire": {
+      "valeur": 2,
+      "resume": "Le programme prévoit d'« investir massivement dans le nucléaire » et un « plan d'investissement massif dans le nucléaire de nouvelle génération ».",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "ecol_renouvelables": {
+      "valeur": -2,
+      "resume": "Le programme demande un « moratoire total et définitif » sur l'éolien terrestre et en mer et un plan de démantèlement des éoliennes installées ; il ne prévoit pas de développement du solaire.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "ecol_normes": {
+      "valeur": -1,
+      "resume": "Le programme veut supprimer la PAC « et ses normes absurdes », préserver la voiture thermique au-delà de 2035, tout en proposant un plan national de protection de la faune et de la flore et le développement de l'agriculture biologique.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "sec_peines": {
+      "valeur": 2,
+      "resume": "Le programme propose de « réinstaurer les peines planchers » et de supprimer les réductions automatiques de peine.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "sec_prisons": {
+      "valeur": 2,
+      "resume": "Le programme propose de « construire les dizaines de milliers de places de prison qui manquent » et d'expulser les détenus étrangers.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_baisse": {
+      "valeur": 2,
+      "resume": "Le programme vise à revenir à des flux migratoires « extrêmement limités », à mettre fin à l'immigration de travail et à quitter la CEDH, notamment pour pouvoir remettre en cause le regroupement familial.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "imm_ame": {
+      "valeur": null,
+      "resume": "Le livret 2026-2027 ne mentionne pas l'AME.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_regularisation": {
+      "valeur": -2,
+      "resume": "Le programme veut « mettre fin à l'immigration de travail », renvoyer les étrangers en situation irrégulière et appliquer les OQTF ; il ne prévoit aucune régularisation.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "eur_integration": {
+      "valeur": -2,
+      "resume": "Le programme prône la sortie de l'UE et de l'euro (Frexit) et rejette toute armée européenne.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "eur_primaute": {
+      "valeur": 2,
+      "resume": "Le programme fait du Frexit « la clé de voûte » du projet, avec sortie de l'UE, de l'euro, de Schengen, de la CEDH, de l'OTAN et de l'OMS, jugeant les traités « irréformables ».",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "eur_ukraine": {
+      "valeur": -2,
+      "resume": "Le programme demande de « cesser d'entretenir la guerre en Ukraine » et de couper les financements européens à l'Ukraine.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "soc_medecins": {
+      "valeur": null,
+      "resume": "Le livret propose des centres de santé locaux et la suppression des ARS et du Conseil de l'Ordre, sans mesure sur la liberté d'installation des médecins.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_findevie": {
+      "valeur": null,
+      "resume": "Le livret refuse « toute politique d'incitation à l'euthanasie » des personnes handicapées, sans position explicite sur la légalisation générale de l'aide à mourir ; aucune déclaration récente trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_rsa": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_autorite": {
+      "valeur": 1,
+      "resume": "Le programme veut « refonder l'autorité des professeurs », une hiérarchie claire dans l'Éducation nationale et en finir avec le collège unique, sans mentionner l'uniforme.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Le livret 2026-2027 ne mentionne pas le mode de scrutin législatif.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_ric": {
+      "valeur": 2,
+      "resume": "Le programme propose de « créer le référendum d'initiative citoyenne (RIC) sur tout sujet et l'inscrire dans la Constitution ».",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "ins_6e": {
+      "valeur": null,
+      "resume": "Le livret propose le RIC et la révision de la Constitution uniquement par référendum, sans proposer de VIe République ni de réduction des pouvoirs présidentiels.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    }
+  }
+}
