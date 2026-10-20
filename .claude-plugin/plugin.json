@@ -1,6 +1,6 @@
 {
   "name": "boussole-presidentielle-2027",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Boussole électorale neutre pour la présidentielle française 2027 : un questionnaire (rapide, moyen ou long) comparé aux positions sourcées des candidats, thème par thème.",
   "author": { "name": "Lcharvol", "url": "https://github.com/Lcharvol" },
   "homepage": "https://github.com/Lcharvol/boussole-presidentielle-2027",
