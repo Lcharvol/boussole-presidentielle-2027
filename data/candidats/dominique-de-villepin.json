@@ -6,7 +6,7 @@
   "programme": "partiel",
   "programme_url": "https://lafrancehumaniste.fr/france2027.html",
   "mis_a_jour": "2026-10-20",
-  "notes": "Fondateur de La France humaniste (juin 2025). A dit le 30 août 2026 vouloir être candidat, mais n'a pas officiellement déclaré sa candidature : mi-septembre 2026, il attendait encore « le moment opportun ». Il recherche les 500 parrainages et refuse une primaire. Pas de programme présidentiel complet : un « Projet France 2027 » avec 20 propositions économiques et des chroniques thématiques sur lafrancehumaniste.fr. Les positions viennent surtout de ces textes signés de sa main.",
+  "notes": "Fondateur de La France humaniste (juin 2025). A dit le 30 août 2026 vouloir être candidat, mais n'a pas officiellement déclaré sa candidature : mi-septembre 2026, il attendait encore « le moment opportun ». Il recherche les 500 parrainages et refuse une primaire. Pas de programme présidentiel complet : un « Projet France 2027 » avec 20 propositions économiques et des chroniques thématiques sur lafrancehumaniste.fr. Les positions viennent surtout de ces textes signés de sa main. Au 20/10/2026, toujours pas de déclaration officielle : le 30 août 2026 il disait « se battre pour être candidat » et revendiquait « plusieurs centaines » de parrainages, insuffisants. Source : https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
   "positions": {
     "eco_retraite": {
       "valeur": 0,
@@ -16,11 +16,11 @@
       "confiance": "declaration"
     },
     "eco_smic": {
-      "valeur": null,
-      "resume": "Aucune proposition de hausse du SMIC trouvée ; il propose d'augmenter le salaire net en transférant des cotisations vers une CSG universelle.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -1,
+      "resume": "Ne propose pas de hausse du SMIC : son projet augmente le salaire net en basculant « plus de 200 Md€ de cotisations » vers une CSG universelle, soit « +100 € au Smic ».",
+      "source": "https://lafrancehumaniste.fr/programme/economie.html",
+      "date_source": "2026",
+      "confiance": "programme"
     },
     "eco_depenses": {
       "valeur": 0,

@@ -87,7 +87,7 @@
     },
     "imm_baisse": {
       "valeur": 0,
-      "resume": "Le manifeste de Debout ! s'oppose aux « filières d'immigration » voulues par le patronat pour combler des pénuries, tout en refusant de faire des migrants des boucs émissaires ; il ne propose ni quotas ni restriction du regroupement familial.",
+      "resume": "Position déduite du manifeste de son parti Debout !, qui s'oppose aux « filières d'immigration » voulues par le patronat pour combler des pénuries, tout en refusant de faire des migrants des boucs émissaires ; il ne propose ni quotas ni restriction du regroupement familial.",
       "source": "https://debout.fr/notre-manifeste/",
       "date_source": "2026-04",
       "confiance": "deduite"
@@ -108,14 +108,14 @@
     },
     "eur_integration": {
       "valeur": 0,
-      "resume": "Le manifeste de Debout ! se dit critique d'une construction européenne « faite sans les peuples » mais propose de chercher des alliés pour un grand plan d'investissement européen.",
+      "resume": "Position déduite du manifeste de son parti Debout !, qui se dit critique d'une construction européenne « faite sans les peuples » mais propose de chercher des alliés pour un grand plan d'investissement européen.",
       "source": "https://debout.fr/notre-manifeste/",
       "date_source": "2026-04",
       "confiance": "deduite"
     },
     "eur_primaute": {
       "valeur": 1,
-      "resume": "Le manifeste de Debout ! affirme : « Nous désobéirons aux traités européens lorsqu'ils entrent en contradiction avec nos engagements », sans proposer de sortie de l'UE.",
+      "resume": "Position déduite du manifeste de son parti Debout !, qui affirme : « Nous désobéirons aux traités européens lorsqu'ils entrent en contradiction avec nos engagements », sans proposer de sortie de l'UE.",
       "source": "https://debout.fr/notre-manifeste/",
       "date_source": "2026-04",
       "confiance": "deduite"
@@ -163,11 +163,11 @@
       "confiance": null
     },
     "ins_proportionnelle": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 2,
+      "resume": "Position déduite de 2021 : cosignataire de la proposition de loi n° 4013 (23 mars 2021) visant à instaurer « la proportionnelle intégrale au scrutin législatif » ; aucune déclaration plus récente trouvée.",
+      "source": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4013_proposition-loi.pdf",
+      "date_source": "2021-03-23",
+      "confiance": "deduite"
     },
     "ins_ric": {
       "valeur": 2,
@@ -177,11 +177,11 @@
       "confiance": "declaration"
     },
     "ins_6e": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 1,
+      "resume": "Le cahier de campagne « séparer l'argent de l'État » propose de permettre aux parlementaires de s'opposer aux nominations présidentielles à la majorité simple et de mettre fin à « l'inviolabilité pénale et civile complète du Président », sans proposer de VIe République.",
+      "source": "https://nouspresident.fr/separation-argent-etat/",
+      "date_source": "2026-07",
+      "confiance": "programme"
     }
   }
 }

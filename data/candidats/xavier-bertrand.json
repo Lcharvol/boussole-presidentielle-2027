@@ -6,7 +6,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-20",
-  "notes": "Président des Hauts-de-France. Le 27/08/2026 (Medef), il a dit qu'il serait candidat (« Je le serai ») mais n'a pas encore formellement déclaré sa candidature, annoncée pour « mi-octobre à la fin de l'année ». Candidat indépendant (hors LR, qui soutient Retailleau), refuse toute primaire. Aucun programme 2027 publié : les pages thématiques de nousfrance.fr sont vides. La plupart des positions sont déduites de son programme de la primaire LR 2021, non démenti à ce jour.",
+  "notes": "Président des Hauts-de-France. Le 27/08/2026 (Medef), il a dit qu'il serait candidat (« Je le serai ») ; son entourage précise qu'il ne s'agit pas d'une déclaration officielle, annoncée « entre mi-octobre et la fin de l'année » (aucune déclaration formelle trouvée au 20/10/2026). Candidat indépendant (hors LR, qui soutient Retailleau), refuse toute primaire, promet un mandat unique. Aucun programme 2027 publié (il dit préparer « un projet plus global ») : les pages thématiques de nousfrance.fr ne contiennent pas de mesures. La plupart des positions sont déduites de son programme de la primaire LR 2021, non démenti à ce jour ; aucune déclaration 2025-2026 trouvée sur ces sujets.",
   "positions": {
     "eco_retraite": {
       "valeur": -2,
@@ -156,11 +156,11 @@
       "confiance": null
     },
     "edu_autorite": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 1,
+      "resume": "Comme président de région, a remis en septembre 2024 une tenue unique aux élèves d'un lycée expérimental (« Les différences doivent se faire par la personnalité, pas par la tenue vestimentaire ») ; aucune autre mesure sur l'autorité à l'école trouvée.",
+      "source": "https://generation.hautsdefrance.fr/crepy-en-valois-xavier-bertrand-remet-la-tenue-unique-aux-eleves/",
+      "date_source": "2024-09-02",
+      "confiance": "declaration"
     },
     "ins_proportionnelle": {
       "valeur": -2,

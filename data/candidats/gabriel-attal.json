@@ -6,7 +6,7 @@
   "programme": "partiel",
   "programme_url": "https://attalpresident.fr/programme",
   "mis_a_jour": "2026-10-20",
-  "notes": "Candidature officialisée le 22 mai 2026 (Mur-de-Barrez, Aveyron) ; désignation par vote interne de Renaissance. Pas de programme complet : six « chantiers » thématiques sur attalpresident.fr (pages non datées) et un « pacte pour la jeunesse » présenté le 10 octobre 2026. Une candidature unique avec Édouard Philippe reste discutée (proposition de médiation de Jean-Louis Borloo, à laquelle Attal s'est dit ouvert). Plusieurs mesures du programme sont citées via l'agrégateur votons-2027.fr, qui renvoie à attalpresident.fr/programme. Certaines positions reposent sur des déclarations de 2024, quand il était Premier ministre.",
+  "notes": "Candidature officialisée le 22 mai 2026 (Mur-de-Barrez, Aveyron) ; désignation par vote interne de Renaissance. Pas de programme complet : six « chantiers » thématiques sur attalpresident.fr (pages non datées) et un « pacte pour la jeunesse » présenté le 10 octobre 2026. Une candidature unique avec Édouard Philippe reste discutée (proposition de médiation de Jean-Louis Borloo, à laquelle Attal s'est dit ouvert). Certaines positions reposent sur des déclarations de 2024, quand il était Premier ministre. Le programme en ligne compte six pages (école, travail et salaires, frontières, IA, dette de l'État, dette écologique) ; sécurité et Europe sont sourcées par l'entretien au JDD (2 août 2026, repris sur attalpresident.fr) et le discours de Reims (17 septembre 2026).",
   "positions": {
     "eco_retraite": {
       "valeur": -1,
@@ -66,17 +66,17 @@
     },
     "sec_peines": {
       "valeur": 1,
-      "resume": "Propose de supprimer le juge de l'application des peines et les remises automatiques de peine, et de durcir la justice des mineurs ; aucune proposition de peines planchers trouvée.",
-      "source": "https://votons-2027.fr/candidats/attal/programme/securite",
-      "date_source": "2026",
-      "confiance": "programme"
+      "resume": "Dans le JDD, propose « la suppression du juge de l'application des peines et la fin des remises automatiques de peine » (« une peine prononcée doit être une peine exécutée ») ; aucune proposition de peines planchers trouvée.",
+      "source": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+      "date_source": "2026-08-02",
+      "confiance": "declaration"
     },
     "sec_prisons": {
-      "valeur": 2,
-      "resume": "Propose de construire davantage de places de prison, l'État choisissant lui-même les implantations.",
-      "source": "https://votons-2027.fr/candidats/attal/programme/securite",
-      "date_source": "2026",
-      "confiance": "programme"
+      "valeur": 1,
+      "resume": "Dans le JDD, propose « la construction de nouvelles places de prison classées comme opérations d'intérêt national », sans chiffre.",
+      "source": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+      "date_source": "2026-08-02",
+      "confiance": "declaration"
     },
     "sec_cannabis": {
       "valeur": null,
@@ -86,8 +86,8 @@
       "confiance": null
     },
     "imm_baisse": {
-      "valeur": 2,
-      "resume": "Veut « accueillir moins pour accueillir mieux » : priorité à l'immigration de travail via un système à points, quotas votés par le Parlement et regroupement familial mieux encadré et en baisse.",
+      "valeur": 1,
+      "resume": "Son programme veut « accueillir moins pour accueillir mieux » : priorité à l'immigration de travail via un système à points « comme au Canada » et un regroupement familial « mieux encadré » qui « doit donc diminuer », sans objectif chiffré.",
       "source": "https://attalpresident.fr/programme/frontieres",
       "date_source": "2026",
       "confiance": "programme"
@@ -100,30 +100,30 @@
       "confiance": "declaration"
     },
     "imm_regularisation": {
-      "valeur": -1,
-      "resume": "Propose de réformer Schengen pour interdire les régularisations massives unilatérales ; le programme ne prévoit pas de voie de régularisation par le travail.",
-      "source": "https://votons-2027.fr/candidats/attal/programme",
-      "date_source": "2026",
-      "confiance": "programme"
+      "valeur": null,
+      "resume": "Aucune position trouvée dans une source primaire sur la régularisation des travailleurs sans papiers.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     },
     "eur_integration": {
       "valeur": 2,
-      "resume": "Propose de créer des « États-Unis d'Europe » par un premier référendum européen, avec des investissements communs, un marché unique des capitaux, une politique industrielle unique et un président européen élu.",
-      "source": "https://votons-2027.fr/candidats/attal/programme/europe",
-      "date_source": "2026",
-      "confiance": "programme"
+      "resume": "À Reims, propose de « faire naître les États-Unis d'Europe » en commençant par un noyau de 8 à 10 pays (intégration économique, ressources propres), validés par un « premier référendum européen » ; les compétences régaliennes et de défense resteraient nationales selon son entourage.",
+      "source": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
+      "date_source": "2026-09-17",
+      "confiance": "declaration"
     },
     "eur_primaute": {
       "valeur": -2,
-      "resume": "Défend un approfondissement fédéral de l'Union (« États-Unis d'Europe ») et ne propose ni primauté du droit national ni sortie des traités.",
-      "source": "https://votons-2027.fr/candidats/attal/programme/europe",
-      "date_source": "2026",
-      "confiance": "programme"
+      "resume": "Défend un approfondissement fédéral de l'Union (« États-Unis d'Europe », nouveau traité) et ne propose ni primauté du droit national ni sortie des traités.",
+      "source": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
+      "date_source": "2026-09-17",
+      "confiance": "declaration"
     },
     "eur_ukraine": {
       "valeur": 2,
-      "resume": "S'engage à « continuer sans relâche à soutenir l'Ukraine » et à poursuivre le réarmement.",
-      "source": "https://votons-2027.fr/candidats/attal/programme/securite",
+      "resume": "Son programme affirme : « Nous allons continuer sans relâche à soutenir l'Ukraine » et appelle à « poursuivre et amplifier » le réarmement.",
+      "source": "https://attalpresident.fr/programme/frontieres",
       "date_source": "2026",
       "confiance": "programme"
     },

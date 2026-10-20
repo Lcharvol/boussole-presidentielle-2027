@@ -30,11 +30,11 @@
       "confiance": "programme"
     },
     "eco_patrimoine": {
-      "valeur": 2,
-      "resume": "Le programme 2022 demandait le rétablissement de l'impôt sur les grandes fortunes ; les mesures 2027 jugent que « taxer les riches ne suffit pas » et proposent l'expropriation des secteurs stratégiques.",
-      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "valeur": 1,
+      "resume": "Les premières mesures 2027 jugent que « taxer les riches ne suffit pas » et proposent l'expropriation des secteurs stratégiques ; le programme 2022 demandait le rétablissement de l'impôt sur les grandes fortunes.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
     },
     "eco_35h": {
       "valeur": -2,
@@ -58,11 +58,11 @@
       "confiance": null
     },
     "ecol_normes": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 1,
+      "resume": "Position déduite d'un article de Révolution permanente qui qualifie la loi Duplomb (réintroduction de néonicotinoïdes, relèvement des seuils d'autorisation environnementale des élevages) de « désastre écologique et sanitaire ».",
+      "source": "https://www.revolutionpermanente.fr/Loi-Duplomb-bis-vous-reprendrez-bien-des-neonicotinoides-39488",
+      "date_source": "2026-02-10",
+      "confiance": "deduite"
     },
     "sec_peines": {
       "valeur": -2,
@@ -93,11 +93,11 @@
       "confiance": "programme"
     },
     "imm_ame": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -2,
+      "resume": "Position déduite d'un article de Révolution permanente qui dénonce les restrictions de l'AME comme l'application du « programme du RN » et une mesure xénophobe.",
+      "source": "https://www.revolutionpermanente.fr/CHU-Purpan-a-Toulouse-l-aide-medicale-d-Etat-visee-par-l-extreme-droite-faisons-front",
+      "date_source": "2026-01-19",
+      "confiance": "deduite"
     },
     "imm_regularisation": {
       "valeur": 2,
@@ -135,18 +135,18 @@
       "confiance": null
     },
     "soc_findevie": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -1,
+      "resume": "Position déduite d'un article de Révolution permanente (mars 2026) : le parti dit ne pas s'opposer « par principe » au droit de mettre fin à sa vie mais juge la loi sur l'aide à mourir « un danger évident » pour les personnes handicapées, malades et âgées, sans appeler explicitement à son abrogation.",
+      "source": "https://www.revolutionpermanente.fr/Loi-sur-la-fin-de-vie-votee-a-l-Assemblee-avec-l-aide-a-mourir-les-deputes-approuvent-une-loi",
+      "date_source": "2026-03-18",
+      "confiance": "deduite"
     },
     "soc_rsa": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -2,
+      "resume": "Position déduite d'un article de Révolution permanente (2023) qui présente l'obligation de 15 heures d'activité pour les allocataires du RSA comme une « guerre aux pauvres ».",
+      "source": "https://www.revolutionpermanente.fr/15-h-d-activite-pour-les-allocataires-du-RSA-le-Senat-declare-la-guerre-aux-pauvres",
+      "date_source": "2023-07-12",
+      "confiance": "deduite"
     },
     "edu_prive": {
       "valeur": null,
@@ -156,11 +156,11 @@
       "confiance": null
     },
     "edu_autorite": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -1,
+      "resume": "Position déduite d'un article de Révolution permanente (2023) qui présente l'expérimentation de l'uniforme scolaire comme un « projet autoritaire pour la jeunesse ».",
+      "source": "https://www.revolutionpermanente.fr/Experimentation-de-l-uniforme-a-l-ecole-Attal-poursuit-son-projet-autoritaire-pour-la-jeunesse",
+      "date_source": "2023-09-04",
+      "confiance": "deduite"
     },
     "ins_proportionnelle": {
       "valeur": null,

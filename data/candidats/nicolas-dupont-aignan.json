@@ -128,17 +128,17 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": -2,
-      "resume": "Position déduite : DLF jugeait en 2017 que « la liberté d'installation ne peut être remise en cause » ; le projet actuel privilégie une bourse aux étudiants en échange d'une installation en zone sous-dotée.",
-      "source": "https://www.debout-la-france.fr/actualite/appuyons-nous-sur-les-medecins-et-les-professionnels-de-sante-pour-preserver-le-modele/",
-      "date_source": "2017-12-01",
-      "confiance": "deduite"
+      "valeur": -1,
+      "resume": "Le projet DLF lutte contre les déserts médicaux par incitation (bourse aux étudiants en échange de 5 ans d'installation en zone sous-dotée, revenus majorés), sans régulation de la liberté d'installation.",
+      "source": "https://www.debout-la-france.fr/projet/sante/",
+      "date_source": "2026",
+      "confiance": "programme"
     },
     "soc_findevie": {
-      "valeur": -2,
-      "resume": "Opposé à la légalisation de l'euthanasie et du suicide assisté (vote contre en 2024) ; il dénonçait encore en 2026 « l'euthanasie de nos aînés ».",
-      "source": "https://www.debout-la-france.fr/actualite/la-macronie-est-contre-la-peine-de-mort-pour-les-meurtriers-mais-pour-leuthanasie-de-nos-aines-%c2%b7-bfmtv-01-07-26/",
-      "date_source": "2026-07-01",
+      "valeur": -1,
+      "resume": "S'oppose à l'aide à mourir adoptée par l'Assemblée (« Comment des parlementaires ont pu voter ça ? ») et aurait voulu appliquer la loi Leonetti et renforcer les soins palliatifs ; aucune déclaration trouvée sur une abrogation de la loi.",
+      "source": "https://www.europe1.fr/node/965466",
+      "date_source": "2026-07-03",
       "confiance": "declaration"
     },
     "soc_rsa": {

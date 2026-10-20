@@ -135,10 +135,10 @@
       "confiance": null
     },
     "soc_findevie": {
-      "valeur": -2,
-      "resume": "S'est opposé à toute forme d'aide à mourir lors de l'examen au Sénat et réclame un référendum sur cette question.",
-      "source": "https://www.lagazettefrance.fr/article/aide-a-mourir-le-senat-s-oppose-a-nouveau-retailleau-veut-un-referendum",
-      "date_source": "2026-05",
+      "valeur": -1,
+      "resume": "A voté contre au Sénat et réclamé un référendum ; après l'adoption définitive, il ne promet pas d'abroger la loi mais dit qu'il fera « un bilan au bout d'un an » avant de décider s'il demande aux Français de trancher.",
+      "source": "https://www.franceinfo.fr/societe/euthanasie/presidentielle-2027-les-candidats-hostiles-a-la-loi-sur-la-fin-de-vie-vont-ils-promettre-de-l-abroger_8108582.html",
+      "date_source": "2026-07-17",
       "confiance": "declaration"
     },
     "soc_rsa": {
@@ -171,7 +171,7 @@
     },
     "ins_ric": {
       "valeur": 1,
-      "resume": "Ne propose pas de RIC à proprement parler, mais veut étendre le référendum à « toute question législative » et abaisser à 2,5 millions de signatures le seuil du référendum d'initiative partagée.",
+      "resume": "Ne propose pas de RIC, mais veut étendre le référendum de l'article 11 à « toute question législative » et abaisser de 5 à 2,5 millions de signatures le seuil du référendum d'initiative partagée.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
       "date_source": "2026-09-03",
       "confiance": "declaration"

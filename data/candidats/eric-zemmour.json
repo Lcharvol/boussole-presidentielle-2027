@@ -6,7 +6,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-20",
-  "notes": "A annoncé sur BFMTV le 17 septembre 2026 qu'il serait candidat (« Je serai candidat à la présidentielle ») ; son entourage annonçait une déclaration formelle à l'automne. Sarah Knafo, un temps évoquée, l'a présenté comme le candidat naturel et doit jouer un rôle majeur dans la campagne. Aucun programme 2027 publié : la plupart des positions sont déduites du programme présidentiel 2022 ; les déclarations de « Face à BFM » (17/09/2026) ont été vérifiées via des comptes rendus de presse (la page BFMTV n'a pas pu être consultée directement). Sources : https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html ; https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+  "notes": "A annoncé sur BFMTV le 17 septembre 2026 qu'il serait candidat (« Je serai candidat à la présidentielle ») ; son entourage annonçait une déclaration formelle à l'automne. Sarah Knafo, un temps évoquée, l'a présenté comme le candidat naturel et doit jouer un rôle majeur dans la campagne. Aucun programme 2027 publié : la plupart des positions sont déduites du programme présidentiel 2022 ; les déclarations de « Face à BFM » (17/09/2026) ont été vérifiées via des comptes rendus de presse (la page BFMTV n'a pas pu être consultée directement). Sources : https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html ; https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871 Au 20/10/2026, aucune déclaration formelle de candidature postérieure au 17/09/2026 n'a été trouvée.",
   "positions": {
     "eco_retraite": {
       "valeur": -2,
@@ -80,7 +80,7 @@
     },
     "sec_cannabis": {
       "valeur": 0,
-      "resume": "Position ambiguë : avait évoqué en mai 2021 une « légalisation ordonnée » du cannabis, puis son programme 2022 ne comportait aucune mesure de légalisation mais une force nationale anti-drogue.",
+      "resume": "Position déduite de 2021-2022, ambiguë : avait évoqué en mai 2021 une « légalisation ordonnée » du cannabis, puis son programme 2022 ne comportait aucune mesure de légalisation mais une force nationale anti-drogue.",
       "source": "https://www.cnews.fr/france/2022-02-01/repression-legalisation-depenalisation-que-pensent-les-candidats-la-presidentielle",
       "date_source": "2022-02-01",
       "confiance": "deduite"
@@ -122,7 +122,7 @@
     },
     "eur_ukraine": {
       "valeur": -1,
-      "resume": "Selon le compte rendu de BFMTV, ne place plus l'Ukraine parmi ses priorités d'aide et plaide pour une médiation de la France ; en 2022 il s'opposait aux livraisons d'armes tout en condamnant l'invasion.",
+      "resume": "Selon le compte rendu de BFMTV, a déclaré que l'aide militaire à l'Ukraine n'était « pas dans [sa] liste » de priorités pour raisons budgétaires et plaide pour une médiation de la France ; en 2022 il critiquait les livraisons d'armes tout en condamnant l'invasion.",
       "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
       "date_source": "2026-09-17",
       "confiance": "declaration"
@@ -135,8 +135,8 @@
       "confiance": "deduite"
     },
     "soc_findevie": {
-      "valeur": -2,
-      "resume": "Opposé à l'aide à mourir, qu'il qualifie d'« espèce de rétablissement de la peine de mort qui ne dit pas son nom ».",
+      "valeur": -1,
+      "resume": "Opposé à l'aide à mourir, qu'il qualifie d'« espèce de rétablissement de la peine de mort qui ne dit pas son nom » ; aucune promesse d'abroger la loi adoptée en 2026 n'a été trouvée.",
       "source": "https://www.cnews.fr/france/2025-05-18/aide-mourir-cest-une-espece-de-retablissement-de-la-peine-de-mort-qui-ne-dit-pas",
       "date_source": "2025-05-18",
       "confiance": "declaration"
