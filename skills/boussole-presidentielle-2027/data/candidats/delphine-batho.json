@@ -128,7 +128,7 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "A voté pour la proposition de loi transpartisane Garot qui régule l'installation des médecins dans les zones bien dotées.",
       "source": "https://datan.fr/votes/legislature-17/vote_1607",
       "date_source": "2025-05-07",
@@ -198,7 +198,7 @@
       "confiance": null
     },
     "sec_mineurs": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "A voté contre la loi Attal « visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants », qui restreignait notamment l'excuse de minorité pour les 16-18 ans (vote sur l'ensemble du texte).",
       "source": "https://datan.fr/votes/legislature-17/vote_1624",
       "date_source": "2025-05-13",

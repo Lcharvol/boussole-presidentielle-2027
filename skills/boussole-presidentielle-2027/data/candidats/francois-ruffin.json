@@ -23,7 +23,7 @@
       "confiance": "programme"
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Déduit du manifeste de Debout ! : critique des « budgets à tailler » et « coupes sèches » dans les services publics et appel à des « impôts justes » faisant davantage contribuer le capital.",
       "source": "https://debout.fr/notre-manifeste/",
       "date_source": "2026-04",
@@ -128,7 +128,7 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "A voté pour la régulation de l'installation des médecins dans les zones bien pourvues (14 juin 2023).",
       "source": "https://datan.fr/votes/legislature-16/vote_1812",
       "date_source": "2023-06-14",
@@ -198,7 +198,7 @@
       "confiance": "programme"
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "A voté contre la loi Attal sur la justice des mineurs (texte de CMP, 13 mai 2025), qui facilite la comparution immédiate des mineurs de plus de 16 ans et restreint l'excuse de minorité pour les récidivistes de plus de 16 ans.",
       "source": "https://datan.fr/votes/legislature-17/vote_1624",
       "date_source": "2025-05-13",

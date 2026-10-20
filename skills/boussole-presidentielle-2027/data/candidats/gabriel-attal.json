@@ -23,7 +23,7 @@
       "confiance": "programme"
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Vise un déficit nul en dix ans maximum, estime qu'« aucune dépense ne doit être un tabou » et propose un frein d'urgence sur les dépenses sociales ; aucune hausse d'impôt n'est proposée.",
       "source": "https://attalpresident.fr/programme/dette-de-letat",
       "date_source": "2026",
@@ -198,7 +198,7 @@
       "confiance": null
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Auteur de la loi de 2025 sur la justice des mineurs qui faisait de l'excuse de minorité l'exception pour les récidivistes de 16 ans et plus et créait pour eux une comparution immédiate, dispositions censurées par le Conseil constitutionnel ; en août 2026, propose une évolution constitutionnelle contre la délinquance des mineurs.",
       "source": "https://www.publicsenat.fr/actualites/politique/justice-des-mineurs-le-conseil-constitutionnel-censure-largement-le-texte-attal-notamment-la-derogation-de-lexcuse-de-minorite",
       "date_source": "2025-06-19",

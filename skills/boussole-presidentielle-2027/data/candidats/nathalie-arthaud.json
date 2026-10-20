@@ -23,7 +23,7 @@
       "confiance": "programme"
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "La brochure de campagne dénonce les coupes « dans tous les budgets utiles à la population » au nom de la dette et réclame de prendre sur les profits et les aides publiques aux entreprises.",
       "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
       "date_source": "2026-05",
@@ -233,7 +233,7 @@
       "confiance": null
     },
     "eur_defense3": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "La brochure de campagne dénonce les 36 milliards d'euros de rallonge votés pour l'armée, qui « manqueront » aux hôpitaux et aux écoles, et refuse l'unité nationale derrière l'effort militaire.",
       "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
       "date_source": "2026-05",

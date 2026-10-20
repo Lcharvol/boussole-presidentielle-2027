@@ -23,7 +23,7 @@
       "confiance": null
     },
     "eco_depenses": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme prévoit une « réduction drastique des dépenses publiques » pour passer de 55,6 % à moins de 50 % du PIB en dix ans, avec une règle d'or constitutionnelle sur le fonctionnement.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
       "date_source": "2026",
@@ -198,7 +198,7 @@
       "confiance": null
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme veut abaisser la majorité pénale à 16 ans, inverser l'excuse de minorité dès 13 ans et étendre la comparution immédiate dès 13 ans pour les cas graves.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
       "date_source": "2026",
@@ -233,7 +233,7 @@
       "confiance": null
     },
     "eur_defense3": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose de porter le budget de la défense à 3,5 % du PIB (entretien au Diplomate).",
       "source": "https://lediplomate.media/david-lisnard-souverainete-europeenne/",
       "date_source": "2025-03-22",

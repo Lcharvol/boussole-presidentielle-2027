@@ -23,7 +23,7 @@
       "confiance": "programme"
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Annonce 130 milliards d'euros d'économies en cinq ans pour ramener le déficit sous 3 %, « sans faire souffrir les Français », tout en créant un impôt sur les très grandes fortunes et une taxe numérique.",
       "source": "https://www.debout-la-france.fr/projet/economie-travail/",
       "date_source": "2026",
@@ -128,7 +128,7 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le projet DLF lutte contre les déserts médicaux par incitation (bourse aux étudiants en échange de 5 ans d'installation en zone sous-dotée, revenus majorés), sans régulation de la liberté d'installation.",
       "source": "https://www.debout-la-france.fr/projet/sante/",
       "date_source": "2026",
@@ -198,7 +198,7 @@
       "confiance": null
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le projet propose d'abroger l'ordonnance de 1945 sur la justice des mineurs et de « baisser la majorité pénale à 16 ans », mesure reprise dans ses 20 propositions du 20 octobre 2026.",
       "source": "https://www.debout-la-france.fr/projet/justice/",
       "date_source": "2026-10",
@@ -233,7 +233,7 @@
       "confiance": "programme"
     },
     "eur_defense3": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le projet s'engage à porter le budget de la défense à « 2,5 % du PIB », qualifié de « chiffre raisonnable », soit en deçà de 3 %.",
       "source": "https://www.debout-la-france.fr/projet/defense/",
       "date_source": "2026-10",

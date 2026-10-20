@@ -23,7 +23,7 @@
       "confiance": "deduite"
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du programme 2022 : plan de 27 milliards d'euros d'économies par an (contribution à l'UE, régions, CICE des grandes entreprises…) avant d'« envisager une baisse de la fiscalité », combiné à de nouvelles tranches d'impôt pour les très hauts revenus ; en 2026 il propose aussi la suppression des régions.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
       "date_source": "2022-02",
@@ -233,7 +233,7 @@
       "confiance": "declaration"
     },
     "eur_defense3": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : porter le budget de la défense « à hauteur d'au moins 3 % du PIB » sur le quinquennat.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
       "date_source": "2022-02",

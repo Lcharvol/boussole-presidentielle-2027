@@ -128,7 +128,7 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Prend acte de la loi soumettant l'installation des médecins à une autorisation de l'ARS en mettant en garde contre la bureaucratie, et propose d'aller plus loin (bourses conditionnées à un exercice dans les territoires en crise).",
       "source": "https://lafrancehumaniste.fr/articles/sante-et-environnement.html",
       "date_source": "2025-08-27",

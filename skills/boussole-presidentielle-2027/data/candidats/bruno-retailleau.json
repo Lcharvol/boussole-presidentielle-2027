@@ -23,7 +23,7 @@
       "confiance": "declaration"
     },
     "eco_depenses": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Plan de 197 Md€ d'économies sur cinq ans (dont non-remplacement de 400 000 agents partant à la retraite), avec des baisses d'impôts pour ménages et entreprises.",
       "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
       "date_source": "2026-10-12",
@@ -198,7 +198,7 @@
       "confiance": null
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Comme ministre de l'Intérieur, a déclaré que l'excuse de minorité, « aujourd'hui la règle », devait « devenir l'exception » et appelé à réformer profondément la justice des mineurs.",
       "source": "https://www.europe1.fr/politique/aujourdhui-lexcuse-de-minorite-est-la-regle-demain-elle-doit-devenir-lexception-affirme-bruno-retailleau-669464",
       "date_source": "2025-03-25",

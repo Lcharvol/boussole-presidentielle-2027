@@ -23,7 +23,7 @@
       "confiance": "deduite"
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Dit vouloir réduire les dépenses sociales et prioriser les classes moyennes, sans chiffrage publié.",
       "source": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
       "date_source": "2026-08-03",
@@ -128,7 +128,7 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite (2021) : sur les déserts médicaux, privilégie les incitations plutôt que la contrainte ; en janvier 2026, il refusait des méthodes « punitives » envers la médecine libérale.",
       "source": "https://medecine-generale.lequotidiendumedecin.fr/actus-medicales/politique-de-sante/xavier-bertrand-supprimer-laide-medicale-detat",
       "date_source": "2021-12-03",
@@ -198,7 +198,7 @@
       "confiance": null
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite (2021) : se disait favorable à l'instauration de la majorité pénale à 15 ans (JDD, 15 mai 2021) ; aucune déclaration 2025-2026 trouvée.",
       "source": "https://www.revuepolitique.fr/mieux-sanctionner-penalement-les-mineurs-avez-vous-dit/",
       "date_source": "2021-05-18",

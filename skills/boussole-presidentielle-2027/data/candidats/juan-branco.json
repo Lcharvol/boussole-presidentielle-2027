@@ -23,7 +23,7 @@
       "confiance": "programme"
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme vise la « baisse des prélèvements obligatoires et des dépenses publiques » et un objectif d'excédent budgétaire, avec la suppression de plus de 300 taxes, tout en épargnant le dernier décile de la baisse d'impôts.",
       "source": "https://ruches.org/le-projet",
       "date_source": "2026-07",
@@ -128,7 +128,7 @@
       "confiance": "programme"
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme prévoit des « obligations d'exercice en zones sous-dotées » et une « régulation de l'installation décennale » des médecins.",
       "source": "https://ruches.org/le-projet",
       "date_source": "2026-07",

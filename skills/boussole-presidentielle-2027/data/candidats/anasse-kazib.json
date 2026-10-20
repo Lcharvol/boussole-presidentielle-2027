@@ -23,7 +23,7 @@
       "confiance": "programme"
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Les premières mesures 2027 prévoient des investissements massifs dans les services publics et la suppression des aides publiques aux grandes entreprises.",
       "source": "https://anasse2027.fr/programme",
       "date_source": "2026-06",
@@ -233,7 +233,7 @@
       "confiance": null
     },
     "eur_defense3": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le 4 pages de campagne 2027 réclame « pas un euro pour la guerre » et le démantèlement de la machine de guerre française.",
       "source": "https://anasse2027.fr/programme",
       "date_source": "2026-06",

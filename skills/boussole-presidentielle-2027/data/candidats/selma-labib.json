@@ -23,7 +23,7 @@
       "confiance": "declaration"
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "S'oppose aux budgets d'austérité et aux coupes budgétaires, et veut réorienter l'argent des aides aux entreprises et des dépenses militaires.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
       "date_source": "2026-09-12",
@@ -198,7 +198,7 @@
       "confiance": null
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui rejette le projet de Gabriel Attal d'atténuer l'excuse de minorité et de juger plus vite les mineurs de 16 ans et plus.",
       "source": "https://npa-revolutionnaires.org/excuse-de-minorite-les-fantasmes-de-gabriel-attal/",
       "date_source": "2024-04-21",
@@ -233,7 +233,7 @@
       "confiance": "deduite"
     },
     "eur_defense3": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Dénonce un « record de dépenses militaires » et revendique « pas un euro pour les guerres impérialistes ».",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
       "date_source": "2026-09-12",

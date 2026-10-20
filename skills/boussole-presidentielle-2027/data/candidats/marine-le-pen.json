@@ -23,7 +23,7 @@
       "confiance": "deduite"
     },
     "eco_depenses": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le contre-budget RN promet 140 milliards d'euros d'économies nettes d'ici 2032 et un déficit sous 3 % dès 2030, avec une « règle d'or » soumise à référendum ; la répartition entre baisses de dépenses et recettes n'est pas détaillée.",
       "source": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-a-2032_8224807.html",
       "date_source": "2026-10-06",
@@ -128,7 +128,7 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite du groupe RN : abstention sur la loi Garot (mai 2025) en souhaitant que le Sénat supprime l'article régulant l'installation des médecins.",
       "source": "https://lcp.fr/actualites/deserts-medicaux-l-assemblee-adopte-la-proposition-de-loi-qui-prevoit-de-reguler-l",
       "date_source": "2025-05-08",
@@ -198,7 +198,7 @@
       "confiance": "deduite"
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite : Jordan Bardella a proposé en 2024 de « mettre un terme à l'excuse de minorité », sans préciser les âges concernés.",
       "source": "https://vl-media.fr/cest-quoi-lexcuse-de-minorite-que-veut-supprimer-jordan-bardella/",
       "date_source": "2024-04-17",
@@ -233,7 +233,7 @@
       "confiance": "declaration"
     },
     "eur_defense3": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite : un amendement de députés RN à l'actualisation de la loi de programmation militaire (avril 2026) visait « au minimum 3 % » du PIB pour la défense en 2030, rappelant que c'est le programme du RN depuis 2017.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2695/AN/565",
       "date_source": "2026-04-29",

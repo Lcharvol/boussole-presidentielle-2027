@@ -23,7 +23,7 @@
       "confiance": "programme"
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme finance ses mesures par de nouvelles recettes (taxe Zucman, fiscalité écologique) et veut exclure les investissements de transition du calcul du déficit ; il ne cible que des dépenses « inutiles et fossiles ».",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
       "date_source": "2026-07",
@@ -128,7 +128,7 @@
       "confiance": "programme"
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Réguler l'installation des médecins libéraux par une autorisation délivrée par l'ARS, de droit en zone sous-dotée.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
       "date_source": "2026-07",
@@ -198,7 +198,7 @@
       "confiance": "programme"
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme réaffirme « la primauté de l'éducatif sur le répressif » pour les mineurs délinquants, veut limiter les jugements rapides et abroger la loi Attal de 2025 (qui restreignait l'excuse de minorité pour les 16-18 ans).",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
       "date_source": "2026-07",

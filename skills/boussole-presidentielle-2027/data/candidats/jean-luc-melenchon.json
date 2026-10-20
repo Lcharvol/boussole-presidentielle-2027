@@ -23,7 +23,7 @@
       "confiance": "programme"
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le document de campagne d'octobre 2026 rejette les coupes dans les dépenses publiques et prévoit de réduire le déficit par environ 106 milliards d'euros de recettes nouvelles et par l'investissement.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
       "date_source": "2026-10",
@@ -128,7 +128,7 @@
       "confiance": "deduite"
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « réguler l'installation des médecins » parmi les leviers contre les déserts médicaux.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "date_source": "2025-02",
@@ -198,7 +198,7 @@
       "confiance": "programme"
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de garantir les principes de l'ordonnance de 1945 sur l'enfance délinquante et d'abroger le code de justice pénale des mineurs pour le remplacer par un code de l'enfance.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "date_source": "2025-02",

@@ -23,7 +23,7 @@
       "confiance": "programme"
     },
     "eco_depenses": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Veut ramener le déficit à 2 % du PIB en fin de quinquennat, avec 50 % de l'effort sur les dépenses sociales, le non-remplacement d'un départ à la retraite sur trois dans la fonction publique et un moratoire sur les nouveaux impôts.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
       "date_source": "2026-10",
@@ -128,7 +128,7 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite d'une déclaration de 2017, comme Premier ministre : a écarté toute répartition « presque forcée, administrative » des médecins au profit d'incitations (« Il faut séduire les médecins ») ; aucune déclaration récente trouvée.",
       "source": "https://www.publicsenat.fr/actualites/politique/edouard-philippe-presente-son-plan-contre-les-deserts-medicaux-78562",
       "date_source": "2017-10-13",
@@ -198,7 +198,7 @@
       "confiance": null
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Propose de lever l'excuse de minorité et de créer la comparution immédiate des mineurs, uniquement pour les faits liés au narcotrafic.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
       "date_source": "2026-10",

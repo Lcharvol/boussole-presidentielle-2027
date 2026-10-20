@@ -23,7 +23,7 @@
       "confiance": "deduite"
     },
     "eco_depenses": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Déduit du programme du PCF : en finir avec la règle des 3 % de déficit et le « carcan austéritaire », financer les dépenses par la création de richesses et la fiscalité du capital.",
       "source": "https://www.pcf.fr/moyen_3",
       "date_source": "2022",
@@ -128,7 +128,7 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Déduit du programme du PCF : conventionnement sélectif ; en zone dense, un médecin ne pourra s'installer que si un autre part à la retraite.",
       "source": "https://www.pcf.fr/objectif_2",
       "date_source": "2022",
@@ -198,7 +198,7 @@
       "confiance": null
     },
     "sec_mineurs": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : supprimer l'enfermement des jeunes de 13 à 16 ans et limiter celui des 16-18 ans ; le programme ne traite pas directement du jugement des mineurs comme des majeurs.",
       "source": "https://www.pcf.fr/moyen_2",
       "date_source": "2022",

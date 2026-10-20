@@ -100,7 +100,7 @@ def simuler(questions, candidats, qids, n, rng, tirage):
              for c in candidats}
     for _ in range(n):
         rep = {q: (None if rng.random() < PART_PASSE else rng.choice(tirage)) for q in qids}
-        classement = calculer({"reponses": rep}, questions, candidats)["classement"]
+        classement = calculer({"reponses": rep}, questions, candidats, tirages=0)["classement"]
         k = len(classement)
         if not k:
             continue
@@ -199,7 +199,7 @@ def main():
     for m, ids in qids_mode.items():
         cells = []
         for v in (2, 1, -1, -2):
-            cl = calculer({"reponses": {q: v for q in ids}}, questions, candidats)["classement"]
+            cl = calculer({"reponses": {q: v for q in ids}}, questions, candidats, tirages=0)["classement"]
             if cl:
                 s = cl[0]["slug"]
                 cells.append(f"{cl[0]['nom']} ({camp.get(s, 'non placé')}, {cl[0]['score']} %)")
@@ -309,16 +309,18 @@ def main():
                 f"droit ; répondre « d'accord » plus souvent déplace l'écart droite - gauche des premières places de "
                 f"{effet:+.0f} points")
 
-    L += ["Causes probables :", "",
+    L += ["Causes possibles et corrections en place :", "",
           "- **Couverture inégale des fiches.** Un candidat dont on connaît peu de positions est exclu du "
           "classement principal (moins de 50 % des questions répondues) : il ne peut jamais sortir premier. "
-          "Quand il est classé, son score repose sur peu de questions, donc varie davantage d'un profil à "
-          "l'autre, ce qui le place plus souvent tout en haut comme tout en bas. En mode rapide, avec 8 "
-          "questions, une ou deux positions manquantes suffisent à faire basculer un candidat.",
-          "- **Positions nuancées.** Avec un accord égal à 1 - |écart| / 4, une position à 0 est en moyenne "
-          "plus proche d'une réponse quelconque qu'une position à ±2 : face à des réponses au hasard, les "
-          "candidats aux positions modérées sont avantagés, quel que soit leur camp. Cet effet pèse surtout "
-          "sur les personnes qui répondent souvent « neutre » ou sans opinion tranchée.",
+          "Quand il est classé, son score repose sur moins de questions et varierait davantage d'un profil à "
+          "l'autre. score.py compense en comptant chaque question sans position connue comme un accord égal "
+          "au hasard, avec un poids de √2 - 1 : la dispersion du score est alors la même entre 50 % et 100 % "
+          "de couverture. Le coefficient de corrélation avec le nombre de positions connues, ci-dessus, "
+          "mesure ce qui reste de cet effet.",
+          "- **Positions nuancées.** Avec un accord brut égal à 1 - |écart| / 4, une position à 0 serait en "
+          "moyenne plus proche d'une réponse quelconque qu'une position à ±2. score.py corrige chaque accord "
+          "du hasard (comme un kappa de Cohen), si bien que toutes les positions ont la même espérance face à "
+          "des réponses au hasard. La corrélation avec l'écart moyen à 0 mesure ce qui reste de cet effet.",
           f"- **Sens des formulations.** {formulations('long').capitalize()} ; {formulations('rapide')}. "
           "Une série d'affirmations orientées dans le même sens favorise le pôle correspondant chez les "
           "personnes qui répondent souvent « d'accord ».", ""]
