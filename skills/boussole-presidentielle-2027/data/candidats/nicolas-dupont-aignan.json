@@ -114,7 +114,7 @@
       "citation": "Nous proposons, par conséquent, la suppression du droit du sol, la suspension du regroupement familial, la fin des aides sociales non contributives aux étrangers et la fermeture immédiate des mosquées fondamentalistes.",
       "date_source": "2025",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 2,
@@ -123,7 +123,7 @@
       "citation": "Supprimer l’Aide Médicale d’État (AME) et mettre en place dans chaque département un dispensaire d’urgence pour les étrangers en situation irrégulière, avant leur expulsion.",
       "date_source": "2025",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": -2,
@@ -132,7 +132,7 @@
       "citation": "Durcir les règles de rapprochement familial et supprimer la régularisation pour les étrangers en situation irrégulière […]",
       "date_source": "2025",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": -2,
@@ -141,7 +141,7 @@
       "citation": "Sortir de l’Union européenne pour rapatrier nos compétences au niveau national, seul cadre de l’exercice de notre démocratie.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 2,
@@ -150,7 +150,7 @@
       "citation": "Primauté du droit français sur le droit européen",
       "date_source": "2026-10-20",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -2,
@@ -159,7 +159,7 @@
       "citation": "“Président, j’arrêterai toutes subventions à l’Ukraine !” · BFMTV, 21/09/26",
       "date_source": "2026-09-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": 1,
@@ -204,7 +204,7 @@
       "citation": "Uniforme obligatoire, niveau de langage minimum et vouvoiement.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": -2,
@@ -213,7 +213,7 @@
       "citation": "La mise en place du scrutin proportionnel est une fausse bonne idée, une illusion démocratique qui, sous couvert de représentativité, installerait en réalité un système verrouillé entre partis dominants […]",
       "date_source": "2025-04-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 2,
@@ -222,7 +222,7 @@
       "citation": "Instaurer le référendum d’initiative citoyenne constituant (RIC) pour rendre les citoyens acteurs de l’élaboration des lois et maîtres de leur Constitution.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": -1,
@@ -258,7 +258,7 @@
       "citation": "Baisser la majorité pénale à 16 ans.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": -2,
@@ -276,7 +276,7 @@
       "citation": "Supprimer le droit du sol via un référendum, tout en maintenant la possibilité de devenir Français par naturalisation.",
       "date_source": "2026-03",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": 2,
@@ -285,7 +285,7 @@
       "citation": "Supprimer les aides sociales non contributives pour les étrangers (RSA, allocations familiales, aides au logement…)",
       "date_source": "2026-03",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_otan": {
       "valeur": 2,
@@ -294,7 +294,7 @@
       "citation": "Sortir du commandement intégré de l’OTAN pour regagner notre indépendance militaire et stratégique […]",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": 1,
@@ -357,7 +357,7 @@
       "citation": "Diminuer le nombre de parlementaires et réduire leurs indemnités de 25 % :",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_voteblanc": {
       "valeur": 2,
@@ -366,7 +366,7 @@
       "citation": "Prendre en compte le vote blanc dans les résultats des élections pour respecter le sentiment populaire.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     }
   }
 }
