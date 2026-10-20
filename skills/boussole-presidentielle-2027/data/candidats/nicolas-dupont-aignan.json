@@ -15,7 +15,7 @@
       "citation": "Nous maintiendrons l’âge minimum de départ à la retraite et la durée de cotisations actuelle (issue de la réforme de 2010).",
       "date_source": "2023",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": -1,
@@ -69,7 +69,7 @@
       "citation": "Une politique tournée vers l’éolien et le photovoltaïque ne pourra jamais tenir ses promesses.",
       "date_source": "2022",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": -2,
@@ -78,7 +78,7 @@
       "citation": "Revenir à une politique agricole nationale, échappant aux délires bureaucratiques de la Commission de Bruxelles et simplifiant les procédures (fin du pacte vert européen, des quotas de jachères, etc…).",
       "date_source": "2025",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": 2,
@@ -87,7 +87,7 @@
       "citation": "Réinstaurer et élargir les peines planchers pour toute agression contre policiers, gendarmes, pompiers, enseignants, soignants.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": 2,
@@ -96,7 +96,7 @@
       "citation": "Construction de 40 000 places de prison",
       "date_source": "2026-10-20",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": -2,
@@ -240,7 +240,7 @@
       "citation": "Supprimer l’interdiction des véhicules thermiques à l’horizon 2035 imposée par l’UE.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_aerien": {
       "valeur": null,

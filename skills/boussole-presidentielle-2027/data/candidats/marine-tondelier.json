@@ -195,7 +195,7 @@
       "citation": "Mieux maîtriser les dépenses publiques inutiles et fossiles. Diminuer et conditionner les subventions à l’enseignement privé.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_autorite": {
       "valeur": -1,
@@ -213,7 +213,7 @@
       "citation": "Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 2,
@@ -222,7 +222,7 @@
       "citation": "Renforcer la démocratie directe par la mise en œuvre du Référendum d’Initiative Citoyenne (RIC) propositionnel ou abrogatif – sous condition d’un contrôle de constitutionnalité préalable.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": 2,
@@ -231,7 +231,7 @@
       "citation": "Etablir un septennat unique. Abroger les pouvoirs conférés par l’actuel article 16 et les pouvoirs de nomination de l’article 13 (à confier au Gouvernement).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": 2,
@@ -330,7 +330,7 @@
       "citation": "La laïcité impose la neutralité au service public et à ses agent·es, pas à ses usagers ni aux habitant·es.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_etudiants": {
       "valeur": 1,
