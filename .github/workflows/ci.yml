@@ -1,0 +1,55 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  verifier:
+    name: Vérifier les données et le plugin
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: skills/boussole-presidentielle-2027
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fiches candidats valides
+        run: python3 scripts/check_data.py --jours 100000
+
+      - name: Questions et niveaux cohérents
+        run: |
+          python3 - <<'PY'
+          import collections, json
+          q = json.load(open("data/questions.json", encoding="utf-8"))
+          ids = [x["id"] for x in q["questions"]]
+          assert len(ids) == len(set(ids)), "identifiant de question en double"
+          for x in q["questions"]:
+              assert x["theme"] in q["themes"], f"thème inconnu : {x['id']}"
+              assert x.get("niveau") in {"rapide", "moyen", "long"}, f"niveau manquant : {x['id']}"
+          n = collections.Counter(x["niveau"] for x in q["questions"])
+          print(f"{len(ids)} questions : {dict(n)}")
+          PY
+
+      - name: Calcul des scores
+        run: |
+          python3 scripts/score.py <<'FIN' | tee /tmp/score.txt
+          {"reponses": {"eco_retraite": 2, "imm_baisse": -2, "eur_ukraine": 1, "sec_cannabis": null}, "importance": {"economie": 2}}
+          FIN
+          grep -q "| 1 |" /tmp/score.txt
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Manifeste du plugin et de la marketplace
+        working-directory: .
+        run: npx --yes @anthropic-ai/claude-code@2.1.252 plugin validate --strict ./
