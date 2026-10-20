@@ -42,7 +42,7 @@
       "citation": "Un impôt unique sur le patrimoine des 1 % […] Dès 2,2 M€, fortement progressif. Il frappe la rente qui dort, pas l’entrepreneur qui risque.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": 1,
@@ -285,7 +285,7 @@
       "citation": "on demande au peuple de placer au-dessus des garanties constitutionnelles ordinaires une préférence nationale qui bouleverserait l’égalité devant la loi, les droits fondamentaux et nos engagements européens et internationaux.",
       "date_source": "2026-05-24",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_otan": {
       "valeur": 0,

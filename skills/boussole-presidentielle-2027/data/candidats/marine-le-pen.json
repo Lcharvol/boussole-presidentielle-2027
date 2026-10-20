@@ -15,7 +15,7 @@
       "citation": "La candidate du RN a officialisé son souhait de conserver la retraite à 62 ans, voire 60 ans, lors de ce débat, précisant ainsi les contours d’une réforme déjà présentée lors des élections législatives de 2024.",
       "date_source": "2026-08-27",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": -1,
@@ -69,7 +69,7 @@
       "citation": "Ce moratoire \"est au cœur du projet de Marine Le Pen\", s'est félicité le député RN Jean-Philippe Tanguy.",
       "date_source": "2025-06-20",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": -2,
@@ -78,7 +78,7 @@
       "citation": "« Si on ne supprime pas les surtranspositions de normes inutiles qui empêchent les agriculteurs de travailler et renchérissent les prix, alors le prix garanti est signé d’échec », a-t-elle ajouté.",
       "date_source": "2024-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": 2,
@@ -132,7 +132,7 @@
       "citation": "Par exemple, Marine Le Pen considère que la création de ce nouveau titre de séjour revient à lancer « un appel d’air » pour une immigration clandestine nouvelle, a-t-elle déclaré à FranceInfo.",
       "date_source": "2022-11",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": -2,
@@ -213,7 +213,7 @@
       "citation": "indiqué que \"le scrutin de 1986, c'est-à-dire la proportionnelle intégrale par département, nous apparaît être un moindre mal par rapport à un système majoritaire qui aujourd'hui ne permet pas que chaque voix des Français soit entendue et respectée\"",
       "date_source": "2025-04-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 2,
@@ -294,7 +294,7 @@
       "citation": "Far-right leader Marine Le Pen said on Friday she would withdraw France from NATO's integrated military command if elected president next year, a stance dismissed by Foreign Minister Jean-Noel Barrot as \"irresponsible\".",
       "date_source": "2026-05-23",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": -2,
@@ -321,7 +321,7 @@
       "citation": "a fustigé \"des processus de culpabilisation des Français, de surveillance des chômeurs, de dégressivité des indemnités chômage (qui) correspondent à une vision de réduction comptable\".",
       "date_source": "2019-06-18",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": 2,

@@ -15,7 +15,7 @@
       "citation": "C’est pourquoi nous abrogerons la réforme Borne qui a porté la retraite à 64 ans, ce qui occasionnera une dépense de 9 milliards d’euros. Cette abrogation immédiate sera un premier pas vers le retour à la retraite à 60 ans avec 40 annuités, objectif sur un mandat.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": 2,
@@ -24,7 +24,7 @@
       "citation": "Ces mesures d’urgence sociale doivent être complétées par une hausse du SMIC à 1 700 euros net.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,
@@ -33,7 +33,7 @@
       "citation": "Ainsi, refuser les coupes budgétaires et proposer un autre chemin, ce n’est pas seulement le résultat d’une vision politique, c’est aussi le choix économique le plus rationnel.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 2,
@@ -42,7 +42,7 @@
       "citation": "Pour cela, nous reviendrons sur les mesures fiscales les plus injustes des mandats d’Emmanuel Macron : […] rétablissement d’un impôt sur la fortune renforcé (10 milliards d’euros)",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": -2,
@@ -51,7 +51,7 @@
       "citation": "Rétablir immédiatement la durée légale hebdomadaire à 35 heures (en majorant les heures supplémentaires, cotisations incluses, à 25 % pour les 4 premières et 50 % au-delà), passer aux 32 heures dans les métiers pénibles ou de nuit",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": -2,
@@ -60,7 +60,7 @@
       "citation": "Sortir du nucléaire : abandonner les projets d’EPR (European Pressurized Reactor – Réacteur pressurisé européen), planifier le démantèlement, la réhabilitation et la reconversion des sites nucléaires",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 2,
@@ -69,7 +69,7 @@
       "citation": "Pour réduire les émissions de gaz à effet de serre (GES), nous devons atteindre le 100 % d’énergies renouvelables. […] Mettre en oeuvre un plan d’urgence pour l’éolien maritime d’un point de vue énergétique et industriel",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": 2,
@@ -78,7 +78,7 @@
       "citation": "Planifier la réduction progressive des doses d’engrais et de pesticides, interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l’importation de productions qui en contiennent",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": null,
@@ -105,7 +105,7 @@
       "citation": "Légaliser et encadrer par un monopole d’État la consommation, la production et la vente de cannabis à des fins récréatives dans des conditions permettant de lutter contre l’addiction",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": -2,
@@ -114,7 +114,7 @@
       "citation": "Faciliter l’accès aux visas, régulariser les travailleurs, étudiants, parents d’enfants scolarisés et instituer la carte de séjour de dix ans comme titre de séjour de référence",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": -2,
@@ -123,7 +123,7 @@
       "citation": "Abroger les dernières lois asile et immigration • Garantir l’accès à l’aide médicale d’État (AME)",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": 2,
@@ -132,7 +132,7 @@
       "citation": "Faciliter l’accès aux visas, régulariser les travailleurs, étudiants, parents d’enfants scolarisés",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": -2,
@@ -141,7 +141,7 @@
       "citation": "Suspendre la participation (opt-out) de la France à certains programmes comme l’Europe de la défense et s’opposer à la reconduction d’un Commissaire européen à la Défense",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 1,
@@ -168,7 +168,7 @@
       "citation": "Réguler l’installation des médecins et généraliser les guichets uniques pour toutes les démarches d’installation des soignants",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": 2,
@@ -177,7 +177,7 @@
       "citation": "Ajouter le droit de mourir dans la dignité (y compris avec assistance) et l’accès garanti à des soins palliatifs dans la Constitution",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": -2,
@@ -186,7 +186,7 @@
       "citation": "Abroger la loi France Travail et l’obligation de réaliser 15h d’activités hebdomadaires contre le revenu de remplacement (allocation-chômage, RSA, ASS, etc.)",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": 1,
@@ -204,7 +204,7 @@
       "citation": "Suspendre l’expérimentation de l’uniforme • Abroger le « Choc des savoirs » qui renforce la ségrégation scolaire et sociale",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": 2,
@@ -213,7 +213,7 @@
       "citation": "Élire l’Assemblée nationale au scrutin proportionnel",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 2,
@@ -222,7 +222,7 @@
       "citation": "Instaurer le Référendum d’initiative citoyenne (RIC), par lequel les citoyens qui réunissent suffisamment de signatures peuvent révoquer des élus, proposer ou abroger une loi et modifier la Constitution",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": 2,
@@ -231,7 +231,7 @@
       "citation": "Réunir une Assemblée constituante pour passer à la 6e République ∴ Abolir la monarchie présidentielle",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -258,7 +258,7 @@
       "citation": "Garantir le respect des principes de l’ordonnance de février 1945 sur l’enfance en conflit avec la loi, abroger le code de justice pénale des mineurs de Dupond-Moretti pour instaurer un code de l’enfance",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": -2,
@@ -267,7 +267,7 @@
       "citation": "Interdire certains usages de l’intelligence artificielle et du « big data » qui vont à l’encontre des droits sociaux : identifications biométriques, surveillance pour l’évaluation des droits sociaux",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_droitdusol": {
       "valeur": -2,
@@ -276,7 +276,7 @@
       "citation": "Garantir le droit du sol intégral à tous les enfants nés en France, le rétablir sur l’ensemble du territoire national et faciliter l’accès à la nationalité française",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": null,
@@ -294,7 +294,7 @@
       "citation": "Se retirer immédiatement du commandement intégré de l’OTAN puis, par étapes, de l’organisation elle-même",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": null,
@@ -312,7 +312,7 @@
       "citation": "Reconstruire le service public hospitalier et instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits et en intégrant les mutuelles dans la Sécurité sociale",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_chomage": {
       "valeur": -2,
@@ -321,7 +321,7 @@
       "citation": "De même, les gouvernements d’Emmanuel Macron ont réduit les droits à l’assurance chômage en tous points : conditions d’accès, montant, durée et dégressivité de l’indemnité. Nous proposons, dès l’année prochaine, d’abroger ces réformes pour un coût de 3 milliards d’euros.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,
@@ -366,7 +366,7 @@
       "citation": "Reconnaître le vote blanc, mettre en place le vote obligatoire et instaurer un seuil de votes exprimés pour valider une élection",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     }
   }
 }

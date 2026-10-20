@@ -24,7 +24,7 @@
       "citation": "Il faut augmenter les salaires et les pensions de 400 euros par mois pour tous et toutes. Il ne faut pas un seul revenu sous les 2000 euros net.",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 1,
@@ -51,7 +51,7 @@
       "citation": "oui il faut drastiquement diminuer le temps de travail sans perte de salaire et sans augmentation de la charge de travail, sous le contrôle des salariés eux-mêmes […]",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": 0,
@@ -114,7 +114,7 @@
       "citation": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,
@@ -132,7 +132,7 @@
       "citation": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": null,
@@ -159,7 +159,7 @@
       "citation": "Et le mur de leurs guerres qui sont le prolongement de leurs concurrences capitalistes, qu’on voit en Ukraine, en Iran ou d’une autre façon en Palestine et qui vont se multiplier si on ne les empêche pas.",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": null,
@@ -285,7 +285,7 @@
       "citation": "l’interdiction du voile dans la rue et un référendum pour instaurer la préférence nationale. C’est du pur racisme !",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_otan": {
       "valeur": 1,
@@ -303,7 +303,7 @@
       "citation": "La France c’est donc le retour du service militaire, c’est un record de dépenses militaires pour préparer des guerres impérialistes qui ne sont pas les guerres des travailleurs mais des guerres pour les profits […]",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_100secu": {
       "valeur": null,
@@ -321,7 +321,7 @@
       "citation": "Le même qui taxe les malades victimes d’affection longue durée, qui rackette les chômeurs, qui a coupé les budgets des pompiers et de toutes les collectivités, fait un nouveau cadeau aux grands groupes capitalistes.",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,

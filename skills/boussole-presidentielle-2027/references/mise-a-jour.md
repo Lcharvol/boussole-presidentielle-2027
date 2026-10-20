@@ -27,6 +27,16 @@ Chaque position non nulle a une URL source précise, une `date_source` et une `c
 
 Avec beaucoup de fiches, répartis le travail entre plusieurs agents (4 ou 5 candidats chacun), en leur donnant ce fichier et `_FORMAT.md` comme consignes.
 
+### Règles de codage
+
+Ces règles viennent de la relecture humaine des fiches. Elles évitent de surestimer une position à partir d'un indice indirect :
+
+- **Vote contre (ou pour) un texte entier** : un cran de moins que la valeur extrême (±1 au lieu de ±2), sauf si le candidat s'est aussi exprimé sur la mesure précise. Un texte contient d'autres dispositions que celle de la question.
+- **Position ancienne tenue comme membre du gouvernement** (ministre, Premier ministre) et jamais réaffirmée depuis : un cran de moins. Elle reflète aussi la ligne du gouvernement de l'époque.
+- **Restriction partielle** (par exemple limitée à Mayotte) : la soutenir vaut ±1 (cela ne dit pas qu'on veut l'étendre) ; s'y opposer vaut ±2 (qui refuse une restriction limitée refuse a fortiori une restriction générale).
+- **Refus de l'austérité sans mention d'impôts** : ±1 sur `eco_depenses` (« augmenter les impôts plutôt que baisser les dépenses ») ; ±2 seulement si la source évoque des hausses de recettes fiscales.
+- **Ligne du parti ou de son journal** (pas une déclaration du candidat) : acceptable en confiance `deduite`, à condition de le dire dans le résumé et de citer une phrase qui exprime la position, pas seulement un titre ou une description.
+
 ## 4. Vérifier
 
 Relance `python3 scripts/check_data.py` : il doit sortir sans erreur. Il signale en alerte les positions sans citation et affiche, par candidat, combien de positions ont été relues par un humain.

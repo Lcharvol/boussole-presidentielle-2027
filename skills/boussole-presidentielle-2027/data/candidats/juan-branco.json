@@ -42,7 +42,7 @@
       "citation": "Rétablissement de l’ISF avec un mécanisme de précompte sur les droits de succession.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": 1,
@@ -60,7 +60,7 @@
       "citation": "Construction de 14 EPR 2, développement d’une filière intégrée RNR-NA.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -1,
@@ -135,22 +135,22 @@
       "relu": false
     },
     "eur_integration": {
-      "valeur": -2,
-      "resume": "Le programme propose un référendum sur la sortie de l'Union européenne et de l'euro, et la création d'une « Union des peuples européens ».",
+      "valeur": -1,
+      "resume": "Le programme propose un référendum sur la sortie de l'Union européenne et de l'euro, et la création d'une « Union des peuples européens » ; valeur −1 : le programme soumet ces sorties à référendum (« et/ou ») et propose une autre union européenne, sans rejeter toute intégration.",
       "source": "https://ruches.org/le-projet",
       "citation": "Sortie de l’Union Européenne, de l’euro, du Conseil de l’Europe et/ou de l’espace Schengen. ◆ Sortie de l’OTAN (commandement intégré ou du Traité). ◆ Création d’une Union des peuples européens.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
-      "valeur": 2,
-      "resume": "Le programme soumet à référendum la sortie de l'UE, de l'euro, du Conseil de l'Europe et/ou de Schengen.",
+      "valeur": 1,
+      "resume": "Le programme soumet à référendum la sortie de l'UE, de l'euro, du Conseil de l'Europe et/ou de Schengen ; valeur +1 : il soumet ces sorties à référendum (« et/ou ») sans les décider lui-même.",
       "source": "https://ruches.org/le-projet",
       "citation": "Référendum fondé sur l’article 11 de la Constitution proposant : ◆ Sortie de l’Union Européenne, de l’euro, du Conseil de l’Europe et/ou de l’espace Schengen.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -2,
@@ -159,7 +159,7 @@
       "citation": "Arrêt des livraisons d’armes à l’Ukraine.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": -2,
@@ -168,7 +168,7 @@
       "citation": "[…] accompagnés d’obligations d’exercice en zones sous-dotées, d’une régulation de l’installation décennale, et la création d’un corps de médecins généralistes et ambulatoires d’État.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": null,
@@ -186,7 +186,7 @@
       "citation": "Déconditionnalisation du RSA, attribution automatique des minima sociaux afin de sortir de la pauvreté ceux qui n’ont même pas les moyens de les réclamer.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": 2,
@@ -195,7 +195,7 @@
       "citation": "Démantèlement des petits cours privés et de toute aide publique, toute défiscalisation, tout appui d’État ou communal à des institutions privées. ◆ Refonte de la carte scolaire et absorption du parc scolaire privé, fin du système issue de « l’école libre ».",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_autorite": {
       "valeur": null,
@@ -222,7 +222,7 @@
       "citation": "Création d’un RIC en toutes matières. ◆ Instauration du principe de mandat révocable",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": 0,
@@ -312,7 +312,7 @@
       "citation": "Abolition des complémentaires santé et mutuelles publiques et privées, institutions de prévoyance, complémentaires collectives, etc et absorption au sein d’un grand système unique de sécurité sociale intégrale de tous les dispositifs compensatoires […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_chomage": {
       "valeur": 1,
@@ -366,7 +366,7 @@
       "citation": "[…] prise en compte du vote nul et blanc (réduisant proportionnellement le financement public et rendant caduque le mandat électoral en cas de majorité de vote blanc).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     }
   }
 }

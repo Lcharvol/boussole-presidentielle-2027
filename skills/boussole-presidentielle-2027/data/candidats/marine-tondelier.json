@@ -15,7 +15,7 @@
       "citation": "Abroger l’âge légal de départ à la retraite à 64 ans (réforme Borne) pour revenir immédiatement à un âge minimum à 62 ans et viser une retraite à 60 ans […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": 2,
@@ -24,16 +24,16 @@
       "citation": "Passer le salaire minimum à 2000€ brut par mois dès 2027.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,
-      "resume": "Le programme finance ses mesures par de nouvelles recettes (taxe Zucman, fiscalité écologique) et veut exclure les investissements de transition du calcul du déficit ; il ne cible que des dépenses « inutiles et fossiles ».",
+      "resume": "Le programme propose une « stratégie alternative » fondée sur la croissance des recettes fiscales (taxe Zucman, fiscalité écologique) pour financer les services publics et la transition, plutôt que des coupes, et veut exclure les investissements de transition du calcul du déficit.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Exclure immédiatement les investissements liés à la transition écologique (énergies renouvelables, rénovation énergétique, transports collectifs et mobilités actives…) du calcul du déficit autorisé.",
+      "citation": "C’est pourquoi nous proposons une stratégie alternative visant une croissance des recettes fiscales permettant de financer un haut niveau de services publics et les investissements nécessaires à la transition écologique.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 2,
@@ -42,7 +42,7 @@
       "citation": "Rétablir la fiscalité sur la grande fortune. Mettre en place une taxe Zucman de 2 % au-delà de 100 millions d’euros de patrimoine.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": -2,
@@ -51,7 +51,7 @@
       "citation": "Franchir une nouvelle étape pour la diminution du temps de travail. Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit en y conditionnant les aides aux entreprises.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": -2,
@@ -60,7 +60,7 @@
       "citation": "Planifier la sortie du nucléaire. Mettre fin aux nouveaux programmes EPR-2 et SMR extrêmement dispendieux.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 2,
@@ -69,7 +69,7 @@
       "citation": "Modifier les objectifs et les moyens financiers de la troisième Planification Pluriannuelle de l’Énergie (PPE3) pour que la part des ENR atteigne 44 % de la consommation finale brute d’électricité en 2030.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": 2,
@@ -78,7 +78,7 @@
       "citation": "Planifier une sortie progressive des pesticides de synthèse et des engrais azotés à l’horizon 2050. […] Interdire immédiatement les pesticides cancérigènes, mutagènes, […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": -1,
@@ -96,7 +96,7 @@
       "citation": "Nous estimons que construire toujours plus de prisons est une impasse. Plus on construit, plus on enferme, sans jamais mieux enfermer.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 2,
@@ -105,7 +105,7 @@
       "citation": "Légaliser et encadrer la production, la vente et la consommation de cannabis.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": -2,
@@ -114,7 +114,7 @@
       "citation": "Rendre effectif le droit au regroupement familial par une révision des conditions d’octroi des titres de séjour en adoptant un renouvellement automatique et pluriannuel",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": -2,
@@ -123,7 +123,7 @@
       "citation": "Garantir l’accès à l’Aide Médicale d’État (AME).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": 2,
@@ -132,7 +132,7 @@
       "citation": "Régulariser les travailleur·ses, les étudiant·es et les parents d’enfants scolarisés sur la base de critères objectifs (durée de résidence, effectivité du lien familial, durée ou promesse d’activité professionnelle).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": 2,
@@ -141,7 +141,7 @@
       "citation": "Faire un saut fédéral européen. Partager plus de domaines de compétence entre les Etats et l’Union Européenne. Remplacer les droits de veto nationaux par une majorité qualifiée […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": -2,
@@ -150,7 +150,7 @@
       "citation": "Faire un saut fédéral européen. Partager plus de domaines de compétence entre les Etats et l’Union Européenne.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": 2,
@@ -159,7 +159,7 @@
       "citation": "Soutenir militairement l’Ukraine. Fournir du matériel militaire, y compris de capacités de frappe à longue portée et des moyens de défense antiaérienne pour protéger le ciel ukrainien.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": -2,
@@ -168,7 +168,7 @@
       "citation": "Réguler l’installation des médecins libéraux par une autorisation d’installation des médecins délivrée par l’Agence Régionale de Santé – de droit dans les zones sous-dotées et en lien avec la cessation d’activité d’un·e praticien·ne ailleurs.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": 2,
@@ -177,7 +177,7 @@
       "citation": "Permettre l’accès universel aux soins palliatifs et légaliser l’aide active à mourir en conservant l’équilibre des textes votés en 1re lecture.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": -2,
@@ -186,7 +186,7 @@
       "citation": "En finir avec la logique de stigmatisation en supprimant la contrepartie de 15 heures d’activités hebdomadaires.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": 2,
@@ -195,7 +195,7 @@
       "citation": "Mieux maîtriser les dépenses publiques inutiles et fossiles. Diminuer et conditionner les subventions à l’enseignement privé.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_autorite": {
       "valeur": -1,
@@ -213,7 +213,7 @@
       "citation": "Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 2,
@@ -222,7 +222,7 @@
       "citation": "Renforcer la démocratie directe par la mise en œuvre du Référendum d’Initiative Citoyenne (RIC) propositionnel ou abrogatif – sous condition d’un contrôle de constitutionnalité préalable.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": 2,
@@ -231,7 +231,7 @@
       "citation": "Etablir un septennat unique. Abroger les pouvoirs conférés par l’actuel article 16 et les pouvoirs de nomination de l’article 13 (à confier au Gouvernement).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": 2,
@@ -240,7 +240,7 @@
       "citation": "Maintenir l’objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_aerien": {
       "valeur": 2,
@@ -249,7 +249,7 @@
       "citation": "Augmenter la fiscalité sur les billets d’avion (Taxe sur les Billets d’Avion ou TSBA et taux de TVA) pour compenser les exonérations fiscales sectorielles.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_mineurs": {
       "valeur": 2,
@@ -258,7 +258,7 @@
       "citation": "Réaffirmer le principe de la primauté de l’éducatif sur le répressif pour les mineur·es délinquants. […] Abroger la loi Attal de 2025.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": -2,
@@ -267,7 +267,7 @@
       "citation": "Encadrer la vidéosurveillance et renforcer la présence humaine. Interdire la reconnaissance faciale et évaluer de manière indépendante les dispositifs de vidéosurveillance en lien avec la Défenseure des droits.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_droitdusol": {
       "valeur": -2,
@@ -276,7 +276,7 @@
       "citation": "Garantir l’application du droit du sol pour les enfants nés en France indépendamment de la situation des parents. Supprimer le régime dérogatoire à Mayotte.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": null,
@@ -321,7 +321,7 @@
       "citation": "Abroger les réformes régressives adoptées lors des deux derniers quinquennats notamment celle sur le calcul de l’Allocation de Retour à l’Emploi. Indexer le montant des allocations sur l’inflation.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": -2,
@@ -330,7 +330,7 @@
       "citation": "La laïcité impose la neutralité au service public et à ses agent·es, pas à ses usagers ni aux habitant·es.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_etudiants": {
       "valeur": 1,

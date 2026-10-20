@@ -42,7 +42,7 @@
       "citation": "Pour l'eurodéputé Raphaël Glucksmann (Place publique), c'est même \"la base de tout accord\" de non censure entre la gauche et le nouveau gouvernement de Sébastien Lecornu.",
       "date_source": "2025-11-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": null,
@@ -69,7 +69,7 @@
       "citation": "\"On est d'accord sur le fait que la France est en retard sur le développement des renouvelables. Et on est d'accord que l'objectif, c'est la décarbonation de l'économie\", a-t-il ajouté.",
       "date_source": "2026-08-25",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": 1,
@@ -132,7 +132,7 @@
       "citation": "L’eurodéputé soutient la régularisation des travailleurs sans-papiers, en particulier dans les secteurs en tension, estimant que l’Europe a besoin de main-d’œuvre et que l’intégration passe avant tout par l’activité économique et la dignité des conditions de travail.",
       "date_source": "2026-10-13",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": 2,
@@ -141,7 +141,7 @@
       "citation": "Le parlementaire défend un plan pour une souveraineté européenne et l'idée d'un grand emprunt européen. Il va jusqu'à proposer la suppression du droit de veto au sein de l'Union européenne, afin de lever les freins existants.",
       "date_source": "2026-05-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": -2,
@@ -154,12 +154,12 @@
     },
     "eur_ukraine": {
       "valeur": 2,
-      "resume": "Cité par franceinfo parmi les trois candidats qui défendent l'aide à l'Ukraine dans la campagne ; son projet de 2025 prévoyait d'« augmenter drastiquement l'aide militaire à l'Ukraine ».",
-      "source": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-l-ukraine-un-enjeu-pour-la-campagne_8239765.html",
-      "citation": "Une position défendue par trois candidats à l'élection présidentielle : Édouard Philippe, Raphaël Glucksmann et Gabriel Attal.",
-      "date_source": "2026-10-16",
-      "confiance": "declaration",
-      "relu": false
+      "resume": "« Acte I », projet de Place publique (juin 2025), prévoit d'« augmenter drastiquement l'aide militaire à l'Ukraine » ; en 2026, franceinfo le cite parmi les trois candidats qui défendent l'aide à l'Ukraine dans la campagne.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Augmenter drastiquement l’aide militaire à l’Ukraine qui est notre première ligne de défense et notre soutien aux alliés européens comme la Moldavie et l’Arménie.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": true
     },
     "soc_medecins": {
       "valeur": null,
@@ -213,7 +213,7 @@
       "citation": "\"La proportionnelle, c'est la clarification, c'est l'esprit de compromis, c'est la sincérité face aux électrices et aux électeurs. C'est aussi une représentativité infiniment plus démocratique que le système actuel\", a affirmé M. Glucksmann",
       "date_source": "2025-05-23",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 1,

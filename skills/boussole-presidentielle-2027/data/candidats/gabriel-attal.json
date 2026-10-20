@@ -141,7 +141,7 @@
       "citation": "« La grande mission de ma génération est d’accomplir le rêve européen et de faire naître les Etats-Unis d’Europe », lance le candidat",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": -2,
@@ -150,7 +150,7 @@
       "citation": "« Gabriel Attal propose de trancher entre deux grandes options existentielles : soit le cauchemar du Frexit » ou « réveiller un vieux rêve européen, très ambitieux », avance le codirecteur de campagne.",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": 2,
@@ -159,7 +159,7 @@
       "citation": "Nous allons continuer sans relâche à soutenir l’Ukraine.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": null,
@@ -177,7 +177,7 @@
       "citation": "\"Si nul ne souhaite mourir, en revanche, certains peuvent vouloir arrêter de souffrir\", arguent de leur côté Line Renaud, 96 ans, et l'ancien Premier ministre Gabriel Attal, 36 ans, dans les colonnes de La Tribune dimanche.",
       "date_source": "2025-05",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": 2,
@@ -186,7 +186,7 @@
       "citation": "Dans 18 départements, nous avons lancé une expérimentation qui conditionne le RSA à 15 heures d'activité pour l'insertion. Je vous annonce que nous généraliserons ce dispositif à tous les départements de France, d'ici le 1er janvier 2025.",
       "date_source": "2024-01-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": null,
@@ -204,7 +204,7 @@
       "citation": "Comme ministre de l’Éducation nationale, j’ai pris des décisions fortes en lançant le Choc des savoirs et comme président de la République, l’une de mes premières décisions sera d’en rétablir les mesures.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": -1,

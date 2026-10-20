@@ -60,7 +60,7 @@
       "citation": "Il faut non seulement préserver cet avantage stratégique, mais aussi le renforcer par un plan d’investissement massif dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,
@@ -69,7 +69,7 @@
       "citation": "Il faut donc un moratoire total et définitif sur cette méthode de production d’électricité qui nous est là encore imposée par l’Union européenne. Il faut engager un plan de démantèlement des éoliennes installées et de recyclage des matériaux qui en sont issus.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": -1,
@@ -87,7 +87,7 @@
       "citation": "Il convient donc de réinstaurer les peines planchers et de généraliser les sanctions dès la première infraction.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": 2,
@@ -96,7 +96,7 @@
       "citation": "Construire les dizaines de milliers de places de prison qui manquent et expulser les prisonniers étrangers (ils représentent 25% du total des prisonniers).",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,
@@ -114,7 +114,7 @@
       "citation": "L’objectif est de mettre un terme à la politique d’immigration massive en revenant à des flux extrêmement limités et en reconduisant aux frontières ceux qui n’ont rien à faire en France.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,
@@ -132,7 +132,7 @@
       "citation": "Mettre fin à l’immigration de travail et à la directive européenne des travailleurs détachés.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": -2,
@@ -141,7 +141,7 @@
       "citation": "Rejeter la création d’une armée européenne.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 2,
@@ -150,7 +150,7 @@
       "citation": "Le Frexit est ainsi la clé de voûte du projet des Patriotes, car c’est la condition incontournable du redressement de notre pays.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -2,
@@ -159,7 +159,7 @@
       "citation": "Cesser d’entretenir la guerre en Ukraine.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": null,
@@ -222,7 +222,7 @@
       "citation": "Créer le référendum d’initiative citoyenne (RIC) sur tout sujet et l’inscrire dans la Constitution.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": null,
@@ -240,7 +240,7 @@
       "citation": "Préserver la voiture thermique au-delà de 2035. Actuellement, l’Europe a décidé d’interdire la vente des voitures thermiques neuves à l’horizon 2035. Cette mesure socialement injuste et faussement utile sur le plan environnemental […]",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_aerien": {
       "valeur": null,
@@ -294,7 +294,7 @@
       "citation": "Quitter l’OTAN est l’une des conditions de notre indépendance sur la scène internationale.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": null,

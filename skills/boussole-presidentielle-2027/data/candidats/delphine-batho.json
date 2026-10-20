@@ -42,7 +42,7 @@
       "citation": "Scrutin public n°881 sur l'ensemble de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture).",
       "date_source": "2025-02-20",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": null,
@@ -60,7 +60,7 @@
       "citation": "Scrutin public n°1243 sur l'ensemble du projet de loi relatif à l’accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes (première lecture).",
       "date_source": "2023-03-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": null,
@@ -72,13 +72,13 @@
       "relu": false
     },
     "ecol_normes": {
-      "valeur": 2,
-      "resume": "A voté contre le texte de commission mixte paritaire de la loi Duplomb « visant à lever les contraintes à l'exercice du métier d'agriculteur », qui réautorisait sous conditions un néonicotinoïde (scrutin n°2957).",
+      "valeur": 1,
+      "resume": "A voté contre le texte de commission mixte paritaire de la loi Duplomb « visant à lever les contraintes à l'exercice du métier d'agriculteur », qui réautorisait sous conditions un néonicotinoïde (scrutin n°2957) ; valeur +1 : un vote contre un texte d'allègement des normes ne dit pas à lui seul qu'elle veut les renforcer « même si cela pèse ».",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2957",
       "citation": "Scrutin public n°2957 sur l'ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire).",
       "date_source": "2025-07-08",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": null,
@@ -159,7 +159,7 @@
       "citation": "Scrutin public n°988 sur l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
       "date_source": "2025-03-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": -2,
@@ -168,7 +168,7 @@
       "citation": "Scrutin public n°1607 sur l'ensemble de la proposition de loi visant à lutter contre les déserts médicaux, d'initiative transpartisane (première lecture).",
       "date_source": "2025-05-07",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": 2,
@@ -177,7 +177,7 @@
       "citation": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
       "date_source": "2026-07-15",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": -1,
@@ -240,7 +240,7 @@
       "citation": "Scrutin public n°3581 sur l'amendement n° 6556 de M. Colas-Roy à l'article 25 du projet de loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (première lecture).",
       "date_source": "2021-04-09",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_aerien": {
       "valeur": null,

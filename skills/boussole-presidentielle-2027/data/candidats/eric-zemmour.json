@@ -15,7 +15,7 @@
       "citation": "Éric Zemmour s'est prononcé en faveur d'un allongement de la durée du travail, assumant \"n'être absolument pas d'accord avec Marine Le Pen là-dessus\", suggérant \"64 voire 65 ans.\"",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": -1,
@@ -33,7 +33,7 @@
       "citation": "\"Nous, avec Sarah Knafo, nous voulons faire 140 milliards d'euros de baisses\" sur les dépenses de l'État, précise-t-il encore, évoquant par exemple la suppression des APL pour les personnes étrangères, ou la suppression de 800.000 postes de fonctionnaires en cinq ans.",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": -1,
@@ -114,7 +114,7 @@
       "citation": "\"Il faut également renvoyer, c'est une évidence, Les clandestins. Il faut également renvoyer les chômeurs de longue durée, et tous ceux qui vivent uniquement des aides sociales\", a-t-il ajouté",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 2,
@@ -132,7 +132,7 @@
       "citation": "\"Il faut également renvoyer, c'est une évidence, Les clandestins.",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": -2,
@@ -204,7 +204,7 @@
       "citation": "«Il est plus que temps d’imposer, et non pas d’expérimenter, l’uniforme à l’école», a-t-il préconisé.",
       "date_source": "2023-09-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": 1,

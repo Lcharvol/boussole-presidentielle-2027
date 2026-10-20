@@ -15,7 +15,7 @@
       "citation": "Retraite à 60 ans et 55 ans pour les métiers pénibles, sans conditions d'annuité.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": 2,
@@ -24,7 +24,7 @@
       "citation": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 1,
@@ -51,7 +51,7 @@
       "citation": "Répartition du travail pour une semaine de 28h sans baisse de salaire.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": -2,
@@ -114,7 +114,7 @@
       "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": -2,
@@ -132,7 +132,7 @@
       "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": -1,
@@ -159,7 +159,7 @@
       "citation": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": null,
@@ -231,7 +231,7 @@
       "citation": "Fin de la Ve République, du Sénat et de la figure présidentielle.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -303,7 +303,7 @@
       "citation": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_100secu": {
       "valeur": 2,
@@ -321,7 +321,7 @@
       "citation": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": -2,
@@ -339,7 +339,7 @@
       "citation": "Revenu étudiant à hauteur du SMIC, financé par le patronat.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_apprentissage": {
       "valeur": null,
