@@ -17,16 +17,39 @@ Format des réponses :
 Une réponse null (ou absente) signifie que l'utilisateur a passé la question : elle ne compte pas.
 Pour chaque question où l'utilisateur ET le candidat ont une position, l'accord vaut
 1 - |écart| / 4 (1 = identique, 0 = opposé). Le score est la moyenne pondérée par l'importance
-du thème. La couverture indique sur combien de questions répondues le candidat a une position
-connue : un score sur peu de questions est peu fiable, il est donc classé à part.
+du thème multipliée par la confiance dans la position du candidat (POIDS_CONFIANCE). La couverture
+indique sur combien de questions répondues le candidat a une position connue : un score sur peu de
+questions est peu fiable, il est donc classé à part.
+
+La marge d'incertitude vient d'un rééchantillonnage (bootstrap) : on retire TIRAGES fois, avec remise,
+autant de questions qu'il y a de réponses, on recalcule chaque score, et la marge est la moitié de
+l'intervalle qui contient 90 % des scores obtenus. Elle dit à quel point le score dépend du choix des
+questions. Les candidats dont l'intervalle (score ± marge) recouvre celui du premier forment le
+peloton de tête : leur ordre n'est pas significatif.
 """
 import json
+import random
 import sys
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 COUVERTURE_MIN = 0.5
-ECART_SERRE = 5
+
+# Poids d'une position selon sa confiance (champ "confiance" des fiches). Il multiplie l'importance du
+# thème : une position écrite dans le programme 2027 compte pleinement, une déclaration un peu moins
+# (elle peut évoluer), une position déduite du parti ou du programme 2022 encore moins. Une confiance
+# absente ou inconnue est traitée comme "deduite".
+POIDS_CONFIANCE = {
+    "programme": 1.0,
+    "declaration": 0.85,
+    "deduite": 0.6,
+}
+
+# Marge d'incertitude : nombre de tirages du bootstrap, niveau de l'intervalle et graine fixe, pour
+# que les mêmes réponses donnent toujours le même résultat.
+TIRAGES = 1000
+NIVEAU = 0.90
+GRAINE = 2027
 
 
 def charger():
@@ -40,7 +63,41 @@ def charger():
     return questions, candidats
 
 
-def calculer(user, questions, candidats):
+def quantile(valeurs_triees, p):
+    """Quantile par interpolation linéaire (même convention que numpy par défaut)."""
+    x = (len(valeurs_triees) - 1) * p
+    i = int(x)
+    if i + 1 >= len(valeurs_triees):
+        return valeurs_triees[-1]
+    return valeurs_triees[i] + (valeurs_triees[i + 1] - valeurs_triees[i]) * (x - i)
+
+
+def marge_bootstrap(contributions, tirages, graine):
+    """Demi-largeur de l'intervalle à NIVEAU des scores rééchantillonnés, en points.
+
+    contributions : une entrée par question répondue, (poids × accord, poids) ou None si le candidat
+    n'a pas de position. Les tirages où le candidat n'a aucune position sont ignorés.
+    """
+    n = len(contributions)
+    rng = random.Random(graine)
+    scores = []
+    for _ in range(tirages):
+        p = w = 0.0
+        for _ in range(n):
+            c = contributions[rng.randrange(n)]
+            if c is not None:
+                p += c[0]
+                w += c[1]
+        if w:
+            scores.append(100 * p / w)
+    if not scores:
+        return None
+    scores.sort()
+    alpha = (1 - NIVEAU) / 2
+    return round((quantile(scores, 1 - alpha) - quantile(scores, alpha)) / 2)
+
+
+def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
     reponses = {k: v for k, v in user.get("reponses", {}).items() if v is not None}
     importance = user.get("importance", {})
     theme_de = {q["id"]: q["theme"] for q in questions["questions"]}
@@ -53,14 +110,22 @@ def calculer(user, questions, candidats):
         total_p = total_w = 0.0
         par_theme = {}
         accords, desaccords = [], []
-        for qid, u in reponses.items():
+        par_confiance = {k: 0 for k in POIDS_CONFIANCE}
+        # Une entrée par question répondue, dans un ordre fixe, pour le bootstrap.
+        contributions = []
+        for qid in sorted(reponses):
+            u = reponses[qid]
             pos = c.get("positions", {}).get(qid) or {}
             v = pos.get("valeur")
             if v is None:
+                contributions.append(None)
                 continue
             theme = theme_de[qid]
-            w = float(importance.get(theme, 1))
+            confiance = pos.get("confiance") if pos.get("confiance") in POIDS_CONFIANCE else "deduite"
+            par_confiance[confiance] += 1
+            w = float(importance.get(theme, 1)) * POIDS_CONFIANCE[confiance]
             accord = 1 - abs(u - v) / 4
+            contributions.append((w * accord, w))
             total_p += w * accord
             total_w += w
             t = par_theme.setdefault(theme, [0.0, 0])
@@ -81,8 +146,10 @@ def calculer(user, questions, candidats):
             "parti": c.get("parti"),
             "statut": c.get("statut"),
             "score": round(100 * total_p / total_w) if total_w else None,
+            "marge": marge_bootstrap(contributions, tirages, graine) if total_w else None,
             "couverture": round(couvertes / len(reponses), 2) if reponses else 0,
             "par_theme": {t: round(100 * s / n) for t, (s, n) in par_theme.items()},
+            "par_confiance": par_confiance,
             "accords": accords,
             "desaccords": desaccords,
             "prioritaires_sans_donnee": prioritaires_sans_donnee,
@@ -92,10 +159,14 @@ def calculer(user, questions, candidats):
     peu_fiables = [r for r in resultats if r not in fiables]
     fiables.sort(key=lambda r: (-r["score"], -r["couverture"]))
     peu_fiables.sort(key=lambda r: (-(r["score"] or 0)))
-    # Candidats dont le score est à moins de ECART_SERRE points du premier : les départager n'a pas de sens.
-    peloton = [r["nom"] for r in fiables if fiables[0]["score"] - r["score"] <= ECART_SERRE] if fiables else []
+    # Candidats dont l'intervalle (score ± marge) recouvre celui du premier : les départager n'a pas de sens.
+    peloton = []
+    if fiables:
+        # Sans tirages (tirages=0, ex. audit), la marge est absente : elle compte alors pour 0.
+        plancher = fiables[0]["score"] - (fiables[0]["marge"] or 0)
+        peloton = [r["nom"] for r in fiables if r["score"] + (r["marge"] or 0) >= plancher]
     return {"nb_reponses": len(reponses), "classement": fiables, "donnees_insuffisantes": peu_fiables,
-            "peloton_de_tete": peloton}
+            "peloton_de_tete": peloton, "marge": {"niveau": NIVEAU, "tirages": tirages}}
 
 
 def markdown(res, questions):
@@ -106,14 +177,17 @@ def markdown(res, questions):
         alerte = ""
         if r["prioritaires_sans_donnee"]:
             alerte = "aucune position connue sur : " + ", ".join(themes[t] for t in r["prioritaires_sans_donnee"])
-        lignes.append(f"| {i} | {r['nom']} | {r['parti']} | {r['score']} % | {round(100 * r['couverture'])} % | {alerte} |")
+        lignes.append(f"| {i} | {r['nom']} | {r['parti']} | {r['score']} ± {r['marge']} % "
+                      f"| {round(100 * r['couverture'])} % | {alerte} |")
+    niveau = round(100 * res["marge"]["niveau"])
     if len(res["peloton_de_tete"]) > 1:
-        lignes += ["", f"Écart serré : {len(res['peloton_de_tete'])} candidats à {ECART_SERRE} points ou moins "
-                       f"du premier ({', '.join(res['peloton_de_tete'])}). Leur ordre n'est pas significatif."]
+        lignes += ["", f"Marges qui se recouvrent : {len(res['peloton_de_tete'])} candidats ont un intervalle "
+                       f"(score ± marge à {niveau} %) qui recouvre celui du premier "
+                       f"({', '.join(res['peloton_de_tete'])}). Leur ordre n'est pas significatif."]
     if res["donnees_insuffisantes"]:
         lignes += ["", "Positions connues insuffisantes pour un score fiable :"]
         for r in res["donnees_insuffisantes"]:
-            s = f"{r['score']} %" if r["score"] is not None else "—"
+            s = f"{r['score']} ± {r['marge']} %" if r["score"] is not None else "—"
             lignes.append(f"- {r['nom']} ({r['parti']}) : {s} sur {round(100 * r['couverture'])} % des questions")
     lignes += ["", "Détail par thème (proximité %) :", ""]
     entete = [themes[t] for t in themes]
