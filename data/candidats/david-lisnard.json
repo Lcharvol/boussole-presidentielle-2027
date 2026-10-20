@@ -51,11 +51,11 @@
       "confiance": "declaration"
     },
     "ecol_renouvelables": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -2,
+      "resume": "Cosignataire d'une tribune au Figaro demandant « la fin de tout financement public pour l'éolien et le solaire » et s'opposant aux objectifs de la programmation pluriannuelle de l'énergie.",
+      "source": "https://www.unenouvelleenergie.fr/pour-eviter-une-crise-sociale-il-faut-renoncer-a-tout-decret-sur-la-programmation-pluriannuelle-de-lenergie/",
+      "date_source": "2025-08-13",
+      "confiance": "declaration"
     },
     "ecol_normes": {
       "valeur": -1,
@@ -79,11 +79,11 @@
       "confiance": "declaration"
     },
     "sec_cannabis": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 0,
+      "resume": "Dit se demander certains jours « s'il ne faut pas sortir de la prohibition sur certaines drogues », cite les dérives de San Francisco, juge que la répression peut fonctionner avec des moyens et conclut : « Je n'ai pas de réponse définitive ».",
+      "source": "https://www.unenouvelleenergie.fr/david-lisnard-lentretien-a-technikart/",
+      "date_source": "2026-07",
+      "confiance": "declaration"
     },
     "imm_baisse": {
       "valeur": 2,
@@ -100,11 +100,11 @@
       "confiance": "programme"
     },
     "imm_regularisation": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -2,
+      "resume": "Le programme prévoit de « supprimer toute possibilité d'être régularisé après être entré clandestinement sur le territoire ».",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+      "date_source": "2026",
+      "confiance": "programme"
     },
     "eur_integration": {
       "valeur": -1,
@@ -135,11 +135,11 @@
       "confiance": "programme"
     },
     "soc_findevie": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -1,
+      "resume": "S'est opposé à une loi sur l'euthanasie, qu'il qualifie de « basculement anthropologique majeur », et défend la loi Claeys-Leonetti et les soins palliatifs ; aucune déclaration trouvée sur une abrogation de la loi adoptée en 2026.",
+      "source": "https://fr.aleteia.org/2025/01/18/david-lisnard-se-confie-sans-detour-sur-sa-foi/",
+      "date_source": "2025-01-18",
+      "confiance": "declaration"
     },
     "soc_rsa": {
       "valeur": null,
@@ -177,11 +177,11 @@
       "confiance": "declaration"
     },
     "ins_6e": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 0,
+      "resume": "Ne propose pas de VIe République mais un « fonctionnement rénové » de la Ve : critique l'« hyperprésidentialisme jupitérien », veut recentrer le Président sur trois fonctions et renforcer le Parlement (article 24).",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+      "date_source": "2026",
+      "confiance": "programme"
     }
   }
 }

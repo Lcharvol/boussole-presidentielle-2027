@@ -6,7 +6,7 @@
   "programme": "non publié",
   "programme_url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
   "mis_a_jour": "2026-10-20",
-  "notes": "Conductrice de bus, tête de liste NPA-R aux européennes de 2024 ; candidature annoncée le 17 juin 2026 avec Gaël Quirante. Candidature conditionnée à l'obtention des 500 parrainages, non atteints selon les informations disponibles. Pas de programme détaillé publié : positions tirées de son discours à la Fête de l'Humanité (12 septembre 2026).",
+  "notes": "Conductrice de bus, tête de liste NPA-R aux européennes de 2024 ; candidature annoncée le 17 juin 2026 avec Gaël Quirante. Candidature conditionnée à l'obtention des 500 parrainages : le NPA-R indiquait une centaine de promesses à la fin de l'été 2026 (AFP, 9 octobre 2026). Pas de programme détaillé publié : positions tirées de son discours à la Fête de l'Humanité (12 septembre 2026) et, à défaut, de ses réponses à des questionnaires lors des européennes de 2024 ou d'articles du NPA-R (signalées comme déduites).",
   "positions": {
     "eco_retraite": {
       "valeur": null,
@@ -44,18 +44,18 @@
       "confiance": "declaration"
     },
     "ecol_nucleaire": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 0,
+      "resume": "Position déduite d'une lettre de Selma Labib à l'Académie des sciences (campagne européenne de mai 2024) : le nucléaire y est décrit comme « la source d'énergie la plus décarbonée » mais la gestion des déchets comme « catastrophique », sans proposition sur de nouveaux réacteurs.",
+      "source": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-au-bureau-de-lacademie-des-sciences",
+      "date_source": "2024-05-28",
+      "confiance": "deduite"
     },
     "ecol_renouvelables": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 0,
+      "resume": "Position déduite de la même lettre de mai 2024 : juge le développement des renouvelables « très modeste au vu des enjeux » tout en mettant en garde contre l'extraction minière qu'il implique, et estime qu'« aucun mix énergétique » ne suffira sous le capitalisme.",
+      "source": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-au-bureau-de-lacademie-des-sciences",
+      "date_source": "2024-05-28",
+      "confiance": "deduite"
     },
     "ecol_normes": {
       "valeur": null,
@@ -79,11 +79,11 @@
       "confiance": null
     },
     "sec_cannabis": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 0,
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (mars 2025) qui se dit favorable à la « dépénalisation des drogues » pour les consommateurs mais présente la légalisation du cannabis sous le capitalisme comme « une bonne affaire pour les capitalistes ».",
+      "source": "https://npa-revolutionnaires.org/articles/pour-un-monde-sans-drogues-quelles-solutions",
+      "date_source": "2025-03-24",
+      "confiance": "deduite"
     },
     "imm_baisse": {
       "valeur": -2,
@@ -121,11 +121,11 @@
       "confiance": null
     },
     "eur_ukraine": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -2,
+      "resume": "Présente la guerre en Ukraine comme le prolongement de « concurrences capitalistes » et revendique « pas un homme, pas une femme, pas un euro pour les guerres impérialistes ».",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "date_source": "2026-09-12",
+      "confiance": "declaration"
     },
     "soc_medecins": {
       "valeur": null,
@@ -156,11 +156,11 @@
       "confiance": null
     },
     "edu_autorite": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -1,
+      "resume": "Position déduite de la lettre de Selma Labib à l'Académie des sciences (mai 2024), qui présente la réforme des groupes de niveau au collège comme une « usine à tri social ».",
+      "source": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-au-bureau-de-lacademie-des-sciences",
+      "date_source": "2024-05-28",
+      "confiance": "deduite"
     },
     "ins_proportionnelle": {
       "valeur": null,

@@ -3,31 +3,31 @@
   "nom": "Raphaël Glucksmann",
   "parti": "Place publique / Parti socialiste",
   "statut": "désigné par son parti",
-  "programme": "partiel",
-  "programme_url": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+  "programme": "non publié",
+  "programme_url": null,
   "mis_a_jour": "2026-10-20",
-  "notes": "Candidature annoncée le 23 août 2026 ; vainqueur dès le 1er tour (66,17 %) de la primaire PS–Place publique des 10-11 octobre 2026 (LCP, 11/10/2026), candidat commun PS, Place publique et Gauche républicaine et socialiste. Programme présidentiel détaillé non encore publié : les positions « programme » s'appuient sur « Acte I – notre vision pour la France », projet de Place publique présenté par R. Glucksmann le 23 juin 2025 (PDF lié depuis la page source), complété par des déclarations récentes.",
+  "notes": "Candidature annoncée le 23 août 2026 ; vainqueur dès le 1er tour (66,17 %) de la primaire PS–Place publique des 10-11 octobre 2026 (LCP, 11/10/2026), candidat commun PS, Place publique et Gauche républicaine et socialiste. Aucun programme de candidat publié au 20 octobre 2026 (le plan « 100 jours de la révolution écologique » annoncé fin août n'est pas paru). Les positions tirées d'« Acte I – notre vision pour la France », projet de Place publique de juin 2025 (https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i), antérieur à la candidature, sont marquées « deduite » ; celles réaffirmées en 2025-2026 citent la déclaration correspondante.",
   "positions": {
     "eco_retraite": {
-      "valeur": 1,
-      "resume": "Acte I prévoit d'abroger la réforme de 2023 (retour de fait à 62 ans) mais veut cesser de se focaliser sur l'âge légal : certains pourraient partir à 60 ans, d'autres devraient travailler davantage selon la pénibilité et l'espérance de vie.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
-      "date_source": "2025-06",
-      "confiance": "programme"
+      "valeur": 0,
+      "resume": "Promet une « réforme juste et ambitieuse » fondée sur la pénibilité et l'espérance de vie en bonne santé (« ceux qui ont une espérance de vie en bonne santé plus longue doivent en revanche partir plus tard »), écarte un retour général à 60 ans et ne propose pas de ramener l'âge légal à 62 ans.",
+      "source": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+      "date_source": "2026-08-24",
+      "confiance": "declaration"
     },
     "eco_smic": {
       "valeur": 2,
-      "resume": "Propose d'augmenter le SMIC à 1 600 euros net dans les deux ans suivant l'accession au pouvoir, avec des conférences salariales par branche.",
+      "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025), qui propose un SMIC à 1 600 euros net en deux ans ; candidat, il met en avant la hausse du salaire net par la baisse des cotisations, financée par la taxation des gros héritages, sans reprendre ce chiffre.",
       "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
       "date_source": "2025-06",
-      "confiance": "programme"
+      "confiance": "deduite"
     },
     "eco_depenses": {
       "valeur": -1,
-      "resume": "Acte I mise sur la suppression des dépenses inefficaces et des niches fiscales injustifiées, la contribution des ultra-riches et un « réinvestissement stratégique de la puissance publique », sans priorité à une forte baisse des dépenses.",
+      "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : le texte mise sur la suppression des dépenses inefficaces et des niches fiscales injustifiées, la contribution des ultra-riches et un « réinvestissement stratégique de la puissance publique », sans priorité à une forte baisse des dépenses.",
       "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
       "date_source": "2025-06",
-      "confiance": "programme"
+      "confiance": "deduite"
     },
     "eco_patrimoine": {
       "valeur": 2,
@@ -45,24 +45,24 @@
     },
     "ecol_nucleaire": {
       "valeur": 1,
-      "resume": "Acte I veut « conforter le rôle du nucléaire » en assurant la sûreté des centrales existantes et « la construction à temps de nouvelles unités », en complément des renouvelables.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
-      "date_source": "2025-06",
-      "confiance": "programme"
+      "resume": "Lors de son premier déplacement de candidat, estime selon LCP « qu'il faut développer de nouveaux EPR », tout en indiquant que la question des nouveaux réacteurs « reste à discuter » avec Yannick Jadot.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-s-il-gagne-raphael-glucksmann-engagera-les-100-jours-de-la",
+      "date_source": "2026-08-25",
+      "confiance": "declaration"
     },
     "ecol_renouvelables": {
       "valeur": 2,
-      "resume": "Prévoit un « grand plan d'investissement pluriannuel dans toutes les énergies renouvelables » décliné en plans régionaux (solaire, vent, hydraulique, géothermie…).",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
-      "date_source": "2025-06",
-      "confiance": "programme"
+      "resume": "Juge que « la France est en retard sur le développement des renouvelables », promet « les 100 jours de la révolution écologique » et veut relocaliser la production de panneaux solaires.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-s-il-gagne-raphael-glucksmann-engagera-les-100-jours-de-la",
+      "date_source": "2026-08-25",
+      "confiance": "declaration"
     },
     "ecol_normes": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 1,
+      "resume": "A dénoncé la loi d'urgence agricole, qui « sacrifie l'écologie et la santé », et la réintroduction de l'acétamipride, reprochant à la droite de s'attaquer aux normes environnementales plutôt qu'au partage de la PAC et de la valeur.",
+      "source": "https://place-publique.eu/posts/68jyTyNjDww1F2yvJ1c4St/reaction-de-raphael-glucksmann-suite-a-l-adoption-de-la-loi-d-urgence-agricole",
+      "date_source": "2026-07-21",
+      "confiance": "declaration"
     },
     "sec_peines": {
       "valeur": null,
@@ -73,17 +73,17 @@
     },
     "sec_prisons": {
       "valeur": 0,
-      "resume": "Acte I veut lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus et en investissant dans des « prisons rénovées et dignes », sans objectif de construction massive.",
+      "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : le texte veut lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus et en investissant dans des « prisons rénovées et dignes », sans objectif de construction massive.",
       "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
       "date_source": "2025-06",
-      "confiance": "programme"
+      "confiance": "deduite"
     },
     "sec_cannabis": {
       "valeur": 0,
-      "resume": "Propose une convention citoyenne sur la politique des drogues, « notamment la question de la légalisation du cannabis », sans trancher.",
+      "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : propose une convention citoyenne sur la politique des drogues, « notamment la question de la légalisation du cannabis », sans trancher.",
       "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
       "date_source": "2025-06",
-      "confiance": "programme"
+      "confiance": "deduite"
     },
     "imm_baisse": {
       "valeur": -1,
@@ -101,42 +101,42 @@
     },
     "imm_regularisation": {
       "valeur": 2,
-      "resume": "Acte I prévoit de « faciliter les démarches de régularisation des travailleurs sans papiers » et d'ouvrir le droit au travail des demandeurs d'asile.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
-      "date_source": "2025-06",
-      "confiance": "programme"
+      "resume": "Défend la régularisation des travailleurs sans papiers, notamment dans les secteurs en pénurie de main-d'œuvre, estimant que « l'intégration passe avant tout par l'activité économique ».",
+      "source": "https://www.lecourrierdelatlas.com/raphael-glucksmann-cinq-choses-a-savoir-vainqueur-primaire/",
+      "date_source": "2026-10-13",
+      "confiance": "declaration"
     },
     "eur_integration": {
       "valeur": 2,
-      "resume": "Défend une « ambition fédérale pour l'Europe » : fonds européen de défense de 500 Md€ via un emprunt commun, passage à la majorité qualifiée au Conseil européen, hausse massive du budget de l'UE.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
-      "date_source": "2025-06",
-      "confiance": "programme"
+      "resume": "Propose un plan pour la souveraineté européenne, un grand emprunt européen et la suppression du droit de veto dans l'UE.",
+      "source": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "date_source": "2026-05-26",
+      "confiance": "declaration"
     },
     "eur_primaute": {
       "valeur": -2,
-      "resume": "Projet explicitement fédéraliste (« Pour une Europe fédérale », nouveau traité de refondation de l'UE), à l'opposé d'une primauté du droit national ou d'une sortie des traités.",
+      "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : projet explicitement fédéraliste (« Pour une Europe fédérale », nouveau traité de refondation de l'UE), à l'opposé d'une primauté du droit national ou d'une sortie des traités.",
       "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
       "date_source": "2025-06",
-      "confiance": "programme"
+      "confiance": "deduite"
     },
     "eur_ukraine": {
       "valeur": 2,
-      "resume": "Acte I prévoit d'« augmenter drastiquement l'aide militaire à l'Ukraine », qualifiée de « première ligne de défense ».",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
-      "date_source": "2025-06",
-      "confiance": "programme"
+      "resume": "Cité par franceinfo parmi les trois candidats qui défendent l'aide à l'Ukraine dans la campagne ; son projet de 2025 prévoyait d'« augmenter drastiquement l'aide militaire à l'Ukraine ».",
+      "source": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-l-ukraine-un-enjeu-pour-la-campagne_8239765.html",
+      "date_source": "2026-10-16",
+      "confiance": "declaration"
     },
     "soc_medecins": {
       "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "resume": "Aucune position trouvée sur la régulation de l'installation ; « Acte I » propose de « soutenir l'installation » et des projets territoriaux de santé, sans contrainte.",
       "source": null,
       "date_source": null,
       "confiance": null
     },
     "soc_findevie": {
       "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "resume": "Aucune déclaration trouvée sur l'aide à mourir ; eurodéputé, il n'a pas voté la loi française, et « Acte I » n'aborde pas le sujet.",
       "source": null,
       "date_source": null,
       "confiance": null
@@ -164,24 +164,24 @@
     },
     "ins_proportionnelle": {
       "valeur": 2,
-      "resume": "Propose d'« instaurer immédiatement la proportionnelle », de préférence par circonscriptions régionales.",
-      "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
-      "date_source": "2025-06",
-      "confiance": "programme"
+      "resume": "Reçu à Matignon, a plaidé pour la proportionnelle aux législatives, de préférence régionale (« la proportionnelle, c'est la clarification, c'est l'esprit de compromis ») ; Acte I propose de l'« instaurer immédiatement ».",
+      "source": "https://www.lagazettefrance.fr/article/la-proportionnelle-c-est-la-clarification-et-l-esprit-de-compromis-selon-glucksmann",
+      "date_source": "2025-05-23",
+      "confiance": "declaration"
     },
     "ins_ric": {
       "valeur": 1,
-      "resume": "Propose un « droit d'initiative citoyenne » permettant de déclencher des référendums locaux et nationaux, sans employer le terme RIC.",
+      "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : propose un « droit d'initiative citoyenne » permettant de déclencher des référendums locaux et nationaux, sans employer le terme RIC.",
       "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
       "date_source": "2025-06",
-      "confiance": "programme"
+      "confiance": "deduite"
     },
     "ins_6e": {
       "valeur": 1,
-      "resume": "Propose de supprimer l'article 16, de renforcer le Parlement et de lancer une convention citoyenne préparant une assemblée constituante, sans employer l'expression « VIe République ».",
+      "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : propose de supprimer l'article 16, de renforcer le Parlement et de lancer une convention citoyenne préparant une assemblée constituante, sans employer l'expression « VIe République ».",
       "source": "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
       "date_source": "2025-06",
-      "confiance": "programme"
+      "confiance": "deduite"
     }
   }
 }

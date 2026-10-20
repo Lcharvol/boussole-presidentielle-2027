@@ -94,7 +94,7 @@
     },
     "imm_ame": {
       "valeur": 2,
-      "resume": "Propose de transformer l'AME en une aide médicale d'urgence beaucoup plus restreinte.",
+      "resume": "Selon un compte rendu de ses propositions (entretien au Figaro, mars 2026), propose de transformer l'AME en une « Aide Médicale d'Urgence (AMU) très resserrée » ; la mesure ne figure pas sur la page « priorités » de son site.",
       "source": "https://www.planet.fr/politique-edouard-philippe-presente-ses-propositions-sur-limmigration-pour-2027.2995952.29334.html",
       "date_source": "2026-03-31",
       "confiance": "declaration"
@@ -128,15 +128,15 @@
       "confiance": "declaration"
     },
     "soc_medecins": {
-      "valeur": null,
-      "resume": "Aucune position récente vérifiable trouvée sur la régulation de l'installation des médecins.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -1,
+      "resume": "Position déduite d'une déclaration de 2017, comme Premier ministre : a écarté toute répartition « presque forcée, administrative » des médecins au profit d'incitations (« Il faut séduire les médecins ») ; aucune déclaration récente trouvée.",
+      "source": "https://www.publicsenat.fr/actualites/politique/edouard-philippe-presente-son-plan-contre-les-deserts-medicaux-78562",
+      "date_source": "2017-10-13",
+      "confiance": "deduite"
     },
     "soc_findevie": {
-      "valeur": -1,
-      "resume": "Dit avoir la conviction personnelle qu'aider quelqu'un à mourir peut être légitime, mais ne souhaite pas inscrire l'aide à mourir dans la loi, jugeant la question « redoutablement complexe ».",
+      "valeur": 0,
+      "resume": "En janvier 2025, a dit avoir la « conviction intime » qu'aider quelqu'un à mourir « peut être normal et peut être sain » tout en jugant son inscription dans la loi « redoutablement complexe » ; aucune déclaration trouvée sur le maintien ou l'abrogation de la loi adoptée en 2026.",
       "source": "https://actu.orange.fr/politique/fin-de-vie-edouard-philippe-se-confie-sur-son-parcours-personnel-sans-etre-pour-une-inscription-dans-la-loi-magic-CNT000002hd3Ip.html",
       "date_source": "2025-01-27",
       "confiance": "declaration"

@@ -6,7 +6,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-20",
-  "notes": "Campagne officiellement lancée lors de son discours de rentrée du 30 septembre 2026 (https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale) ; en recherche de parrainages (appel du 19 octobre 2026). Le site de l'UPR indique que le programme présidentiel 2027 « sera publié prochainement » (https://www.upr.fr/notre-programme). Les positions sont donc tirées des mesures annoncées en septembre 2026 (confiance « declaration ») et, à défaut, du programme 2022 de l'UPR (confiance « deduite ») ; Asselineau n'avait pas obtenu les parrainages en 2022.",
+  "notes": "Campagne officiellement lancée lors de son discours de rentrée du 30 septembre 2026 (https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale) ; en recherche de parrainages (appel du 19 octobre 2026). Le site de l'UPR indique que le programme présidentiel 2027 « sera publié prochainement » (https://www.upr.fr/notre-programme). Les positions sont donc tirées des mesures annoncées en septembre 2026 (confiance « declaration ») et, à défaut, du programme 2022 de l'UPR et de sa réponse de candidat au Shift Project de février 2022 (confiance « deduite ») ; Asselineau n'avait pas obtenu les parrainages en 2022.",
   "positions": {
     "eco_retraite": {
       "valeur": null,
@@ -44,18 +44,18 @@
       "confiance": null
     },
     "ecol_nucleaire": {
-      "valeur": null,
-      "resume": "Le programme 2022 mentionne seulement la recherche sur la fusion nucléaire ; aucune position trouvée sur la construction de nouveaux réacteurs.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 2,
+      "resume": "Position déduite de sa réponse de candidat au Shift Project (février 2022) : « lancer la construction de dix nouvelles centrales » nucléaires et mettre fin au « démembrement de la filière nucléaire française ».",
+      "source": "https://theshiftproject.org/app/uploads/2025/02/Reponse-de-Francois-ASSELINEAU-a-The-Shift-Project.pdf",
+      "date_source": "2022-02-05",
+      "confiance": "deduite"
     },
     "ecol_renouvelables": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -1,
+      "resume": "Position déduite de sa réponse de candidat au Shift Project (février 2022) : bilan complet de l'éolien et, « dans l'attente, un moratoire » sur l'installation d'éoliennes ; pas de mesure sur le solaire.",
+      "source": "https://theshiftproject.org/app/uploads/2025/02/Reponse-de-Francois-ASSELINEAU-a-The-Shift-Project.pdf",
+      "date_source": "2022-02-05",
+      "confiance": "deduite"
     },
     "ecol_normes": {
       "valeur": null,

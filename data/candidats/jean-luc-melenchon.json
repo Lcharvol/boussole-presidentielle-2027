@@ -6,7 +6,7 @@
   "programme": "partiel",
   "programme_url": "https://melenchon2027.fr/programme/decouvrir/",
   "mis_a_jour": "2026-10-20",
-  "notes": "Candidature annoncée le 3 mai 2026 au JT de TF1 (https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851). Le livre-programme « L'Avenir en commun » est en cours de réactualisation ; nouvelle version annoncée pour les 6-7 novembre 2026. Seul document 2027 publié consulté : « Comment nous allons remettre de l'ordre dans les comptes publics » (octobre 2026). Les autres positions sont déduites du programme 2022 (laec.fr) ou des votes du groupe LFI à l'Assemblée (Mélenchon n'est pas député) : à revoir après la publication du programme 2027.",
+  "notes": "Candidature annoncée le 3 mai 2026 au JT de TF1 (https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851). Le livre-programme « L'Avenir en commun » est en cours de réactualisation ; nouvelle version annoncée pour les 6-7 novembre 2026. Positions tirées du document de campagne d'octobre 2026 « Comment nous allons remettre de l'ordre dans les comptes publics » et, à défaut, de l'édition 2025 de « L'Avenir en commun » (PDF de février 2025 hébergé sur melenchon2027.fr), programme en vigueur de LFI. La position sur l'Ukraine reste déduite d'un vote du groupe LFI (Mélenchon n'est pas député). À revoir après la publication du programme 2027. Le site melenchon2027.fr bloque les accès automatisés (pages HTML) ; les PDF restent accessibles.",
   "positions": {
     "eco_retraite": {
       "valeur": 2,
@@ -38,31 +38,31 @@
     },
     "eco_35h": {
       "valeur": -2,
-      "resume": "Déduit du programme 2022 : rétablir effectivement les 35 heures (heures supplémentaires majorées) et passer aux 32 heures dans les métiers pénibles, avec généralisation par la négociation.",
-      "source": "https://laec.fr/section/36/reduire-le-temps-de-travail-et-faire-naitre-une-societe-du-temps-choisi",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « rétablir immédiatement la durée légale hebdomadaire à 35 heures » et de passer aux 32 heures dans les métiers pénibles ou de nuit.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "ecol_nucleaire": {
       "valeur": -2,
-      "resume": "Déduit du programme 2022 : sortir du nucléaire, abandonner les projets d'EPR et planifier le démantèlement des sites.",
-      "source": "https://laec.fr/section/19/organiser-le-100-denergies-renouvelables-en-2050-et-la-renovation-energetique",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « sortir du nucléaire » en abandonnant les projets d'EPR et en planifiant le démantèlement des sites.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "ecol_renouvelables": {
       "valeur": 2,
-      "resume": "Déduit du programme 2022 : planifier le passage à 100 % d'énergies renouvelables en 2050.",
-      "source": "https://laec.fr/section/19/organiser-le-100-denergies-renouvelables-en-2050-et-la-renovation-energetique",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) vise « le 100 % d'énergies renouvelables » en 2050 et un « plan d'urgence pour l'éolien maritime ».",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "ecol_normes": {
       "valeur": 2,
-      "resume": "Déduit du programme 2022 : réduire progressivement engrais et pesticides et interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes).",
-      "source": "https://laec.fr/section/21/souverainete-alimentaire-et-revolution-agricole-pour-une-agriculture-ecologique-et-paysanne",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de réduire progressivement engrais et pesticides, d'interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l'importation de productions qui en contiennent.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "sec_peines": {
       "valeur": null,
@@ -72,53 +72,53 @@
       "confiance": null
     },
     "sec_prisons": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -1,
+      "resume": "Le programme L'Avenir en commun (édition 2025) veut « en finir avec la surpopulation carcérale » par « un mécanisme contraignant de régulation carcérale », sans programme de construction de places.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "sec_cannabis": {
       "valeur": 2,
-      "resume": "Déduit du programme 2022 : légaliser et encadrer par un monopole d'État la production, la vente et la consommation de cannabis récréatif (proposition de loi n° 4746 cosignée en 2021).",
-      "source": "https://laec.fr/section/11/addictions-et-drogues-il-faut-changer-de-strategie",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « légaliser et encadrer par un monopole d'État la consommation, la production et la vente de cannabis à des fins récréatives ».",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "imm_baisse": {
       "valeur": -2,
-      "resume": "Déduit du programme 2022 : faciliter l'accès aux visas et faire de la carte de séjour de dix ans le titre de référence.",
-      "source": "https://laec.fr/section/76/pour-une-politique-migratoire-humaniste-et-realiste",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « faciliter l'accès aux visas », de faire de la carte de séjour de dix ans le titre de référence et d'abroger les dernières lois asile et immigration.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "imm_ame": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -2,
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « garantir l'accès à l'aide médicale d'État (AME) ».",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "imm_regularisation": {
       "valeur": 2,
-      "resume": "Déduit du programme 2022 : régulariser les travailleurs, étudiants et parents d'enfants scolarisés sans papiers.",
-      "source": "https://laec.fr/section/76/pour-une-politique-migratoire-humaniste-et-realiste",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « régulariser les travailleurs, étudiants, parents d'enfants scolarisés ».",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "eur_integration": {
       "valeur": -2,
-      "resume": "Déduit du programme 2022 : suspendre la participation de la France (opt-out) à des programmes comme l'Europe de la défense et désobéir aux règles européennes jugées bloquantes.",
-      "source": "https://laec.fr/section/70/desobeir-a-chaque-fois-que-cest-necessaire-pour-mettre-en-uvre-notre-programme",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de suspendre la participation (opt-out) de la France à des programmes comme « l'Europe de la défense » et de désobéir aux règles européennes jugées bloquantes.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "eur_primaute": {
       "valeur": 1,
-      "resume": "Déduit du programme 2022 : désobéir aux règles européennes incompatibles avec le programme tant qu'un changement des traités n'est pas obtenu, sans proposer de sortie de l'UE.",
-      "source": "https://laec.fr/section/70/desobeir-a-chaque-fois-que-cest-necessaire-pour-mettre-en-uvre-notre-programme",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de désobéir « aux règles européennes incompatibles » avec le programme, sans proposer de sortie de l'UE.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "eur_ukraine": {
       "valeur": -1,
@@ -128,60 +128,60 @@
       "confiance": "deduite"
     },
     "soc_medecins": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 2,
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « réguler l'installation des médecins » parmi les leviers contre les déserts médicaux.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "soc_findevie": {
       "valeur": 2,
-      "resume": "Déduit du programme 2022 (droit de mourir dans la dignité « y compris avec assistance ») ; le groupe LFI a voté pour la loi sur l'aide à mourir le 15 juillet 2026.",
-      "source": "https://laec.fr/section/56/une-nouvelle-etape-des-libertes-et-de-lemancipation-individuelle",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'inscrire dans la Constitution « le droit de mourir dans la dignité (y compris avec assistance) » ; le groupe LFI a voté pour la loi sur l'aide à mourir le 15 juillet 2026.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "soc_rsa": {
       "valeur": -2,
-      "resume": "Déduit du vote du groupe LFI : contre la loi « plein emploi » de 2023 qui impose 15 heures d'activité aux allocataires du RSA.",
-      "source": "https://datan.fr/votes/legislature-16/vote_2965",
-      "date_source": "2023-11-14",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'« abroger la loi France Travail et l'obligation de réaliser 15h d'activités hebdomadaires » pour les allocataires du RSA.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "edu_prive": {
       "valeur": 1,
-      "resume": "Déduit du programme 2022 : « abolir les privilèges de l'enseignement privé » (abrogation de la loi Carle, interdiction des subventions extralégales des collectivités).",
-      "source": "https://laec.fr/section/65/reconstruire-une-ecole-globale-pour-legalite-et-lemancipation",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'« abolir les privilèges de l'enseignement privé », d'abroger la loi Carle et d'appliquer un malus au financement public des établissements privés sous contrat contribuant à la ségrégation scolaire.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "edu_autorite": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": -2,
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « suspendre l'expérimentation de l'uniforme », d'abroger le « Choc des savoirs » et de mettre fin aux groupes de niveau au collège.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "ins_proportionnelle": {
       "valeur": 2,
-      "resume": "Déduit du programme 2022 : élire l'Assemblée nationale au scrutin proportionnel départemental.",
-      "source": "https://laec.fr/section/2/abolir-la-monarchie-presidentielle",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'« élire l'Assemblée nationale au scrutin proportionnel ».",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "ins_ric": {
       "valeur": 2,
-      "resume": "Déduit du programme 2022 : instaurer le RIC (révocatoire, législatif, abrogatif et constituant).",
-      "source": "https://laec.fr/section/4/une-republique-permettant-lintervention-populaire",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'instaurer le RIC permettant de révoquer des élus, proposer ou abroger une loi et modifier la Constitution.",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     },
     "ins_6e": {
       "valeur": 2,
-      "resume": "Déduit du programme 2022 : convoquer une Assemblée constituante pour passer à la 6e République et « abolir la monarchie présidentielle ».",
-      "source": "https://laec.fr/section/1/reunir-une-assemblee-constituante-pour-passer-a-la-6e-republique",
-      "date_source": "2022",
-      "confiance": "deduite"
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de réunir une Assemblée constituante pour passer à la 6e République et d'« abolir la monarchie présidentielle ».",
+      "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+      "date_source": "2025-02",
+      "confiance": "programme"
     }
   }
 }

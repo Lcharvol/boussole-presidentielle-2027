@@ -6,7 +6,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-20",
-  "notes": "Essayiste, directrice de la revue L'Audace !, ex-directrice de Marianne. Candidature annoncée le 14/10/2026 sur France Inter (franceinfo : https://www.franceinfo.fr/elections/presidentielle/l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_8236714.html), au nom du mouvement « Nous sommes la France » lancé en septembre 2026 ; soutien de République souveraine (08/10/2026). Ligne souverainiste revendiquée et « politique de production », mais aucune mesure précise publiée ni trouvée pour les 25 affirmations : toutes les positions sont laissées à null. À recompléter dès la publication d'un programme.",
+  "notes": "Essayiste, directrice de la revue L'Audace !, ex-directrice de Marianne. Candidature annoncée le 14/10/2026 sur France Inter (franceinfo : https://www.franceinfo.fr/elections/presidentielle/l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_8236714.html), au nom du mouvement « Nous sommes la France » lancé fin août/septembre 2026 ; soutien de République souveraine (08/10/2026). Mesures annoncées hors grille : priorité à la production française dans la commande publique, suppression des aides aux entreprises non conditionnées à la production en France, hausse des salaires de 20 à 30 % (sans précision sur le SMIC), taxe flottante sur les carburants. Pas de programme publié ; seules 2 affirmations ont pu être sourcées (Sud Radio 15/09/2026, Pleinchamp 10/2026). À recompléter dès la publication d'un programme.",
   "positions": {
     "eco_retraite": {
       "valeur": null,
@@ -44,11 +44,11 @@
       "confiance": null
     },
     "ecol_nucleaire": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 1,
+      "resume": "Sur Sud Radio, elle propose de renationaliser EDF et une « véritable politique urgente de défense du nucléaire », sans évoquer de nombre de nouveaux réacteurs.",
+      "source": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+      "date_source": "2026-09-15",
+      "confiance": "declaration"
     },
     "ecol_renouvelables": {
       "valeur": null,
@@ -58,11 +58,11 @@
       "confiance": null
     },
     "ecol_normes": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "date_source": null,
-      "confiance": null
+      "valeur": 0,
+      "resume": "Elle déclare que « la question n'est pas de revenir sur les normes environnementales » mais de « les imposer à tous », via des clauses miroirs sur les importations agricoles, sans proposer de les renforcer.",
+      "source": "https://www.pleinchamp.com/actualite/natacha-polony-candidate-a-l-elysee-avec-l-agriculture-comme-champ-de-bataille",
+      "date_source": "2026-10",
+      "confiance": "declaration"
     },
     "sec_peines": {
       "valeur": null,
