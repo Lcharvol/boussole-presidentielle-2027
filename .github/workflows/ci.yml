@@ -45,6 +45,11 @@ jobs:
           {"reponses": {"eco_retraite": 2, "imm_baisse": -2, "eur_ukraine": 1, "sec_cannabis": null}, "importance": {"economie": 2}}
           FIN
           grep -q "| 1 |" /tmp/score.txt
+          grep -q " ± " /tmp/score.txt
+
+      - name: Tests du calcul
+        working-directory: .
+        run: python3 -m unittest discover -s tests -v
 
       - uses: actions/setup-node@v4
         with:
