@@ -50,6 +50,28 @@ Ensuite, demandez simplement : « Pour qui voter en 2027 ? » ou « Fais-moi le 
 - **Modes** ([`scripts/choisir_niveaux.py`](skills/boussole-presidentielle-2027/scripts/choisir_niveaux.py)) : dans chaque thème, les questions sont classées selon leur pouvoir de départage (écart-type des positions des candidats × part des positions connues). La meilleure va en mode rapide, les deux suivantes en mode moyen, les autres en mode long.
 - **Neutralité** : les affirmations sont posées telles quelles, sans reformulation, et les positions des candidats ne sont pas montrées pendant le questionnaire.
 
+## Audit de neutralité
+
+Le script [`scripts/audit_biais.py`](skills/boussole-presidentielle-2027/scripts/audit_biais.py) vérifie que le résultat ne favorise pas mécaniquement un camp. Il tourne à chaque pull request : le rapport complet est publié dans le résumé du job de CI, sans jamais la faire échouer. Pour le lancer :
+
+```bash
+python3 skills/boussole-presidentielle-2027/scripts/audit_biais.py
+```
+
+Il fait trois choses :
+
+1. **Un axe calculé, sans étiquette.** À partir des seules positions des candidats, il calcule l'axe qui les sépare le plus (première composante principale). Aucune question ni aucun candidat n'est classé à la main ; seul le sens de l'axe est orienté, pour l'affichage. L'axe est ensuite découpé en trois tiers : « gauche », « centre », « droite ».
+2. **Le sens des formulations.** Pour chaque affirmation, il mesure si « d'accord » rapproche plutôt des candidats d'un pôle ou de l'autre (corrélation avec l'axe recalculé sans cette question). Si beaucoup d'affirmations penchent du même côté, une personne qui répond souvent « d'accord » est poussée vers ce pôle.
+3. **Des profils au hasard.** Il tire 2 000 profils sans opinion (réponses au hasard, 10 % de « je passe »), les passe dans le calcul de `score.py` et compte qui sort premier ou dans les trois premiers, en mode long et en mode rapide. Un calcul neutre donnerait à chaque candidat classé la même chance ; l'attendu tient compte des candidats exclus faute de positions connues.
+
+**Résultats actuels** (20 octobre 2026, graine 2027 ; le résumé de la CI donne les chiffres à jour) :
+
+- L'axe calculé explique la moitié des écarts entre candidats et place à un bout les candidats habituellement classés à gauche, à l'autre ceux classés à droite, sans qu'on le lui ait indiqué.
+- **Mode long : pas de biais de camp.** Avec des réponses au hasard, les tiers gauche et droit sortent premiers presque aussi souvent l'un que l'autre (ratios 0,69 et 0,65). Les affirmations sont à peu près équilibrées : 14 orientent « d'accord » vers le pôle gauche, 18 vers le pôle droit, 6 sont transversales ; un profil qui répond plus souvent « d'accord » ne gagne que 3 points côté droit. Le mode moyen est équilibré aussi (11 contre 10).
+- **Le centre est avantagé** (ratio 1,87 en mode long) : un score qui mesure l'écart favorise les positions modérées face à des réponses au hasard, et les fiches les moins remplies (Dominique de Villepin, Bernard Cazeneuve) donnent des scores plus variables, donc plus souvent en tête. Les candidats aux positions les plus tranchées et les mieux documentées (Jean-Luc Mélenchon, Marine Tondelier, Marine Le Pen) sortent moins souvent premiers. Avec des vraies réponses, qui ne sont pas aléatoires, cet effet est bien plus faible, mais il existe.
+- **Mode rapide : déséquilibre des formulations.** Sur ses 8 questions, 6 orientent « d'accord » vers le pôle droit et une seule vers le pôle gauche : un profil qui acquiesce souvent gagne 32 points côté droit, un profil qui conteste souvent va presque toujours à gauche. Le mode rapide reste une tendance ; le mode long est à privilégier.
+- **Couverture inégale.** 8 candidats ont moins de la moitié de leurs positions renseignées ; plusieurs ne sont jamais classés en mode long. C'est la cause la plus probable des écarts entre candidats, avant le calcul lui-même. L'audit liste les fiches et les questions à compléter en priorité.
+
 ## Confidentialité
 
 Vos réponses sont des opinions politiques : le skill les traite comme une donnée sensible.
