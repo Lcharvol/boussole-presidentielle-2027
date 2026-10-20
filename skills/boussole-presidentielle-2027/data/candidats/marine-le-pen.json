@@ -87,7 +87,7 @@
       "citation": "Rétablir les peines planchers pour que tout criminel et délinquant aient une sanction.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": 2,
@@ -96,7 +96,7 @@
       "citation": "Atteindre 85 000 places de prison en 2027.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": -2,
@@ -105,7 +105,7 @@
       "citation": "\"Légaliser le cannabis c'est envoyer un signal dramatique en termes de banalisation de la consommation de ce genre de produits\", a-t-il poursuivi. \"Au RN, \"nous y sommes opposés.\"",
       "date_source": "2019-06-21",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": 2,
@@ -114,7 +114,7 @@
       "citation": "Suppression du droit du sol, priorité nationale, allocations familiales réservées aux Français, restriction du regroupement familial...",
       "date_source": "2024-06-28",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 2,
@@ -123,7 +123,7 @@
       "citation": "Selon le programme de la formation de Marine le Pen, le remplacement de l' Aide médicale d'Etat (AME) en aide médicale d'urgence figurerait aussi dans ce paquet législatif.",
       "date_source": "2024-06-28",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": -2,
@@ -141,7 +141,7 @@
       "citation": "Lors de l'élection de 2022, elle a plutôt défendu l'idée de réformer en profondeur l'UE de l'intérieur, en retirant à Bruxelles l'essentiel de ses pouvoirs et en transformant le bloc en une alliance de nations plus souple.",
       "date_source": "2026-09-17",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 2,
@@ -150,7 +150,7 @@
       "citation": "Dès lors que la sortie de l’Union européenne n’est nullement à l’ordre du jour, […] permettra au Président de la République et au Gouvernement d’engager une renégociation de nombreux textes de droit dérivé, voire des Traités eux-mêmes.",
       "date_source": "2024-01-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -1,
@@ -204,7 +204,7 @@
       "citation": "Rétablir l’autorité de l’institution scolaire par l’instauration d’un uniforme au primaire et au collège tout en sanctionnant les absences et les incivilités.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": 2,
@@ -222,7 +222,7 @@
       "citation": "Mais surtout, la mesure phare de cette « révolution référendaire » consiste à abaisser à 500 000 électeurs la barre de déclenchement d’un référendum d’initiative citoyenne (RIC), qui permettrait d’abroger une loi ou d’en proposer une nouvelle.",
       "date_source": "2022-04-12",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": -1,
@@ -276,7 +276,7 @@
       "citation": "Supprimer le droit du sol et limiter l’accès à la nationalité à la seule naturalisation sur des critères de mérite et d’assimilation.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": 2,
@@ -285,7 +285,7 @@
       "citation": "Réserver les aides sociales aux Français, et conditionner à 5 années de travail en France l’accès aux prestations de solidarité. Assurer la priorité nationale d’accès au logement social et à l’emploi.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_otan": {
       "valeur": 2,
@@ -303,7 +303,7 @@
       "citation": "Cette exigence est portée de longue date par le Rassemblement national, dont le programme prévoit depuis 2017 de porter l’effort de défense à minimum 3 % du PIB.",
       "date_source": "2026-04-29",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_100secu": {
       "valeur": null,
@@ -330,7 +330,7 @@
       "citation": "La dirigeante d'extrême droite s'est dite \"d'accord\" avec le ministre de l'Education Jean-Michel Blanquer, qui ne juge \"pas souhaitable\" le port du voile en sortie scolaire […] Le RN veut étendre la loi de 2004, qui interdit le port de signes religieux à l'école, à \"tout l'espace public\".",
       "date_source": "2019-10-17",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_etudiants": {
       "valeur": null,
@@ -357,7 +357,7 @@
       "citation": "\"Beaucoup d'élus pourraient être économisés. La diminution du nombre de parlementaires doit être inscrite dans la Constitution\", a défendu l'eurodéputée sur BFMTV-RMC. \"Je demanderai aux Français d'avoir (...) 300 députés, 200 sénateurs\"",
       "date_source": "2017-01-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_voteblanc": {
       "valeur": null,
