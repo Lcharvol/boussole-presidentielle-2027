@@ -206,6 +206,7 @@ def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
     # Candidats dont l'intervalle (score ± marge) recouvre celui du premier : les départager n'a pas de sens.
     peloton = []
     if fiables:
+        # Sans tirages (tirages=0, ex. audit), la marge est absente : elle compte alors pour 0.
         plancher = fiables[0]["score"] - (fiables[0]["marge"] or 0)
         peloton = [r["nom"] for r in fiables if r["score"] + (r["marge"] or 0) >= plancher]
     return {"nb_reponses": len(reponses), "classement": fiables, "donnees_insuffisantes": peu_fiables,

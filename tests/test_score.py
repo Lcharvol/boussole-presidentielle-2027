@@ -202,6 +202,14 @@ class Reproductibilite(unittest.TestCase):
             self.assertEqual(r["nom"] in res["peloton_de_tete"], recouvre)
         self.assertIn(premier["nom"], res["peloton_de_tete"])
 
+    def test_sans_tirages(self):
+        # Utilisé par l'audit, qui n'a besoin que du classement : pas de marge, même classement.
+        avec = score.calculer(self.USER, QUESTIONS, self.candidats())
+        sans = score.calculer(self.USER, QUESTIONS, self.candidats(), tirages=0)
+        self.assertEqual([r["nom"] for r in sans["classement"]], [r["nom"] for r in avec["classement"]])
+        self.assertTrue(all(r["marge"] is None for r in sans["classement"]))
+        self.assertEqual(sans["peloton_de_tete"], [sans["classement"][0]["nom"]])
+
     def test_entree_standard(self):
         """Le script lit les réponses sur l'entrée standard et donne deux fois la même sortie."""
         entree = json.dumps({"reponses": {"eco_retraite": 2, "imm_baisse": -2, "eur_ukraine": 1}})
