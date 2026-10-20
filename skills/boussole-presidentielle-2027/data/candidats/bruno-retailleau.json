@@ -123,7 +123,7 @@
       "citation": "Lors de l’examen de la dernière loi Immigration, la droite sénatoriale emmenée par Bruno Retailleau avait tenté de la supprimer pour la remplacer par une aide médicale d'urgence",
       "date_source": "2024-09-24",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": -2,
@@ -132,7 +132,7 @@
       "citation": "Mais dans la nouvelle circulaire qui sera prochainement publiée, M. Retailleau écrit qu'\"une durée de présence d'au moins 7 ans constitue l'un des indices d'intégration pertinent\".",
       "date_source": "2025-01",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": null,
@@ -186,7 +186,7 @@
       "citation": "Deuxième mesure importante : le « revenu d’incitation à l’activité », en rendant obligatoire les 15 heures d’activité complémentaire au RSA […]",
       "date_source": "2026-01-07",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": null,
@@ -204,7 +204,7 @@
       "citation": "La sénatrice LR de Paris Céline Boulay-Espéronnier vient de déposer une proposition de loi visant à « rendre obligatoire le port d’une tenue d’établissement scolaire ». Le texte, co-signé par Bruno Retailleau, président des sénateurs LR […]",
       "date_source": "2023",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": -2,
@@ -213,7 +213,7 @@
       "citation": "A la sortie de la réunion, Bruno Retailleau a déclaré « refuser de porter » une telle réforme.",
       "date_source": "2025-06-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 1,
@@ -276,7 +276,7 @@
       "citation": "Elle permettra en outre « d’expulser tous ceux qui n’ont rien à faire en France, supprimer le droit au mariage pour les OQTF, abolir le droit du sol et revenir à l’assimilation pour qu’il n’y ait plus de naturalisations automatiques ».",
       "date_source": "2026-09-03",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": 1,
@@ -321,7 +321,7 @@
       "citation": "Pour freiner cette « dérive », il veut « limiter la durée d’indemnisation et plafonner la hauteur de l’allocation, suite à une rupture conventionnelle ».",
       "date_source": "2026-01-07",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": 2,
@@ -330,7 +330,7 @@
       "citation": "En ce sens, Bruno Retailleau prône également l’interdiction du port du voile pour les accompagnantes de sorties scolaires, estimant qu’elles devraient être soumises aux principes de neutralité et de laïcité.",
       "date_source": "2025-01-07",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_etudiants": {
       "valeur": null,
