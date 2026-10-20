@@ -15,7 +15,7 @@
       "citation": "Abroger l’âge légal de départ à la retraite à 64 ans (réforme Borne) pour revenir immédiatement à un âge minimum à 62 ans et viser une retraite à 60 ans […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": 2,
@@ -24,16 +24,16 @@
       "citation": "Passer le salaire minimum à 2000€ brut par mois dès 2027.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,
-      "resume": "Le programme finance ses mesures par de nouvelles recettes (taxe Zucman, fiscalité écologique) et veut exclure les investissements de transition du calcul du déficit ; il ne cible que des dépenses « inutiles et fossiles ».",
+      "resume": "Le programme propose une « stratégie alternative » fondée sur la croissance des recettes fiscales (taxe Zucman, fiscalité écologique) pour financer les services publics et la transition, plutôt que des coupes, et veut exclure les investissements de transition du calcul du déficit.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Exclure immédiatement les investissements liés à la transition écologique (énergies renouvelables, rénovation énergétique, transports collectifs et mobilités actives…) du calcul du déficit autorisé.",
+      "citation": "C’est pourquoi nous proposons une stratégie alternative visant une croissance des recettes fiscales permettant de financer un haut niveau de services publics et les investissements nécessaires à la transition écologique.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 2,
@@ -42,7 +42,7 @@
       "citation": "Rétablir la fiscalité sur la grande fortune. Mettre en place une taxe Zucman de 2 % au-delà de 100 millions d’euros de patrimoine.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": -2,
@@ -51,7 +51,7 @@
       "citation": "Franchir une nouvelle étape pour la diminution du temps de travail. Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit en y conditionnant les aides aux entreprises.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": -2,
