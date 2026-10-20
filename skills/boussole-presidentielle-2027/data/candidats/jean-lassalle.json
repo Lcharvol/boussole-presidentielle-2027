@@ -42,7 +42,7 @@
       "citation": "Rétablir l’ISF (Impôt sur la fortune) et supprimer l’IFI (Impôt sur la fortune immobilière).",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": null,
@@ -105,7 +105,7 @@
       "citation": "Légaliser le cannabis, en encadrant strictement sa vente et en dédiant une grande part des recettes à la lutte contre l’addiction.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": null,
@@ -222,7 +222,7 @@
       "citation": "ma proposition de loi constitutionnelle de novembre 2021 sur le RIC permettrait de lancer une telle initiative une fois recueilli le soutien de 700 000 citoyens.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": -1,
@@ -312,7 +312,7 @@
       "citation": "La Sécurité Sociale couvrira toutes les dépenses de santé. C’est le cas en Alsace-Moselle, où le système de Sécurité sociale comprend un « régime local » complémentaire pour tous, ce qui évite un double traitement par le régime général puis par des « mutuelles ».",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_chomage": {
       "valeur": null,
@@ -366,7 +366,7 @@
       "citation": "Ma proposition de loi constitutionnelle de février 2021, représentée en janvier 2022, vise à institutionnaliser la reconnaissance effective du vote blanc.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     }
   }
 }

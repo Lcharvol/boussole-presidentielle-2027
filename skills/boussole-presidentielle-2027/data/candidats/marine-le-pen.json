@@ -60,7 +60,7 @@
       "citation": "Relancer le nucléaire via la création de cinq paires d’EPR et cinq autre EPR2, le prolongement jusqu’à soixante ans des centrales et la réouverture de Fessenheim.",
       "date_source": "2022-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,
@@ -235,21 +235,21 @@
     },
     "ecol_thermique2035": {
       "valeur": -2,
-      "resume": "Position déduite du groupe RN : ses députés ont fait supprimer en février 2025 l'article inscrivant la fin des ventes de voitures thermiques neuves en 2035, jugeant cet objectif « irréaliste ».",
-      "source": "https://lcp.fr/actualites/fin-de-la-vente-des-voitures-thermiques-neuves-en-2035-l-assemblee-s-y-oppose-lors-d-un",
-      "citation": "Dans un hémicycle clairsemé, 34 députés ont voté pour la suppression de l'article, en majorité du Rassemblement national, et 30 élus s'y sont opposés, issus des rangs de la coalition présidentielle et de la gauche.",
-      "date_source": "2025-02-18",
-      "confiance": "deduite",
-      "relu": false
+      "resume": "S'oppose à la fin des ventes de voitures thermiques neuves en 2035, qu'elle cite en 2023 comme exemple d'une politique qui n'est « pas une transition » mais « une destruction » ; ses députés ont fait supprimer en 2025 l'article national fixant cette échéance.",
+      "source": "https://www.linfodurable.fr/ecologie-pour-le-pen-le-plan-de-macron-nest-pas-une-transition-mais-une-destruction-41246",
+      "citation": "\"Ce n'est pas une transition, c'est une destruction pour l'instant\", a ajouté Mme Le Pen, prenant pour exemple \"la fin des moteurs thermiques en 2035\" décidée par l'Union européenne.",
+      "date_source": "2023-09-26",
+      "confiance": "declaration",
+      "relu": true
     },
     "ecol_aerien": {
       "valeur": -2,
-      "resume": "Position déduite du groupe RN : au budget 2025, la députée RN Alexandra Masson a dénoncé la hausse de la taxe sur les billets d'avion, jugeant qu'elle pénaliserait la compétitivité du transport aérien français.",
-      "source": "https://www.linfodurable.fr/les-deputes-approuvent-lalourdissement-de-la-fiscalite-du-transport-aerien-pour-un-47838",
-      "citation": "La hausse de la taxe présentée par le gouvernement va se traduire par une perte de compétitivité du transport aérien français et pénaliser l'attractivité de la destination France\", a également craint la députée RN Alexandra Masson.",
-      "date_source": "2024-11-09",
-      "confiance": "deduite",
-      "relu": false
+      "resume": "Opposée à la taxation des billets d'avion, qu'elle a qualifiée en 2019 d'« écologie punitive » et de moyen de « faire rentrer de l'argent dans les caisses » (déclaration ancienne, aucune prise de position plus récente trouvée).",
+      "source": "https://www.linfodurable.fr/ecotaxe-sur-les-billets-davion-une-mesure-cynique-pour-marine-le-pen-12451",
+      "citation": "La taxation des billets d'avion est \"une idée très cynique et particulièrement hypocrite\", a réagi la députée d'extrême droite dans les couloirs de l'Assemblée nationale.",
+      "date_source": "2019-07-09",
+      "confiance": "declaration",
+      "relu": true
     },
     "sec_mineurs": {
       "valeur": -1,
