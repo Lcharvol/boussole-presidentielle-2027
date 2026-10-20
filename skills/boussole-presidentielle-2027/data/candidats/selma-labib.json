@@ -253,12 +253,12 @@
     },
     "sec_mineurs": {
       "valeur": 2,
-      "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui rejette le projet de Gabriel Attal de revenir sur l'excuse de minorité, présentée comme un principe protecteur de la justice des mineurs.",
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui qualifie de « fantasmes » le projet de Gabriel Attal de revenir sur l'excuse de minorité et défend l'ordonnance de 1945, dont le but est de protéger et d'éduquer les mineurs « avant même de les punir ».",
       "source": "https://npa-revolutionnaires.org/excuse-de-minorite-les-fantasmes-de-gabriel-attal/",
-      "citation": "C’est là-dessus que veut revenir Attal, qui multiplie les déclarations sécuritaires contre la jeunesse.",
+      "citation": "Excuse de minorité : les fantasmes de Gabriel Attal […] Cette législation, qui date de 1945, posait les grands principes modernes de la justice pénale des mineurs en soulignant que le but était d’abord de les protéger et de les éduquer avant même de les punir.",
       "date_source": "2024-04-21",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": null,

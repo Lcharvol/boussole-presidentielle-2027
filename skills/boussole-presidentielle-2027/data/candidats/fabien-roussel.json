@@ -24,16 +24,16 @@
       "citation": "Le smic horaire sera augmenté pour atteindre rapidement 1 600 euros net par mois (soit 2 021 euros brut).",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,
-      "resume": "Déduit du programme du PCF : en finir avec la règle des 3 % de déficit et le « carcan austéritaire », financer les dépenses par la création de richesses et la fiscalité du capital.",
-      "source": "https://www.pcf.fr/moyen_3",
-      "citation": "La France agira pour rendre définitif la fin des 3 % de déficits publics autorisés et du carcan austéritaire que constitue le pacte dit « de stabilité »",
+      "resume": "Déduit du programme du PCF : refus du « carcan austéritaire » et de la règle des 3 % de déficit, et hausse des recettes par la suppression des niches fiscales des plus riches et le triplement de l'impôt sur la fortune.",
+      "source": "https://www.pcf.fr/moyen_1",
+      "citation": "Les niches fiscales qui favorisent outrageusement les plus riches seront supprimées.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 2,
@@ -42,7 +42,7 @@
       "citation": "L’impôt sur la fortune sera rétabli, son taux et sa progressivité seront accentués, les niches fiscales qui minent son rendement seront supprimées Son montant sera triplé.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": -2,
@@ -51,7 +51,7 @@
       "citation": "La semaine de travail passera à 32 heures, sans diminution de salaires",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": 2,
@@ -96,7 +96,7 @@
       "citation": "Les alternatives à l’incarcération, plutôt que la construction de nouvelles prisons, a fortiori financées par des partenariats publics/privés (PPP), seront développées […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 0,
@@ -132,7 +132,7 @@
       "citation": "Les travailleuses et travailleurs sans papiers en activité seront régularisés, car l’égalité de statut est une arme contre le travail clandestin et la mise en concurrence des salarié·e·s […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": -1,
@@ -168,7 +168,7 @@
       "citation": "La puissance publique agira contre les déserts médicaux : dans les zones denses, un·e médecin ne devra s’installer que si un·e autre part à la retraite (conventionnement sélectif à l’installation).",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": 1,
@@ -213,7 +213,7 @@
       "citation": "Pour cela, la proportionnelle intégrale permettra la juste représentation des courants politiques, en fonction de leur influence électorale.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 1,
@@ -231,7 +231,7 @@
       "citation": "Le président de la République n’aura plus qu’un rôle de représentation de la nation et, pour en finir avec sa prééminence, son élection au suffrage universel sera supprimée. La primauté reviendra au Parlement […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": 1,
@@ -294,7 +294,7 @@
       "citation": "Sortie de l’OTAN, et immédiatement de son commandement intégré, elle mettra un terme aux opérations militaires extérieures et fermera ses bases hors du pays.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": null,
@@ -321,7 +321,7 @@
       "citation": "La loi El Khomri, les ordonnances Macron et la loi Borne sur l’Assurance-chômage seront immédiatement abrogées",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,
@@ -339,7 +339,7 @@
       "citation": "Un revenu, fixé à 850 euros par mois, pour tous les étudiants et toutes les étudiantes, sera mis en place",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_apprentissage": {
       "valeur": null,

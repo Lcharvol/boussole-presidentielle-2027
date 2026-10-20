@@ -15,7 +15,7 @@
       "citation": "Xavier Bertrand milite pour une retraite à 65 ans avec des ajustements possibles.",
       "date_source": "2022-06-05",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": -1,
@@ -60,7 +60,7 @@
       "citation": "\"Si je suis élu, je choisirai dès l'été prochain la relance d'un programme nucléaire digne de ce nom dont on a besoin pour rester indépendant et pour que l'électricité arrête d'augmenter dans notre pays\"",
       "date_source": "2021-07-27",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,
@@ -69,7 +69,7 @@
       "citation": "Concernant les éoliennes dans sa région, Xavier Bertrand a réclamé, à propos du chef de l'Etat: \"qu'il donne instruction demain aux cinq préfets (de la région) de bloquer maintenant tous les projets éoliens\".",
       "date_source": "2021-07-27",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": null,
@@ -87,7 +87,7 @@
       "citation": "Pour éviter cela, l’équipe de Xavier Bertrand a pensé à une « individualisation de la peine entre un minimum et un maximum », ce qui supposerait effectivement une « modification constitutionnelle ». « J’y suis prêt, les Français aussi » affirme solennellement Xavier Bertrand",
       "date_source": "2021-09-15",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": 2,
@@ -96,7 +96,7 @@
       "citation": "Xavier Bertrand appelle d’ailleurs à « retrouver des principes simples », comme l’application effective des peines en créant 20 000 places de prison pour sortir de la « gestion immobilière de la délinquance »",
       "date_source": "2021-09-15",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": -2,
@@ -105,7 +105,7 @@
       "citation": "[…] répondant à une question sur le cannabis, le président de la région Hauts-de-France et candidat à la présidence de la République s’est montré tranchant : « légaliser le cannabis ? … avec moi, jamais … »",
       "date_source": "2021-04-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": 2,
@@ -114,7 +114,7 @@
       "citation": "Chaque année, le Parlement fixera des quotas par type d’immigration, en-dehors de l’asile qui fera l’objet d’une réforme spécifique. La Constitution sera révisée, dès l’automne 2022, par référendum populaire, pour le permettre.",
       "date_source": "2021-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 2,
@@ -123,7 +123,7 @@
       "citation": "Enfin, il est impératif de supprimer l’aide médicale d’État pour les adultes, et de limiter leur prise en charge aux seuls soins urgents et vitaux.",
       "date_source": "2021-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": -2,
@@ -132,7 +132,7 @@
       "citation": "Tout d’abord, je mettrai fin au système actuel de régularisation. […] C’est pourquoi j’abrogerai la circulaire de régularisation de novembre 2012.",
       "date_source": "2021-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": null,
@@ -208,12 +208,12 @@
     },
     "ins_proportionnelle": {
       "valeur": -2,
-      "resume": "Position déduite (2022) : opposé à la proportionnelle aux législatives par crainte d'un « hémicycle ingouvernable » ; aucune déclaration plus récente vérifiée.",
+      "resume": "Position déduite (2022) : opposé à la proportionnelle aux législatives par crainte d'un « hémicycle ingouvernable ». Aucune déclaration plus récente trouvée (recherche d'octobre 2026, y compris lors des consultations de 2025 sur la proportionnelle).",
       "source": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/elections-legislatives-xavier-bertrand-se-veut-rassembleur_5180029.html",
       "citation": "Par ailleurs, Xavier Bertrand ne veut pas l’instauration de la proportionnelle pour les élections législatives de peur de voir un hémicycle ingouvernable.",
       "date_source": "2022-06-05",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": null,
@@ -258,7 +258,7 @@
       "citation": "Xavier Bertrand appelle d’ailleurs à « retrouver des principes simples », comme l’application effective des peines en créant 20 000 places de prison pour sortir de la « gestion immobilière de la délinquance », ou bien l’abaissement de la majorité pénale à 15 ans.",
       "date_source": "2021-09-15",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": null,

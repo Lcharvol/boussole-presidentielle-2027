@@ -15,7 +15,7 @@
       "citation": "ils omettent de dire que les caisses du grand patronat débordent et que toutes les richesses, que nous produisons, sont largement suffisantes pour assurer un minimum de 2000 € de salaire, une retraite à 60 ans",
       "date_source": "2024-06-24",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": 2,
@@ -82,12 +82,12 @@
     },
     "sec_peines": {
       "valeur": -2,
-      "resume": "Position déduite d'un article non signé du journal Lutte ouvrière qui présente la suppression du sursis et les « condamnations minimales systématiques » proposées par Gérald Darmanin comme une « surenchère sécuritaire ».",
+      "resume": "Position déduite de la ligne du journal Lutte ouvrière, dont elle est la porte-parole (aucune déclaration personnelle trouvée) : l'article de juin 2025 qualifie de « surenchère sécuritaire » les condamnations minimales systématiques proposées par Darmanin, « l'équivalent des peines plancher ».",
       "source": "https://www.lutte-ouvriere.org/portail/journal/darmanin-surenchere-securitaire-184994.html",
-      "citation": "Quant à résoudre les problèmes de la délinquance, que la prison nourrit autant que la rue, ce n’est certainement pas le problème de Darmanin, qui se moque bien de ce que vivent les quartiers populaires où la misère, le chômage, le désœuvrement font des ravages.",
+      "citation": "Darmanin : surenchère sécuritaire […] Darmanin a remis en avant les propositions de réforme faites il y a quelques semaines, comprenant la suppression du sursis et la mise en place de condamnations minimales systématiques dès la première peine, l’équivalent des peines plancher de Sarkozy.",
       "date_source": "2025-06-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": -1,
@@ -123,7 +123,7 @@
       "citation": "Cette campagne permanente visant à faire croire que le déficit de l’Assurance maladie serait dû à une aide ne représentant que 0,47 % des dépenses de santé est ignoble.",
       "date_source": "2026-02-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": 2,
@@ -177,7 +177,7 @@
       "citation": "Cette loi est une avancée pour les patients concernés et pour leur entourage, c’est un soulagement. Mais elle reste d’une immense hypocrisie.",
       "date_source": "2026-07-22",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": -2,
@@ -186,7 +186,7 @@
       "citation": "Ces mesures font partie d’une campagne politique qui présente ceux qui n’ont pas de travail comme des fainéants qui n’ont pas le courage de « traverser la rue »",
       "date_source": "2025-10-29",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": 1,

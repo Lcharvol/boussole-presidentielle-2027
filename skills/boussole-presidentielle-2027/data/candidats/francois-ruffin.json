@@ -28,12 +28,12 @@
     },
     "eco_depenses": {
       "valeur": 2,
-      "resume": "Déduit du manifeste de Debout ! : critique des « budgets à tailler » et « coupes sèches » dans les services publics et appel à des « impôts justes » faisant davantage contribuer le capital.",
+      "resume": "Déduit du manifeste de Debout ! : il dénonce les « coupes sèches » dans les services publics pour réduire le déficit et veut « abaisser le plafond » des plus hauts revenus, en référence à l'impôt sur le revenu à 94 %, pour retrouver des marges fiscales et financer les services publics.",
       "source": "https://debout.fr/notre-manifeste/",
-      "citation": "Quand, chaque été les urgences sont en crise, l’École n’arrive pas à recruter, la Justice est sous l’eau, quelle réponse? Des budgets à tailler, des coupes sèches, pour réduire le déficit. Sans jamais, ô grand jamais, toucher au grisbi.",
+      "citation": "Abaisser le plafond de ceux qui se gavent en haut, relever le plancher de ceux qui se rationnent en bas: voilà une définition du partage. Il faut le faire. Pour des raisons économiques, évidemment. Pour retrouver des marges de manœuvre fiscales. Pour soutenir des services publics exsangues […]",
       "date_source": "2026-04",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 2,
@@ -213,7 +213,7 @@
       "citation": "PROPOSITION DE LOI visant à instaurer la proportionnelle intégrale au scrutin législatif",
       "date_source": "2021-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 2,

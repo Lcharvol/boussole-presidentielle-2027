@@ -231,7 +231,7 @@
       "citation": "En France, l’abolition du présidentialisme et la perspective de nouvelles institutions démocratiques sont la pierre angulaire du changement pour sortir du système de la croissance, lever une nouvelle espérance et battre l’extrême-droite.",
       "date_source": "2023-12",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": 2,
