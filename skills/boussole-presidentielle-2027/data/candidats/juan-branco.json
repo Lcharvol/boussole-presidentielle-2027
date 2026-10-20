@@ -42,7 +42,7 @@
       "citation": "Rétablissement de l’ISF avec un mécanisme de précompte sur les droits de succession.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": 1,
@@ -60,7 +60,7 @@
       "citation": "Construction de 14 EPR 2, développement d’une filière intégrée RNR-NA.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -1,
@@ -135,13 +135,13 @@
       "relu": false
     },
     "eur_integration": {
-      "valeur": -2,
-      "resume": "Le programme propose un référendum sur la sortie de l'Union européenne et de l'euro, et la création d'une « Union des peuples européens ».",
+      "valeur": -1,
+      "resume": "Le programme propose un référendum sur la sortie de l'Union européenne et de l'euro, et la création d'une « Union des peuples européens » ; valeur −1 : le programme soumet ces sorties à référendum (« et/ou ») et propose une autre union européenne, sans rejeter toute intégration.",
       "source": "https://ruches.org/le-projet",
       "citation": "Sortie de l’Union Européenne, de l’euro, du Conseil de l’Europe et/ou de l’espace Schengen. ◆ Sortie de l’OTAN (commandement intégré ou du Traité). ◆ Création d’une Union des peuples européens.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 2,
