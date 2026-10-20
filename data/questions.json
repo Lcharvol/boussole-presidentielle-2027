@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-20",
+  "version": "2026-10-21",
   "echelle": {
     "2": "Tout à fait d'accord",
     "1": "Plutôt d'accord",
@@ -41,7 +41,7 @@
       "id": "eco_patrimoine",
       "theme": "economie",
       "texte": "Il faut taxer davantage les très hauts patrimoines (rétablissement de l'ISF, taxe de type Zucman…).",
-      "niveau": "long"
+      "niveau": "moyen"
     },
     {
       "id": "eco_35h",
@@ -65,6 +65,18 @@
       "id": "ecol_normes",
       "theme": "ecologie",
       "texte": "Il faut renforcer les normes environnementales, même si cela pèse sur les agriculteurs et les entreprises.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "ecol_thermique2035",
+      "theme": "ecologie",
+      "texte": "L'interdiction de vendre des voitures thermiques neuves à partir de 2035 doit être maintenue.",
+      "niveau": "long"
+    },
+    {
+      "id": "ecol_aerien",
+      "theme": "ecologie",
+      "texte": "Il faut taxer davantage le transport aérien (billets, kérosène) pour financer la transition écologique.",
       "niveau": "long"
     },
     {
@@ -83,7 +95,19 @@
       "id": "sec_cannabis",
       "theme": "securite",
       "texte": "La consommation de cannabis doit être légalisée et encadrée par l'État.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "sec_mineurs",
+      "theme": "securite",
+      "texte": "Les mineurs de 16 ans et plus doivent pouvoir être jugés comme des majeurs.",
       "niveau": "rapide"
+    },
+    {
+      "id": "sec_videosurveillance",
+      "theme": "securite",
+      "texte": "Il faut généraliser la vidéosurveillance algorithmique (détection automatique, reconnaissance faciale) dans l'espace public.",
+      "niveau": "long"
     },
     {
       "id": "imm_baisse",
@@ -95,13 +119,25 @@
       "id": "imm_ame",
       "theme": "immigration",
       "texte": "L'Aide médicale d'État (AME) pour les étrangers en situation irrégulière doit être supprimée ou réduite à l'urgence.",
-      "niveau": "long"
+      "niveau": "moyen"
     },
     {
       "id": "imm_regularisation",
       "theme": "immigration",
       "texte": "Il faut faciliter la régularisation des travailleurs sans papiers, notamment dans les métiers en tension.",
       "niveau": "moyen"
+    },
+    {
+      "id": "imm_droitdusol",
+      "theme": "immigration",
+      "texte": "Le droit du sol doit être supprimé ou fortement restreint.",
+      "niveau": "long"
+    },
+    {
+      "id": "imm_preference",
+      "theme": "immigration",
+      "texte": "Certaines prestations sociales et l'accès au logement social doivent être réservés en priorité aux Français.",
+      "niveau": "long"
     },
     {
       "id": "eur_integration",
@@ -113,7 +149,7 @@
       "id": "eur_primaute",
       "theme": "europe",
       "texte": "Le droit français doit primer sur le droit européen, quitte à renégocier ou sortir des traités.",
-      "niveau": "long"
+      "niveau": "moyen"
     },
     {
       "id": "eur_ukraine",
@@ -122,10 +158,22 @@
       "niveau": "rapide"
     },
     {
+      "id": "eur_otan",
+      "theme": "europe",
+      "texte": "La France doit quitter le commandement intégré de l'OTAN.",
+      "niveau": "long"
+    },
+    {
+      "id": "eur_defense3",
+      "theme": "europe",
+      "texte": "Le budget de la défense doit être porté à au moins 3 % du PIB.",
+      "niveau": "long"
+    },
+    {
       "id": "soc_medecins",
       "theme": "social",
       "texte": "Il faut réguler l'installation des médecins pour lutter contre les déserts médicaux, quitte à limiter leur liberté d'installation.",
-      "niveau": "rapide"
+      "niveau": "moyen"
     },
     {
       "id": "soc_findevie",
@@ -140,6 +188,18 @@
       "niveau": "long"
     },
     {
+      "id": "soc_100secu",
+      "theme": "social",
+      "texte": "La Sécurité sociale doit rembourser à 100 % les soins prescrits, en supprimant le rôle des complémentaires santé.",
+      "niveau": "long"
+    },
+    {
+      "id": "soc_chomage",
+      "theme": "social",
+      "texte": "Il faut réduire la durée ou le montant de l'indemnisation chômage pour inciter au retour à l'emploi.",
+      "niveau": "rapide"
+    },
+    {
       "id": "edu_prive",
       "theme": "education",
       "texte": "Il faut réduire le financement public de l'enseignement privé sous contrat.",
@@ -152,6 +212,24 @@
       "niveau": "rapide"
     },
     {
+      "id": "edu_signes",
+      "theme": "education",
+      "texte": "Le port de signes religieux doit être interdit aux parents qui accompagnent les sorties scolaires.",
+      "niveau": "moyen"
+    },
+    {
+      "id": "edu_etudiants",
+      "theme": "education",
+      "texte": "Il faut créer une allocation d'autonomie versée à tous les étudiants.",
+      "niveau": "long"
+    },
+    {
+      "id": "edu_apprentissage",
+      "theme": "education",
+      "texte": "Il faut permettre l'entrée en apprentissage dès 14 ans.",
+      "niveau": "long"
+    },
+    {
       "id": "ins_proportionnelle",
       "theme": "institutions",
       "texte": "Les députés doivent être élus à la proportionnelle.",
@@ -161,13 +239,25 @@
       "id": "ins_ric",
       "theme": "institutions",
       "texte": "Il faut instaurer le référendum d'initiative citoyenne (RIC).",
-      "niveau": "long"
+      "niveau": "moyen"
     },
     {
       "id": "ins_6e",
       "theme": "institutions",
       "texte": "Il faut passer à une VIe République et réduire les pouvoirs du président.",
       "niveau": "moyen"
+    },
+    {
+      "id": "ins_parlementaires",
+      "theme": "institutions",
+      "texte": "Il faut réduire le nombre de députés et de sénateurs.",
+      "niveau": "long"
+    },
+    {
+      "id": "ins_voteblanc",
+      "theme": "institutions",
+      "texte": "Le vote blanc doit être reconnu comme un suffrage exprimé.",
+      "niveau": "long"
     }
   ]
 }

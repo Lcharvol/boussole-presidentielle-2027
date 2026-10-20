@@ -5,7 +5,7 @@
   "statut": "désigné par son parti",
   "programme": "partiel",
   "programme_url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Désignée candidate par Lutte ouvrière (vote interne au congrès de décembre 2025 selon la presse), candidature présentée publiquement à la fête de LO en mai 2026 ; quatrième candidature (elle avait obtenu les 500 parrainages en 2012, 2017 et 2022). Campagne en cours (meeting à Paris le 26 septembre 2026) ; la collecte officielle des parrainages n'est pas encore close. LO ne publie pas de programme de mesures détaillé : la brochure « Présidentielle 2027 » (mai 2026) et les discours de meeting tiennent lieu de programme. Plusieurs positions sont déduites d'articles non signés du journal Lutte ouvrière (position du parti) ou d'éditoriaux qu'elle a signés avant 2025 ; cannabis, peines, école (autorité), institutions (proportionnelle, RIC, VIe République) et renouvelables restent à null faute de position trouvée.",
   "positions": {
     "eco_retraite": {
@@ -177,6 +177,111 @@
       "confiance": null
     },
     "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Au meeting du 26 septembre 2026, cite la « préférence nationale » parmi les mesures du RN qu'elle juge « révoltantes » pour les travailleurs immigrés.",
+      "source": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
+      "date_source": "2026-09-26",
+      "confiance": "declaration"
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": -2,
+      "resume": "La brochure de campagne dénonce les 36 milliards d'euros de rallonge votés pour l'armée, qui « manqueront » aux hôpitaux et aux écoles, et refuse l'unité nationale derrière l'effort militaire.",
+      "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "date_source": "2026-05",
+      "confiance": "programme"
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "La brochure de campagne dénonce la volonté de « réduire les indemnités des chômeurs » et réclame l'augmentation des allocations et leur indexation sur les prix.",
+      "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "date_source": "2026-05",
+      "confiance": "programme"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,

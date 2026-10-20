@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "partiel",
   "programme_url": "https://www.debout-la-france.fr/notre-projet/",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "A officialisé sa quatrième candidature présidentielle le 19 septembre 2026 à Yerres ; il se présente comme le seul candidat proposant la sortie de l'Union européenne (par référendum). Il évoque des difficultés de financement et devra réunir ses 500 parrainages. Le projet de Debout la France est en cours d'actualisation pour 2027 : certaines pages thématiques (ex. retraites) semblent antérieures à 2023 ; le communiqué « 20 mesures chocs » du 20 octobre 2026 constitue le document de campagne le plus récent. Source statut : https://www.cnews.fr/france/2026-09-19/presidentielle-2027-depuis-son-fief-de-yerres-nicolas-dupont-aignan-se-lance-dans",
   "positions": {
     "eco_retraite": {
@@ -181,6 +181,111 @@
       "resume": "Ne propose pas de VIe République mais un retour à l'« esprit de la Ve » : septennat avec référendum révocatoire d'initiative citoyenne à mi-mandat et référendum obligatoire pour certaines réformes.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
       "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ecol_thermique2035": {
+      "valeur": -2,
+      "resume": "Le projet propose de « supprimer l'interdiction des véhicules thermiques à l'horizon 2035 imposée par l'UE ».",
+      "source": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "date_source": "2026-10",
+      "confiance": "programme"
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": 2,
+      "resume": "Le projet propose d'abroger l'ordonnance de 1945 sur la justice des mineurs et de « baisser la majorité pénale à 16 ans », mesure reprise dans ses 20 propositions du 20 octobre 2026.",
+      "source": "https://www.debout-la-france.fr/projet/justice/",
+      "date_source": "2026-10",
+      "confiance": "programme"
+    },
+    "sec_videosurveillance": {
+      "valeur": -2,
+      "resume": "Position déduite d'un acte parlementaire de mars 2023 : il a déposé un amendement de suppression de l'article de la loi JO 2024 autorisant la vidéosurveillance algorithmique, estimant que « la surveillance généralisée de la population, via l'utilisation de l'intelligence artificielle, ne peut aboutir qu'à l'autoritarisme ».",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/amendements/0939/AN/692.pdf",
+      "date_source": "2023-03-16",
+      "confiance": "deduite"
+    },
+    "imm_droitdusol": {
+      "valeur": 2,
+      "resume": "Le projet propose de « supprimer le droit du sol via un référendum », tout en maintenant la naturalisation ; la « fin du droit du sol » figure aussi dans ses 20 propositions du 20 octobre 2026.",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "date_source": "2026-03",
+      "confiance": "programme"
+    },
+    "imm_preference": {
+      "valeur": 2,
+      "resume": "Le projet propose de « supprimer les aides sociales non contributives pour les étrangers (RSA, allocations familiales, aides au logement…) » ; ses propositions du 20 octobre 2026 ajoutent la « priorité aux étudiants français pour les aides universitaires ».",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "date_source": "2026-03",
+      "confiance": "programme"
+    },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "Le projet propose de « sortir du commandement intégré de l'OTAN pour regagner notre indépendance militaire ».",
+      "source": "https://www.debout-la-france.fr/projet/defense/",
+      "date_source": "2026-10",
+      "confiance": "programme"
+    },
+    "eur_defense3": {
+      "valeur": -1,
+      "resume": "Le projet s'engage à porter le budget de la défense à « 2,5 % du PIB », qualifié de « chiffre raisonnable », soit en deçà de 3 %.",
+      "source": "https://www.debout-la-france.fr/projet/defense/",
+      "date_source": "2026-10",
+      "confiance": "programme"
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Le projet défend le caractère solidaire de l'assurance maladie et propose d'élargir la complémentaire santé solidaire aux plus de 65 ans, sans proposer la suppression du rôle des complémentaires.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_signes": {
+      "valeur": 1,
+      "resume": "Le volet instruction publique propose l'« interdiction du port de signes religieux démonstratifs pour tous » ; les parents accompagnateurs de sorties scolaires ne sont pas cités explicitement.",
+      "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "date_source": "2026-10",
+      "confiance": "programme"
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Le projet prévoit de maintenir les bourses sur critères sociaux en tenant compte de l'assiduité et de donner la priorité aux étudiants français pour les aides universitaires, sans proposer d'allocation universelle.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Le projet veut « doper l'apprentissage » (objectif d'un million d'apprentis) et présenter les métiers dès la quatrième, sans proposer d'âge d'entrée en apprentissage à 14 ans.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": 2,
+      "resume": "Le projet propose de « diminuer le nombre de parlementaires » : passer de 577 à 500 députés et de 348 à 300 sénateurs, avec une baisse de 25 % de leurs indemnités.",
+      "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "ins_voteblanc": {
+      "valeur": 2,
+      "resume": "Le projet propose de « prendre en compte le vote blanc dans les résultats des élections » et de reporter le scrutin s'il est majoritaire ; mesure rappelée dans son discours de rentrée du 19 septembre 2026.",
+      "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "date_source": "2026-06",
       "confiance": "programme"
     }
   }

@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "non publié",
   "programme_url": null,
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Essayiste, directrice de la revue L'Audace !, ex-directrice de Marianne. Candidature annoncée le 14/10/2026 sur France Inter (franceinfo : https://www.franceinfo.fr/elections/presidentielle/l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_8236714.html), au nom du mouvement « Nous sommes la France » lancé fin août/septembre 2026 ; soutien de République souveraine (08/10/2026). Mesures annoncées hors grille : priorité à la production française dans la commande publique, suppression des aides aux entreprises non conditionnées à la production en France, hausse des salaires de 20 à 30 % (sans précision sur le SMIC), taxe flottante sur les carburants. Pas de programme publié ; seules 2 affirmations ont pu être sourcées (Sud Radio 15/09/2026, Pleinchamp 10/2026). À recompléter dès la publication d'un programme.",
   "positions": {
     "eco_retraite": {
@@ -177,6 +177,111 @@
       "confiance": null
     },
     "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,

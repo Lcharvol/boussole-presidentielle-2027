@@ -5,7 +5,7 @@
   "statut": "pressenti",
   "programme": "non publié",
   "programme_url": null,
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Président des Hauts-de-France. Le 27/08/2026 (Medef), il a dit qu'il serait candidat (« Je le serai ») ; son entourage précise qu'il ne s'agit pas d'une déclaration officielle, annoncée « entre mi-octobre et la fin de l'année » (aucune déclaration formelle trouvée au 20/10/2026). Candidat indépendant (hors LR, qui soutient Retailleau), refuse toute primaire, promet un mandat unique. Aucun programme 2027 publié (il dit préparer « un projet plus global ») : les pages thématiques de nousfrance.fr ne contiennent pas de mesures. La plupart des positions sont déduites de son programme de la primaire LR 2021, non démenti à ce jour ; aucune déclaration 2025-2026 trouvée sur ces sujets.",
   "positions": {
     "eco_retraite": {
@@ -177,6 +177,111 @@
       "confiance": null
     },
     "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": 2,
+      "resume": "Position déduite (2021) : se disait favorable à l'instauration de la majorité pénale à 15 ans (JDD, 15 mai 2021) ; aucune déclaration 2025-2026 trouvée.",
+      "source": "https://www.revuepolitique.fr/mieux-sanctionner-penalement-les-mineurs-avez-vous-dit/",
+      "date_source": "2021-05-18",
+      "confiance": "deduite"
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position récente trouvée ; la seule mention (Le Monde, 2015) le classait parmi les partisans d'une remise en cause du droit du sol, et son programme 2021 n'en parle pas.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": 1,
+      "resume": "Position déduite (programme 2021) : se dit prêt à durcir les conditions de séjour régulier exigées pour les prestations et à réserver les aides au logement aux étrangers « durablement installés », sans réserver de prestations aux Français.",
+      "source": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
+      "date_source": "2021-11",
+      "confiance": "deduite"
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,

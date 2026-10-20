@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "partiel",
   "programme_url": "https://anasse2027.fr/programme",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Candidature annoncée le 1er-2 juin 2026 (Franceinfo, Libération). En 2022, il n'avait pas obtenu les 500 parrainages ; la collecte 2027 est en cours, ce qui rend sa présence au premier tour incertaine. Le programme 2027 est « en cours d'élaboration » : seul un 4 pages de premières mesures (6 axes) est publié sur anasse2027.fr (non daté ; date indiquée 2026-06 = mois du lancement de campagne, approximative) ; certaines positions sont déduites du programme de pré-campagne 2022 republié sur le même site.",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://anasse2027.fr/programme",
       "date_source": "2026-06",
       "confiance": "programme"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Position déduite du programme de 2022 : dénonce comme « première forme de préférence nationale » la condition de nationalité pour l'emploi public et la surenchère de la droite et de l'extrême droite sur ce thème.",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": -2,
+      "resume": "Le 4 pages de campagne 2027 réclame « pas un euro pour la guerre » et le démantèlement de la machine de guerre française.",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "soc_100secu": {
+      "valeur": 2,
+      "resume": "Position déduite du programme de 2022 : nationalisation de toutes les mutuelles et intégration à la Sécurité sociale, avec un remboursement intégral des soins.",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Le 4 pages de campagne 2027 réclame la revalorisation de toutes les allocations ; le programme de 2022 s'opposait « radicalement à toute réduction des prestations allouées aux chômeurs ».",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "edu_signes": {
+      "valeur": -2,
+      "resume": "Position déduite du programme de 2022, qui dénonce les dispositions empêchant les mères voilées d'accompagner les sorties scolaires ; le 4 pages 2027 demande l'abrogation de la loi de 2004 sur les signes religieux à l'école.",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "edu_etudiants": {
+      "valeur": 2,
+      "resume": "Le 4 pages de campagne 2027 réclame un « revenu étudiant à hauteur du SMIC, financé par le patronat ».",
+      "source": "https://anasse2027.fr/programme",
+      "date_source": "2026-06",
+      "confiance": "programme"
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

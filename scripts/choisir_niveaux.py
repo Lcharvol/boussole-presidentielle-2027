@@ -8,7 +8,7 @@ Dans chaque thème, les questions sont classées par pouvoir de départage :
 Une question sur laquelle tous les candidats sont d'accord, ou dont on connaît peu de
 positions, aide peu à distinguer les candidats : elle passe en mode long.
 - rapide : la meilleure question de chaque thème ;
-- moyen  : les deux meilleures de chaque thème ;
+- moyen  : les trois meilleures de chaque thème ;
 - long   : toutes.
 Sans --ecrire, affiche seulement le classement.
 """
@@ -18,7 +18,7 @@ import sys
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
-PAR_THEME = {"rapide": 1, "moyen": 2}
+PAR_THEME = {"rapide": 1, "moyen": 3}
 
 
 def main():

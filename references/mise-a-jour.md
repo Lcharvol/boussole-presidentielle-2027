@@ -16,7 +16,7 @@ Cherche sur le web la liste actuelle (sources conseillées : la page Wikipédia 
 
 ## 3. Mettre à jour les positions
 
-Pour chaque fiche à rafraîchir, et pour chacune des 25 questions de `data/questions.json` :
+Pour chaque fiche à rafraîchir, et pour chacune des 40 questions de `data/questions.json` :
 
 1. Cherche d'abord dans le programme officiel (`programme_url`) ; s'il vient d'être publié, c'est la priorité absolue.
 2. Sinon, des déclarations récentes (entretiens, discours, votes au Parlement).

@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "partiel",
   "programme_url": "https://attalpresident.fr/programme",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Candidature officialisée le 22 mai 2026 (Mur-de-Barrez, Aveyron) ; désignation par vote interne de Renaissance. Pas de programme complet : six « chantiers » thématiques sur attalpresident.fr (pages non datées) et un « pacte pour la jeunesse » présenté le 10 octobre 2026. Une candidature unique avec Édouard Philippe reste discutée (proposition de médiation de Jean-Louis Borloo, à laquelle Attal s'est dit ouvert). Certaines positions reposent sur des déclarations de 2024, quand il était Premier ministre. Le programme en ligne compte six pages (école, travail et salaires, frontières, IA, dette de l'État, dette écologique) ; sécurité et Europe sont sourcées par l'entretien au JDD (2 août 2026, repris sur attalpresident.fr) et le discours de Reims (17 septembre 2026).",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://www.franceinfo.fr/politique/gabriel-attal/en-meeting-a-arras-gabriel-attal-appelle-a-une-ve-republique-du-21e-siecle_7505410.html",
       "date_source": "2025-09-21",
       "confiance": "declaration"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur l'échéance de 2035 ; son programme prône de « libérer la France des fossiles » et un développement massif de l'électrique, sans se prononcer sur l'interdiction.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la taxation du transport aérien.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": 2,
+      "resume": "Auteur de la loi de 2025 sur la justice des mineurs qui faisait de l'excuse de minorité l'exception pour les récidivistes de 16 ans et plus et créait pour eux une comparution immédiate, dispositions censurées par le Conseil constitutionnel ; en août 2026, propose une évolution constitutionnelle contre la délinquance des mineurs.",
+      "source": "https://www.publicsenat.fr/actualites/politique/justice-des-mineurs-le-conseil-constitutionnel-censure-largement-le-texte-attal-notamment-la-derogation-de-lexcuse-de-minorite",
+      "date_source": "2025-06-19",
+      "confiance": "declaration"
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la vidéosurveillance algorithmique ou la reconnaissance faciale.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": 1,
+      "resume": "Premier ministre en février 2024, a défendu la fin du droit du sol à Mayotte comme une mesure nécessaire, limitée à l'archipel ; aucune proposition trouvée pour le reste du territoire.",
+      "source": "https://outremers360.com/bassin-indien-appli/fin-du-droit-du-sol-a-mayotte-une-mesure-necessaire-selon-gabriel-attal-le-courrier-dengagement-adresse-aux-collectifs-et-elus-ce-mardi-soir-indique-marie-guenevoux",
+      "date_source": "2024-02",
+      "confiance": "declaration"
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position trouvée ; son programme parle de « préférence travail » (immigration choisie par points), sans réserver de prestations aux Français.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur le commandement intégré de l'OTAN.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Son programme veut « poursuivre et amplifier » le réarmement, sans objectif chiffré en pourcentage du PIB.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur un remboursement à 100 % par la Sécurité sociale.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": 2,
+      "resume": "Son programme porte « une réforme de l'assurance chômage qui incite au travail » ; Premier ministre, il avait annoncé en mai 2024 la réduction de la durée d'indemnisation de 18 à 15 mois, réforme ensuite suspendue.",
+      "source": "https://attalpresident.fr/programme/travail-salaires",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur les accompagnateurs de sorties scolaires ; ministre de l'Éducation, il a interdit l'abaya et le qamis aux élèves (2023).",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune proposition trouvée d'allocation d'autonomie étudiante.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur l'entrée en apprentissage dès 14 ans.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": 1,
+      "resume": "Dans son discours d'Arras (septembre 2025), a évoqué la réduction du nombre de parlementaires, sans en préciser l'ampleur.",
+      "source": "https://www.franceinfo.fr/politique/gabriel-attal/en-meeting-a-arras-gabriel-attal-appelle-a-une-ve-republique-du-21e-siecle_7505410.html",
+      "date_source": "2025-09-21",
+      "confiance": "declaration"
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la reconnaissance du vote blanc.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

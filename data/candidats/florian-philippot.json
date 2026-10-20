@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "disponible",
   "programme_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Candidature annoncée le 9 mai 2026 sur France 2 (https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027), assortie d'un engagement à se retirer en cas de candidature jugée plus rassembleuse dans le camp souverainiste (Philippe de Villiers) ; le site du parti évoque aussi une « primaire souverainiste ». N'avait obtenu qu'un parrainage en 2022. Programme : livret « Projet pour la France », édition 2026-2027 (publié en septembre 2026), centré sur le Frexit ; plusieurs mesures y sont présentées comme conditionnées à la sortie de l'UE. Prudence : des résumés de moteurs de recherche attribuaient au programme un rétablissement de l'ISF et une hausse du SMIC de 15 % ; ces mesures ne figurent ni dans le livret officiel ni sur l'agrégateur cité, elles n'ont donc pas été retenues.",
   "positions": {
     "eco_retraite": {
@@ -179,6 +179,111 @@
     "ins_6e": {
       "valeur": null,
       "resume": "Le livret propose le RIC et la révision de la Constitution uniquement par référendum, sans proposer de VIe République ni de réduction des pouvoirs présidentiels.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_thermique2035": {
+      "valeur": -2,
+      "resume": "Le programme propose de « préserver la voiture thermique au-delà de 2035 », qualifiant l'interdiction européenne de « socialement injuste et faussement utile ».",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": 1,
+      "resume": "Le programme veut que l'excuse de minorité ne s'applique que si le juge la motive spécialement (« qui tue comme un adulte doit être jugé comme un adulte »), sans fixer de seuil d'âge à 16 ans.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Le livret refuse l'identité numérique européenne et l'euro numérique au nom des libertés, sans position explicite sur la vidéosurveillance algorithmique.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": 1,
+      "resume": "Position déduite de la charte fondatrice des Patriotes (2017), qui propose « le droit du sol conditionné au mérite » ; le livret 2026-2027 n'aborde pas ce point.",
+      "source": "https://www.publicsenat.fr/actualites/politique/philippot-presente-la-charte-des-patriotes-en-reclamant-un-frexit-79488",
+      "date_source": "2017-11-07",
+      "confiance": "deduite"
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Le livret conditionne les prestations sociales des parents de mineurs récidivistes, sans proposer de priorité aux Français pour les prestations ou le logement social.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "Le programme propose de « quitter l'OTAN » (et non seulement son commandement intégré), jugeant que la France n'en a pas besoin pour assurer sa défense.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Le livret rejette une armée européenne, sans objectif chiffré de budget de défense.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": -1,
+      "resume": "Le programme indique qu'après le Frexit les réformes « visant à raboter les indemnités chômage » pourront être supprimées.",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Le livret fait de la laïcité un pilier de l'école, sans mesure sur les parents accompagnateurs de sorties scolaires.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": 1,
+      "resume": "Le programme veut en finir avec le collège unique et proposer « dès 14 ans des parcours différenciés, y compris vers l'apprentissage ».",
+      "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "date_source": "2026-09",
+      "confiance": "programme"
+    },
+    "ins_parlementaires": {
+      "valeur": 1,
+      "resume": "Position déduite de la charte fondatrice des Patriotes (2017), qui propose la suppression du Sénat et des conseils régionaux ; aucun chiffre sur le nombre de députés.",
+      "source": "https://www.publicsenat.fr/actualites/politique/philippot-presente-la-charte-des-patriotes-en-reclamant-un-frexit-79488",
+      "date_source": "2017-11-07",
+      "confiance": "deduite"
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
       "date_source": null,
       "confiance": null

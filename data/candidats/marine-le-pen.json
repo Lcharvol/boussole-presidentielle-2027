@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "partiel",
   "programme_url": "https://rassemblementnational.fr/22-mesures",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Candidature annoncée le 7 juillet 2026 après l'arrêt de la cour d'appel de Paris (affaire des assistants parlementaires FN) : condamnation confirmée, 3 ans de prison dont 2 avec sursis (partie ferme sous bracelet électronique) et inéligibilité ramenée à 45 mois dont 30 avec sursis, soit 15 mois fermes considérés comme déjà purgés depuis l'exécution provisoire du 31 mars 2025 ; elle est donc juridiquement éligible. Elle s'est pourvue en cassation (pourvoi suspensif de la peine de prison) ; selon la presse, le parquet général a renoncé à se pourvoir. Des juristes estiment que son propre pourvoi pourrait faire revivre la peine de première instance (5 ans d'inéligibilité avec exécution provisoire) — point débattu ; la Cour de cassation doit statuer avant le premier tour (18 avril 2027), date non fixée. Jordan Bardella n'est PAS candidat : il soutient Marine Le Pen, qui l'a présenté comme son futur Premier ministre ; il reste le recours du RN si l'inéligibilité était rétablie. Programme 2027 non publié en entier : contre-budget présenté le 6 octobre 2026, volet retraites annoncé pour le 17 novembre 2026. Plusieurs positions sont déduites du programme 2022 (22 mesures), du programme législatif 2024 ou des votes du groupe RN. Sources : https://www.rts.ch/info/monde/2026/article/condamnee-en-appel-marine-le-pen-pourra-se-presenter-en-2027-29296439.html ; https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/presidentielle-bracelet-electronique-pourvoi-en-cassation-les-questions-qui-se-posent-apres-la-condamnation-reduite-de-marine-le-pen-en-appel_8097893.html ; https://www.france24.com/fr/france/20260708-jordan-bardella-se-r%C3%A9jouit-marine-le-pen-pr%C3%A9sidentielle-2027-extreme-droite-rassemblement-national-campagne Au 20/10/2026, elle reste la candidate du RN : la Cour de cassation examinera le 16 décembre 2026 les seules QPC liées à son pourvoi (transmission éventuelle au Conseil constitutionnel, qui aurait trois mois) ; un arrêt sur le fond pourrait intervenir fin mars ou début avril 2027. Source : https://actu.orange.fr/politique/affaire-des-assistants-parlementaires-du-rn-la-cour-de-cassation-fixera-le-sort-de-marine-le-pen-le-16-decembre-l-express-via-6medias-CNT000002t1bDR.html",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://www.cnews.fr/france/2022-04-12/proportionnelle-referendum-septennat-marine-le-pen-precise-son-programme-avant-le",
       "date_source": "2022-04-12",
       "confiance": "deduite"
+    },
+    "ecol_thermique2035": {
+      "valeur": -2,
+      "resume": "Position déduite du groupe RN : ses députés ont fait supprimer en février 2025 l'article inscrivant la fin des ventes de voitures thermiques neuves en 2035, jugeant cet objectif « irréaliste ».",
+      "source": "https://lcp.fr/actualites/fin-de-la-vente-des-voitures-thermiques-neuves-en-2035-l-assemblee-s-y-oppose-lors-d-un",
+      "date_source": "2025-02-18",
+      "confiance": "deduite"
+    },
+    "ecol_aerien": {
+      "valeur": -1,
+      "resume": "Position déduite du groupe RN : il a voté contre la hausse de la taxe sur les billets d'avion au budget 2025, tout en proposant de taxer davantage la classe affaires et les jets privés.",
+      "source": "https://www.linfodurable.fr/les-deputes-approuvent-lalourdissement-de-la-fiscalite-du-transport-aerien-pour-un-47838",
+      "date_source": "2024-11-09",
+      "confiance": "deduite"
+    },
+    "sec_mineurs": {
+      "valeur": 1,
+      "resume": "Position déduite : Jordan Bardella a proposé en 2024 de « mettre un terme à l'excuse de minorité », sans préciser les âges concernés.",
+      "source": "https://vl-media.fr/cest-quoi-lexcuse-de-minorite-que-veut-supprimer-jordan-bardella/",
+      "date_source": "2024-04-17",
+      "confiance": "deduite"
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : supprimer le droit du sol et limiter l'accès à la nationalité à la naturalisation.",
+      "source": "https://rassemblementnational.fr/22-mesures",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "imm_preference": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : priorité nationale d'accès au logement social et à l'emploi, et aides sociales réservées aux Français.",
+      "source": "https://rassemblementnational.fr/22-mesures",
+      "date_source": "2022",
+      "confiance": "deduite"
+    },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "A déclaré qu'élue elle ferait sortir la France du commandement militaire intégré de l'OTAN, tout en restant dans l'Alliance.",
+      "source": "https://bdnews24.com/world/ae2775074f20",
+      "date_source": "2026-05-23",
+      "confiance": "declaration"
+    },
+    "eur_defense3": {
+      "valeur": 2,
+      "resume": "Position déduite : un amendement de députés RN à l'actualisation de la loi de programmation militaire (avril 2026) visait « au minimum 3 % » du PIB pour la défense en 2030, rappelant que c'est le programme du RN depuis 2017.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2695/AN/565",
+      "date_source": "2026-04-29",
+      "confiance": "deduite"
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "S'est opposée en 2019 à la réforme de l'assurance chômage et à la dégressivité des allocations, qualifiées de « coup de rabot » de la protection sociale ; le groupe RN a aussi critiqué les réductions de durée d'indemnisation en 2023-2024.",
+      "source": "https://www.publicsenat.fr/actualites/politique/assurance-chomage-le-pen-denonce-un-nouveau-coup-de-rabot-de-la-protection-sociale",
+      "date_source": "2019-06-18",
+      "confiance": "declaration"
+    },
+    "edu_signes": {
+      "valeur": 2,
+      "resume": "Position déduite (2019) : a jugé le voile non souhaitable lors des sorties scolaires, et le RN veut étendre l'interdiction des signes religieux de la loi de 2004 à tout l'espace public.",
+      "source": "https://www.publicsenat.fr/actualites/politique/la-femme-voilee-prise-a-partie-est-une-militante-selon-marine-le-pen-146393",
+      "date_source": "2019-10-17",
+      "confiance": "deduite"
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur une allocation d'autonomie universelle ; le RN propose en 2026 une « prime d'activité étudiante » liée aux emplois étudiants et la suppression de la CVEC.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": 2,
+      "resume": "Position déduite (campagne 2017) : proposait de réduire le Parlement à 300 députés et 200 sénateurs ; aucune déclaration récente vérifiée.",
+      "source": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-veut-reduire-le-nombre-de-deputes-et-un-senat-allege-52359",
+      "date_source": "2017-01-03",
+      "confiance": "deduite"
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position récente trouvée ; en 2017 elle ne faisait pas partie des candidats proposant la reconnaissance du vote blanc.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

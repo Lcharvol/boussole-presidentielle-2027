@@ -5,7 +5,7 @@
   "statut": "désigné par son parti",
   "programme": "non publié",
   "programme_url": null,
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Candidature déclarée fin novembre 2025, investie à l'unanimité par la convention nationale de Génération Écologie le 6 juin 2026. Refuse toute primaire ; doit réunir les 500 parrainages. Son site (delphinebatho.fr) indique que le programme est en cours d'élaboration avec les citoyens. Faute de programme, les positions reposent surtout sur ses votes de députée des Deux-Sèvres (relevés Datan, d'après les scrutins publics de l'Assemblée) et sur le texte d'orientation de son parti (2023).",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://www.generationecologie.fr/app/uploads/2025/07/VIVRE-AUTREMENT-14eme-convention-nationale.pdf",
       "date_source": "2023-12",
       "confiance": "deduite"
+    },
+    "ecol_thermique2035": {
+      "valeur": 2,
+      "resume": "A voté pour l'amendement avançant de 2040 à 2035 l'interdiction de la vente des véhicules diesel et essence neufs (loi Climat et résilience).",
+      "source": "https://datan.fr/votes/legislature-15/vote_3581",
+      "date_source": "2021-04-09",
+      "confiance": "declaration"
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": -1,
+      "resume": "A voté contre la loi Attal « visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants », qui restreignait notamment l'excuse de minorité pour les 16-18 ans (vote sur l'ensemble du texte).",
+      "source": "https://datan.fr/votes/legislature-17/vote_1624",
+      "date_source": "2025-05-13",
+      "confiance": "declaration"
+    },
+    "sec_videosurveillance": {
+      "valeur": -1,
+      "resume": "A voté contre le projet de loi relatif aux Jeux olympiques de 2024, qui autorisait l'expérimentation de la vidéosurveillance algorithmique (vote sur l'ensemble du texte).",
+      "source": "https://datan.fr/votes/legislature-16/vote_1305",
+      "date_source": "2023-03-28",
+      "confiance": "declaration"
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur un objectif de 3 % du PIB ; elle a voté pour l'actualisation de la loi de programmation militaire en 2026.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": -1,
+      "resume": "A voté contre la loi « marché du travail » de 2022, qui a permis de moduler la durée d'indemnisation chômage selon la conjoncture (vote sur l'ensemble du texte).",
+      "source": "https://datan.fr/votes/legislature-16/vote_236",
+      "date_source": "2022-10-11",
+      "confiance": "declaration"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": 1,
+      "resume": "A voté pour la proposition de résolution invitant le Gouvernement à mettre en place un revenu étudiant.",
+      "source": "https://datan.fr/votes/legislature-15/vote_2761",
+      "date_source": "2020-06-18",
+      "confiance": "declaration"
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

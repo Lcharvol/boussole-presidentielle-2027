@@ -9,7 +9,7 @@ Ce skill aide une personne à voir de quels candidats elle est proche, en compar
 
 ## Contenu du skill
 
-- `data/questions.json` : les 25 affirmations, regroupées en 8 thèmes, et l'échelle de réponse.
+- `data/questions.json` : les 40 affirmations, 5 par thème sur 8 thèmes, et l'échelle de réponse.
 - `data/candidats/<slug>.json` : une fiche par candidat, avec ses positions, chacune ayant un résumé, une source, une date et un niveau de confiance (`programme`, `declaration` ou `deduite`). Le format est décrit dans `data/candidats/_FORMAT.md`.
 - `scripts/score.py` : calcule la proximité à partir d'un fichier de réponses.
 - `scripts/check_data.py` : contrôle les fiches et signale celles qui sont incomplètes ou anciennes.
@@ -18,7 +18,7 @@ Ce skill aide une personne à voir de quels candidats elle est proche, en compar
 ## Choisir le mode
 
 - La personne veut savoir quel candidat lui correspond, faire le test, etc. → **Questionnaire** (ci-dessous).
-- Elle demande la position d'un ou plusieurs candidats sur un sujet → lis les fiches concernées et réponds en citant les sources. Si le sujet n'est pas dans les 25 questions, fais une recherche web et dis-le.
+- Elle demande la position d'un ou plusieurs candidats sur un sujet → lis les fiches concernées et réponds en citant les sources. Si le sujet n'est pas dans les 40 questions, fais une recherche web et dis-le.
 - Elle demande de mettre à jour les programmes, d'ajouter un candidat, ou les données sont anciennes → **Mise à jour** : lis `references/mise-a-jour.md`.
 
 ## Questionnaire
@@ -36,8 +36,8 @@ Puis fais choisir le mode (avec `AskUserQuestion` s'il est disponible) :
 | Mode | Questions | Durée | Fiabilité |
 |---|---|---|---|
 | Rapide | 8 (une par thème) | ~2 min | Donne une tendance. Les écarts entre candidats proches ne sont pas significatifs. |
-| Moyen | 16 (deux par thème) | ~5 min | Bon compromis pour départager des candidats d'une même famille politique. |
-| Long | 25 (toutes) | ~8 min | Le plus fiable. Recommandé si l'on hésite entre plusieurs candidats. |
+| Moyen | 24 (trois par thème) | ~6 min | Bon compromis pour départager des candidats d'une même famille politique. |
+| Long | 40 (toutes) | ~12 min | Le plus fiable. Recommandé si l'on hésite entre plusieurs candidats. |
 
 Chaque question de `questions.json` a un champ `niveau`. Le mode rapide pose les questions `rapide`, le mode moyen les questions `rapide` et `moyen`, le mode long toutes. Les questions des modes courts sont celles qui départagent le plus les candidats dans chaque thème (voir `scripts/choisir_niveaux.py`) : un test court reste ainsi aussi informatif que possible. Si la personne ne choisit pas, propose le mode moyen.
 

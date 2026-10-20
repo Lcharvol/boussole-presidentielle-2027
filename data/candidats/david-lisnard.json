@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "partiel",
   "programme_url": "https://www.unenouvelleenergie.fr/notre-programme/",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Maire de Cannes, président de l'AMF ; candidature annoncée au printemps 2026 (31 mars selon France-Vote, à confirmer) après son départ de LR. Favorable à une primaire ouverte de la droite et du centre, qui n'a pas eu lieu. Programme publié par thèmes sur le site de Nouvelle Énergie, non daté mesure par mesure (date 2026 = consultation du site). Plusieurs sources sont des pages FAQ du mouvement lui-même, qui citent des discours et interviews datés.",
   "positions": {
     "eco_retraite": {
@@ -182,6 +182,111 @@
       "source": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
       "date_source": "2026",
       "confiance": "programme"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_mineurs": {
+      "valeur": 2,
+      "resume": "Le programme veut abaisser la majorité pénale à 16 ans, inverser l'excuse de minorité dès 13 ans et étendre la comparution immédiate dès 13 ans pour les cas graves.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "sec_videosurveillance": {
+      "valeur": 1,
+      "resume": "Le programme veut « moderniser les outils (vidéoprotection, radios numériques, IA de prévention) » sans mentionner la reconnaissance faciale.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "imm_droitdusol": {
+      "valeur": 1,
+      "resume": "Le programme prévoit de « mettre fin à l'automaticité du droit du sol », sans le supprimer.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "imm_preference": {
+      "valeur": 1,
+      "resume": "Le programme conditionne les prestations sociales non contributives des étrangers en situation régulière à cinq ans de résidence, sans réserver de prestations aux Français ; le logement social n'est pas évoqué.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_defense3": {
+      "valeur": 2,
+      "resume": "Propose de porter le budget de la défense à 3,5 % du PIB (entretien au Diplomate).",
+      "source": "https://lediplomate.media/david-lisnard-souverainete-europeenne/",
+      "date_source": "2025-03-22",
+      "confiance": "declaration"
+    },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_apprentissage": {
+      "valeur": 1,
+      "resume": "Le programme prévoit le « développement massif de l'apprentissage » et indique que « la limite d'âge pour l'apprentissage sera revue à la baisse », sans préciser d'âge.",
+      "source": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+      "date_source": "2026",
+      "confiance": "programme"
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
     }
   }
 }

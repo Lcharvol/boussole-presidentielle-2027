@@ -5,7 +5,7 @@
   "statut": "désigné par son parti",
   "programme": "disponible",
   "programme_url": "https://lesecologistes.fr/share/page/6ImK65GKUnvibm33WGkjkj/projet",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Déclarée en octobre 2025, désignée par les adhérents des Écologistes le 8 décembre 2025 (86 %) pour la primaire unitaire de la gauche, finalement abandonnée. Le conseil fédéral du 21 septembre 2026 la maintient candidate, mais les adhérents voteront du 10 au 13 décembre 2026 entre sa candidature et un ralliement à un autre candidat de gauche (Public Sénat). Positions tirées du programme des Écologistes « Pour une prospérité écologique » (juillet 2026, 557 mesures), qu'elle porte.",
   "positions": {
     "eco_retraite": {
@@ -179,6 +179,111 @@
     "ins_6e": {
       "valeur": 2,
       "resume": "Propose de « passer à la Première République écologique et citoyenne » : septennat unique, abrogation de l'article 16, président recentré sur un rôle de garant.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "ecol_thermique2035": {
+      "valeur": 2,
+      "resume": "Le programme veut « maintenir l'objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs ».",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "ecol_aerien": {
+      "valeur": 2,
+      "resume": "Le programme veut « augmenter la fiscalité sur les billets d'avion » (TSBA et TVA) et réduire les taux réduits sur le kérosène des vols intérieurs, ainsi qu'interdire l'atterrissage des jets privés.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "sec_mineurs": {
+      "valeur": -2,
+      "resume": "Le programme réaffirme « la primauté de l'éducatif sur le répressif » pour les mineurs délinquants, veut limiter les jugements rapides et abroger la loi Attal de 2025 (qui restreignait l'excuse de minorité pour les 16-18 ans).",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "sec_videosurveillance": {
+      "valeur": -2,
+      "resume": "Le programme veut « interdire la reconnaissance faciale », encadrer la vidéosurveillance et en faire évaluer les dispositifs de manière indépendante.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "imm_droitdusol": {
+      "valeur": -2,
+      "resume": "Le programme veut « garantir l'application du droit du sol pour les enfants nés en France indépendamment de la situation des parents » et supprimer le régime dérogatoire de Mayotte.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Le programme des Écologistes ne mentionne pas explicitement la préférence nationale ; aucune déclaration trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": -1,
+      "resume": "Le programme estime que « nous ne pouvons pas nous priver de l'Alliance atlantique à court terme » et veut bâtir un commandement militaire intégré européen tenant compte du pilier européen de l'OTAN ; il ne propose pas de quitter le commandement intégré de l'OTAN.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Le programme prévoit une nouvelle loi de programmation militaire « prenant en compte nos moyens budgétaires » sans fixer d'objectif en % du PIB ; aucune déclaration trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": 1,
+      "resume": "Le programme veut « bâtir la Grande Sécu » : prise en charge à 100 % par l'Assurance maladie des « soins essentiels », suppression des franchises et couverture des mutuelles limitée « aux seuls soins optionnels ».",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Le programme veut abroger les réformes de l'assurance chômage des deux derniers quinquennats, dont celle du calcul de l'allocation, et indexer les allocations sur l'inflation.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "edu_signes": {
+      "valeur": -2,
+      "resume": "Le programme affirme que la laïcité « impose la neutralité au service public et à ses agent·es, pas à ses usagers » et qu'il faut respecter le port de vêtements religieux ; il ne mentionne pas explicitement les sorties scolaires (position interprétée).",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "edu_etudiants": {
+      "valeur": 1,
+      "resume": "Le programme étend la « garantie d'autonomie » (50 % du Smic net) dès 18 ans aux jeunes fiscalement indépendants et refond les bourses pour les étudiants rattachés à leur famille, sans allocation universelle pour tous les étudiants.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "edu_apprentissage": {
+      "valeur": -1,
+      "resume": "Le programme veut « défendre un collège unique et inclusif permettant d'accueillir tous les élèves » ; il ne traite pas explicitement de l'apprentissage à 14 ans (position interprétée).",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "ins_parlementaires": {
+      "valeur": null,
+      "resume": "Le programme veut « démocratiser le Sénat » sur une base régionale mais ne se prononce pas sur le nombre de parlementaires ; aucune déclaration trouvée.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_voteblanc": {
+      "valeur": 1,
+      "resume": "Le programme veut « reconnaître le vote blanc » en attribuant un nombre équivalent de sièges à des citoyens tirés au sort pour les élections territoriales.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
       "date_source": "2026-07",
       "confiance": "programme"

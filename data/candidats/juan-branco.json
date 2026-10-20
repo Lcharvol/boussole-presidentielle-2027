@@ -5,7 +5,7 @@
   "statut": "déclaré",
   "programme": "disponible",
   "programme_url": "https://ruches.org/le-projet",
-  "mis_a_jour": "2026-10-20",
+  "mis_a_jour": "2026-10-21",
   "notes": "Candidature annoncée le 19 décembre 2025 sur Sud Radio (https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle) ; recherche de parrainages en cours. Programme « La Voie » (845 mesures, élaboré de façon participative) publié sur ruches.org ; la page n'est pas datée, date_source « 2026-07 » estimée d'après l'horodatage du PDF du programme (16 juillet 2026). Particularité : de nombreuses mesures (sortie de l'UE et de l'OTAN, RIC, constituante) sont proposées par référendum, et certains sujets (drogues, régime législatif) sont présentés comme des options alternatives soumises à une assemblée constituante.",
   "positions": {
     "eco_retraite": {
@@ -179,6 +179,111 @@
     "ins_6e": {
       "valeur": 0,
       "resume": "Le programme propose une assemblée constituante chargée d'écrire une nouvelle Constitution et des mandats révocables, mais aussi la suppression du poste de Premier ministre et un mandat présidentiel de 7 ans renouvelable jusqu'à trois fois.",
+      "source": "https://ruches.org/le-projet",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ecol_aerien": {
+      "valeur": 1,
+      "resume": "Le programme prévoit la « fin de l'exemption de TICPE sur les vols intérieurs », parmi des mesures de financement des transports en commun et du rail.",
+      "source": "https://ruches.org/le-projet",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Le programme prévoit une « réduction stricte des prérogatives de surveillance généralisée », sans mesure explicite sur la vidéosurveillance algorithmique dans l'espace public.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Le programme réserve l'attribution des logements sociaux aux « classes les plus défavorisées », sans critère de nationalité.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "eur_otan": {
+      "valeur": 1,
+      "resume": "Le programme propose un référendum sur la « sortie de l'OTAN (commandement intégré ou du Traité) » et une politique de neutralité, sans trancher lui-même.",
+      "source": "https://ruches.org/le-projet",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Le programme détaille de nombreux équipements militaires (300 avions de combat, drones, frégates) sans objectif de budget en pourcentage du PIB.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "soc_100secu": {
+      "valeur": 2,
+      "resume": "Le programme prévoit l'« abolition des complémentaires santé et mutuelles » et leur absorption dans un « système unique de sécurité sociale intégrale ».",
+      "source": "https://ruches.org/le-projet",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "soc_chomage": {
+      "valeur": 1,
+      "resume": "Le programme prévoit la « dégressivité des allocations chômage à partir de la première année », tout en ouvrant trois mois de droits en cas de démission.",
+      "source": "https://ruches.org/le-projet",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Le programme soumet à une constituante le choix entre confirmation de la loi de 1905 et régime concordataire, sans mesure sur les sorties scolaires.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "edu_etudiants": {
+      "valeur": 1,
+      "resume": "Le programme prévoit l'« extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources » et détachée du foyer fiscal familial, ce qui n'est pas une allocation réservée aux étudiants.",
+      "source": "https://ruches.org/le-projet",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "date_source": null,
+      "confiance": null
+    },
+    "ins_parlementaires": {
+      "valeur": 1,
+      "resume": "Le programme soumet à une constituante trois options qui réduisent toutes le nombre de parlementaires (chambre basse de 314 députés et chambre haute tirée au sort absorbant Sénat et CESE, suppression des deux chambres, ou fusion).",
+      "source": "https://ruches.org/le-projet",
+      "date_source": "2026-07",
+      "confiance": "programme"
+    },
+    "ins_voteblanc": {
+      "valeur": 2,
+      "resume": "Le programme prévoit la « prise en compte du vote nul et blanc », rendant caduc le mandat électoral en cas de majorité de vote blanc.",
       "source": "https://ruches.org/le-projet",
       "date_source": "2026-07",
       "confiance": "programme"
