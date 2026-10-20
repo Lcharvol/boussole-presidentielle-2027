@@ -132,7 +132,7 @@
       "citation": "Mettre fin à l’immigration de travail et à la directive européenne des travailleurs détachés.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": -2,
@@ -141,7 +141,7 @@
       "citation": "Rejeter la création d’une armée européenne.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 2,
@@ -150,7 +150,7 @@
       "citation": "Le Frexit est ainsi la clé de voûte du projet des Patriotes, car c’est la condition incontournable du redressement de notre pays.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -2,
@@ -159,7 +159,7 @@
       "citation": "Cesser d’entretenir la guerre en Ukraine.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": null,
@@ -222,7 +222,7 @@
       "citation": "Créer le référendum d’initiative citoyenne (RIC) sur tout sujet et l’inscrire dans la Constitution.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": null,
@@ -294,7 +294,7 @@
       "citation": "Quitter l’OTAN est l’une des conditions de notre indépendance sur la scène internationale.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": null,

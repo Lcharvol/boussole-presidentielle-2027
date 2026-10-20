@@ -141,7 +141,7 @@
       "citation": "Activation de l’article 50 (Frexit) : dès la première semaine de son mandat, il s’engage à notifier l’activation de l’article 50 du Traité sur l’Union européenne afin d’engager une procédure de sortie sous deux ans.",
       "date_source": "2026-09-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 2,
@@ -150,7 +150,7 @@
       "citation": "dès la première semaine de son mandat, il s’engage à notifier l’activation de l’article 50 du Traité sur l’Union européenne afin d’engager une procédure de sortie sous deux ans. Il refuse l’idée d’un référendum préalable sur le sujet, estimant que son élection vaudra mandat.",
       "date_source": "2026-09-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -2,
@@ -159,7 +159,7 @@
       "citation": "Guerre en Ukraine : arrêt immédiat de tout versement d’aides financières et militaires à l’Ukraine dès sa prise de fonction.",
       "date_source": "2026-09-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": null,
@@ -222,7 +222,7 @@
       "citation": "Démocratie directe et liberté d’expression : instauration du Référendum d’Initiative Citoyenne (RIC).",
       "date_source": "2026-09-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": -1,
@@ -294,7 +294,7 @@
       "citation": "Libération de l’OTAN : notification immédiate au Département d’État américain via l’article 13 pour faire sortir la France de l’alliance sous un an.",
       "date_source": "2026-09-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": -2,
@@ -357,7 +357,7 @@
       "citation": "Réduction drastique des élus et des structures : réduction du nombre de députés et de sénateurs",
       "date_source": "2026-09-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_voteblanc": {
       "valeur": null,

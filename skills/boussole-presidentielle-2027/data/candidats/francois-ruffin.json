@@ -15,7 +15,7 @@
       "citation": "Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
       "date_source": "2026-04-13",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": 2,
@@ -24,7 +24,7 @@
       "citation": "Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
       "date_source": "2026-04-13",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,
@@ -42,7 +42,7 @@
       "citation": "Scrutin public n°325 sur l'amendement n° 2657 de M. Philippe Brun après l'article 3 du projet de loi de finances pour 2023 (première lecture).",
       "date_source": "2022-10-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": null,
@@ -105,7 +105,7 @@
       "citation": "PROPOSITION DE LOI relative à la légalisation de la production, de la vente et de la consommation du cannabis sous le contrôle de l’État",
       "date_source": "2021-11-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": 0,
@@ -168,7 +168,7 @@
       "citation": "Scrutin public n°1812 sur l'amendement n° 1 de M. Garot et les amendements identiques suivants après l'article 2 de la proposition de loi visant à améliorer l'accès aux soins par l'engagement territorial des professionnels (première lecture).",
       "date_source": "2023-06-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": 2,
@@ -252,13 +252,13 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 2,
-      "resume": "A voté contre la loi Attal sur la justice des mineurs (texte de CMP, 13 mai 2025), qui facilite la comparution immédiate des mineurs de plus de 16 ans et restreint l'excuse de minorité pour les récidivistes de plus de 16 ans.",
+      "valeur": 1,
+      "resume": "A voté contre la loi Attal sur la justice des mineurs (texte de CMP, 13 mai 2025), qui facilite la comparution immédiate des mineurs de plus de 16 ans et restreint l'excuse de minorité pour les récidivistes de plus de 16 ans ; valeur +1 : un vote contre l'ensemble du texte, qui comporte aussi d'autres mesures.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
       "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
       "date_source": "2025-05-13",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": -1,
@@ -276,7 +276,7 @@
       "citation": "Scrutin public n°697 sur l'amendement n° 7 de M. Gillet et l'amendement identique suivant de rédaction globale de l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
       "date_source": "2025-02-06",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": -2,
@@ -285,7 +285,7 @@
       "citation": "Face à cette faillite, l’extrême droite promet de réserver le logement social et les aides personnalisées au logement aux personnes de nationalité française. Outre la xénophobie et le racisme qui sous-tendent cette proposition, celle-ci ne serait d’aucune efficacité […]",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_otan": {
       "valeur": null,
