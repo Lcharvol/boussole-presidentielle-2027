@@ -60,7 +60,7 @@
       "citation": "Une transition pour sortir du nucléaire ne saurait se faire sans s’attaquer aux patrons du secteur et seuls les travailleuses et travailleurs de l’énergie sont à même de le faire.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": null,
@@ -87,7 +87,7 @@
       "citation": "Les annonces de Macron de doubler le nombre de policiers dans les dix prochaines années et de durcir la réponse pénale montrent bien que le renforcement du système répressif sont consubstantiels à l’avancée du néolibéralisme.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": null,
@@ -105,7 +105,7 @@
       "citation": "il faut légaliser, sous contrôle de l’État et avec un suivi médical, lorsque cela l’exige, l’ensemble des substances stupéfiantes et addictives, à commencer par le cannabis […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": -2,
@@ -123,7 +123,7 @@
       "citation": "Cette action xénophobe déploie une vieille obsession raciste de la droite et l’extrême-droite, qui militent depuis des années pour une restriction drastique de l’AME en la limitant aux seules urgences vitales.",
       "date_source": "2026-01-19",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": 2,
@@ -186,7 +186,7 @@
       "citation": "15 h d’activité pour les allocataires du RSA : le Senat déclare la guerre aux pauvres",
       "date_source": "2023-07-12",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": null,
@@ -285,7 +285,7 @@
       "citation": "dans le service public, on ne peut devenir fonctionnaire qu’en étant de nationalité française ou ressortissant d’un autre État européen, ce qui établit la première forme de préférence nationale à l’embauche.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_otan": {
       "valeur": null,
@@ -312,7 +312,7 @@
       "citation": "sur la base de la nationalisation de toutes les mutuelles et leur intégration à la Sécu, gérée par les professionnels du secteur et les usagers, garantissant un remboursement intégral des soins pour tous celles et ceux qui résident sur le territoire.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_chomage": {
       "valeur": -2,
@@ -330,7 +330,7 @@
       "citation": "De la loi sur l’interdiction du voile dans les collèges et lycées aux dispositions qui empêchent aux mamans voilées d’accompagner les enfants dans les sorties scolaires, le gouvernement n’a de cesse d’utiliser la question de l’émancipation des femmes […] à des fins racistes.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_etudiants": {
       "valeur": 2,

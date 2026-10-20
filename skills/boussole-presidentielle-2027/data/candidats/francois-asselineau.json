@@ -24,7 +24,7 @@
       "citation": "Nous augmenterons le SMIC brut de +24% sur le quinquennat (soit une moyenne de +4,4% par an cumulés sur 5 ans)",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,
@@ -60,7 +60,7 @@
       "citation": "je prévois de développer la filière nucléaire française en lançant la construction de dix nouvelles centrales qui seront des exemples en matière de limitation des déchets produits et qui contribueront à renouveler notre parc.",
       "date_source": "2022-02-05",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -1,
@@ -87,7 +87,7 @@
       "citation": "Nous rétablirons des peines planchers pour les auteurs récidivistes de ces mêmes infractions, avec des planchers augmentant à chaque nouvelle récidive",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": null,
@@ -204,7 +204,7 @@
       "citation": "Nous veillerons au grand retour de la discipline et du respect des enseignants. La moindre agression, ne fût-elle que verbale, fera l’objet de sanctions immédiates, voire de poursuites judiciaires. Le port de vêtements neutres pour les élèves sera favorisé",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": 1,
@@ -303,7 +303,7 @@
       "citation": "Nous porterons le budget de la défense à hauteur d’au moins 3% du PIB sur la durée du quinquennat (contre 1,9% en 2019)",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_100secu": {
       "valeur": null,

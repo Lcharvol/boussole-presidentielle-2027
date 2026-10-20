@@ -60,7 +60,7 @@
       "citation": "Sa politique énergétique s’appuie fortement sur le nucléaire, « la voie du salut énergétique » : remise en cause de la fermeture prévue des douze réacteurs, création de 14 nouveaux EPR.",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,
@@ -69,7 +69,7 @@
       "citation": "- Interdire tout nouveau projet de construction d’éoliennes sur terre et en mer. - Geler les projets en cours d’éolien en mer.",
       "date_source": "2022-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": -1,
@@ -87,7 +87,7 @@
       "citation": "1. Instaurer des peines planchers pour chaque crime et délit",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": 1,
@@ -123,7 +123,7 @@
       "citation": "suppression de toutes les aides sociales aux étrangers extra-européens, suppression de l’aide médicale d’Etat, suppression du droit du sol",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": -2,
@@ -141,7 +141,7 @@
       "citation": "S’ensuivra une réforme institutionnelle visant à rendre le référendum obligatoire pour « toutes ratification de traités européens, toute révision de la Constitution ou tout élargissement de l’Union européenne ».",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 2,
@@ -150,7 +150,7 @@
       "citation": "L’ancien journaliste préconise également une inversion de la hiérarchie des normes en instaurant la « supériorité des nouvelles lois nationales sur tous les textes internationaux et européens » par la révision de l’article 55 de la Constitution.",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -1,
@@ -168,7 +168,7 @@
       "citation": "Opposé à la restriction de la liberté d’installation, le candidat d’extrême-droite opte pour l’incitation, en proposant de rémunérer 10 à 15 euros de plus les consultations des médecins installés dans les zones désertifiées.",
       "date_source": "2022-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": -1,
@@ -258,7 +258,7 @@
       "citation": "6. Abaisser l’âge de la majorité pénale de 18 à 16 ans",
       "date_source": "2022-02-15",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": null,
@@ -276,7 +276,7 @@
       "citation": "suppression de l’aide médicale d’Etat, suppression du droit du sol, expulsion de tous les étrangers fichés S et étrangers délinquants.",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": 2,
@@ -285,7 +285,7 @@
       "citation": "Éric Zemmour Président, la loi SRU sera abrogée et les étrangers interdits d’accès aux logements sociaux.",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_otan": {
       "valeur": 2,
@@ -294,7 +294,7 @@
       "citation": "Même son de cloche à droite, où Éric Zemmour et Nicolas Dupont-Aignan, qui citent la décision de Charles de Gaulle de 1966. Ils veulent quitter le commandement intégré de l’organisation.",
       "date_source": "2022-03-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": null,
@@ -330,7 +330,7 @@
       "citation": "Le port du voile dans l’espace public sera interdit tout comme les « mosquées imposantes » et les financements étrangers.",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_etudiants": {
       "valeur": null,
