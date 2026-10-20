@@ -23,25 +23,25 @@ Il peut aussi répondre à « quelle est la position de X sur Y ? » et mettre �
 /plugin install boussole-presidentielle-2027@lcharvol-skills
 ```
 
-**Claude Code (skill seul)** : clonez le dépôt dans vos skills.
+**Claude Code (skill seul)** : copiez le dossier du skill dans vos skills.
 
 ```bash
-git clone https://github.com/Lcharvol/boussole-presidentielle-2027 ~/.claude/skills/boussole-presidentielle-2027
+git clone https://github.com/Lcharvol/boussole-presidentielle-2027 /tmp/boussole && cp -r /tmp/boussole/skills/boussole-presidentielle-2027 ~/.claude/skills/
 ```
 
-**Claude.ai** : téléchargez le dépôt en zip, puis ajoutez-le dans *Settings → Capabilities → Skills*.
+**Claude.ai** : zippez le dossier `skills/boussole-presidentielle-2027`, puis ajoutez-le dans *Settings → Capabilities → Skills*.
 
 Ensuite, demandez simplement : « Pour qui voter en 2027 ? » ou « Fais-moi le test de la présidentielle ».
 
 ## Méthode
 
-- **Positions** : chaque candidat a une fiche dans [`data/candidats/`](data/candidats/). Pour chaque question, sa position est notée de -2 à +2, avec un résumé, une URL source, une date et un niveau de confiance :
+- **Positions** : chaque candidat a une fiche dans [`data/candidats/`](skills/boussole-presidentielle-2027/data/candidats/). Pour chaque question, sa position est notée de -2 à +2, avec un résumé, une URL source, une date et un niveau de confiance :
   - `programme` : écrit dans le programme officiel 2027 ;
   - `declaration` : entretien, discours ou vote récent ;
   - `deduite` : position du parti ou programme de 2022, non démentie.
   Sans source, la position reste vide (`null`) : on ne devine jamais à partir de l'étiquette politique.
-- **Calcul** ([`scripts/score.py`](scripts/score.py)) : pour chaque question où vous et le candidat avez une position, l'accord vaut `1 - |écart| / 4`, de 1 (identique) à 0 (opposé). Le score est la moyenne de ces accords, pondérée par l'importance que vous donnez à chaque thème. Un candidat dont la position n'est connue que sur moins de la moitié de vos réponses est classé à part.
-- **Modes** ([`scripts/choisir_niveaux.py`](scripts/choisir_niveaux.py)) : dans chaque thème, les questions sont classées selon leur pouvoir de départage (écart-type des positions des candidats × part des positions connues). La meilleure va en mode rapide, les deux suivantes en mode moyen, les autres en mode long.
+- **Calcul** ([`scripts/score.py`](skills/boussole-presidentielle-2027/scripts/score.py)) : pour chaque question où vous et le candidat avez une position, l'accord vaut `1 - |écart| / 4`, de 1 (identique) à 0 (opposé). Le score est la moyenne de ces accords, pondérée par l'importance que vous donnez à chaque thème. Un candidat dont la position n'est connue que sur moins de la moitié de vos réponses est classé à part.
+- **Modes** ([`scripts/choisir_niveaux.py`](skills/boussole-presidentielle-2027/scripts/choisir_niveaux.py)) : dans chaque thème, les questions sont classées selon leur pouvoir de départage (écart-type des positions des candidats × part des positions connues). La meilleure va en mode rapide, les deux suivantes en mode moyen, les autres en mode long.
 - **Neutralité** : les affirmations sont posées telles quelles, sans reformulation, et les positions des candidats ne sont pas montrées pendant le questionnaire.
 
 ## Limites
@@ -53,7 +53,7 @@ Ensuite, demandez simplement : « Pour qui voter en 2027 ? » ou « Fais-moi le 
 
 ## Contribuer
 
-Une position est fausse, ou un programme vient de sortir ? Ouvrez une issue ou une pull request en citant la source. La procédure de mise à jour est décrite dans [`references/mise-a-jour.md`](references/mise-a-jour.md), et `python3 scripts/check_data.py` vérifie les fiches.
+Une position est fausse, ou un programme vient de sortir ? Ouvrez une issue ou une pull request en citant la source. La procédure de mise à jour est décrite dans [`references/mise-a-jour.md`](skills/boussole-presidentielle-2027/references/mise-a-jour.md), et `python3 skills/boussole-presidentielle-2027/scripts/check_data.py` vérifie les fiches.
 
 ## Licence
 
