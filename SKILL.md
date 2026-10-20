@@ -27,15 +27,25 @@ Ce skill aide une personne à voir de quels candidats elle est proche, en compar
 
 Lance `python3 scripts/check_data.py` (depuis le dossier du skill). Si des fiches datent de plus de 30 jours, ou si on approche du scrutin (la liste officielle n'est connue qu'après la validation des parrainages par le Conseil constitutionnel), signale-le en une phrase et propose une mise à jour avant ou après le test. Ne bloque pas le test pour autant.
 
-### 2. Présenter le test
+### 2. Présenter le test et choisir le mode
 
-En deux ou trois phrases : 25 affirmations sur 8 thèmes, une réponse de « tout à fait d'accord » à « pas du tout d'accord » ; on peut passer une question ; à la fin, la personne indique les thèmes qui comptent le plus pour elle. Précise que le résultat mesure une proximité avec des programmes, pas une recommandation de vote.
+En deux ou trois phrases : des affirmations sur 8 thèmes, une réponse de « tout à fait d'accord » à « pas du tout d'accord » ; on peut passer une question ; à la fin, la personne indique les thèmes qui comptent le plus pour elle. Précise que le résultat mesure une proximité avec des programmes, pas une recommandation de vote.
+
+Puis fais choisir le mode (avec `AskUserQuestion` s'il est disponible) :
+
+| Mode | Questions | Durée | Fiabilité |
+|---|---|---|---|
+| Rapide | 8 (une par thème) | ~2 min | Donne une tendance. Les écarts entre candidats proches ne sont pas significatifs. |
+| Moyen | 16 (deux par thème) | ~5 min | Bon compromis pour départager des candidats d'une même famille politique. |
+| Long | 25 (toutes) | ~8 min | Le plus fiable. Recommandé si l'on hésite entre plusieurs candidats. |
+
+Chaque question de `questions.json` a un champ `niveau`. Le mode rapide pose les questions `rapide`, le mode moyen les questions `rapide` et `moyen`, le mode long toutes. Les questions des modes courts sont celles qui départagent le plus les candidats dans chaque thème (voir `scripts/choisir_niveaux.py`) : un test court reste ainsi aussi informatif que possible. Si la personne ne choisit pas, propose le mode moyen.
 
 ### 3. Poser les questions
 
-Pose les questions thème par thème, une étape par thème, pour que ce soit rapide sans être un mur de texte. Reprends le texte des affirmations tel qu'il est dans `questions.json` : la formulation a été choisie pour être neutre, et la reformuler risque d'orienter la réponse. Ne donne pas la position des candidats pendant le questionnaire, car cela influencerait les réponses.
+Ne pose que les questions du mode choisi, dans l'ordre des thèmes, par petits lots, pour que ce soit rapide sans être un mur de texte. Reprends le texte des affirmations tel qu'il est dans `questions.json` : la formulation a été choisie pour être neutre, et la reformuler risque d'orienter la réponse. Ne donne pas la position des candidats pendant le questionnaire, car cela influencerait les réponses.
 
-Si l'outil `AskUserQuestion` est disponible, utilise-le avec une question par affirmation (jusqu'à 4 par appel ; découpe les thèmes de 5 questions en deux appels). Options : « Tout à fait d'accord », « Plutôt d'accord », « Plutôt pas d'accord », « Pas du tout d'accord » ; « Neutre » et « Je passe » passent par la réponse libre, précise-le dans la question. Sinon, liste les affirmations du thème numérotées et explique le format court : `++`, `+`, `0`, `-`, `--`, ou `passe` (ex. « 1 ++, 2 -, 3 passe »).
+Si l'outil `AskUserQuestion` est disponible, utilise-le avec une question par affirmation (jusqu'à 4 par appel ; regroupe les questions de thèmes consécutifs pour remplir chaque appel, et indique le ou les thèmes en tête du lot). Options : « Tout à fait d'accord », « Plutôt d'accord », « Plutôt pas d'accord », « Pas du tout d'accord » ; « Neutre » et « Je passe » passent par la réponse libre, précise-le dans la question. Sinon, liste les affirmations du lot numérotées et explique le format court : `++`, `+`, `0`, `-`, `--`, ou `passe` (ex. « 1 ++, 2 -, 3 passe »).
 
 Correspondance : tout à fait d'accord = 2, plutôt d'accord = 1, neutre = 0, plutôt pas d'accord = -1, pas du tout d'accord = -2, je passe = null.
 
@@ -68,7 +78,9 @@ Dans cet ordre :
    - **Thème prioritaire sans donnée** (`prioritaires_sans_donnee`) : si un candidat du haut du classement n'a aucune position connue sur un thème que la personne a mis en priorité, signale-le dans sa présentation. Son score ignore ce thème et peut être trompeur.
 2. **Les 3 plus proches, expliqués** : pour chacun, 2 ou 3 points d'accord et 1 ou 2 points de désaccord marquants, avec le résumé de la position et le lien source tirés de la fiche. C'est la partie la plus utile : elle permet de juger soi-même plutôt que de croire un pourcentage.
 3. **Le détail par thème** : signale les cas où un candidat est très proche sur un thème prioritaire mais loin sur un autre.
-4. **Les limites**, en quelques lignes : les programmes ne sont pas tous publiés ; certaines positions sont déduites du parti ou d'un ancien programme (dis combien pour les candidats du haut du classement) ; 25 questions ne résument pas un projet ; la liste des candidats n'est pas encore officielle. Invite à lire les programmes des candidats du haut du classement (`programme_url` dans les fiches).
+4. **Les limites**, en quelques lignes : le mode choisi et le nombre de questions répondues ; les programmes ne sont pas tous publiés ; certaines positions sont déduites du parti ou d'un ancien programme (dis combien pour les candidats du haut du classement) ; quelques dizaines de questions ne résument pas un projet ; la liste des candidats n'est pas encore officielle. Invite à lire les programmes des candidats du haut du classement (`programme_url` dans les fiches).
+
+Après un mode rapide ou moyen, propose de **passer au mode supérieur** sans recommencer : les réponses déjà données sont gardées, seules les questions manquantes sont posées, puis le calcul est relancé sur l'ensemble. C'est particulièrement utile quand le script signale un écart serré.
 
 Reste neutre jusqu'au bout. Ne commente pas les candidats (« crédible », « extrême », « dangereux »…), même si on te le demande dans le cadre du test. Si la personne veut ton avis sur le candidat à choisir, rappelle que le choix lui revient et propose plutôt d'approfondir un thème ou de comparer deux candidats sur un sujet précis.
 

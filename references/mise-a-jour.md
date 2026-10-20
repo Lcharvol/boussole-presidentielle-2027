@@ -31,6 +31,10 @@ Avec beaucoup de fiches, répartis le travail entre plusieurs agents (4 ou 5 can
 
 Relance `python3 scripts/check_data.py` : il doit sortir sans erreur. Puis relis quelques positions au hasard en ouvrant la source, surtout les valeurs extrêmes (2 ou -2) et les positions « deduite ».
 
+## Recalculer les modes rapide et moyen
+
+Après une mise à jour importante des fiches, lance `python3 scripts/choisir_niveaux.py` : il affiche, thème par thème, le pouvoir de départage de chaque question. Si le classement a changé, enregistre les nouveaux niveaux avec `--ecrire`, et signale-le dans le message de commit.
+
 ## Modifier les questions
 
-Évite de changer les questions en cours de campagne : chaque modification oblige à recoder la question pour tous les candidats. Si c'est nécessaire (sujet devenu central, question qui ne départage plus personne), change `version` dans `questions.json` et remplis la nouvelle question pour **tous** les candidats avant de publier, sinon les scores ne sont plus comparables.
+Évite de changer les questions en cours de campagne : chaque modification oblige à recoder la question pour tous les candidats. Si c'est nécessaire (sujet devenu central, question qui ne départage plus personne), change `version` dans `questions.json` et remplis la nouvelle question pour **tous** les candidats avant de publier, sinon les scores ne sont plus comparables. Relance ensuite `choisir_niveaux.py --ecrire` pour lui attribuer un niveau.
