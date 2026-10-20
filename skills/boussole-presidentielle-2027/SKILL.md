@@ -11,7 +11,7 @@ Ce skill aide une personne à voir de quels candidats elle est proche, en compar
 
 - `data/questions.json` : les 40 affirmations, 5 par thème sur 8 thèmes, et l'échelle de réponse.
 - `data/candidats/<slug>.json` : une fiche par candidat, avec ses positions, chacune ayant un résumé, une source, une date et un niveau de confiance (`programme`, `declaration` ou `deduite`). Le format est décrit dans `data/candidats/_FORMAT.md`.
-- `scripts/score.py` : calcule la proximité à partir d'un fichier de réponses.
+- `scripts/score.py` : calcule la proximité, avec une marge d'incertitude, à partir des réponses reçues sur l'entrée standard.
 - `scripts/check_data.py` : contrôle les fiches et signale celles qui sont incomplètes ou anciennes.
 - `references/mise-a-jour.md` : la procédure pour rafraîchir les programmes et la liste des candidats.
 
@@ -69,20 +69,20 @@ python3 scripts/score.py <<'FIN'
 FIN
 ```
 
-Ajoute `--json` (`python3 scripts/score.py --json <<'FIN' … FIN`) si tu as besoin des accords et désaccords détaillés. Ne calcule pas les scores toi-même : le script garantit que tout le monde est traité avec la même formule. Ne conserve pas les réponses ailleurs (fichier, mémoire, note) une fois le résultat présenté.
+Ajoute `--json` (`python3 scripts/score.py --json <<'FIN' … FIN`) si tu as besoin des accords et désaccords détaillés, ou du nombre de positions de chaque niveau de confiance (`par_confiance`). Ne calcule pas les scores toi-même : le script garantit que tout le monde est traité avec la même formule. Ne conserve pas les réponses ailleurs (fichier, mémoire, note) une fois le résultat présenté.
 
 ### 6. Présenter le résultat
 
 Dans cet ordre :
 
-1. **Le classement** : le tableau des candidats avec leur proximité et la couverture (part des questions où la position du candidat est connue). Les candidats dont la couverture est trop faible sont listés à part, avec la raison. Juste après le tableau, reprends les deux alertes du script :
-   - **Écart serré** (`peloton_de_tete`) : si plusieurs candidats sont à 5 points ou moins du premier, dis clairement qu'aucun ne se détache et que leur ordre n'est pas significatif. Sinon, la personne risque de prendre un écart de 2 points pour un vrai résultat.
+1. **Le classement** : le tableau des candidats avec leur proximité, **toujours accompagnée de sa marge** (« 72 ± 8 % »), et la couverture (part des questions où la position du candidat est connue). Les candidats dont la couverture est trop faible sont listés à part, avec la raison. Explique la marge en une phrase : elle indique de combien le score pourrait varier avec un autre jeu de questions (intervalle à 90 %, calculé en rééchantillonnant les réponses) ; elle est plus large quand on a répondu à peu de questions ou que le candidat a peu de positions connues. Juste après le tableau, reprends les deux alertes du script :
+   - **Marges qui se recouvrent** (`peloton_de_tete`) : les candidats dont l'intervalle (score ± marge) recouvre celui du premier. S'il y en a plusieurs, dis clairement qu'aucun ne se détache et que leur ordre n'est pas significatif : ne présente pas le premier comme « le plus proche » sans cette réserve. Sinon, la personne risque de prendre un écart de 2 points pour un vrai résultat.
    - **Thème prioritaire sans donnée** (`prioritaires_sans_donnee`) : si un candidat du haut du classement n'a aucune position connue sur un thème que la personne a mis en priorité, signale-le dans sa présentation. Son score ignore ce thème et peut être trompeur.
 2. **Les 3 plus proches, expliqués** : pour chacun, 2 ou 3 points d'accord et 1 ou 2 points de désaccord marquants, avec le résumé de la position et le lien source tirés de la fiche. C'est la partie la plus utile : elle permet de juger soi-même plutôt que de croire un pourcentage.
 3. **Le détail par thème** : signale les cas où un candidat est très proche sur un thème prioritaire mais loin sur un autre.
-4. **Les limites**, en quelques lignes : le mode choisi et le nombre de questions répondues ; les programmes ne sont pas tous publiés ; certaines positions sont déduites du parti ou d'un ancien programme (dis combien pour les candidats du haut du classement) ; quelques dizaines de questions ne résument pas un projet ; la liste des candidats n'est pas encore officielle. Invite à lire les programmes des candidats du haut du classement (`programme_url` dans les fiches).
+4. **Les limites**, en quelques lignes : le mode choisi et le nombre de questions répondues ; les programmes ne sont pas tous publiés ; certaines positions sont déduites du parti ou d'un ancien programme (dis combien pour les candidats du haut du classement, avec `par_confiance`) et comptent donc moins dans le score (poids 0,6 contre 1 pour le programme et 0,85 pour une déclaration) ; quelques dizaines de questions ne résument pas un projet ; la liste des candidats n'est pas encore officielle. Invite à lire les programmes des candidats du haut du classement (`programme_url` dans les fiches).
 
-Après un mode rapide ou moyen, propose de **passer au mode supérieur** sans recommencer : les réponses déjà données sont gardées, seules les questions manquantes sont posées, puis le calcul est relancé sur l'ensemble. C'est particulièrement utile quand le script signale un écart serré.
+Après un mode rapide ou moyen, propose de **passer au mode supérieur** sans recommencer : les réponses déjà données sont gardées, seules les questions manquantes sont posées, puis le calcul est relancé sur l'ensemble. C'est particulièrement utile quand plusieurs marges se recouvrent : plus de réponses resserrent les marges.
 
 Reste neutre jusqu'au bout. Ne commente pas les candidats (« crédible », « extrême », « dangereux »…), même si on te le demande dans le cadre du test. Si la personne veut ton avis sur le candidat à choisir, rappelle que le choix lui revient et propose plutôt d'approfondir un thème ou de comparer deux candidats sur un sujet précis.
 
@@ -92,8 +92,8 @@ Reste neutre jusqu'au bout. Ne commente pas les candidats (« crédible », « e
 >
 > | Rang | Candidat | Parti | Proximité | Couverture |
 > |---|---|---|---|---|
-> | 1 | … | … | 78 % | 92 % |
+> | 1 | … | … | 78 ± 7 % | 92 % |
 >
-> **1. Nom du candidat — 78 %**
+> **1. Nom du candidat — 78 % (± 7)**
 > - D'accord sur la retraite : « propose un retour à 62 ans » ([source](https://…))
 > - Désaccord sur le nucléaire : « veut sortir progressivement du nucléaire » ([source](https://…))
