@@ -100,7 +100,7 @@ def simuler(questions, candidats, qids, n, rng, tirage):
              for c in candidats}
     for _ in range(n):
         rep = {q: (None if rng.random() < PART_PASSE else rng.choice(tirage)) for q in qids}
-        classement = calculer({"reponses": rep}, questions, candidats)["classement"]
+        classement = calculer({"reponses": rep}, questions, candidats, tirages=0)["classement"]
         k = len(classement)
         if not k:
             continue
@@ -199,7 +199,7 @@ def main():
     for m, ids in qids_mode.items():
         cells = []
         for v in (2, 1, -1, -2):
-            cl = calculer({"reponses": {q: v for q in ids}}, questions, candidats)["classement"]
+            cl = calculer({"reponses": {q: v for q in ids}}, questions, candidats, tirages=0)["classement"]
             if cl:
                 s = cl[0]["slug"]
                 cells.append(f"{cl[0]['nom']} ({camp.get(s, 'non placé')}, {cl[0]['score']} %)")
