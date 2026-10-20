@@ -177,16 +177,16 @@
       "citation": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
       "date_source": "2026-07-15",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
-      "valeur": -2,
-      "resume": "A voté contre la loi « plein emploi » qui impose 15 heures d'activité aux allocataires du RSA (14 novembre 2023).",
+      "valeur": -1,
+      "resume": "A voté contre la loi « plein emploi » qui impose 15 heures d'activité aux allocataires du RSA (14 novembre 2023) ; valeur −1 : un vote contre l'ensemble du texte, sans déclaration ciblée sur les 15 heures.",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2965",
       "citation": "Scrutin public n°2965 sur l'ensemble du projet de loi pour le plein emploi (texte de la commission mixte paritaire).",
       "date_source": "2023-11-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": null,
@@ -222,7 +222,7 @@
       "citation": "PROPOSITION DE LOI CONSTITUTIONNELLE instaurant un référendum d’initiative citoyenne délibératif",
       "date_source": "2025-12-18",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": 1,
@@ -321,7 +321,7 @@
       "citation": "Le groupe Ecologiste et social s'oppose à la réduction de la durée d'indemnisation des demandeurs d'emploi suite à une rupture conventionnelle.",
       "date_source": "2026-04-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,

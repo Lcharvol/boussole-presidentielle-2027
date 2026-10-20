@@ -15,7 +15,7 @@
       "citation": "C’est pourquoi nous abrogerons la réforme Borne qui a porté la retraite à 64 ans, ce qui occasionnera une dépense de 9 milliards d’euros. Cette abrogation immédiate sera un premier pas vers le retour à la retraite à 60 ans avec 40 annuités, objectif sur un mandat.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": 2,
@@ -24,7 +24,7 @@
       "citation": "Ces mesures d’urgence sociale doivent être complétées par une hausse du SMIC à 1 700 euros net.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,
@@ -33,7 +33,7 @@
       "citation": "Ainsi, refuser les coupes budgétaires et proposer un autre chemin, ce n’est pas seulement le résultat d’une vision politique, c’est aussi le choix économique le plus rationnel.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 2,
@@ -42,7 +42,7 @@
       "citation": "Pour cela, nous reviendrons sur les mesures fiscales les plus injustes des mandats d’Emmanuel Macron : […] rétablissement d’un impôt sur la fortune renforcé (10 milliards d’euros)",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": -2,
@@ -51,7 +51,7 @@
       "citation": "Rétablir immédiatement la durée légale hebdomadaire à 35 heures (en majorant les heures supplémentaires, cotisations incluses, à 25 % pour les 4 premières et 50 % au-delà), passer aux 32 heures dans les métiers pénibles ou de nuit",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": -2,
@@ -60,7 +60,7 @@
       "citation": "Sortir du nucléaire : abandonner les projets d’EPR (European Pressurized Reactor – Réacteur pressurisé européen), planifier le démantèlement, la réhabilitation et la reconversion des sites nucléaires",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 2,
@@ -69,7 +69,7 @@
       "citation": "Pour réduire les émissions de gaz à effet de serre (GES), nous devons atteindre le 100 % d’énergies renouvelables. […] Mettre en oeuvre un plan d’urgence pour l’éolien maritime d’un point de vue énergétique et industriel",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": 2,
@@ -78,7 +78,7 @@
       "citation": "Planifier la réduction progressive des doses d’engrais et de pesticides, interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l’importation de productions qui en contiennent",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": null,
@@ -105,7 +105,7 @@
       "citation": "Légaliser et encadrer par un monopole d’État la consommation, la production et la vente de cannabis à des fins récréatives dans des conditions permettant de lutter contre l’addiction",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": -2,
@@ -258,7 +258,7 @@
       "citation": "Garantir le respect des principes de l’ordonnance de février 1945 sur l’enfance en conflit avec la loi, abroger le code de justice pénale des mineurs de Dupond-Moretti pour instaurer un code de l’enfance",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": -2,
