@@ -1,8 +1,6 @@
 # Audit de neutralité à 62 enjeux : d'où vient l'écart ?
 
-Analyse du 21 octobre 2026 sur la branche `v2/completion` (PR #23). Aucune position n'a été modifiée. Les corrections ci-dessous sont **proposées, pas appliquées**.
-
-> **Mise à jour** : les propositions 1 (tri sur le score non arrondi) et 2 (audit sur plusieurs graines, pentes, candidats jamais classés signalés dans les tiers) sont appliquées dans la branche `fix/departage-score-brut`. Mesuré par `audit_biais.py --graines 7` (graines 2027 à 2033, 10 000 profils) : complet 1,07 / 0,99 / 0,95, rapide 1,04 / 1,03 / 0,95.
+Analyse du 21 octobre 2026 sur la branche `v2/completion` (PR #23). Aucune position n'a été modifiée. **Mise à jour** : Lcharvol a validé la proposition 1 (tri sur le score non arrondi), appliquée dans `score.py` sur cette branche ; le score exact est exposé dans le champ `score_brut`. La proposition 2 (audit sur plusieurs graines, pentes, candidats jamais classés signalés dans les tiers) est appliquée dans `audit_biais.py --graines N` : sur 7 graines (2027 à 2033, 10 000 profils), complet 1,07 / 0,99 / 0,95, rapide 1,04 / 1,03 / 0,95. Les autres propositions ne sont pas appliquées.
 
 ## En bref
 
@@ -30,6 +28,7 @@ Vrai déroulé (`audit_biais.simuler`, mode complet, 10 000 profils), ratios gau
 - Un ratio de tiers fluctue d'environ ±0,015 à 10 000 profils, et d'environ ±0,03 aux 2 000 profils de la CI. Un ratio de candidat fluctue de ±0,03 à 0,06.
 - Comparer deux tirages uniques revient donc à comparer du bruit. Mesuré proprement, le centre a perdu 0,03, pas 0,05.
 - Mode rapide (7 graines) : main 1,033 / 1,001 / 0,967 ; branche 1,048 / 0,996 / 0,960. Pas de dégradation.
+- Mode adaptatif (branche, 2 000 profils × 7 graines) : 0,990 / 1,046 / 0,977, avec ±0,03 à 0,04 d'une graine à l'autre. Aux 500 profils du README, l'écart-type atteint environ ±0,06, et à 300 profils environ ±0,09.
 
 ## 2. Effet des nouveaux enjeux et de la couverture
 
@@ -121,6 +120,71 @@ Deux autres pistes testées n'apportent rien :
 - **Accord standardisé** (même variance pour une position à 0 qu'à ±2) : aucun effet (1,07 / 0,97 / 0,96).
 - **Poids de confiance égaux** : gauche 1,07 → 1,05. Faible effet, et cela change le sens de la méthode.
 
+### Philippe (1,31) et Philippot (0,56)
+
+Simulateur, mode complet, 10 graines. Ratio de Philippe / ratio de Philippot :
+
+| Facteur | Philippe | Philippot |
+|---|---|---|
+| 62 enjeux (actuel) | 1,20 | 0,54 (classé 84 %) |
+| 40 premiers enjeux | 1,26 | 0,64 (classé 100 %) |
+| (a) 62 moins un nouvel enjeu (22 cas) | 1,14 à 1,24 | 0,52 à 0,57 |
+| (a) 62 moins un thème (8 cas) | 1,15 à 1,24 | 0,53 à 0,61 |
+| (b) Tri non arrondi | 1,20 | **0,71** |
+| (b) `POIDS_INCONNUE` = 0,25 / 0 | 1,21 / 1,19 | 0,68 / **0,96** |
+| (b) `COUVERTURE_MIN` = 0,4 | 1,25 | 0,57 |
+| (c) Part de ±2 dans ses positions | 0,40 (modéré) | 0,59 |
+
+**Philippe.** Son ratio ne bouge presque dans aucune variante : son avantage ne tient ni aux nouveaux enjeux, ni à la couverture, ni à l'arrondi.
+- Ses positions sont modérées (40 % de ±2, l'une des parts les plus basses), et son seul voisin proche est Attal (r = 0,68).
+- Sur l'ensemble des candidats, la part de ±2 est faiblement corrélée au ratio (r = −0,32 avec le tri non arrondi) : une position modérée est un peu plus souvent proche d'une réponse au hasard.
+- C'est un vrai profil de positions, à expliquer dans le README, pas à corriger.
+
+**Philippot.** Son déficit tient à la couverture :
+- Il ne couvre que 7 des 22 nouveaux enjeux. Sa couverture passe de 62,5 % à 52 %, juste au-dessus du seuil.
+- Il perd la plupart des ex aequo, d'où la remontée à 0,71 avec le tri non arrondi.
+- Ses scores sont presque toujours atténués par les positions inconnues, d'où 0,96 sans aucune atténuation. Supprimer l'atténuation ne serait pas une correction : cela avantagerait mécaniquement toutes les fiches peu remplies (centre à 1,07).
+- Le reste du déficit est géométrique : son plus proche voisin est Le Pen (r = 0,66), et Asselineau et Dupont-Aignan sont proches aussi.
+- La correction légitime est de **compléter sa fiche** sur les nouveaux enjeux, par recherche documentaire relue, sans viser une valeur.
+
+**Tiers central (0,91).**
+- (a) Aucun nouvel enjeu ni aucun thème ne dépasse +0,04 : l'effet est diffus.
+- (b) La cause principale est la couverture, via le départage des ex aequo (section 3).
+- (c) Le centre est le tiers le plus modéré (Villepin 0,21 de ±2, Attal 0,24, Asselineau 0,41). Cet effet joue plutôt *en sa faveur* (r = −0,32) : il ne l'explique pas.
+
+### (d) Sens des formulations des nouveaux enjeux
+
+Section 2 d'`audit_biais.py`, sur les 22 nouveaux enjeux :
+
+| Pôle le plus proche de la gauche de l'axe | Nombre d'enjeux |
+|---|---|
+| Pôle A | 8 |
+| Pôle B | 9 |
+| Transversal | 4 (`eco_libre_echange`, `sec_controle_identite`, `eur_dissuasion`, `soc_allocations_familiales`) |
+| Indéterminé (5 positions) | 1 (`ins_cumul`) |
+
+- C'est équilibré, et le côté d'affichage est de toute façon tiré au hasard : un penchant pour un côté de l'écran ne déplace l'écart droite − gauche que de 4 à 5 points.
+- **Aucun retournement de pôles n'est justifié.**
+
+Enjeux qui départagent peu (pouvoir de départage le plus bas) :
+- `ins_mandat_unique` : 0,16, 6 positions dont 5 au pôle A ;
+- `edu_remuneration` : 0,27 ;
+- `sec_controle_identite` : 0,32 ;
+- `ins_cumul` : 0,32, 5 positions.
+
+Effet de leur retrait (mode complet) :
+
+| Variante | Calcul actuel | Tri non arrondi |
+|---|---|---|
+| 62 enjeux | 1,081 / 0,880 / 1,016 | 1,071 / 0,978 / 0,954 |
+| Sans `ins_mandat_unique` et `ins_cumul` | 1,082 / 0,895 / 1,004 | 1,068 / 0,992 / 0,947 |
+| Sans les 6 enjeux de pouvoir < 0,35 | 1,069 / 0,920 / 0,996 | 1,065 / 1,003 / 0,940 |
+
+- Le gain est faible (+0,015 à +0,04 sur le centre) et ne change presque rien pour Philippe et Philippot.
+- Il vient de la couverture : ces enjeux ajoutent surtout des positions inconnues.
+- Le mode rapide les tire déjà rarement (tirage pondéré par le pouvoir de départage).
+- Un retrait ne se justifierait donc que pour des raisons de contenu, pas pour l'audit. Les compléter est préférable.
+
 ## 4. L'axe et les tiers
 
 **L'axe tient.**
@@ -142,12 +206,25 @@ Deux autres pistes testées n'apportent rien :
 
 | # | Proposition | Effet mesuré (vrai déroulé, 7 graines) | Avis |
 |---|---|---|---|
-| 1 | **Trier le classement sur le score non arrondi** (`score_brut`). L'affichage et le peloton de tête restent arrondis. | Complet : 1,080 / 0,885 / 1,014 → **1,072 / 0,981 / 0,951**, écart maximal 0,115 → 0,072. Rapide : 1,048 / 0,996 / 0,960 → 1,044 / 1,033 / 0,939. Sur main : 1,063 / 0,914 / 0,998 → 1,053 / 1,020 / 0,934. Les 38 tests passent. | **Recommandée** : supprime un avantage sans justification, ne règle rien sur l'audit. À reporter dans `src/lib/score.ts` du site, sinon le test de concordance échoue. |
+| 1 | **Trier le classement sur le score non arrondi** (appliquée). L'affichage et le peloton de tête restent arrondis. | Complet : 1,080 / 0,885 / 1,014 → **1,072 / 0,981 / 0,951**, écart maximal 0,115 → 0,072. Rapide : 1,048 / 0,996 / 0,960 → 1,044 / 1,033 / 0,939. Adaptatif (2 000 profils) : 0,990 / 1,046 / 0,977 → 0,984 / **1,109** / 0,939. Sur main : 1,063 / 0,914 / 0,998 → 1,053 / 1,020 / 0,934. Les tests passent (39 avec le nouveau test des ex aequo). | **Recommandée** : supprime un avantage sans justification, ne règle rien sur l'audit. Elle améliore nettement le mode complet, mais dégrade un peu le mode rapide et le mode adaptatif (voir ci-dessous). À reporter dans `src/lib/score.ts` du site, sinon le test de concordance échoue. |
 | 2 | **Audit sur plusieurs graines** : moyenne et écart-type, ou 50 000 profils. Ajouter les deux pentes (avec leur incertitude) comme indicateurs principaux, et signaler les candidats jamais classés dans les tiers. | Supprime les écarts de ±0,03 entre deux passages, comme celui de la graine 2027. | **Recommandée** : sans elle, le critère « au moins aussi bon qu'avant » compare du bruit. |
 | 3 | Baisser `POIDS_INCONNUE` à 0,35 | Avec la proposition 1 : 1,07 / 1,00 / 0,94 | Déconseillée : réglage sur l'audit ; √2-1 est justifié et vérifié. |
 | 4 | Baisser `COUVERTURE_MIN` à 0,4 | Avec la proposition 1 : 1,03 / 1,00 / 0,97 | À décider côté produit : on afficherait des scores fondés sur 40 % des réponses. |
-| 5 | Retirer des enjeux | 0,04 au plus sur le centre (`eco_libre_echange`) | Déconseillée : aucun responsable isolé. |
+| 5 | Retirer des enjeux | 0,04 au plus sur le centre (`eco_libre_echange`). Retirer les 6 enjeux de pouvoir < 0,35 : +0,04 au centre. | Déconseillée pour l'audit : aucun responsable isolé. |
 | 6 | Modifier le tirage | Le mode complet ne fait qu'ordonner les enjeux ; le rapide bouge peu. | Rien à changer. |
+| 7 | Retourner ou reformuler des pôles | Sens des pôles équilibré (A 8, B 9, transversaux 4) ; le côté d'affichage est tiré au hasard. | Pas justifié. |
+| 8 | **Compléter des fiches** sur les nouveaux enjeux, par recherche documentaire relue, sans viser une valeur : Philippot (7/22), Attal (5/22), Ruffin et Asselineau (9/22), Villepin (11/22) | Non simulable sans inventer des positions. C'est le levier sur le reste des écarts (couverture). | **Recommandée** (travail de recherche, relecture par Lcharvol). |
+| 9 | README : expliquer les écarts individuels qui reflètent un vrai profil (Philippe : positions modérées, peu de voisins proches ; duos très corrélés qui se partagent les premières places) | — | **Recommandée**. |
+
+**Effet de la proposition 1 selon le mode**, en écart maximal au neutre (branche, 7 graines) :
+
+| Mode | Avant | Après |
+|---|---|---|
+| Complet | 0,115 | **0,072** |
+| Rapide | 0,048 | 0,061 |
+| Adaptatif | 0,054 | 0,109 (centre 1,11) |
+
+Avec le tri par couverture, les candidats les plus couverts, plutôt aux deux bouts de l'axe, gagnaient les ex aequo. Supprimer ce tri enlève cet avantage dans tous les modes. Dans les modes courts, il compensait un léger excès du tiers central. Le mode adaptatif sert ce tiers pour une raison propre à ce mode, à analyser à part : il choisit les enjeux qui départagent le peloton de tête, et les fiches moins couvertes y ont moins de positions connues. Je n'ai pas cherché à compenser cet excès par un réglage.
 
 **Le critère, mesuré sur 7 graines**, en écart maximal au neutre :
 

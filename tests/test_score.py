@@ -98,6 +98,19 @@ class CandidatSansDonnees(unittest.TestCase):
         self.assertTrue(all(c.get("statut") != "retiré" for c in candidats))
 
 
+class ExAequo(unittest.TestCase):
+    def test_score_exact_avant_couverture(self):
+        # Même score affiché (7 %) : le moins couvert passe devant parce que son score exact est plus haut.
+        plein = candidat("plein", {"eco_1": (-2, "programme"), "eco_2": (-1, "programme"),
+                                   "eco_3": (0, "programme"), "ecl_1": (0, "programme")})
+        partiel = candidat("partiel", {"eco_1": (-1, "programme"), "eco_2": (-1, "programme"),
+                                       "eco_3": (0, "programme")})
+        user = {"reponses": {"eco_1": 2, "eco_2": 2, "eco_3": 2, "ecl_1": 2}}
+        cl = score.calculer(user, QUESTIONS, [plein, partiel], tirages=0)["classement"]
+        self.assertEqual([r["score"] for r in cl], [7, 7])
+        self.assertEqual([r["slug"] for r in cl], ["partiel", "plein"])
+        self.assertLess(cl[0]["couverture"], cl[1]["couverture"])
+
 class Ponderation(unittest.TestCase):
     REPONSES = {"reponses": {"eco_1": 2, "eco_2": 2}}
 
