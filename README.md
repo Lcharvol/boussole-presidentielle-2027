@@ -1,6 +1,6 @@
 <div align="center">
 
-![Icône de la Boussole présidentielle 2027 : une boussole devant l'Élysée aux couleurs du drapeau français](assets/icon.png)
+![Logo de la Boussole présidentielle 2027 : une aiguille de boussole jaune dans un cercle blanc](assets/icon.png)
 
 </div>
 
