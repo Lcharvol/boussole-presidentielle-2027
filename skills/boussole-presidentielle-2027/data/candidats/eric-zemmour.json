@@ -25,7 +25,7 @@
       "citation": "Éric Zemmour, qui assure qu’il n’y a plus d’augmentation de salaire depuis vingt ans en France, promettait d’augmenter les salaires nets des travailleurs les plus modestes « jusqu’à plus de 105 euros par mois pour un travailleur au Smic ».",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -2,

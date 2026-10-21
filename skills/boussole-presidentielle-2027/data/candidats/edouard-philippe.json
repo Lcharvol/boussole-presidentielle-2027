@@ -25,7 +25,7 @@
       "citation": "\"Notre politique, c'est pas de faire des coups de pouce au Smic, notre politique c'est de faire en sorte que le travail paye (...) Il y aura une revalorisation, la revalorisation légale (...) Il n'y aura pas de coup de pouce supplémentaire\"",
       "date_source": "2018-11-28",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -2,

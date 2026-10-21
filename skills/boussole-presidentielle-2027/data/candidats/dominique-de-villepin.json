@@ -25,7 +25,7 @@
       "citation": "Plus de 200 Md€ de cotisations basculés vers une CSG universelle : +200 € nets par mois en moyenne, +100 € au Smic.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 0,

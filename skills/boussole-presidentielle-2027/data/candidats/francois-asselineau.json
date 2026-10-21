@@ -25,7 +25,7 @@
       "citation": "Nous augmenterons le SMIC brut de +24% sur le quinquennat (soit une moyenne de +4,4% par an cumulés sur 5 ans)",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,

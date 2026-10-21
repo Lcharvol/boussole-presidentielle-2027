@@ -25,7 +25,7 @@
       "citation": "Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
       "date_source": "2026-04-13",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,

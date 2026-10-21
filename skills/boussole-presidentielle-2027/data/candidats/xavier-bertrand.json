@@ -25,7 +25,7 @@
       "citation": "Avant la fin de l’année 2022, tous les salariés travaillant à temps complet toucheront au moins 1500€ nets par mois. C’est mon engagement. Il repose sur un dispositif nouveau, la prime au travail. […] Elle se fera sans surcoût pour les entreprises […]",
       "date_source": "2021-10-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,

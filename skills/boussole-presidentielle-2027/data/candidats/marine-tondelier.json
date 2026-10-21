@@ -25,7 +25,7 @@
       "citation": "Passer le salaire minimum à 2000€ brut par mois dès 2027.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,

@@ -25,7 +25,7 @@
       "citation": "Le smic horaire sera augmenté pour atteindre rapidement 1 600 euros net par mois (soit 2 021 euros brut).",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,

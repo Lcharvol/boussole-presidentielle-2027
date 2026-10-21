@@ -25,7 +25,7 @@
       "citation": "Augmenter le SMIC à 1600 euros net dans les deux ans qui suivent notre accession au pouvoir.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 1,

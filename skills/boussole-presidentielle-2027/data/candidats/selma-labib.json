@@ -25,7 +25,7 @@
       "citation": "Il faut augmenter les salaires et les pensions de 400 euros par mois pour tous et toutes. Il ne faut pas un seul revenu sous les 2000 euros net.",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 1,

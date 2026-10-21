@@ -25,7 +25,7 @@
       "citation": "Ces mesures d’urgence sociale doivent être complétées par une hausse du SMIC à 1 700 euros net.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 2,

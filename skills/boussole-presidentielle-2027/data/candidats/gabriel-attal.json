@@ -25,7 +25,7 @@
       "citation": "Nous y arriverons enfin en réduisant les charges salariales pour faire monter le salaire net.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,

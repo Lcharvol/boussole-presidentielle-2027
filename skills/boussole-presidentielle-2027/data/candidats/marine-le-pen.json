@@ -25,7 +25,7 @@
       "citation": "Permettre aux entreprises une hausse des salaires de 10% (jusqu'à 3 smic) en exonérant cette augmentation de cotisations patronales.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,

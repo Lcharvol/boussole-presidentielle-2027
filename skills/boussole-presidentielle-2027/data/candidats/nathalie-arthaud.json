@@ -25,7 +25,7 @@
       "citation": "Aujourd’hui il faut gagner au moins 2 200 euros net par mois pour s’en sortir. Eh bien voilà ce que nous devons exiger ! Les salaires doivent suivre la hausse des prix.",
       "date_source": "2026-05",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 1,
