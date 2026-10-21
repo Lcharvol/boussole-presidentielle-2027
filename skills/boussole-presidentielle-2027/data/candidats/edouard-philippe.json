@@ -177,16 +177,16 @@
       "citation": "\"Autant j’ai une conviction intime sur le fait qu’il peut y avoir et il peut être normal et il peut être sain d’aider à mourir quelqu’un, autant je trouve que l’inscrire dans la loi pose des problèmes qui sont redoutablement complexes et qu’il faut entendre\"",
       "date_source": "2025-01-27",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
-      "valeur": 1,
-      "resume": "Alors Premier ministre, a dit vouloir ouvrir le débat sur des contreparties aux minima sociaux (activités d'intérêt général) ; position ancienne, aucune déclaration récente trouvée.",
+      "valeur": 0,
+      "resume": "Alors Premier ministre, a dit vouloir ouvrir le débat sur des contreparties aux minima sociaux (activités d'intérêt général) ; position ancienne, aucune déclaration récente trouvée ; valeur 0 : position ancienne de Premier ministre, jamais réaffirmée (règle de codage).",
       "source": "https://www.banquedesterritoires.fr/edouard-philippe-relance-la-question-des-contreparties-aux-mecanismes-de-solidarite",
       "citation": "\"C'est indispensable d'avoir des mécanismes de solidarité pour ceux qui sont dans la difficulté, il ne s'agit pas de revenir en arrière, il s'agit de s'interroger sur 'est-ce que cette solidarité, elle peut s'accompagner de contreparties, d'activités, d'activités d'intérêt général ?'\"",
       "date_source": "2019-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": null,
@@ -324,13 +324,13 @@
       "relu": true
     },
     "edu_signes": {
-      "valeur": -1,
-      "resume": "Alors Premier ministre (octobre 2019), a estimé qu'il ne fallait pas légiférer pour interdire le voile aux accompagnatrices de sorties scolaires, le droit existant permettant d'agir contre le prosélytisme ; aucune déclaration plus récente trouvée.",
+      "valeur": 0,
+      "resume": "Alors Premier ministre (octobre 2019), a estimé qu'il ne fallait pas légiférer pour interdire le voile aux accompagnatrices de sorties scolaires, le droit existant permettant d'agir contre le prosélytisme ; aucune déclaration plus récente trouvée ; valeur 0 : position ancienne de Premier ministre, jamais réaffirmée (règle de codage).",
       "source": "https://www.maire-info.com/laicite/port-du-voile-par-les-accompagnatrices-des-sorties-scolaires-le-premier-ministre-oppose-%C3%A0-une-loi-article-23495",
       "citation": "« Tel est l’état du droit. Je ne pense pas que l’enjeu soit aujourd’hui de voter une loi sur les accompagnants scolaires », a conclu sans ambiguïté le Premier ministre",
       "date_source": "2019-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_etudiants": {
       "valeur": null,
@@ -357,7 +357,7 @@
       "citation": "les projets de lois organiques et ordinaires prévoient quant à eux […] une réduction de 30% du nombre de députés et de sénateurs dans des conditions qui garantissent la représentation de tous les départements et territoires",
       "date_source": "2018-04-04",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_voteblanc": {
       "valeur": null,

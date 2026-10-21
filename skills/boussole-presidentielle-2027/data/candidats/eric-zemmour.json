@@ -159,7 +159,7 @@
       "citation": "Quid de l'aide à l'Ukraine? \"Elle n'est pas dans ma liste maintenant, je pense que nous allons être contraints par nos problèmes budgétaires, il faut se poser la question globalement et arriver à favoriser la paix.\"",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": 2,
@@ -177,7 +177,7 @@
       "citation": "«Si on en est à administrer la mort, par un médecin, c'est une espèce de rétablissement de la peine de mort qui ne dit pas son nom pour des innocents», a-t-il affirmé.",
       "date_source": "2025-05-18",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": null,

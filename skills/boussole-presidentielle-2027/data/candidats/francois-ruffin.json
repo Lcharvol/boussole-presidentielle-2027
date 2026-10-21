@@ -60,7 +60,7 @@
       "citation": "Nous poursuivrons aussi la construction des six réacteurs EPR2 […] La décision de construire ou non huit réacteurs EPR2 supplémentaires sera prise en fonction du devis proposé par EDF",
       "date_source": "2026-09-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 1,
@@ -69,7 +69,7 @@
       "citation": "[…] nous poursuivrons le développement de l’énergie éolienne, car elle produit davantage en hiver, lorsque nous en avons besoin. Nous développerons également les autres formes d’énergies renouvelables pour accompagner l’électrification des usages.",
       "date_source": "2026-09-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": 0,
@@ -78,7 +78,7 @@
       "citation": "Par l’incitation financière à introduire des couverts végétaux, à allonger des rotations, à entretenir des prairies permanentes, nous pouvons sortir d’une logique de normes qui montre ses limites.",
       "date_source": "2026-09-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": null,
@@ -132,7 +132,7 @@
       "citation": "[…] le parlementaire LFI se positionne pour une régularisation \"de ceux qui sont sur le territoire et qui travaillent dans ces secteurs\" , mais s'oppose à \"une immigration spécifique\" .",
       "date_source": "2022-11-03",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": 0,
@@ -159,7 +159,7 @@
       "citation": "Scrutin public n°988 sur l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
       "date_source": "2025-03-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": -2,
@@ -231,7 +231,7 @@
       "citation": "Nous mettrons fin à l’inviolabilité pénale et civile complète du Président de la République et au privilège de juridiction des ministres.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -267,7 +267,7 @@
       "citation": "Scrutin public n°1305 sur l'ensemble du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions (première lecture).",
       "date_source": "2023-03-28",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_droitdusol": {
       "valeur": -2,

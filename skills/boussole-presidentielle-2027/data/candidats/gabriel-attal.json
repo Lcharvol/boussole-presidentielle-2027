@@ -15,7 +15,7 @@
       "citation": "Pour augmenter le taux d’emploi des seniors, l’enjeu ne sera plus l’âge de départ à la retraite, mais la durée de cotisation.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": -1,
