@@ -78,7 +78,7 @@
       "citation": "En bref, un désastre écologique et sanitaire.",
       "date_source": "2026-02-10",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": -2,
@@ -141,7 +141,7 @@
       "citation": "Face à l’Europe du capital qui n’a à offrir que davantage de misères et de tragédies sociales pour le monde du travail et pour les peuples, nous revendiquons le combat pour des gouvernements ouvriers, dans la perspective d’instaurer les États-Unis socialistes d’Europe […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": -1,
@@ -150,7 +150,7 @@
       "citation": "la seule perspective viable et rationnelle pour sortir de l’impasse et du faux-dilemme « rupture avec l’UE » ou « Europe du capital » telle qu’elle existe.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -2,
@@ -177,7 +177,7 @@
       "citation": "nous ne nous opposons pas par principe au droit de mettre fin à sa vie. En revanche, nous jugeons que cette proposition de loi représente un danger évident pour les personnes handicapées, malades et âgées de notre classe.",
       "date_source": "2026-03-18",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": -2,
@@ -204,7 +204,7 @@
       "citation": "Expérimentation de l’uniforme à l’école : Attal poursuit son projet autoritaire pour la jeunesse",
       "date_source": "2023-09-04",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": null,
