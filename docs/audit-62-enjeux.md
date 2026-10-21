@@ -1,6 +1,6 @@
 # Audit de neutralité à 62 enjeux : d'où vient l'écart ?
 
-Analyse du 21 octobre 2026 sur la branche `v2/completion` (PR #23). Aucune position n'a été modifiée. **Mise à jour** : Lcharvol a validé la proposition 1 (tri sur le score non arrondi), appliquée dans `score.py` sur cette branche. Les autres propositions ne sont pas appliquées.
+Analyse du 21 octobre 2026 sur la branche `v2/completion` (PR #23). Aucune position n'a été modifiée. **Mise à jour** : Lcharvol a validé la proposition 1 (tri sur le score non arrondi), appliquée dans `score.py` sur cette branche. La proposition 2 (audit sur plusieurs graines, pentes, candidats jamais classés signalés dans les tiers) est appliquée dans `audit_biais.py --graines N` : sur 7 graines (2027 à 2033, 10 000 profils), complet 1,07 / 0,99 / 0,95, rapide 1,04 / 1,03 / 0,95. Les autres propositions ne sont pas appliquées.
 
 ## En bref
 

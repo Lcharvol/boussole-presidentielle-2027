@@ -53,7 +53,8 @@ jobs:
       - name: Audit de neutralité (informatif)
         # Ne fait jamais échouer la CI : le rapport est publié dans le résumé du job.
         continue-on-error: true
-        run: python3 scripts/audit_biais.py >> "$GITHUB_STEP_SUMMARY"
+        # 4 graines de 2 000 profils, en parallèle sur les processeurs du runner (environ 1 min 30).
+        run: python3 scripts/audit_biais.py --graines 4 >> "$GITHUB_STEP_SUMMARY"
 
       - uses: actions/setup-node@v4
         with:
