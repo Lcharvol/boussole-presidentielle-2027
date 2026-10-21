@@ -24,7 +24,7 @@
       "citation": "Permettre aux entreprises une hausse des salaires de 10% (jusqu'à 3 smic) en exonérant cette augmentation de cotisations patronales.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,
@@ -168,7 +168,7 @@
       "citation": "Et le Rassemblement national s'est abstenu \" en espérant que les sénateurs, dans leur grande sagesse, supprimeront l'article 1 [qui régule l'installation des médecins]\", a expliqué Claire Marais-Beuil (RN).",
       "date_source": "2025-05-08",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": 0,
@@ -177,7 +177,7 @@
       "citation": "Le Rassemblement national, dont les députés ont voté massivement contre la loi sur l'aide à mourir adoptée mercredi, ne reviendra pas sur ce texte s'il arrivait au pouvoir mais sera \"très vigilant\" sur son application, a affirmé jeudi le porte-parole du parti Laurent Jacobelli.",
       "date_source": "2026-07-16",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": null,
@@ -231,7 +231,7 @@
       "citation": "De plus, Marine Le Pen voudrait instaurer un septennat non-renouvelable. Un changement qui nécessiterait un référendum.",
       "date_source": "2022-04-12",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": -2,
@@ -258,7 +258,7 @@
       "citation": "Président du Rassemblement national, Jordan Bardella a affirmé ce mercredi matin sur le plateau de BFMTV, vouloir mettre un terme à “l’excuse de minorité”, ou dit “atténuation de responsabilité”, selon l’article 122-8 du Code pénal.",
       "date_source": "2024-04-17",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": null,

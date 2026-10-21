@@ -60,7 +60,7 @@
       "citation": "Les travailleurs ne peuvent s’opposer à cette évolution qu’en exerçant un contrôle direct sur cette filière de l’économie, comme sur les autres filières.",
       "date_source": "2024-09-07",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": null,
@@ -96,7 +96,7 @@
       "citation": "Darmanin a accumulé ces derniers temps des propositions sécuritaires en tout genre : louer des places de prison à l’étranger, faire contribuer financièrement les détenus, installer des préfabriqués pour augmenter le nombre de places",
       "date_source": "2025-06-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,
@@ -168,7 +168,7 @@
       "citation": "S’il existait un service public de santé avec des centres de soins bien répartis sur le territoire et des soignants formés en nombre suffisant, la médecine libérale n’aurait que la place qu’elle mérite.",
       "date_source": "2025-05-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": 2,
@@ -195,7 +195,7 @@
       "citation": "Ce déversement d’argent public dans les lycées privés est loin d’être le monopole des régions dirigées par la droite.",
       "date_source": "2024-09-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_autorite": {
       "valeur": null,
