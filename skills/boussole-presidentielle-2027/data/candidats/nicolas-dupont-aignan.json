@@ -24,7 +24,7 @@
       "citation": "Augmenter les salaires de 8% (équivalent d’un 13ème mois) pour tous les salariés jusqu’à 3 SMIC sans peser sur le coût du travail pour les entreprises, par une réduction des cotisations salariales",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,
@@ -33,7 +33,7 @@
       "citation": "En revanche, elles représenteront au terme de cinq ans des économies de 130 milliards d’euros permettant de réduire le déficit budgétaire à moins de 3 % et d’investir massivement dans les priorités nationales (voir cahier financement).",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 1,
@@ -42,7 +42,7 @@
       "citation": "Rétablir un impôt sur les très grandes fortunes en excluant la résidence principale et en permettant de déduire tous les investissements dans des entreprises / organismes localisant leur production en France",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": 0,
@@ -51,7 +51,7 @@
       "citation": "Défiscaliser les heures supplémentaires : au-delà de 1 607 h/an pour un temps plein, chaque heure effectuée sera défiscalisée dans la limite de 100 heures/an.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": 1,
@@ -60,7 +60,7 @@
       "citation": "Abandonner l’objectif de 50% de nucléaire dans la production électrique en 2035, maintenir le nucléaire à 70% de la production d’électricité minimum.",
       "date_source": "2022",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,
@@ -168,7 +168,7 @@
       "citation": "Créer, afin de mettre fin aux déserts médicaux, une bourse pour les étudiants en médecine en échange de laquelle ils s’engageront à s’installer dans une zone sous-dotée pendant leurs 5 premières années.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": -1,
@@ -177,7 +177,7 @@
       "citation": "Il estime que la priorité aurait dû être de faire appliquer la loi Leonetti et de renforcer les soins palliatifs. \"Il y avait la possibilité des soins palliatifs. La loi Leonetti était parfaite, simplement elle n'était pas appliquée\", affirme-t-il",
       "date_source": "2026-07-03",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": null,
@@ -195,7 +195,7 @@
       "citation": "Accepter les créations de classes demandées par les établissements privés pour répondre à la forte demande des familles.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_autorite": {
       "valeur": 2,
@@ -231,7 +231,7 @@
       "citation": "Revenir au septennat avec la possibilité d’un référendum révocatoire d’initiative citoyenne à mi-mandat.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": -2,
@@ -303,7 +303,7 @@
       "citation": "Aussi, nous nous engageons à augmenter notre budget de défense pour atteindre le chiffre raisonnable de 2,5% du PIB, permettant de mettre en œuvre les 15 mesures suivantes.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_100secu": {
       "valeur": null,
@@ -324,13 +324,13 @@
       "relu": false
     },
     "edu_signes": {
-      "valeur": 1,
-      "resume": "Le volet instruction publique propose l'« interdiction du port de signes religieux démonstratifs pour tous » ; les parents accompagnateurs de sorties scolaires ne sont pas cités explicitement.",
+      "valeur": 2,
+      "resume": "Le volet instruction publique propose l'« interdiction du port de signes religieux démonstratifs pour tous » ; les parents accompagnateurs de sorties scolaires ne sont pas cités explicitement ; valeur +2 : une interdiction « pour tous » dans le cadre scolaire couvre les parents accompagnateurs (même raisonnement que pour Zemmour et Tondelier).",
       "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
       "citation": "Interdiction du port de signes religieux démonstratifs pour tous.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_etudiants": {
       "valeur": null,

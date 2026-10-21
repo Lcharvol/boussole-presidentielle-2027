@@ -37,6 +37,8 @@ Ces règles viennent de la relecture humaine des fiches. Elles évitent de sures
 - **Refus de l'austérité sans mention d'impôts** : ±1 sur `eco_depenses` (« augmenter les impôts plutôt que baisser les dépenses ») ; ±2 seulement si la source évoque des hausses de recettes fiscales.
 - **Heures supplémentaires** : les défiscaliser ou les rendre plus rémunératrices sans toucher à la durée légale vaut 0 sur `eco_35h` ; −1 si le candidat exclut explicitement d'augmenter la durée légale.
 - **Condition de résidence pour les étrangers** (durée minimale de séjour ou de travail pour accéder aux prestations ou au logement social) : +1 sur `imm_preference` ; +2 seulement pour une priorité ou une réservation fondée sur la nationalité.
+- **CEDH et droit de l'UE** : `eur_primaute` porte sur le droit de l'Union européenne. Une remise en cause limitée à la CEDH (Conseil de l'Europe) vaut 0 ; si elle vise aussi la CJUE ou les traités de l'UE, appliquer l'échelle habituelle.
+- **Principe général** : une règle générale qui couvre explicitement le cas de la question (par exemple une interdiction « pour tous » ou « dans tout l'espace public », ou une neutralité qui « ne s'impose pas aux usagers ») vaut comme une position sur ce cas, même s'il n'est pas nommé.
 - **Ligne du parti ou de son journal** (pas une déclaration du candidat) : acceptable en confiance `deduite`, à condition de le dire dans le résumé et de citer une phrase qui exprime la position, pas seulement un titre ou une description.
 
 ## 4. Vérifier

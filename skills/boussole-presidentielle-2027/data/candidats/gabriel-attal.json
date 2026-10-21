@@ -15,7 +15,7 @@
       "citation": "Pour augmenter le taux d’emploi des seniors, l’enjeu ne sera plus l’âge de départ à la retraite, mais la durée de cotisation.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": -1,
@@ -24,7 +24,7 @@
       "citation": "Nous y arriverons enfin en réduisant les charges salariales pour faire monter le salaire net.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,
@@ -33,7 +33,7 @@
       "citation": "Nous devons commencer par enrayer cette spirale de la dette. Pour cela, l’effort devra d’abord porter sur la dépense sociale, qui représente plus de la moitié des dépenses publiques en France.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": -1,
@@ -42,7 +42,7 @@
       "citation": "Scrutin public n°3300 sur l'amendement n° 2359 de M. Vallaud et les amendements identiques suivants après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).",
       "date_source": "2025-10-31",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": 1,
@@ -51,7 +51,7 @@
       "citation": "Je proposerai de supprimer le plafond d’heures supplémentaires fixé par le Code du travail, aujourd’hui fixé, à défaut d’accord collectif, à deux cent vingt heures par an et par salarié.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": 1,
@@ -60,7 +60,7 @@
       "citation": "Nous allons continuer la montée en puissance de notre parc nucléaire, investir massivement dans les programmes – et cette année, l'EPR de Flamanville sera opérationnel.",
       "date_source": "2024-01-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 1,
@@ -69,7 +69,7 @@
       "citation": "Et d'appeler à ce que \"la France se dote rapidement d’une Programmation pluriannuelle de l’énergie, conforme au seul mix énergétique responsable : celui qui inclut nucléaire et renouvelables\".",
       "date_source": "2025-06-23",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": -1,
@@ -78,7 +78,7 @@
       "citation": "Cinquième enjeu : faciliter la vie de nos agriculteurs, éviter toute surtransposition, simplifier les procédures et les normes, dès qu'elles peuvent l'être, partout où elles peuvent l'être.",
       "date_source": "2024-02-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": 1,
@@ -87,7 +87,7 @@
       "citation": "Il propose des mesures choc pour rétablir l'ordre républicain, passant par la suppression du juge de l'application des peines et la fin des remises automatiques de peine.",
       "date_source": "2026-08-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": 1,
@@ -96,7 +96,7 @@
       "citation": "Il défend également une réécriture complète du Code de procédure pénale, la construction de nouvelles places de prison classées comme opérations d'intérêt national […]",
       "date_source": "2026-08-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,
@@ -114,7 +114,7 @@
       "citation": "Notre ligne est claire, ce que nous voulons, c’est accueillir moins pour accueillir mieux, privilégier l’immigration de travail au détriment d’autres types d’immigration comme le regroupement familial, qui doit être mieux encadré et qui doit donc diminuer.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 0,
@@ -123,7 +123,7 @@
       "citation": "Le Premier ministre a confirmé son intention de poursuivre la réforme de l’aide médicale d’État, promise par Élisabeth Borne.",
       "date_source": "2024-01-16",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": null,
@@ -222,7 +222,7 @@
       "citation": "Il souhaite redonner la parole aux citoyens et aux acteurs du terrain en instaurant une journée référendaire annuelle sur les grands choix du pays, tout en facilitant le recours aux référendums locaux.",
       "date_source": "2026-08-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": -1,
@@ -231,7 +231,7 @@
       "citation": "Il prône une \"nouvelle République démocratique\", pour \"une Ve République du XXIe siècle\". \"Cessons de croire au mythe de l'homme providentiel et acceptons de partager le pouvoir\", a-t-il lancé",
       "date_source": "2025-09-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -258,7 +258,7 @@
       "citation": "L’article 4 qui prévoyait d’étendre la comparution immédiate aux mineurs de 16 ans a été censuré […] Autre mesure emblématique : l’instauration d’une dérogation à l’excuse de minorité",
       "date_source": "2025-06-19",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": null,
@@ -276,7 +276,7 @@
       "citation": "Fin du droit du sol à Mayotte : une mesure « nécessaire» selon Gabriel Attal",
       "date_source": "2024-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": null,
@@ -321,7 +321,7 @@
       "citation": "C’est pourquoi je porte une réforme de l’assurance chômage qui incite au travail et qui créerait 100 000 emplois supplémentaires.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,
@@ -357,7 +357,7 @@
       "citation": "Il a également évoqué la réduction du nombre de parlementaires, la suppression de strates de collectivités territoriales",
       "date_source": "2025-09-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_voteblanc": {
       "valeur": null,

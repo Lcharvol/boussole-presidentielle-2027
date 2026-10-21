@@ -87,7 +87,7 @@
       "citation": "La prison doit rester l’exception, pas devenir la règle. L’objectif ultime doit rester la réinsertion des personnes condamnées y compris si c’est à long terme.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": -2,
@@ -204,7 +204,7 @@
       "citation": "Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": 2,
@@ -294,7 +294,7 @@
       "citation": "Nous ne pouvons pas nous priver de l’Alliance atlantique à court terme, mais elle n’est plus acquise dans sa forme historique.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": null,
@@ -312,7 +312,7 @@
       "citation": "Garantir un remboursement total des soins essentiels nécessaires au maintien de l’autonomie et de la qualité de vie par la prise en charge à 100 % par l’Assurance maladie. Supprimer les franchises. Concentrer la couverture par les mutuelles aux seuls soins optionnels.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_chomage": {
       "valeur": -2,
@@ -339,7 +339,7 @@
       "citation": "Étendre la protection sociale aux jeunes adultes par l’extension de la garantie d’autonomie dès 18 ans pour toutes les personnes indépendantes fiscalement [cf proposition 32-1].",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_apprentissage": {
       "valeur": -1,
@@ -348,7 +348,7 @@
       "citation": "Défendre un collège unique et inclusif permettant d’accueillir tous les élèves […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_parlementaires": {
       "valeur": null,
@@ -366,7 +366,7 @@
       "citation": "Reconnaître le vote blanc en attribuant le taux équivalent à des citoyen·nes tirés au sort sur les listes électorales pour les élections territoriales.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     }
   }
 }

@@ -15,7 +15,7 @@
       "citation": "Plutôt que de reculer encore l’âge légal au prix d’un débat sans issue, il faut reprendre, sur des bases nouvelles et négociées, la trajectoire d’allongement engagée en 2014.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": null,
@@ -33,7 +33,7 @@
       "citation": "Cette dérive doit peu à un excès de dépenses pour nos malades, nos aînés ou nos enfants. Elle doit beaucoup à des choix fiscaux qui ont délibérément privé l’État de ses recettes […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 1,
@@ -42,7 +42,7 @@
       "citation": "Une fiscalité qui atteint réellement les très grandes fortunes, les plus hauts revenus du capital, les rentes financières qui s’accumulent sans contribuer au financement de l’innovation et à l’investissement productif relève de l’équité et non de la démagogie.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": null,
@@ -60,7 +60,7 @@
       "citation": "Elle suppose d’assumer l’atout que représente pour la Nation la filière électronucléaire. Il serait irresponsable de s’en passer. Le renouvellement du parc impliquera une planification […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 0,
@@ -69,7 +69,7 @@
       "citation": "Le renouvellement du parc impliquera une planification, et une rationalisation des investissements dans les énergies renouvelables, pour rendre attractive l’électrification des usages.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": 0,
@@ -78,7 +78,7 @@
       "citation": "Entre ces deux impasses, il nous faut promouvoir une écologie populaire, la planifier pour la rendre juste.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": -1,
@@ -87,7 +87,7 @@
       "citation": "La prison ne peut pas être la réponse par défaut. Une politique qui entasse les jeunes dans des conditions indignes et les livre aux détenus radicalisés n’est pas une politique de sécurité : c’est une fabrique de récidives et d’islamisme carcéral.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": -1,
@@ -96,7 +96,7 @@
       "citation": "En privilégiant les comparutions immédiates, passées de trente et une mille affaires en 2001 à près de cinquante mille en 2021, on a rempli des prisons parmi les plus surpeuplées d’Europe. La prison ne peut pas être la réponse par défaut.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,
@@ -141,7 +141,7 @@
       "citation": "Il faudra qu’enfin l’Europe accepte de décider à la majorité ce qui peut l’être. L’unanimité, pourtant de moins en moins imposée par les traités, est devenue le levier de ceux qui veulent paralyser le continent depuis l’intérieur.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": -1,
@@ -150,7 +150,7 @@
       "citation": "Il lui faut retrouver l’ambition de ses pères fondateurs pour redevenir un acteur du monde, souverain et solidaire.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": 1,
@@ -159,7 +159,7 @@
       "citation": "La défense de la France est inséparable de celle de l’Europe, et celle de l’Ukraine indissociable de l’idée d’un continent libre.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": null,
@@ -195,7 +195,7 @@
       "citation": "Ce n’est pas la coexistence du public et du privé qui pose problème : elle est inscrite dans notre histoire, et beaucoup de parents se résignent au privé face à l’abandon de l’école publique. Le vrai problème, c’est l’évitement organisé […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_autorite": {
       "valeur": null,
@@ -213,7 +213,7 @@
       "citation": "Introduire une dose de proportionnelle dans le mode de scrutin législatif y contribuerait utilement.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": null,
@@ -231,7 +231,7 @@
       "citation": "Faut-il pour autant précipiter un changement de régime, alors que la Nation, dans son histoire, a si souvent souffert du grand fracas institutionnel ?",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -294,7 +294,7 @@
       "citation": "Demeurer dans l’OTAN, sans rien y abdiquer, et contribuer à l’Europe de la défense sans prétendre s’y substituer.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": null,
@@ -339,7 +339,7 @@
       "citation": "au moins 2 000 € d’aide supplémentaire pour chaque étudiant boursier au cours de ses deux premières années ; avance jeunesse de 3 000 € pour les 18-24 ans sans diplôme ni emploi, sous conditions de ressources […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_apprentissage": {
       "valeur": null,

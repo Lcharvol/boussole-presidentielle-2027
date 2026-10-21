@@ -33,7 +33,7 @@
       "citation": "la candidate du RN a promis \"140 milliards d'euros net d'économies\" d'ici 2032 par rapport à 2026, tout en assurant que le déficit public pouvait passer sous la barre des 3% dès 2030.",
       "date_source": "2026-10-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 0,
@@ -42,7 +42,7 @@
       "citation": "Hier, ces derniers ont fait barrage contre ce que Marine Le Pen qualifiait il y a quelques jours de proposition « stupide et nocive » […] Sa proposition d’un « impôt sur la fortune financière », présenté comme le retour à un « impôt sur la fortune » mais qui exclurait les biens professionnels […]",
       "date_source": "2025-10-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": -1,
@@ -51,7 +51,7 @@
       "citation": "Son credo est « Travailler plus pour garder plus » : il s’agit de faciliter le recours aux heures supplémentaires en faisant en sorte qu’elles rapportent davantage. Augmenter la durée légale de travail n’est pas envisagé.",
       "date_source": "2026-09-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": 2,
@@ -159,7 +159,7 @@
       "citation": "“À partir de mon élection, durant six mois nous maintiendrons les aides [...] pour ne mettre personne au pied du mur. Mais après nous cesserons l'aide financière à l'Ukraine car nous n'avons plus les moyens de le faire\" , avait-elle déclaré.",
       "date_source": "2026-10-16",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": 1,

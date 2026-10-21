@@ -33,7 +33,7 @@
       "citation": "Priorisation de la classe moyenne, réduction des dépenses sociales, défense de la retraite par capitalisation : le président des Hauts-de-France a d'ores et déjà livré les grandes lignes de son projet […]",
       "date_source": "2026-08-03",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": null,
@@ -204,7 +204,7 @@
       "citation": "« Les différences doivent se faire par la personnalité, pas par la tenue vestimentaire » , souligne Xavier Bertrand.",
       "date_source": "2024-09-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": -2,

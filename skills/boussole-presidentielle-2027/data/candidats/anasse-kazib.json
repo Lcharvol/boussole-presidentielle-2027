@@ -42,7 +42,7 @@
       "citation": "Taxer les riches ne suffit pas, il faut s'attaquer à la racine de ce pouvoir et placer l'économie sous le contrôle des travailleurs.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": -2,

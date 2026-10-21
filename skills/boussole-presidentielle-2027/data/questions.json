@@ -23,7 +23,7 @@
       "id": "eco_retraite",
       "theme": "economie",
       "texte": "L'âge légal de départ à la retraite doit être ramené à 62 ans ou moins.",
-      "niveau": "moyen"
+      "niveau": "rapide"
     },
     {
       "id": "eco_smic",
@@ -35,7 +35,7 @@
       "id": "eco_depenses",
       "theme": "economie",
       "texte": "Pour réduire le déficit, il faut d'abord augmenter les impôts plutôt que baisser fortement les dépenses publiques.",
-      "niveau": "rapide"
+      "niveau": "moyen"
     },
     {
       "id": "eco_patrimoine",

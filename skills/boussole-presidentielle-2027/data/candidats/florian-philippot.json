@@ -15,7 +15,7 @@
       "citation": "Délivrée de la menace bruxelloise, la France pourra souverainement déterminer les conditions d’accession à la retraite et baisser l’âge de départ si les Français le désirent.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": null,
@@ -33,7 +33,7 @@
       "citation": "Pour réaliser ce redressement sans augmenter le niveau d’imposition déjà record subi par les Français, la solution devra d’abord venir d’une réduction du train de vie de l’Etat […]",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": null,
@@ -78,7 +78,7 @@
       "citation": "Supprimer la PAC, ses normes absurdes (tel que le taux de jachère obligatoire) et ses contraintes administratives.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": 2,
@@ -204,7 +204,7 @@
       "citation": "Refonder l’autorité des professeurs et redonner du sens à la vocation enseignante.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": null,
@@ -258,7 +258,7 @@
       "citation": "La responsabilité doit primer et l’excuse de minorité ne doit s’appliquer qu’à la condition que le juge la motive spécialement. Les actes graves doivent être jugés comme tels : qui tue comme un adulte doit être jugé comme un adulte.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": null,
@@ -321,7 +321,7 @@
       "citation": "Les réformes récentes, exigées par la Commission européenne, visant à raboter les indemnités chômage, à fermer des lits à l’hôpital ou à arrêter le remboursement des médicaments pourront être supprimées.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,
@@ -348,7 +348,7 @@
       "citation": "Il faut rompre avec le dogme du collège unique, qui nivelle par le bas, pour proposer dès 14 ans des parcours différenciés, y compris vers l’apprentissage.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_parlementaires": {
       "valeur": 1,

@@ -78,7 +78,7 @@
       "citation": "Quand 2 millions de personnes disent non à la loi Duplomb et à l’acétamipride, il faut l’entendre et être cohérents jusqu’au bout : c’est à dire qu’il faut interdire aussi l’importation de tous les aliments, noisettes ou betteraves cultivés à l’étranger avec ce pesticide !",
       "date_source": "2025-08-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": null,
@@ -159,7 +159,7 @@
       "citation": "\"Oui, il faut soutenir l’Ukraine avec des armes de défense, mais la France ne doit pas entrer en guerre et devenir co-belligérant !\"",
       "date_source": "2024-03-07",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_medecins": {
       "valeur": -2,
@@ -186,7 +186,7 @@
       "citation": "\" Je préfère garantir à chacun un travail. Le plein emploi ça doit être ça, éradiquer le chômage dans notre pays. \"",
       "date_source": "2025-02-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": null,
@@ -240,7 +240,7 @@
       "citation": "Je suis favorable à la décarbonation la plus rapide possible de la mobilité, donc à la sortie du thermique dans le calendrier le plus rapide possible.",
       "date_source": "2022-03-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_aerien": {
       "valeur": null,
