@@ -177,7 +177,7 @@
       "citation": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
       "date_source": "2026-07-15",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": 0,
@@ -222,7 +222,7 @@
       "citation": "Le référendum ne pourra plus être utilisé par l’exécutif à des fins plébiscitaires, mais son déclenchement reviendra à un million de citoyen·ne·s, réparti·e·s sur l’ensemble du territoire […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": 2,
@@ -312,7 +312,7 @@
       "citation": "La démocratie sociale et une réforme de progrès du financement permettront de mettre fin au reste à charge des dépenses de soins, d’aller vers une véritable prise en charge à 100 % […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_chomage": {
       "valeur": -2,

@@ -24,7 +24,7 @@
       "citation": "Revaloriser le SMIC à 1 400 euros net. Cette augmentation de 8 % doperait notamment une consommation tournée vers des secteurs à bas revenus (hôtellerie, restauration).",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": null,
