@@ -376,7 +376,7 @@
       "citation": "Contrôle aux frontières et des mouvements de capitaux : rétablissement des contrôles frontaliers pour les flux humains, de marchandises et de capitaux afin de lutter contre les délocalisations et l’évasion fiscale des grands groupes.",
       "date_source": "2026-09-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -1,
@@ -385,7 +385,7 @@
       "citation": "Attachés à favoriser la transmission entre les générations, nous diminuerons de 5 points l’ensemble des droits de succession en dessous d’une valeur de 300 000 € par héritier.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Nous renationaliserons ou cesserons le processus de privatisation rampante et de dégradation de la qualité de service de plusieurs grandes entreprises, en particulier : […] des concessionnaires d’autoroutes",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": -1,
@@ -403,7 +403,7 @@
       "citation": "Nous lutterons enfin contre l’étalement urbain qui participe à l’artificialisation des sols",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": null,
@@ -448,7 +448,7 @@
       "citation": "l’augmentation des budgets de la police permettra de remettre en place une police de proximité dans les quartiers, qui a prouvé son efficacité. La politique de quartiers sera appliquée par des fonctionnaires d’État, afin d’éviter tout clientélisme.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": null,
@@ -475,7 +475,7 @@
       "citation": "ne doivent intégrer la communauté nationale par naturalisation que les personnes manifestant une claire volonté d’assimilation. Des instructions précises en ce sens seront données aux administrations.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_service_militaire": {
       "valeur": null,
@@ -493,7 +493,7 @@
       "citation": "Sur la dissuasion nucléaire, François Asselineau met en garde contre l’idée de placer l’Europe sous un parapluie nucléaire français. Il s’agirait d’une dilution dangereuse de notre souveraineté au profit d’un bloc européen instable.",
       "date_source": "2025-12-24",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "Nous proposerons ainsi aux Français d’inscrire dans la Constitution le principe selon lequel le régime général de retraites se fait par répartition.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,
@@ -565,7 +565,7 @@
       "citation": "Rétablir le septennat pour le mandat du Président de la République, et passer la durée du mandat des députés de 5 à 4 ans",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     }
   }
 }

@@ -376,7 +376,7 @@
       "citation": "Le traité de libre-échange entre l’Union européenne et les pays du Mercosur est l’ouverture directe à une agriculture low-cost et à l’asphyxie programmée de milliers d’exploitations. […] refuser l’accord UE-Mercosur en l’état et enclencher sans tarder la procédure devant la CJUE",
       "date_source": "2026-01-08",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": null,
@@ -448,7 +448,7 @@
       "citation": "je souhaite considérablement renforcer la troisième force de sécurité intérieure, que sont les polices municipales. […] Sous le contrôle des OPJ territoriaux, les policiers municipaux seraient autorisés à effectuer des contrôles d’identité, à mener des enquêtes sur les délits du quotidien.",
       "date_source": "2021-09-20",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": 1,
@@ -457,7 +457,7 @@
       "citation": "je demanderai au Parlement de fixer un objectif de réduction d’un tiers du nombre de nouveaux titres de séjour « travail ». Avec près de trois millions et demi de demandeurs d’emploi, on ne peut pas se permettre de délivrer, tous les ans, 40.000 titres et visas « travail ».",
       "date_source": "2021-11-04",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": null,
@@ -484,7 +484,7 @@
       "citation": "C’est pourquoi nous proposons l’établissement d’un service national obligatoire : – un service d’une durée d’au moins 3 mois",
       "date_source": "2015-04-08",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "Outre l’ajout d’un étage de capitalisation obligatoire, il souhaite confier la gestion du régime de base aux partenaires sociaux.",
       "date_source": "2026-08-19",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,
@@ -565,7 +565,7 @@
       "citation": "S’il se voit confier cette mission, elle ne durera que cinq ans. Par voie référendaire, il veut proposer aux Français le septennat unique.",
       "date_source": "2026-08-04",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     }
   }
 }

@@ -376,7 +376,7 @@
       "citation": "Le protectionnisme ne protège ni l’emploi ni les salaires, il est une arme des capitalistes dans leur guerre contre d’autres capitalistes.",
       "date_source": "2026-05",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": null,
@@ -394,7 +394,7 @@
       "citation": "les travailleurs prennent conscience qu’il faut aller jusqu’au bout de la lutte de classe, c’est-à-dire jusqu’à exproprier la bourgeoisie pour prendre sa place à la direction des multinationales et à la direction politique de la société.",
       "date_source": "2026-09-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": null,
@@ -412,7 +412,7 @@
       "citation": "Même les mesures supposées remédier à la sécheresse, par exemple le droit de construire des méga-bassines pourtant si contestées, aggraveront les inégalités entre agriculteurs sans résoudre le manque d’eau.",
       "date_source": "2026-08-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": 0,
@@ -421,7 +421,7 @@
       "citation": "Que les ZFE soient appliquées ou retoquées, le problème de la pollution et du respect de l’écologie en général ne sera pas résolu dans cette société.",
       "date_source": "2025-04-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": null,
@@ -439,7 +439,7 @@
       "citation": "Les jeunes des quartiers populaires, souvent issus de l’immigration, sont particulièrement visés par cette loi, une loi inique qui doit être retirée !",
       "date_source": "2026-09-16",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_police_municipale": {
       "valeur": null,
@@ -484,7 +484,7 @@
       "citation": "Pour l’instant, ce service est au volontariat. Mais combien de temps cela durera-t-il ? Déjà certains politiciens et chefs d’état-major regrettent que ce service ne soit pas obligatoire",
       "date_source": "2025-12-01",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "Bardella a mis en avant un projet de réforme des retraites qui comporterait la suppression de la notion d’âge légal de départ et la mise en place d’un système par capitalisation. Voilà le vrai visage du « candidat du peuple » !",
       "date_source": "2026-05",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,
@@ -529,7 +529,7 @@
       "citation": "C'est une bonne chose de limiter la rapacité de certains propriétaires. […] A quand des mesures limitant le montant des loyers, et la construction massive des logements sociaux qui manquent ?",
       "date_source": "2012-07-30",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": 2,
@@ -538,7 +538,7 @@
       "citation": "Mais Parcoursup renforce la sélection en donnant aux établissements d’enseignement supérieur les moyens de choisir leurs étudiants sur des critères plus ou moins ténébreux, ce à quoi des universitaires refusent d’ailleurs de se prêter.",
       "date_source": "2018-05-30",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_remuneration": {
       "valeur": 1,
@@ -547,7 +547,7 @@
       "citation": "Face à l’inflation galopante, l’urgence de l’augmentation des salaires et de leur indexation sur la hausse des prix doit devenir un objectif commun à l’ensemble des travailleurs, du public comme du privé.",
       "date_source": "2023-02-08",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": null,

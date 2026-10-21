@@ -376,7 +376,7 @@
       "citation": "Retirer à la Commission européenne la mission de représenter la France dans les traités de protections des investissements internationaux. Et interrompre la négociation de tels accords (CETA…)",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -1,
@@ -385,7 +385,7 @@
       "citation": "Exonérer de taxes sur les héritages agricoles.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Un certain nombre de «re-nationalisations» s’imposent, par exemple : EDF, les autoroutes de France et les entreprises liées à la Défense nationale.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "Maintenir la retraite par répartition.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,
@@ -529,7 +529,7 @@
       "citation": "Encadrer les loyers: opérer un meilleur contrôle.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": null,
@@ -547,7 +547,7 @@
       "citation": "Revaloriser le salaire et le statut des enseignants. Dans les années 1970, un enseignant touchait un salaire de 3 000 F soit 1,95 fois le SMIC. En 2021, il percevait 1 500 euros, soit 1,4 fois le SMIC.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": -2,
@@ -556,7 +556,7 @@
       "citation": "Rétablir les mandats de député-maire et sénateur-maire afin de renouer le lien entre les territoires et la représentation nationale.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_mandat_unique": {
       "valeur": null,
