@@ -61,7 +61,7 @@
       "citation": "Notre priorité doit être de rebâtir un parc nucléaire en reconstituant une compétence industrielle française, afin d’éviter l’effet falaise lié au vieillissement des centrales actuelles. Évidemment, cette substitution ne pourra être que partielle et par phase […]",
       "date_source": "2025-07-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,

@@ -61,7 +61,7 @@
       "citation": "Arrêter le plan de démantèlement, prolonger les réacteurs jusqu’à soixante ans par des investissements de maintenance et de sûreté, engager une première série de six EPR",
       "date_source": "2021-08-01",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,

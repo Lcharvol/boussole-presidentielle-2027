@@ -61,7 +61,7 @@
       "citation": "\"Si je suis élu, je choisirai dès l'été prochain la relance d'un programme nucléaire digne de ce nom […]\" […] \"Alors, que l'on choisisse dès maintenant de lancer les nouveaux EPR et qu'on n'attende pas\"",
       "date_source": "2021-07-27",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,

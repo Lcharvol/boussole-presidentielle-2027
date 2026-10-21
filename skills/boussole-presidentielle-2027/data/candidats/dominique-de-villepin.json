@@ -61,7 +61,7 @@
       "citation": "6 EPR2, éolien en mer industrialisé, électrification massive des usages, pour les ménages comme pour l’industrie.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 1,

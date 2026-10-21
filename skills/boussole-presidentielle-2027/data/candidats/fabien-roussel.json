@@ -61,7 +61,7 @@
       "citation": "Nos priorités pour le climat c’est la construction de 200 000 logements par an, c’est la sortie du marché européen de l’électricité et la production de 20 nouvelles centrales nucléaires […]",
       "date_source": "2025-08-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 0,

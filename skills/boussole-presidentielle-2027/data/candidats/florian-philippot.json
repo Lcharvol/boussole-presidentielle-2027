@@ -61,7 +61,7 @@
       "citation": "Il faut non seulement préserver cet avantage stratégique, mais aussi le renforcer par un plan d’investissement massif dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,

@@ -61,7 +61,7 @@
       "citation": "Il y a un point \"qui reste à discuter\" : \"la question des nouveaux réacteurs nucléaires\". Raphaël Glucksmann estime qu'il faut développer de nouveaux EPR, contrairement à Yannick Jadot.",
       "date_source": "2026-08-25",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 2,

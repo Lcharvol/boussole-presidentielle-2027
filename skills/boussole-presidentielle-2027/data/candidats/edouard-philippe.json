@@ -61,7 +61,7 @@
       "citation": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 1,

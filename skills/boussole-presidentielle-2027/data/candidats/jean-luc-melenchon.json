@@ -61,7 +61,7 @@
       "citation": "Sortir du nucléaire : abandonner les projets d’EPR (European Pressurized Reactor – Réacteur pressurisé européen), planifier le démantèlement, la réhabilitation et la reconversion des sites nucléaires",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 2,

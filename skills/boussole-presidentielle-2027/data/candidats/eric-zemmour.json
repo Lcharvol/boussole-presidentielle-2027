@@ -61,7 +61,7 @@
       "citation": "Sa politique énergétique s’appuie fortement sur le nucléaire, « la voie du salut énergétique » : remise en cause de la fermeture prévue des douze réacteurs, création de 14 nouveaux EPR.",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,

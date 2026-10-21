@@ -61,7 +61,7 @@
       "citation": "Nous poursuivrons aussi la construction des six réacteurs EPR2 : ces six réacteurs permettront surtout de compenser les fermetures des centrales actuelles […]. La décision de construire ou non huit réacteurs EPR2 supplémentaires sera prise en fonction du devis proposé par EDF",
       "date_source": "2026-09-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 1,

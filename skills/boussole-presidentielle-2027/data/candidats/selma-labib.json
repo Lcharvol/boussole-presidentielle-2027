@@ -61,7 +61,7 @@
       "citation": "L’énergie nucléaire est certes la source d’énergie la plus décarbonée aujourd’hui. L’absence de gestion des déchets radioactifs reste néanmoins catastrophique […]",
       "date_source": "2024-05-28",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 0,

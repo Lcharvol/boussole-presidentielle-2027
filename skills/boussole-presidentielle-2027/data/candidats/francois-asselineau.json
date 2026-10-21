@@ -61,7 +61,7 @@
       "citation": "je prévois de développer la filière nucléaire française en lançant la construction de dix nouvelles centrales qui seront des exemples en matière de limitation des déchets produits et qui contribueront à renouveler notre parc.",
       "date_source": "2022-02-05",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -1,

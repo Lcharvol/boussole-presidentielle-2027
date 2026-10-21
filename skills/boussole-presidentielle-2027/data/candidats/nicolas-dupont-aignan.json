@@ -61,7 +61,7 @@
       "citation": "Abandonner l’objectif de 50% de nucléaire dans la production électrique en 2035, maintenir le nucléaire à 70% de la production d’électricité minimum. […] Conforter le développement des réacteurs GENERATION IV relancer le nucléaire […]",
       "date_source": "2022",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,

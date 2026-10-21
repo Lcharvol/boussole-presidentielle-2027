@@ -61,7 +61,7 @@
       "citation": "Construction de 14 EPR 2, développement d’une filière intégrée RNR-NA.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -1,

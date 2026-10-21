@@ -61,7 +61,7 @@
       "citation": "Préparer la transition énergétique du nucléaire. Rénover et prolonger de 25 ans les centrales nucléaires en fin de vie. Développer les centrales nucléaires de 4 ᵉ génération (plus sûres que les précédentes).",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 0,

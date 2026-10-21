@@ -61,7 +61,7 @@
       "citation": "Nous allons continuer la montée en puissance de notre parc nucléaire, investir massivement dans les programmes – et cette année, l'EPR de Flamanville sera opérationnel.",
       "date_source": "2024-01-30",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 1,

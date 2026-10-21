@@ -61,7 +61,7 @@
       "citation": "Relancer le nucléaire via la création de cinq paires d’EPR et cinq autre EPR2, le prolongement jusqu’à soixante ans des centrales et la réouverture de Fessenheim.",
       "date_source": "2022-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,
