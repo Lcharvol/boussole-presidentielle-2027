@@ -376,7 +376,7 @@
       "citation": "Ensemble, avec le peuple souverain, nous déciderons de ne pas appliquer les traités de libre-échange mortifères tel que le CETA, le Mercosur. Nous protégerons nos agriculteurs, nos viticulteurs, notre gastronomie.",
       "date_source": "2025-11-23",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": 2,
@@ -385,7 +385,7 @@
       "citation": "La fiscalité des donations et des successions sera profondément réformée […] Sa progressivité sera fortement accentuée, en doublant le nombre de tranches en fonction de deux critères : la valeur des biens transmis et la capacité contributive (les ressources) des donataires",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Nous avons besoin d'un Etat plus fort, d'un Etat stratège qui organise la relocalisation de la production, qui organise les filières, qui nationalise quand c'est nécessaire, comme à Arcelor, comme dans la chimie avec Vencorex et avec Sanofi.",
       "date_source": "2025-09",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": null,
@@ -430,7 +430,7 @@
       "citation": "Les contrôles au faciès seront combattus, grâce à la mise en place du récépissé justifiant qu’une personne a déjà été contrôlée.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_legitime_defense": {
       "valeur": null,
@@ -448,7 +448,7 @@
       "citation": "nous avons un gouvernement et un ministre de l’intérieur qui invitent les communes à investir dans les polices municipales, dans la vidéo surveillance et bien sur, à tout payer ! Mais que fait l’État ? C’est à lui de garantir partout […] le droit à la tranquillité !",
       "date_source": "2025-08-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": null,
@@ -493,7 +493,7 @@
       "citation": "plutôt que de discuter du partage de la dissuasion nucléaire française - quel scandale quand même ! - exigeons plutôt des chefs d'État européens qu'ils travaillent à la paix en Europe",
       "date_source": "2025-04-08",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": null,
@@ -529,7 +529,7 @@
       "citation": "Les loyers seront encadrés et la quittance ne devra pas dépasser 20 % des revenus du foyer.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": 2,
@@ -538,7 +538,7 @@
       "citation": "La sélection à l’entrée de l’université sera supprimée Les réformes du lycée et du baccalauréat seront abrogées, et « Parcoursup » sera supprimé.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_remuneration": {
       "valeur": null,

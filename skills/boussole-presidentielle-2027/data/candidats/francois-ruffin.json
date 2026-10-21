@@ -376,7 +376,7 @@
       "citation": "Des protections à nos frontières, des quotas d’importation, des barrières douanières. C’est-à-dire, une rupture nette avec le libre-échange qui a cours, des accords de l’ Uruguay round (1994) aux traités récents avec le Canada, la Nouvelle-Zélande, le Mercosur, etc.",
       "date_source": "2026-10-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": 2,
@@ -385,7 +385,7 @@
       "citation": "Proposition 2 : Imposer les grandes successions à la hauteur du patrimoine accumulé (20 Md€ en 2026)",
       "date_source": "2026-10-21",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Lorsque les dépendances sont les plus « vitales » et que les grands groupes sont difficiles à contrôler ou sabotent l’outil de production national, il faut que l’État devienne majoritaire dans des pôles de production ciblés, en particulier dans la santé, la défense et le numérique.",
       "date_source": "2026-10-15",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": -1,
@@ -403,7 +403,7 @@
       "citation": "Depuis 2021, plusieurs lois ont néanmoins complexifié le dispositif, sous couvert de « simplification » et introduit des dérogations multiples qui questionnent l’efficacité écologique et la justice sociale de cette politique publique.",
       "date_source": "2026-09-24",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": null,
@@ -421,7 +421,7 @@
       "citation": "Les mesures de protection de l’air comme les ZFE (Zones à Faibles Émissions) ne viendront plus d’en haut, mais des citoyens, au plus près de leurs besoins !",
       "date_source": "2026-09-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": -1,
@@ -430,7 +430,7 @@
       "citation": "Ainsi, le ministère de l’intérieur doit mettre en place un dispositif de traçabilité des contrôles d’identité",
       "date_source": "2022-11-09",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_legitime_defense": {
       "valeur": -1,
@@ -439,7 +439,7 @@
       "citation": "Scrutin public n°7987 sur l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
       "date_source": "2026-07-07",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_police_municipale": {
       "valeur": null,
@@ -457,7 +457,7 @@
       "citation": "Nous sommes opposés à la volonté du patronat de filières d’immigration pour trouver une main d’œuvre manquante. […] C’est par la mobilisation générale des travailleurs français comme étrangers sur notre territoire, en assurant salaire-horaire-statut-revenu ici, que nous affronterons les grands défis",
       "date_source": "2026-04",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": null,
@@ -529,7 +529,7 @@
       "citation": "3 / En plus d’étendre cet encadrement des loyers à l’ensemble des agglomérations, nous proposons de le généraliser à l’ensemble du territoire.",
       "date_source": "2026-09-24",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": null,

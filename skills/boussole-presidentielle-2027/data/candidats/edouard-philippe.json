@@ -376,7 +376,7 @@
       "citation": "Protéger le marché européen face à la concurrence déloyale chinoise, en imposant transferts de technologie, quotas de production et joint-ventures dans les secteurs stratégiques",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -1,
@@ -385,7 +385,7 @@
       "citation": "Augmenter massivement les plafonds de donation du vivant aux enfants et petits-enfants pendant les trois premières années du quinquennat.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": 1,
@@ -394,7 +394,7 @@
       "citation": "\"Qu'est-ce qui est stratégique s'agissant de ce lieu? C'est la frontière, parce que c'est un élément de souveraineté. Le caractère commercial de l'entreprise l'est moins\", a plaidé le Premier ministre",
       "date_source": "2019-04-18",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": null,
@@ -412,7 +412,7 @@
       "citation": "Accélérer le stockage de l'eau agricole en plaçant « la protection avant la procédure », et atteindre 10 % de réutilisation des eaux usées traitées pour les usages non potables, contre moins de 1 % aujourd'hui.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": null,
@@ -484,7 +484,7 @@
       "citation": "Porter le nombre de réservistes de 45 000 à 250 000 et le service militaire volontaire de 3 000 à 50 000 places par an.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "Généraliser à tous les salariés la retraite par capitalisation collective, qui existe déjà pour les fonctionnaires, et ouvrir un plan d'épargne retraite à chaque Français, avec un premier versement de l'État de 500€ dès le premier emploi.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": -2,
@@ -520,7 +520,7 @@
       "citation": "Créer une allocation familiale unique dès le premier enfant, à hauteur de 350€, en fusionnant les dispositifs existants trop complexes et trop éparpillés, dégressive avec le revenu.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_loyers": {
       "valeur": 2,
@@ -529,7 +529,7 @@
       "citation": "L’encadrement des loyers est aussi vivement dénoncé : « dans une économie qui est régulée par le marché, lorsque vous interdisez au prix de faire ce à quoi il sert, c’est-à-dire l’équilibre entre l’offre et la demande, vous créez des problèmes ».",
       "date_source": "2025-12-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": null,
