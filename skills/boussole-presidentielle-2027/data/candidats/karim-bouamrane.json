@@ -376,7 +376,7 @@
       "citation": "Je veux une transition juste : qui rénove les logements des familles modestes, qui crée des emplois durables dans nos territoires, et qui protège nos agriculteurs, sans leur imposer des règles que nous refusons d'exiger de ceux qui nous nourrissent depuis l'étranger.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": null,

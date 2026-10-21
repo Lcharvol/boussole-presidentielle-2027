@@ -376,7 +376,7 @@
       "citation": "s’opposer aux traités comme le Mercosur qui placent nos éleveurs dans une situation injuste et intenable.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": 2,
@@ -385,7 +385,7 @@
       "citation": "Lors de sa déclaration de candidature, Raphaël Glucksmann (Place publique) a, lui, indiqué qu'il voulait \"taxer les méga-héritages\", \"les 1% les plus gros\". \"99% des héritages ne seront pas affectés\"",
       "date_source": "2026-08-27",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": null,
@@ -403,7 +403,7 @@
       "citation": "Défendre résolument les objectifs du Zéro Artificialisation Nette des sols (ZAN) en évaluant mieux les impacts en amont et en sortant d’une logique purement comptable",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": 1,
@@ -412,7 +412,7 @@
       "citation": "Faire de l’eau un enjeu démocratique en rééquilibrant ses usages- agriculture, industrie, énergie- en planifiant les prélèvements, en modernisant les infrastructures. Refuser les méga-bassines au profit de solutions locales réfléchies avec les agriculteurs",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": null,
@@ -430,7 +430,7 @@
       "citation": "Généraliser les récépissés de contrôle d’identité.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_legitime_defense": {
       "valeur": null,
@@ -448,7 +448,7 @@
       "citation": "Revoir l’architecture de la Police avec pour la police nationale, la suppression de l’échelon zonal inutile et coûteux, afin de renforcer les capacités opérationnelles réelles […]. Réaffirmer le rôle de la police municipale, centré sur la proximité et la prévention.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": -1,
@@ -457,7 +457,7 @@
       "citation": "Porter un plan pour accroître le nombre de cotisants avec une meilleure insertion des seniors, l’immigration légale de travail ou la facilitation de la primo-entrée dans le monde du travail.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": -2,
@@ -466,7 +466,7 @@
       "citation": "Harmoniser au sein de l’Union Européenne les procédures d’asile et établir un mécanisme européen de répartition cohérent qui mettra fin au système de Dublin, refuser l’externalisation de nos politiques migratoires et d’asile.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_naturalisation": {
       "valeur": null,
@@ -484,7 +484,7 @@
       "citation": "Raphaël Glucksmann propose également d'instaurer un service civique obligatoire de dix mois pour toutes les jeunes Français. […] La dimension militaire de ce service resterait basée sur le volontariat.",
       "date_source": "2026-05-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": -2,
@@ -493,7 +493,7 @@
       "citation": "Proposer à nos partenaires de l’UE d’étendre la dissuasion nucléaire française aux autres pays de l’Union européenne, en conservant la souveraineté française sur la décision d’emploi",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": -1,
@@ -502,7 +502,7 @@
       "citation": "Il s'est dit favorable à ce que le pays de Volodymyr Zelensky rejoigne l'Union européenne, à la condition \"qu'il respecte les mêmes normes que les pays déjà membres de l'Union européenne\"",
       "date_source": "2024-02-19",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_capitalisation": {
       "valeur": null,
@@ -529,7 +529,7 @@
       "citation": "Encadrer les loyers dans les zones en grande tension pour garantir l’accès au logement aux ménages modestes.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": 1,
@@ -538,7 +538,7 @@
       "citation": "Nous comptons faire de l’université un lieu d’émancipation sans que cela ressemble à une course d’obstacles pour y entrer.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_remuneration": {
       "valeur": 1,
@@ -547,7 +547,7 @@
       "citation": "Revaloriser le salaire de tous les enseignants de manière continue et planifiée sur 5 ans.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": null,

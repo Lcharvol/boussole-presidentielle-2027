@@ -376,7 +376,7 @@
       "citation": "Ce sursaut appelle une réforme budgétaire et une politique industrielle commune ; une doctrine de la concurrence moins dogmatique et une approche commerciale moins naïve ;",
       "date_source": "2026-07-15",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": null,
@@ -430,7 +430,7 @@
       "citation": "Après de nombreux échanges, il est apparu que la proposition tendant à la délivrance d'un récépissé ne constituait pas la meilleure solution. […] Le Gouvernement n'a pas l'intention à ce stade de revenir sur cette décision.",
       "date_source": "2016-05-31",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_legitime_defense": {
       "valeur": null,
@@ -484,7 +484,7 @@
       "citation": "Je veux une réserve citoyenne plus ambitieuse, ouverte à davantage de Français : non pour militariser la société, mais pour rappeler que la défense engage plus que le seul gouvernement.",
       "date_source": "2026-07-15",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": -1,
@@ -493,7 +493,7 @@
       "citation": "Cet effort n’a de sens que dans une architecture européenne de sécurité. […] Engager ensuite, y compris avec le Royaume-Uni, une réflexion sur ce que notre dissuasion peut y apporter.",
       "date_source": "2026-07-15",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "Les retraites doivent être consolidées dans le cadre d’un système par répartition que nul ne saurait remettre en cause, car lui seul assure la justice",
       "date_source": "2026-07-15",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,
@@ -565,7 +565,7 @@
       "citation": "Mieux vaut, par la loi comme par la pratique, rendre au Président son rôle de garant du pacte républicain et d’une certaine conception de l’intérêt général. Il faut pour cela rétablir le septennat,",
       "date_source": "2026-07-15",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     }
   }
 }
