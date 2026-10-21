@@ -96,7 +96,7 @@
       "citation": "Respecter la dignité et les droits des personnes privées de liberté : en finir avec la surpopulation carcérale par la mise en place d’un mécanisme contraignant de régulation carcérale",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 2,
@@ -150,7 +150,7 @@
       "citation": "Dans le même temps, nous désobéirons aux règles européennes incompatibles avec l’application de l’Avenir en commun.",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -1,
@@ -195,7 +195,7 @@
       "citation": "Abolir les privilèges de l’enseignement privé et abroger la loi Carle • Appliquer un malus au financement public des établissements privés sous contrat contribuant à la […] ségrégation socio-scolaire",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_autorite": {
       "valeur": -2,
@@ -249,7 +249,7 @@
       "citation": "Mettre fin aux niches fiscales sur le kérosène pour limiter le dumping du e-commerce depuis l’étranger",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_mineurs": {
       "valeur": 2,
@@ -339,7 +339,7 @@
       "citation": "Financer l’autonomie des jeunes détachés du foyer fiscal parental grâce à la garantie d’autonomie, qui les portera au-dessus du seuil de pauvreté (1 216 euros pour une personne seule)",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_apprentissage": {
       "valeur": -1,
@@ -348,7 +348,7 @@
       "citation": "Les jeunes de l’enseignement professionnel sont traités comme une main-d’œuvre sous payée avec la généralisation aveugle de l’apprentissage.",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_parlementaires": {
       "valeur": null,

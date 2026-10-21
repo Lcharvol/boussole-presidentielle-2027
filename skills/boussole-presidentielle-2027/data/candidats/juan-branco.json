@@ -24,7 +24,7 @@
       "citation": "Déconcentration du SMIC, avec réhaussement du seuil minimal national à 1500 euros net.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,
@@ -33,7 +33,7 @@
       "citation": "Réduction de la charge fiscale sur les foyers par une maîtrise de la politique budgétaire et un objectif d’excédent, un accroissement contrôlé de l’inflation, un changement de la politique allocative aux fins de baisse des dépenses […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 2,
