@@ -24,7 +24,7 @@
       "citation": "Revaloriser le SMIC à 1 400 euros net. Cette augmentation de 8 % doperait notamment une consommation tournée vers des secteurs à bas revenus (hôtellerie, restauration).",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": null,
@@ -60,7 +60,7 @@
       "citation": "Préparer la transition énergétique du nucléaire. Rénover et prolonger de 25 ans les centrales nucléaires en fin de vie.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 0,
@@ -69,7 +69,7 @@
       "citation": "Stopper l’éolien. […] Développer l’énergie solaire (production et stockage) avec pour objectif de créer des centrales solaires.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": -1,
@@ -78,7 +78,7 @@
       "citation": "Luttons contre le poids des normes et des surréglementations.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": null,
@@ -96,7 +96,7 @@
       "citation": "Lancer un plan de construction de prisons afin de garantir que les peines courtes seront appliquées et que les conditions d’hygiène / sécurité seront respectées. Elles devront être à taille humaine.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 2,
@@ -141,7 +141,7 @@
       "citation": "Dans l'Europe des Nations Pouvoir coopérer de manière bilatérale avec nos voisins, au cas par cas, selon les projets. Revoir la participation financière de la France au budget européen.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 1,
@@ -150,7 +150,7 @@
       "citation": "Débattre et voter au Parlement toute législation d’origine européenne au lieu de laisser l’exécutif approuver par ordonnance pour les transposer en droit français.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": null,
@@ -231,7 +231,7 @@
       "citation": "Ce contexte imposera de choisir, le moment venu, par référendum entre septennat ou maintien du quinquennat.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -294,7 +294,7 @@
       "citation": "Préparer notre désengagement de l’OTAN.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": null,

@@ -276,7 +276,7 @@
       "citation": "En 26 points, le texte fondateur du nouveau parti propose le recours aux référendums d'initiative populaire, la suppression du Sénat et des conseils régionaux ou le droit du sol conditionné au mérite.",
       "date_source": "2017-11-07",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": null,
@@ -357,7 +357,7 @@
       "citation": "En 26 points, le texte fondateur du nouveau parti propose le recours aux référendums d'initiative populaire, la suppression du Sénat et des conseils régionaux ou le droit du sol conditionné au mérite.",
       "date_source": "2017-11-07",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_voteblanc": {
       "valeur": null,

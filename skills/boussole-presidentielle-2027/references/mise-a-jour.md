@@ -35,6 +35,8 @@ Ces règles viennent de la relecture humaine des fiches. Elles évitent de sures
 - **Position ancienne tenue comme membre du gouvernement** (ministre, Premier ministre) et jamais réaffirmée depuis : un cran de moins. Elle reflète aussi la ligne du gouvernement de l'époque.
 - **Restriction partielle** (par exemple limitée à Mayotte) : la soutenir vaut ±1 (cela ne dit pas qu'on veut l'étendre) ; s'y opposer vaut ±2 (qui refuse une restriction limitée refuse a fortiori une restriction générale).
 - **Refus de l'austérité sans mention d'impôts** : ±1 sur `eco_depenses` (« augmenter les impôts plutôt que baisser les dépenses ») ; ±2 seulement si la source évoque des hausses de recettes fiscales.
+- **Heures supplémentaires** : les défiscaliser ou les rendre plus rémunératrices sans toucher à la durée légale vaut 0 sur `eco_35h` ; −1 si le candidat exclut explicitement d'augmenter la durée légale.
+- **Condition de résidence pour les étrangers** (durée minimale de séjour ou de travail pour accéder aux prestations ou au logement social) : +1 sur `imm_preference` ; +2 seulement pour une priorité ou une réservation fondée sur la nationalité.
 - **Ligne du parti ou de son journal** (pas une déclaration du candidat) : acceptable en confiance `deduite`, à condition de le dire dans le résumé et de citer une phrase qui exprime la position, pas seulement un titre ou une description.
 
 ## 4. Vérifier

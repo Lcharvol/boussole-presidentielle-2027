@@ -114,7 +114,7 @@
       "citation": "Tous les travailleurs et travailleuses sur notre territoire doivent être régularisés pour ne plus vivre dans la peur du lendemain. Nous sommes opposés à la volonté du patronat de filières d’immigration pour trouver une main d’œuvre manquante.",
       "date_source": "2026-04",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,
@@ -141,7 +141,7 @@
       "citation": "[…] nous sommes toujours critiques d’une construction européenne qui s’est faite sans les peuples, dans le dos des peuples. […] la France doit chercher des alliés en Europe pour s’engouffrer dans la brèche ouverte: […] un grand plan d’investissement européen […]",
       "date_source": "2026-04",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 1,
@@ -150,7 +150,7 @@
       "citation": "Nous désobéirons aux traités européens lorsqu’ils entrent en contradiction avec nos engagements.",
       "date_source": "2026-04",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -1,
@@ -249,7 +249,7 @@
       "citation": "C’est la taxe carbone sur l’essence des Gilets jaunes quand le kérozène des avions et le fioul des porte-conteneurs est détaxé.",
       "date_source": "2026-04",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_mineurs": {
       "valeur": 1,

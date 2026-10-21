@@ -33,7 +33,7 @@
       "citation": "Nous réaliserons le plus grand plan d’économies budgétaires des 50 dernières années, sans dégrader la qualité des services publics. […] Et, dans un second temps, d’envisager une baisse de la fiscalité.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 1,
@@ -42,7 +42,7 @@
       "citation": "À la création de deux nouvelles tranches d’imposition pour les très hauts revenus (supérieurs à 250 000 € et 500 000 € par an), ainsi que d’un impôt exceptionnel de solidarité pour les quelques dizaines de très grandes fortunes s’étant accrues pendant la crise de la Covid-19.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": null,
@@ -69,7 +69,7 @@
       "citation": "De la même façon, nous établirons un bilan complet, sans tabou ni complaisance, de l’énergie produite par éolienne […]. Dans l’attente, un moratoire sera imposé sur leur installation.",
       "date_source": "2022-02-05",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": null,
@@ -114,7 +114,7 @@
       "citation": "Nous ferons respecter nos frontières dès la première année du quinquennat, en donnant un coup d’arrêt à l’immigration subie. […] nous nous retirerons de l’Espace Schengen et établirons des contrôles à toutes les frontières",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,
@@ -213,7 +213,7 @@
       "citation": "Introduire un système de proportionnelle partielle aux élections législatives",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 2,
@@ -231,7 +231,7 @@
       "citation": "Remplacer le Conseil constitutionnel par une véritable Cour constitutionnelle composée de professionnels jugeant en droit, élus par les parlementaires pour un mandat non renouvelable de 12 ans […] Rétablir le septennat pour le mandat du Président de la République",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -267,7 +267,7 @@
       "citation": "De même, nous proposerons l’interdiction constitutionnelle de toute surveillance généralisée de la population, par QR code, Passe sanitaire ou vaccinal , Digital ID Wallet etc.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_droitdusol": {
       "valeur": 1,
@@ -276,7 +276,7 @@
       "citation": "Un référendum organisé avant la fin de l’année 2022 demandera notamment aux Français de trancher : • La politique de regroupement familial ; • Les modifications à apporter au droit du sol, dont le système actuel pose des problèmes particulièrement criants à Mayotte et en Guyane.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": null,
@@ -321,7 +321,7 @@
       "citation": "Ainsi, les allocations-chômage pourront être supprimées après deux refus de propositions d’embauche correspondant aux critères géographiques du demandeur d’emploi.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,

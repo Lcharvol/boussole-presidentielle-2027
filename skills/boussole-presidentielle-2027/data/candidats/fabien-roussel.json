@@ -69,7 +69,7 @@
       "citation": "en investissant dans les énergies renouvelables (solaire, éolien et surtout dans l’hydraulique, énergie renouvelable pilotable) et dans l’électricité nucléaire avec la construction de six EPR supplémentaires au minimum.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": 1,
@@ -105,7 +105,7 @@
       "citation": "Quant aux questions de légalisation ou de dépénalisation de l’usage du cannabis, les enjeux qu’elles soulèvent comme la diversité des opinions en présence, nécessiteront un débat démocratique, rigoureux et éclairé […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": -1,
@@ -114,7 +114,7 @@
       "citation": "Des voies légales et sécurisées devront être ouvertes pour les migrant·e·s, en respect du droit international",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,
@@ -141,7 +141,7 @@
       "citation": "Notre pays militera pour que se mette en place une Europe « à géométrie choisie »",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": null,
@@ -177,7 +177,7 @@
       "citation": "Scrutin public n°8280 sur l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
       "date_source": "2026-07-15",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": 0,
@@ -222,7 +222,7 @@
       "citation": "Le référendum ne pourra plus être utilisé par l’exécutif à des fins plébiscitaires, mais son déclenchement reviendra à un million de citoyen·ne·s, réparti·e·s sur l’ensemble du territoire […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": 2,
@@ -258,7 +258,7 @@
       "citation": "L’enfermement des jeunes de 13 à 16 ans sera supprimé et celui des 16 à 18 ans sera limité.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": null,
@@ -312,7 +312,7 @@
       "citation": "La démocratie sociale et une réforme de progrès du financement permettront de mettre fin au reste à charge des dépenses de soins, d’aller vers une véritable prise en charge à 100 % […]",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_chomage": {
       "valeur": -2,

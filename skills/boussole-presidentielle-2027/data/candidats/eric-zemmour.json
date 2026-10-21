@@ -24,7 +24,7 @@
       "citation": "Éric Zemmour, qui assure qu’il n’y a plus d’augmentation de salaire depuis vingt ans en France, promettait d’augmenter les salaires nets des travailleurs les plus modestes « jusqu’à plus de 105 euros par mois pour un travailleur au Smic ».",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -2,
@@ -42,7 +42,7 @@
       "citation": "Concernant l’impôt sur la fortune, Éric Zemmour ne comptait pas supprimer l’impôt sur la fortune immobilière (IFI) […] En revanche, il entendait retirer purement et simplement la résidence principale de l’assiette de l’IFI.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": 0,
@@ -51,7 +51,7 @@
       "citation": "Reprenant « à son compte » la formule du « travailler plus pour gagner plus » […] Éric Zemmour proposait, dans son programme, d’exonérer totalement d’impôts et de charges sociales les heures supplémentaires",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": 2,
@@ -78,7 +78,7 @@
       "citation": "- Mettre fin à la sur-transposition dans notre droit des normes européennes.",
       "date_source": "2022-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": 2,
@@ -96,7 +96,7 @@
       "citation": "9. Construire 10.000 places de prison supplémentaires",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 0,
@@ -105,7 +105,7 @@
       "citation": "Je me demande si on ne devrait pas organiser la légalisation ordonnée du cannabis», avait analysé Eric Zemmour sur CNEWS en mai dernier.",
       "date_source": "2022-02-01",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": 2,
@@ -213,16 +213,16 @@
       "citation": "Le mouvement d'extrême droite place ses espoirs dans l'instauration du scrutin proportionnel. \"C'est pour nous une garantie d'avoir des élus\", explique Sarah Knafo, dernière représentante Reconquête au Parlement européen.",
       "date_source": "2024-09-07",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
-      "valeur": -1,
-      "resume": "Position déduite : défendait le RIC en 2018 mais ne le propose plus, préférant que le président propose les référendums, notamment sur l'immigration.",
+      "valeur": 0,
+      "resume": "Position déduite (2018) : jugeait qu'il fallait « envisager » des référendums d'initiative citoyenne tout en préférant que le président propose lui-même des référendums ; aucune déclaration plus récente trouvée.",
       "source": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-ric-rip-50-nuances-de-referendums-dans-les-programmes-des-candidats",
       "citation": "« Il faut envisager des référendums d’initiative citoyenne, ça nourrira la démocratie », soutenait Eric Zemmour, « mais je continue de préférer que ce soit le Président qui ose en proposer aux Français ».",
       "date_source": "2022-02-15",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": null,
@@ -240,7 +240,7 @@
       "citation": "Ce calendrier a été décidé sans concertation avec les constructeurs. Il faudra renégocier ce calendrier européen car en l’état, il implique trop d’abandons pour nos constructeurs.",
       "date_source": "2022-03-24",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_aerien": {
       "valeur": null,

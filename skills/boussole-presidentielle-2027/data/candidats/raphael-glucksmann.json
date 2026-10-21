@@ -33,7 +33,7 @@
       "citation": "Libérer des marges de manœuvre en supprimant les dépenses inefficaces, en éliminant les niches fiscales injustifiées en réformant les systèmes conduisant à des dépenses superflues et en faisant contribuer les ultra-riches à la solidarité nationale.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_patrimoine": {
       "valeur": 2,
@@ -96,7 +96,7 @@
       "citation": "Lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus, en investissant dans des prisons rénovées et dignes et dans le renforcement des parcours individualisés de réinsertion.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 0,
@@ -105,7 +105,7 @@
       "citation": "Organiser une convention citoyenne sur la politique vis-à-vis des drogues, notamment la question de la légalisation du cannabis.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": -1,
@@ -222,7 +222,7 @@
       "citation": "Instaurer un droit d’initiative citoyenne, permettant de déclencher des séquences démocratiques avec des référendums à l’échelle locale et nationale, généraliser des conventions citoyennes.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": 1,
@@ -231,7 +231,7 @@
       "citation": "Lancer en parallèle une grande convention citoyenne qui jettera les bases d’une assemblée constituante pour changer la Constitution.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -312,7 +312,7 @@
       "citation": "Mutualiser les systèmes d’information entre assurance maladie obligatoire et complémentaires santé, afin de limiter les frais de fonctionnement du double système et simplifier les remboursements pour les patients.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_chomage": {
       "valeur": -2,
