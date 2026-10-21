@@ -376,7 +376,7 @@
       "citation": "Le Mercosur, on pourrait discuter, mais c'est catastrophique dans le contexte actuel.",
       "date_source": "2026-01-08",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -2,
@@ -385,7 +385,7 @@
       "citation": "l’ancien journaliste proposait également « une franchise pour ne pas payer de droits de transmission, quand il y a un décès, jusqu’à 200.000 euros par enfant »",
       "date_source": "2022-03-10",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": null,
@@ -421,7 +421,7 @@
       "citation": "la fin des zones à faibles émissions (ZFE) qui empêchent la circulation en ville des voitures les plus polluantes, faute de vignette « Crit’Air » (programme de campagne)",
       "date_source": "2022-03-10",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": null,
@@ -439,7 +439,7 @@
       "citation": "Sur le volet sécurité, Éric Zemmour a rappelé sa proposition d’accorder aux forces de l’ordre « une présomption de légitime défense », et « l’instauration de la défense excusable » pour les citoyens qui font usage de leurs armes.",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_police_municipale": {
       "valeur": -1,
@@ -448,7 +448,7 @@
       "citation": "Il veut « généraliser progressivement l’armement obligatoire des polices municipales ».",
       "date_source": "2022-03-30",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": 2,
@@ -457,7 +457,7 @@
       "citation": "Le fondateur de Reconquête a ensuite déclaré que \"des millions de chômeurs mal formés devraient travailler à la place des 50.000 immigrés\", suggérant la fin du collège unique et \"une orientation précoce\" vers \"les emplois manuels\"",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": 2,
@@ -466,7 +466,7 @@
       "citation": "Le candidat propose que les demandes d’asile soient déposées auprès des services consulaires français en dehors du territoire national « pour éviter l’installation des déboutés qui ne repartent jamais. »",
       "date_source": "2022-04-01",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_naturalisation": {
       "valeur": -2,
@@ -475,7 +475,7 @@
       "citation": "Le programme du parti « Reconquête » envisage […] un durcissement des conditions de naturalisation en augmentant la durée de résidence à 10 ans et exige des candidats à la citoyenneté française, « une parfaite maîtrise de la langue, une assimilation réelle […] »",
       "date_source": "2022-04-01",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_service_militaire": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "\"Il fallait faire les fonds de pension en 86. On va progressivement mettre de la capitalisation et on va progressivement sortir de la répartition mais je reconnais que ça va prendre très longtemps.\"",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": 2,
@@ -520,7 +520,7 @@
       "citation": "Le candidat de Reconquête !, qui considère que « les allocations familiales ne doivent plus être versées sous conditions de ressources », envisageait aussi de doubler le plafond du quotient familial",
       "date_source": "2022-03-10",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_loyers": {
       "valeur": null,
@@ -556,7 +556,7 @@
       "citation": "Éric Zemmour souhaite rétablir le cumul des mandats et « redonner un ancrage local aux parlementaires en autorisant à nouveau les maires à exercer un mandat parlementaire ».",
       "date_source": "2022-03-30",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_mandat_unique": {
       "valeur": null,

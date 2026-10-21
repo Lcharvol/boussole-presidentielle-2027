@@ -376,7 +376,7 @@
       "citation": "David Lisnard choisit le libre-échange, avec des règles communes. Dans son livre, il défend « l’échange libre » comme facteur de croissance, de baisse des prix pour les plus modestes et de paix entre les nations.",
       "date_source": "2026-10-16",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -2,
@@ -385,7 +385,7 @@
       "citation": "Évidemment que la transmission des entreprises doit être totalement libérée des droits de succession.",
       "date_source": "2026-09-25",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": 1,
@@ -394,7 +394,7 @@
       "citation": "Si oui, peut-elle être confiée au privé par contrat, à condition d’une vraie concurrence ? Sinon, peut-on la faire moins cher ? Il assume des privatisations ciblées, comme France 2, mais veut recentrer l’État sur le régalien.",
       "date_source": "2026-10-16",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": 2,
@@ -403,7 +403,7 @@
       "citation": "il dénonce la rareté du foncier et le zéro artificialisation nette, qu’il juge « absurde » et « inapplicable », et propose de lutter contre l’artificialisation par une incitation à la densité plutôt que par un régime descendant.",
       "date_source": "2026-08-29",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": -1,
@@ -412,7 +412,7 @@
       "citation": "une gestion de l’eau fondée sur la subsidiarité : oui aux bassines, lorsqu’elles sont techniquement justifiées et localement décidées.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": 2,
@@ -421,7 +421,7 @@
       "citation": "La suppression des ZFE censurée pour un cavalier législatif ? Ok, une fois au pouvoir, nous les supprimerons par une loi en bonne et due forme, et au galop.",
       "date_source": "2026-05-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": null,
@@ -448,7 +448,7 @@
       "citation": "Avec l’AMF, nous demandons désormais l’examen rapide du texte de loi sur les polices municipales et les gardes champêtres en élargissant les compétences de ces derniers.",
       "date_source": "2026-08-06",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": null,
@@ -466,7 +466,7 @@
       "citation": "Traiter les demandes d’asiles au sein de nos consulats à l’étranger",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_naturalisation": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "il est temps de changer d’approche et d’instaurer un étage de retraite par capitalisation, tout en conservant un premier étage par répartition qui garantisse un socle minimal de pension autour de 1 200 euros mensuels.",
       "date_source": "2023-01-05",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,
@@ -547,7 +547,7 @@
       "citation": "Cela suppose de sortir du traitement uniforme et anonyme imposé par l’Éducation nationale. Nous proposons une augmentation de 20 % des rémunérations en cinq ans, conditionnée à une réorganisation profonde : […] évaluation régulière.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": null,
