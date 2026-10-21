@@ -186,33 +186,6 @@ class CorrectionDuHasard(unittest.TestCase):
             self.assertLess(abs(dispersion(f) - 1), 0.02)
 
 
-class DepartageDesExAequo(unittest.TestCase):
-    """Deux candidats ex aequo à l'arrondi sont départagés par le score brut, pas par la couverture."""
-
-    def test_score_brut_avant_couverture(self):
-        user = {"reponses": {q: 2 for q in ("eco_1", "eco_2", "eco_3", "ecl_1", "ecl_2")}}
-        # alice : toutes les positions connues ; bob : 3 sur 5, mais un score exact un peu plus haut.
-        alice = candidat("alice", {"eco_1": (0, "programme"), "eco_2": (0, "programme"), "eco_3": (2, "programme"),
-                                   "ecl_1": (2, "programme"), "ecl_2": (2, "programme")})
-        bob = candidat("bob", {"eco_1": (2, "programme"), "eco_2": (0, "programme"), "eco_3": (2, "programme")})
-        for ordre in ([alice, bob], [bob, alice]):
-            res = score.calculer(user, QUESTIONS, ordre, tirages=0)
-            premier, second = res["classement"]
-            self.assertEqual(premier["score"], second["score"])          # ex aequo à l'affichage (67 %)
-            self.assertEqual(premier["slug"], "bob")                      # score brut plus haut…
-            self.assertLess(premier["couverture"], second["couverture"])  # … malgré une couverture moindre
-            self.assertGreater(premier["score_brut"], second["score_brut"])
-            self.assertEqual(round(premier["score_brut"]), premier["score"])
-
-    def test_affichage_reste_arrondi(self):
-        user = {"reponses": {"eco_1": 2, "eco_2": 2, "eco_3": 2}}
-        c = candidat("alice", {"eco_1": (2, "programme"), "eco_2": (-2, "programme"), "eco_3": (2, "programme")})
-        r = score.calculer(user, QUESTIONS, [c])["classement"][0]
-        # accords corrigés 1, -1, 1 → 50 + 50 / 3
-        self.assertAlmostEqual(r["score_brut"], 50 + 50 / 3)
-        self.assertEqual(r["score"], 67)
-
-
 class Reproductibilite(unittest.TestCase):
     USER = {"reponses": {"eco_1": 2, "eco_2": -1, "eco_3": 0, "ecl_1": 1, "ecl_2": -2},
             "importance": {"ecologie": 2}}

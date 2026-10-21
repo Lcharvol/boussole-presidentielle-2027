@@ -33,13 +33,9 @@ POIDS_INCONNUE × importance × confiance moyenne des positions connues du candi
 qui évite qu'il sorte en tête sur la foi de quelques questions. Le résultat est affiché de 0 à 100 :
 50 + 50 × moyenne (50 % = pas plus proche que le hasard, 100 % = mêmes réponses partout). La
 couverture indique sur combien de questions répondues le candidat a une position connue : sous
-COUVERTURE_MIN, le score est classé à part.
-
-Le classement est trié sur le score non arrondi (champ score_brut), pas sur le score affiché, arrondi à
-l'entier : deux candidats affichés ex aequo sont départagés par leur score exact. Départager par la
-couverture, comme auparavant, avantageait les fiches les plus complètes, alors que les deux premiers ont
-le même score arrondi pour environ un profil sur cinq (voir docs/audit-62-enjeux.md). À score brut égal,
-la couverture départage encore.
+COUVERTURE_MIN, le score est classé à part. Le classement suit le score non arrondi : deux candidats
+affichés au même pourcentage restent dans l'ordre de leur score exact (départager les ex aequo par la
+couverture avantageait les fiches les plus remplies).
 
 La marge d'incertitude vient d'un rééchantillonnage (bootstrap) : on retire TIRAGES fois, avec remise,
 autant de questions qu'il y a de réponses, on recalcule chaque score, et la marge est la moitié de
@@ -151,6 +147,7 @@ def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
         raise SystemExit(f"Réponses hors de l'échelle -2…2 : {', '.join(invalides)}")
 
     resultats = []
+    brut = {}  # score non arrondi par slug : sert seulement à trier
     for c in candidats:
         total_p = total_w = 0.0
         poids_connus = []    # poids de confiance des positions connues
@@ -197,14 +194,13 @@ def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
         prioritaires_sans_donnee = sorted(
             t for t in themes_repondus if float(importance.get(t, 1)) > 1 and t not in par_theme
         )
-        brut = pourcentage(total_p / (total_w + total_w_inconnues)) if total_w else None
+        brut[c["slug"]] = pourcentage(total_p / (total_w + total_w_inconnues)) if total_w else None
         resultats.append({
             "slug": c["slug"],
             "nom": c["nom"],
             "parti": c.get("parti"),
             "statut": c.get("statut"),
-            "score": round(brut) if brut is not None else None,
-            "score_brut": brut,
+            "score": round(pourcentage(total_p / (total_w + total_w_inconnues))) if total_w else None,
             "marge": marge_bootstrap(contributions, tirages, graine) if total_w else None,
             "couverture": round(couvertes / len(reponses), 2) if reponses else 0,
             "par_theme": {t: round(pourcentage(s / n)) for t, (s, n) in par_theme.items()},
@@ -216,8 +212,8 @@ def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
 
     fiables = [r for r in resultats if r["score"] is not None and r["couverture"] >= COUVERTURE_MIN]
     peu_fiables = [r for r in resultats if r not in fiables]
-    # Tri sur le score non arrondi : deux candidats affichés ex aequo ne sont pas départagés par la couverture.
-    fiables.sort(key=lambda r: (-r["score_brut"], -r["couverture"]))
+    # Tri sur le score non arrondi : à score affiché égal, l'ordre suit le score exact, pas la couverture.
+    fiables.sort(key=lambda r: -brut[r["slug"]])
     peu_fiables.sort(key=lambda r: (-(r["score"] or 0)))
     # Candidats dont l'intervalle (score ± marge) recouvre celui du premier : les départager n'a pas de sens.
     peloton = []
