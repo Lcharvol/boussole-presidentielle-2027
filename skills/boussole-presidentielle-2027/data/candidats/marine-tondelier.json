@@ -376,7 +376,7 @@
       "citation": "Ne pas ratifier les accords européens en attente qui affectent le climat et la biodiversité notamment les traités avec le Canada (CETA) le Vietnam, Singapour, le Chili, le Mexique, le Mercosur, l’Indonésie et le Japon. […] Améliorer le protectionnisme écologique et social aux frontières de l’Europe.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": 2,
@@ -385,7 +385,7 @@
       "citation": "Simplifier et rendre progressif la fiscalité sur l’héritage. Mettre en place un barème de taxation progressif unique en ajoutant deux tranches pour les ménages faisant partie du 1 % le plus riche au-delà de 4 millions d’euros et le 0,1 % le plus riche au-delà de 13 millions d’euros.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Renationaliser progressivement les autoroutes afin d’investir dans les infrastructures de transport (entretien du réseau routier, fluvial et ferroviaire, développement des pistes et voies cyclables…).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": -2,
@@ -403,7 +403,7 @@
       "citation": "Renforcer la trajectoire de la Zéro Artificialisation Nette (ZAN) pour préserver les sols […] Intégrer des sanctions en cas de non-respect du ZAN.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": 2,
@@ -412,7 +412,7 @@
       "citation": "Décréter un moratoire sur tous les projets de méga-bassines. Conditionner tout projet de retenue artificielle dont l’eau serait pompée dans les nappes phréatiques et dans les rivières et fleuves à une trajectoire de réduction de la consommation d’eau",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": -1,
@@ -421,7 +421,7 @@
       "citation": "Améliorer la qualité de l’air en modifiant les conditions des ZFE (Zones à Faibles Émissions). Développer les Zones à Trafic Limité.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": -2,
@@ -430,7 +430,7 @@
       "citation": "Mettre fin au contrôle au faciès en interdisant les contrôles d’identité aléatoires pour les limiter aux situations de fragrance, d’enquête judiciaire ou d’ordre public. Instaurer un récépissé attestant des motifs du contrôle.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_legitime_defense": {
       "valeur": -2,
@@ -439,7 +439,7 @@
       "citation": "Abroger les dispositions de la loi Cazeneuve sur l’ouverture du feu pour que cessent les morts pour refus d’obtempérer et que soit respectée la condition d’absolue nécessité.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_police_municipale": {
       "valeur": null,
@@ -466,7 +466,7 @@
       "citation": "Revenir sur la notion de « pays tiers sûr » adoptée en 2026 qui permet de rejeter une demande d’asile sans l’examiner en vertu d’un accord avec un pays hors UE. Toutes les demandes d’asile déposées en Europe doivent faire l’objet d’un examen en Europe.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_naturalisation": {
       "valeur": 2,
@@ -475,7 +475,7 @@
       "citation": "Garantir l’application du droit du sol pour les enfants nés en France indépendamment de la situation des parents. Supprimer le régime dérogatoire à Mayotte. Faciliter l’obtention de la nationalité française.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_service_militaire": {
       "valeur": null,
@@ -493,7 +493,7 @@
       "citation": "envisager l’extension de la garantie de sécurité nucléaire française à d’autres pays européens dans une optique de non-prolifération. […] Conserver la décision d'emploi, sans délégation possible aux Etats partenaires",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": -2,
@@ -502,7 +502,7 @@
       "citation": "Accélérer l’accueil de nouveaux Etats membres pour partager notre modèle d’état de droit et écologique avec l’ensemble des peuples qui le souhaitent et renforcer l’unité et la sécurité européenne.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_capitalisation": {
       "valeur": 2,
@@ -511,7 +511,7 @@
       "citation": "Refuser toute forme d’évolution vers une retraite par capitalisation en particulier la retraite à points.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,
@@ -529,7 +529,7 @@
       "citation": "Assurer le droit au logement par la généralisation, l’amélioration et la pérennisation de l’encadrement des loyers.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": 1,
@@ -538,7 +538,7 @@
       "citation": "Réhabiliter le droit à des études supérieures en remplaçant ParcourSup et MonMaster par une vraie plateforme d’orientation permettant de hiérarchiser et de sectoriser des vœux sans lettres de motivation ni mention du lycée d’origine.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_remuneration": {
       "valeur": 1,
@@ -547,7 +547,7 @@
       "citation": "Réhabiliter les métiers de l’Education nationale en augmentant les salaires des enseignant·es de 15 % en 5 ans.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": null,

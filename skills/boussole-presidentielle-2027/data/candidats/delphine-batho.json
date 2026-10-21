@@ -376,7 +376,7 @@
       "citation": "Génération Écologie renouvelle son opposition la plus ferme à l’accord entre l’Union européenne et le Mercosur […] La croissance du commerce international, avec toujours plus d’exportations et toujours plus d’importations, est incompatible avec la lutte contre le changement climatique",
       "date_source": "2025-09-04",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": null,
@@ -403,7 +403,7 @@
       "citation": "Il faut mettre fin aux modèles économiques qui organisent la surconsommation et l’artificialisation des sols, au lieu de les subventionner par l’inaction publique. Depuis 2020, Delphine Batho et un groupe de députés avaient déposé une proposition de loi instaurant un moratoire",
       "date_source": "2026-05-12",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": 2,
@@ -412,7 +412,7 @@
       "citation": "est instauré un moratoire suspendant la délivrance des autorisations environnementales […] pour les ouvrages de stockage de l’eau à usage d’irrigation agricole […] « 5° bis La réduction des volumes prélevés dans les eaux superficielles ou souterraines destinées à l’usage d’irrigation agricole",
       "date_source": "2024-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": null,
@@ -493,7 +493,7 @@
       "citation": "L’ouverture du débat stratégique sur la protection de l’Europe par notre dissuasion nucléaire n’a de sens que dans la clarté d’une défense européenne strictement indépendante des États-Unis.",
       "date_source": "2025-03-05",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": null,
@@ -520,7 +520,7 @@
       "citation": "À la deuxième phrase, substituer aux mots : « un accès universel » les mots : « leur universalité, en particulier la fin de la modulation de leur montant selon les revenus du ménage, ».",
       "date_source": "2025-06-05",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_loyers": {
       "valeur": -1,
@@ -529,7 +529,7 @@
       "citation": "Scrutin public n°2262 sur l'ensemble de la proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (première lecture).",
       "date_source": "2025-06-05",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": null,
