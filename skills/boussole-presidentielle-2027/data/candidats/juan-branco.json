@@ -376,7 +376,7 @@
       "citation": "Adoption d’une politique sociale, commerciale et écologique fondée sur des droits douaniers […] Blocage de négociations de traités de libre-échange.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": 2,
@@ -385,7 +385,7 @@
       "citation": "Réforme radicale de la fiscalité de l’héritage. Fin des DMTG pour 90% des foyers fiscaux. Rehaussement des seuils de taxation de l’héritage au-delà de 40 millions d’euros (confiscatoire à partir de 100 millions)",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Nationalisation du marché de l’électricité, de l’eau, de la santé, des télécoms et des autoroutes",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": -2,
@@ -403,7 +403,7 @@
       "citation": "Plan d’arrêt et de reconversion des sols artificialisés durcissant les ZAN, d’écoconception des produits de consommation et de réorientation massive des friches industrielles existantes.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": null,
@@ -421,7 +421,7 @@
       "citation": "Abolition des Zones à Faibles Émissions.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": -2,
@@ -430,7 +430,7 @@
       "citation": "Création d’un récépissé d’un contrôle d’identité, systématisation de l’enregistrement des interventions et port obligatoire du matricule.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_legitime_defense": {
       "valeur": null,
@@ -448,7 +448,7 @@
       "citation": "Municipalisation de la police nationale (hors Police Judiciaire et unités de maintien de l’ordre).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": -1,
@@ -457,7 +457,7 @@
       "citation": "Développement d’une politique d’attractivité en faveur des individus à haut niveau de qualification, via la refonte des programmes existant et leur fusion avec ceux du Quai d’Orsay.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": 1,
@@ -466,7 +466,7 @@
       "citation": "Conditionnalisation du regroupement familial et déconcentration du traitement de l’asile au niveau consulaire.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_naturalisation": {
       "valeur": null,
@@ -484,7 +484,7 @@
       "citation": "Référendum proposant un service militaire obligatoire pour tous, avec options civile et militaire (six mois communs à tous, puis le choix entre un service civil de douze mois ou un service militaire de six mois)",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": null,
@@ -538,7 +538,7 @@
       "citation": "Fin des MIG (ex-SNU) et de Parcoursup. […] Distribution finale d’une proposition d’admission à tous les candidats à des formations universitaires avant les vacances d’été.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_remuneration": {
       "valeur": null,
@@ -565,7 +565,7 @@
       "citation": "Changement de la durée du mandat présidentiel (7 ans), avec limitation de trois mandats.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     }
   }
 }

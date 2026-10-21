@@ -376,7 +376,7 @@
       "citation": "les modèles d’accords comme celui du Mercosur ne font plus le poids dans la nouvelle géoéconomie. Cela impose de protéger le modèle de production européen respectueux des consommateurs et de l’environnement grâce à la taxe carbone aux frontières (MACF), qui doit être étendue et améliorée",
       "date_source": "2026-03-06",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": 1,
@@ -385,7 +385,7 @@
       "citation": "un impôt unique sur le patrimoine, incluant l’ensemble des sources de la fortune, et une imposition unique renforcée des successions, en contrepartie d’une défiscalisation intégrale des transmissions de son vivant",
       "date_source": "2026-08-28",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -1,
@@ -394,7 +394,7 @@
       "citation": "Retour des autoroutes en régie publique à l’échéance des concessions.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": -2,
@@ -403,7 +403,7 @@
       "citation": "Le plan Zéro artificialisation nette (ZAN) adopté par le Parlement fixe avec raison un horizon ambitieux : celui de cesser, d’ici 2050, de consommer, de « mordre » sur le sol agricole et naturel.",
       "date_source": "2025-08-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": 1,
@@ -412,7 +412,7 @@
       "citation": "Les projets de stockage ne sauraient être présumés d’intérêt général : ils doivent démontrer nécessité, proportion et absence d’alternative au niveau du bassin versant.",
       "date_source": "2025-08-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": null,
@@ -430,7 +430,7 @@
       "citation": "lutter contre la « douane intérieure » des contrôles au faciès. Les récépissés ne sont pas un totem administratif, mais un outil de confiance.",
       "date_source": "2025-11-28",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_legitime_defense": {
       "valeur": null,
@@ -457,7 +457,7 @@
       "citation": "L’enjeu d’une politique d’immigration, c’est notre stabilisation démographique, au service de notre croissance, de nos retraites et de notre avenir.",
       "date_source": "2026-03-27",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": null,
@@ -493,7 +493,7 @@
       "citation": "Il faut enfin travailler, à travers notre dissuasion nucléaire, à une meilleure prise en compte des intérêts de sécurité européens avec définition d’une nouvelle doctrine stratégique dans le cadre du Conseil de sécurité européen.",
       "date_source": "2026-03-06",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": 1,
@@ -502,7 +502,7 @@
       "citation": "Pause sur les élargissements au-delà des engagements pris et des procédures en cours, indépendamment de leur issue, en réservant le cas ukrainien",
       "date_source": "2026-03-06",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_capitalisation": {
       "valeur": -2,
@@ -511,7 +511,7 @@
       "citation": "Ce fonds, réunissant les participations de l’Etat et le Fonds de réserve pour les retraites se verrait abondé par un volet d’épargne retraite obligatoire, servie au départ à la retraite sous forme de rente à rendement garanti",
       "date_source": "2025-12-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": 1,
@@ -520,7 +520,7 @@
       "citation": "La politique familiale est affaiblie par le plafonnement des allocations, la baisse du quotient familial, l’absence d’un véritable soutien aux familles nombreuses.",
       "date_source": "2025-12-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_loyers": {
       "valeur": null,
