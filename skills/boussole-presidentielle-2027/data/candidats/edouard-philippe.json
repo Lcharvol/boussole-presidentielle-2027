@@ -115,7 +115,7 @@
       "citation": "Suspendre le regroupement familial pour la durée du quinquennat.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 2,

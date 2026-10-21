@@ -115,7 +115,7 @@
       "citation": "Nous ferons respecter nos frontières dès la première année du quinquennat, en donnant un coup d’arrêt à l’immigration subie. […] nous nous retirerons de l’Espace Schengen et établirons des contrôles à toutes les frontières",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,

@@ -115,7 +115,7 @@
       "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": -2,

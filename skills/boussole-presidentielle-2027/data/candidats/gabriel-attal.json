@@ -115,7 +115,7 @@
       "citation": "Notre ligne est claire, ce que nous voulons, c’est accueillir moins pour accueillir mieux, privilégier l’immigration de travail au détriment d’autres types d’immigration comme le regroupement familial, qui doit être mieux encadré et qui doit donc diminuer.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 0,

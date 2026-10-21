@@ -115,7 +115,7 @@
       "citation": "Conditionnalisation du regroupement familial et déconcentration du traitement de l’asile au niveau consulaire.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,

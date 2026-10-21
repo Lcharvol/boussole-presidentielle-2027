@@ -115,7 +115,7 @@
       "citation": "Enfin, et surtout, je proposerai au Parlement de diviser par trois l’immigration familiale, à l’horizon 2027.",
       "date_source": "2021-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 2,

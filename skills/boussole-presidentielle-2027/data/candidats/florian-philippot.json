@@ -115,7 +115,7 @@
       "citation": "L’objectif est de mettre un terme à la politique d’immigration massive en revenant à des flux extrêmement limités et en reconduisant aux frontières ceux qui n’ont rien à faire en France.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,

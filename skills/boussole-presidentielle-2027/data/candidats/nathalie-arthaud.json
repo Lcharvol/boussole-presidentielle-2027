@@ -115,7 +115,7 @@
       "citation": "À bas les barbelés, les traques, les expulsions ! À bas l’Europe-forteresse ! Régularisation de tous les sans-papiers, liberté de circulation et d’installation pour chaque être humain de cette planète !",
       "date_source": "2026-05",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": -2,

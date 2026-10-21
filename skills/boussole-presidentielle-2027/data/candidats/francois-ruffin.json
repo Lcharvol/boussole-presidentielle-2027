@@ -112,10 +112,10 @@
       "valeur": 0,
       "resume": "Position déduite du manifeste de son parti Debout !, qui s'oppose aux « filières d'immigration » voulues par le patronat pour combler des pénuries tout en demandant la régularisation de tous les travailleurs présents sur le territoire ; il ne propose ni quotas ni restriction du regroupement familial.",
       "source": "https://debout.fr/notre-manifeste/",
-      "citation": "Tous les travailleurs et travailleuses sur notre territoire doivent être régularisés pour ne plus vivre dans la peur du lendemain. Nous sommes opposés à la volonté du patronat de filières d’immigration pour trouver une main d’œuvre manquante.",
+      "citation": "Tous les travailleurs et travailleuses sur notre territoire doivent être régularisés pour ne plus vivre dans la peur du lendemain. […] Nous sommes opposés à la volonté du patronat de filières d’immigration pour trouver une main d’œuvre manquante.",
       "date_source": "2026-04",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,

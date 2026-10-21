@@ -115,7 +115,7 @@
       "citation": "\"Non, l'immigration zéro n'est ni souhaitable, ni possible. Et non, s'installer en France n'est pas un droit universel\", défend le leader de Place publique.",
       "date_source": "2026-05-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,

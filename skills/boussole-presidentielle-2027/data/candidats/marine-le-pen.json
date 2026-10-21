@@ -115,7 +115,7 @@
       "citation": "Suppression du droit du sol, priorité nationale, allocations familiales réservées aux Français, restriction du regroupement familial...",
       "date_source": "2024-06-28",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 2,

@@ -115,7 +115,7 @@
       "citation": "Scrutin public n°3213 sur l'ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration (texte de la commission mixte paritaire).",
       "date_source": "2023-12-19",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,

@@ -115,7 +115,7 @@
       "citation": "Diviser par huit la délivrance de titres de séjour Fixer des quotas de main-d’œuvre qualifiée et conditionner le regroupement familial à des critères de ressources et des tests d’intégration",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 2,

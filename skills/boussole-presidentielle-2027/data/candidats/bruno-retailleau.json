@@ -115,7 +115,7 @@
       "citation": "10 milliards d’euros d’économies sont aussi annoncés sur l’immigration, à travers la réduction de certains droits et surtout la réduction du regroupement familial ou encore du nombre d’étudiants accueillis.",
       "date_source": "2026-10-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": 2,
