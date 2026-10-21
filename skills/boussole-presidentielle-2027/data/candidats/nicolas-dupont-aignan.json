@@ -376,7 +376,7 @@
       "citation": "Déployer un protectionnisme intelligent et renégocier tous les accords de libre-échange à l’occasion de la sortie de l’UE. […] ne pas hésiter à imposer des droits de douane compensateurs pour limiter les importations déloyales.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -2,
@@ -385,7 +385,7 @@
       "citation": "Supprimer les droits de succession sur la résidence principale et sur les 100 premiers hectares de terres agricoles, doubler les plafonds d’exonération des donations, exonérer de 90 % la valeur des titres d’une entreprise transmise (75 % actuellement).",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Renationaliser les autoroutes (qui réalisent des bénéfices de l’ordre de 4 milliards d’euros par an) par une reprise de la gestion des autoroutes sans verser aucune indemnité,",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": 2,
@@ -403,7 +403,7 @@
       "citation": "Réformer intégralement la loi Climat et Résilience pour mettre fin à l’objectif de Zéro Artificialisation Nette (ZAN) afin de déverrouiller le marché des maisons individuelles en excluant leur terrain du calcul de l’artificialisation.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": null,
@@ -421,7 +421,7 @@
       "citation": "Acter la suppression définitive des zones à faibles émissions.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": null,
@@ -439,7 +439,7 @@
       "citation": "Instaurer une présomption de légitime défense pour permettre aux policiers de se défendre contre des agresseurs. Il s’agit de considérer un policier ayant fait usage de son arme comme ayant agi en légitime défense jusqu’à preuve du contraire.",
       "date_source": "2026-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_police_municipale": {
       "valeur": 0,
@@ -448,7 +448,7 @@
       "citation": "10 000 policiers et gendarmes supplémentaires nets en 5 ans. […] Élargir le champ d’action des polices municipales de façon à accroître leur efficacité et à être parfaitement interopérable avec les forces de la police nationale.",
       "date_source": "2026-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": 1,
@@ -457,7 +457,7 @@
       "citation": "Conditionner l’immigration économique au taux de chômage : si le chômage est élevé, cette immigration doit rester exceptionnelle.",
       "date_source": "2026-03",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": 1,
@@ -466,7 +466,7 @@
       "citation": "Les migrants en difficulté seront secourus en mer puis ramenés à leur point d’embarquement, où leur demande d’asile sera examinée.",
       "date_source": "2026-03",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_naturalisation": {
       "valeur": -2,
@@ -475,7 +475,7 @@
       "citation": "Clarifier les conditions d’accès à la naturalisation en : Exigeant 10 ans de résidence en France comme minimum pour évaluer l’assimilation réelle. Renforçant l’assimilation via la maîtrise de la langue,",
       "date_source": "2026-03",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_service_militaire": {
       "valeur": 0,
@@ -484,7 +484,7 @@
       "citation": "Instaurer un service national civique obligatoire de trois mois avec option militaire d’une année pour retisser le lien armée-nation et développer un esprit de défense parmi les jeunes.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": null,
@@ -502,7 +502,7 @@
       "citation": "Le retrait des troupes russes, bien évidemment. En échange de ce qui n’aurait jamais dû cesser d’être : que l’Ukraine reste en dehors de l’OTAN et de l’Union européenne.",
       "date_source": "2026-09-20",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_capitalisation": {
       "valeur": -2,
@@ -511,7 +511,7 @@
       "citation": "À 60 ans, le bénéficiaire disposerait ainsi d’un socle de retraite par capitalisation, qui viendrait en complément de la retraite par répartition.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": 2,
@@ -520,7 +520,7 @@
       "citation": "Rétablir l’universalité des allocations familiales.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_loyers": {
       "valeur": 2,
@@ -529,7 +529,7 @@
       "citation": "Nous ne maintiendrons pas l'encadrement des loyers, une source de stress pour les propriétaires. Il faut plus de flexibilité et moins de coercition.",
       "date_source": "2017-04-20",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": null,
@@ -547,7 +547,7 @@
       "citation": "Augmenter de 15 % en 4 ans les salaires nets des professeurs.",
       "date_source": "2026-10",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": null,
@@ -565,7 +565,7 @@
       "citation": "Revenir au septennat avec la possibilité d’un référendum révocatoire d’initiative citoyenne à mi-mandat.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     }
   }
 }

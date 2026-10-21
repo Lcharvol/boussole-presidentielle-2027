@@ -394,7 +394,7 @@
       "citation": "Expropriation des secteurs stratégiques (énergie, transports, banques, santé, …) et placement sous contrôle des travailleur·ses.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": null,
@@ -439,7 +439,7 @@
       "citation": "En présumant d’emblée la légalité du tir, le gouvernement organise les conditions d’une impunité encore plus grande.",
       "date_source": "2026-07-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_police_municipale": {
       "valeur": null,
@@ -466,7 +466,7 @@
       "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_naturalisation": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "L’arnaque de la retraite par capitalisation consiste par ailleurs à faire croire qu’elle ne couterait rien",
       "date_source": "2025-02-17",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,
@@ -529,7 +529,7 @@
       "citation": "Expropriation des logements vides, plafonnement et gel des loyers.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": 2,
@@ -538,7 +538,7 @@
       "citation": "Nous revendiquons l’abrogation de toutes les réformes de sélection à l’université et une augmentation des moyens de l’éducation et de l’enseignement supérieur",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_remuneration": {
       "valeur": null,
