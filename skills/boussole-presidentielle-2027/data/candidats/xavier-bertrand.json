@@ -24,7 +24,7 @@
       "citation": "Avant la fin de l’année 2022, tous les salariés travaillant à temps complet toucheront au moins 1500€ nets par mois. C’est mon engagement. Il repose sur un dispositif nouveau, la prime au travail. […] Elle se fera sans surcoût pour les entreprises […]",
       "date_source": "2021-10-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": -1,
@@ -45,13 +45,13 @@
       "relu": false
     },
     "eco_35h": {
-      "valeur": 1,
-      "resume": "Position déduite (programme 2021) : heures travaillées au-delà de 35 h sans impôt ni charges sociales, la durée légale restant le seuil de référence.",
+      "valeur": 0,
+      "resume": "Position déduite (programme 2021) : heures travaillées au-delà de 35 h sans impôt ni charges sociales, la durée légale restant le seuil de référence ; valeur 0 : défiscaliser les heures supplémentaires sans toucher à la durée légale (règle de codage).",
       "source": "https://www.nousfrance.fr/2021/10/pour-une-societe-du-travail/",
       "citation": "Les heures travaillées au-delà de 35h seront clairement sans impôt et sans charge sociale comme l’étaient les heures supplémentaires en 2007.",
       "date_source": "2021-10-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": 2,
@@ -168,7 +168,7 @@
       "citation": "Obliger les jeunes à exercer un an dans les déserts médicaux, la solution revient régulièrement sur le tapis. Questionné ce mercredi matin sur le sujet par France bleu Gironde , Xavier Bertrand s’y est fermement opposé.",
       "date_source": "2021-09-22",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": null,
@@ -285,7 +285,7 @@
       "citation": "Je suis prêt à aller plus loin, mais il faut dire la vérité sur ce qui existe déjà. Je propose que, désormais, les aides au logement ne soient accordées qu’à ceux qui sont durablement installés de façon légale sur notre sol.",
       "date_source": "2021-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_otan": {
       "valeur": null,

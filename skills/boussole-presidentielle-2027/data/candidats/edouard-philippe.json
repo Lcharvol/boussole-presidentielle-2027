@@ -279,8 +279,8 @@
       "relu": false
     },
     "imm_preference": {
-      "valeur": 0,
-      "resume": "Propose d'aligner les aides sociales versées aux étrangers sur la moyenne européenne et, selon un compte rendu de mars 2026, d'allonger la durée de résidence exigée pour les prestations non contributives ; ne propose pas de priorité fondée sur la nationalité.",
+      "valeur": 1,
+      "resume": "Propose d'aligner les aides sociales versées aux étrangers sur la moyenne européenne et, selon un compte rendu de mars 2026, d'allonger la durée de résidence exigée pour les prestations non contributives ; ne propose pas de priorité fondée sur la nationalité ; valeur +1 : condition de résidence visant les étrangers (règle de codage), sans priorité nationale stricte.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
       "citation": "Aligner les aides sociales versées aux étrangers sur la moyenne européenne, pour qu'ils choisissent la France pour y travailler et s'y intégrer, pas pour ses aides.",
       "date_source": "2026-10",
