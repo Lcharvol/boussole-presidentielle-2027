@@ -32,21 +32,21 @@
           "question": "Quel âge légal de départ à la retraite faut-il viser ?",
           "a": "Revenir à 62 ans ou moins",
           "b": "Rester à 64 ans ou plus",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eco_retraite.2",
           "question": "Pour l'équilibre des retraites, quel levier privilégier ?",
           "a": "Un départ à 62 ans, avec des cotisations plus élevées",
           "b": "Un départ à 64 ans ou plus, avec des cotisations inchangées",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eco_retraite.3",
           "question": "Âge légal de départ à la retraite :",
           "a": "62 ans ou moins",
           "b": "64 ans ou plus",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -62,14 +62,14 @@
           "question": "Comment faire évoluer le SMIC ?",
           "a": "Selon la seule revalorisation automatique",
           "b": "Au-delà de la revalorisation automatique",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eco_smic.2",
           "question": "Pour les salariés payés au SMIC, que faut-il privilégier ?",
           "a": "La revalorisation automatique, pour ne pas freiner l'embauche",
           "b": "Une hausse décidée par l'État, pour soutenir leur pouvoir d'achat",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -85,21 +85,21 @@
           "question": "Pour réduire le déficit public, que faut-il faire d'abord ?",
           "a": "Réduire les dépenses publiques",
           "b": "Augmenter les recettes fiscales",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eco_depenses.2",
           "question": "Pour rééquilibrer les comptes publics, quel levier privilégier ?",
           "a": "Des économies ciblées sur les dépenses de l'État et des collectivités",
           "b": "Des hausses d'impôts ciblées sur certains ménages ou certaines entreprises",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eco_depenses.3",
           "question": "Face au déficit public :",
           "a": "Réduire les dépenses",
           "b": "Augmenter les impôts",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -115,14 +115,14 @@
           "question": "Sur l'imposition des plus grandes fortunes, que privilégier ?",
           "a": "Un impôt supplémentaire sur leur patrimoine",
           "b": "Le niveau d'imposition actuel",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eco_patrimoine.2",
           "question": "Impôt sur le patrimoine des ménages les plus fortunés :",
           "a": "L'augmenter (retour de l'ISF, taxe Zucman…)",
           "b": "Le maintenir ou le baisser (impôt sur la fortune immobilière…)",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -138,14 +138,14 @@
           "question": "Durée légale du travail :",
           "a": "La garder à 35 heures par semaine",
           "b": "La porter au-delà de 35 heures par semaine",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eco_35h.2",
           "question": "Pour le temps de travail, que faut-il privilégier ?",
           "a": "Les 35 heures comme référence commune",
           "b": "Une durée plus longue, négociée dans chaque entreprise",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -161,14 +161,14 @@
           "question": "Pour produire l'électricité, quelle voie privilégier ?",
           "a": "Construire de nouveaux réacteurs nucléaires",
           "b": "Réduire progressivement la part du nucléaire",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ecol_nucleaire.2",
           "question": "Les réacteurs nucléaires actuels vieillissent. Que faut-il faire ?",
           "a": "Les remplacer par de nouveaux réacteurs",
           "b": "Les remplacer progressivement par d'autres sources",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -184,14 +184,14 @@
           "question": "Pour l'éolien et le solaire, que faut-il faire ?",
           "a": "Limiter les nouvelles installations",
           "b": "Accélérer les nouvelles installations",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ecol_renouvelables.2",
           "question": "Face aux projets d'éoliennes et de parcs solaires, que privilégier ?",
           "a": "Le cadre de vie des riverains et les paysages",
           "b": "La production d'électricité renouvelable",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -207,21 +207,21 @@
           "question": "Normes environnementales pour les entreprises et les agriculteurs :",
           "a": "Les renforcer pour mieux protéger l'environnement",
           "b": "Les alléger pour soulager ceux qui produisent",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ecol_normes.2",
           "question": "Agriculture : quelle priorité ?",
           "a": "Réduire l'usage des pesticides et des engrais chimiques",
           "b": "Réduire les contraintes réglementaires sur les exploitations",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ecol_normes.3",
           "question": "Pour les entreprises et les exploitations agricoles :",
           "a": "Plus d'exigences environnementales",
           "b": "Moins d'exigences environnementales",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -237,7 +237,7 @@
           "question": "Fin de la vente des voitures thermiques neuves en 2035 :",
           "a": "Repousser ou supprimer cette échéance",
           "b": "Garder cette échéance",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ecol_thermique2035.2",
@@ -260,14 +260,14 @@
           "question": "Billets d'avion et kérosène :",
           "a": "Les taxer davantage pour financer la transition écologique",
           "b": "Garder leur fiscalité actuelle pour ne pas renchérir les voyages",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ecol_aerien.2",
           "question": "Taxes sur le transport aérien :",
           "a": "Les augmenter",
           "b": "Les laisser à leur niveau actuel",
-          "validee": false
+          "validee": true
         }
       ]
     },
