@@ -44,7 +44,7 @@ racine du dépôt.
 - `pole_a`, `pole_b` : libellés courts des deux pôles, pour les résultats et les fiches (pas pour poser la
   question). Les deux pôles ont la même dignité : aucun n'est « le bon ».
 - `contexte` : une phrase factuelle facultative (ou `null`), affichée avec la question.
-- `variantes` : deux ou trois formulations équivalentes du même dilemme. Chacune a sa question et ses deux
+- `variantes` : deux ou trois formulations équivalentes du même dilemme (une seule quand les autres ont été écartées à la relecture). Chacune a sa question et ses deux
   options : `a` exprime toujours le pôle A, `b` le pôle B. `validee` passe à `true` quand Lcharvol a validé la
   formulation ; dès qu'un enjeu a une variante validée, seules ses variantes validées sont tirées.
 - Il n'y a plus de champ `niveau` : les modes rapide, adaptatif et complet sont tirés par `scripts/tirage.py`.

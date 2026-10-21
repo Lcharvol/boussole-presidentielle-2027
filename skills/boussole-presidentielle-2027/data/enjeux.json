@@ -283,14 +283,14 @@
           "question": "Pour sanctionner les délits, que faut-il privilégier ?",
           "a": "Des peines plus lourdes, avec un minimum fixé par la loi",
           "b": "Des peines fixées par le juge au cas par cas",
-          "validee": false
+          "validee": true
         },
         {
           "id": "sec_peines.2",
           "question": "En cas de récidive, que privilégier ?",
           "a": "Une peine minimale fixée par la loi",
           "b": "Une peine fixée par le juge, au cas par cas",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -306,14 +306,14 @@
           "question": "Face à la surpopulation carcérale, que faut-il privilégier ?",
           "a": "Construire de nouvelles places de prison",
           "b": "Développer les peines alternatives",
-          "validee": false
+          "validee": true
         },
         {
           "id": "sec_prisons.2",
           "question": "Les prisons sont surpeuplées. Quelle réponse privilégier ?",
           "a": "Augmenter le nombre de places de prison",
           "b": "Exécuter davantage de peines hors de prison (bracelet, travail d'intérêt général…)",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -329,14 +329,14 @@
           "question": "Cannabis récréatif :",
           "a": "Maintenir l'interdiction",
           "b": "Légaliser",
-          "validee": false
+          "validee": true
         },
         {
           "id": "sec_cannabis.2",
           "question": "Cannabis récréatif, que privilégier ?",
           "a": "Interdire la vente et la consommation",
           "b": "Autoriser la vente et la consommation",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -352,14 +352,14 @@
           "question": "Pour les mineurs de 16 à 18 ans auteurs de délits, que faut-il ?",
           "a": "Les juger selon les règles de la justice des mineurs",
           "b": "Pouvoir les juger comme des majeurs, selon les faits",
-          "validee": false
+          "validee": true
         },
         {
           "id": "sec_mineurs.2",
           "question": "Délinquance des 16-18 ans : que privilégier ?",
           "a": "Une justice spécialisée, centrée sur l'éducation",
           "b": "Les règles des majeurs, selon la gravité des faits",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -375,14 +375,14 @@
           "question": "Caméras avec analyse automatique des images dans l'espace public :",
           "a": "Les généraliser",
           "b": "Les interdire",
-          "validee": false
+          "validee": true
         },
         {
           "id": "sec_videosurveillance.2",
           "question": "Dans l'espace public, que privilégier ?",
           "a": "La détection automatique des risques par les caméras",
           "b": "La protection de la vie privée face à ces caméras",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -398,21 +398,21 @@
           "question": "Immigration légale (travail, famille, études) :",
           "a": "Fixer des quotas annuels plus bas qu'aujourd'hui",
           "b": "Garder ou élargir les possibilités actuelles",
-          "validee": false
+          "validee": true
         },
         {
           "id": "imm_baisse.2",
           "question": "Nombre de titres de séjour délivrés chaque année :",
           "a": "Le réduire",
           "b": "Le maintenir ou l'augmenter",
-          "validee": false
+          "validee": true
         },
         {
           "id": "imm_baisse.3",
           "question": "Regroupement familial (venue de la famille d'un étranger installé en France) :",
           "a": "Le restreindre",
           "b": "Le garder dans ses conditions actuelles ou l'assouplir",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -428,14 +428,7 @@
           "question": "Aide médicale d'État (soins des étrangers en situation irrégulière) :",
           "a": "La maintenir dans sa forme actuelle",
           "b": "La limiter aux soins urgents",
-          "validee": false
-        },
-        {
-          "id": "imm_ame.2",
-          "question": "Soins des étrangers en situation irrégulière, que privilégier ?",
-          "a": "Garder la couverture des soins courants",
-          "b": "Réduire la couverture aux soins urgents",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -451,14 +444,14 @@
           "question": "Régularisation des étrangers sans papiers qui travaillent en France :",
           "a": "En accorder moins qu'aujourd'hui",
           "b": "En accorder plus qu'aujourd'hui",
-          "validee": false
+          "validee": true
         },
         {
           "id": "imm_regularisation.2",
           "question": "Étrangers sans titre de séjour qui travaillent en France :",
           "a": "Réduire le nombre de régularisations",
           "b": "Faciliter leur accès à un titre de séjour",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -470,18 +463,11 @@
       "contexte": "Un enfant né en France de parents étrangers peut devenir français à sa majorité (droit du sol).",
       "variantes": [
         {
-          "id": "imm_droitdusol.1",
-          "question": "Nationalité des enfants nés en France de parents étrangers :",
-          "a": "Elle s'obtient automatiquement à 18 ans, comme aujourd'hui",
-          "b": "Elle s'obtient sur demande, sous conditions",
-          "validee": false
-        },
-        {
           "id": "imm_droitdusol.2",
           "question": "Droit du sol :",
           "a": "Le conserver",
           "b": "Le supprimer ou le restreindre",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -504,7 +490,7 @@
           "question": "Attribution d'un logement social, à situation égale :",
           "a": "Selon les critères sociaux uniquement",
           "b": "Selon les critères sociaux et la nationalité",
-          "validee": false
+          "validee": true
         }
       ]
     },

@@ -3,8 +3,8 @@
 
 Usage : python3 check_data.py [--jours 30]
 
-Vérifie d'abord data/enjeux.json (identifiants uniques, thèmes connus, deux pôles, deux ou trois variantes complètes
-par enjeu) : une erreur y fait échouer le script. Les variantes que Lcharvol n'a pas encore validées (`validee`)
+Vérifie d'abord data/enjeux.json (identifiants uniques, thèmes connus, deux pôles, une à trois variantes complètes par
+enjeu ; moins de deux variantes est signalé en alerte) : une erreur y fait échouer le script. Les variantes que Lcharvol n'a pas encore validées (`validee`)
 sont signalées en alerte.
 
 Affiche, pour chaque candidat : statut, date de mise à jour, positions renseignées,
@@ -41,8 +41,10 @@ def verifier_enjeux(enjeux):
             if not (e.get(k) or "").strip():
                 erreurs.append(f"{eid}: {k} manquant")
         vs = e.get("variantes") or []
-        if not VARIANTES_MIN <= len(vs) <= VARIANTES_MAX:
-            erreurs.append(f"{eid}: {len(vs)} variantes (attendu {VARIANTES_MIN} à {VARIANTES_MAX})")
+        if not 1 <= len(vs) <= VARIANTES_MAX:
+            erreurs.append(f"{eid}: {len(vs)} variantes (attendu 1 à {VARIANTES_MAX})")
+        elif len(vs) < VARIANTES_MIN:
+            alertes.append(f"{eid}: une seule variante (formulation toujours identique)")
         vids = [v.get("id") for v in vs]
         for i, v in enumerate(vs):
             if not str(v.get("id", "")).startswith(f"{eid}.") or vids.count(v.get("id")) > 1:
