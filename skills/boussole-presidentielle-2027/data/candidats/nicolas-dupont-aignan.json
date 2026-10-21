@@ -7,7 +7,7 @@
   "programme": "partiel",
   "programme_url": "https://www.debout-la-france.fr/notre-projet/",
   "mis_a_jour": "2026-10-21",
-  "notes": "A officialisé sa quatrième candidature présidentielle le 19 septembre 2026 à Yerres ; il se présente comme le seul candidat proposant la sortie de l'Union européenne (par référendum). Il évoque des difficultés de financement et devra réunir ses 500 parrainages. Le projet de Debout la France est en cours d'actualisation pour 2027 : certaines pages thématiques (ex. retraites) semblent antérieures à 2023 ; le communiqué « 20 mesures chocs » du 20 octobre 2026 constitue le document de campagne le plus récent. Source statut : https://www.cnews.fr/france/2026-09-19/presidentielle-2027-depuis-son-fief-de-yerres-nicolas-dupont-aignan-se-lance-dans",
+  "notes": "A officialisé sa quatrième candidature présidentielle le 19 septembre 2026 à Yerres ; il se présente comme le seul candidat proposant la sortie de l'Union européenne (par référendum). Il évoque des difficultés de financement et devra réunir ses 500 parrainages. Toujours candidat au 21 octobre 2026 (soutien de Philippe Murer annoncé ce jour-là sur son site de campagne dupontaignan.fr). Pas de programme 2027 complet publié : le site de campagne renvoie au projet de Debout la France, en cours d'actualisation (certaines pages thématiques datent de 2022-2024, d'autres ont été modifiées en 2025-2026) ; le communiqué « 20 mesures chocs pour rétablir l'ordre et défendre la justice sociale » du 20 octobre 2026 (Limoges) est le document de campagne le plus récent. Source statut : https://www.cnews.fr/france/2026-09-19/presidentielle-2027-depuis-son-fief-de-yerres-nicolas-dupont-aignan-se-lance-dans",
   "positions": {
     "eco_retraite": {
       "valeur": -2,
@@ -81,6 +81,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": -2,
+      "resume": "Le projet propose de « supprimer l'interdiction des véhicules thermiques à l'horizon 2035 imposée par l'UE ».",
+      "source": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "citation": "Supprimer l’interdiction des véhicules thermiques à l’horizon 2035 imposée par l’UE.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": -2,
       "resume": "Le projet propose de « réinstaurer et élargir les peines planchers » pour les agressions contre policiers, gendarmes, pompiers, enseignants et soignants, ainsi qu'une perpétuité réelle ; la peine plancher pour agression de policiers figure dans ses 20 propositions du 20 octobre 2026.",
@@ -105,6 +123,24 @@
       "source": "https://www.debout-la-france.fr/actualite/nda-sur-france-bleu-je-suis-contre-la-depenalisation-du-cannabis/",
       "citation": "NDA sur France Bleu : « Je suis contre la dépénalisation du cannabis »",
       "date_source": "2016-10-17",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": 2,
+      "resume": "Le projet propose d'abroger l'ordonnance de 1945 sur la justice des mineurs et de « baisser la majorité pénale à 16 ans », mesure reprise dans ses 20 propositions du 20 octobre 2026.",
+      "source": "https://www.debout-la-france.fr/projet/justice/",
+      "citation": "Baisser la majorité pénale à 16 ans.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_videosurveillance": {
+      "valeur": 2,
+      "resume": "Position déduite d'un acte parlementaire de mars 2023 : il a déposé un amendement de suppression de l'article de la loi JO 2024 autorisant la vidéosurveillance algorithmique, estimant que « la surveillance généralisée de la population, via l'utilisation de l'intelligence artificielle, ne peut aboutir qu'à l'autoritarisme ».",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/amendements/0939/AN/692.pdf",
+      "citation": "La surveillance généralisée de la population, via l’utilisation de l’intelligence artificielle, ne peut aboutir qu’à l’autoritarisme.",
+      "date_source": "2023-03-16",
       "confiance": "deduite",
       "relu": true
     },
@@ -135,6 +171,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "imm_droitdusol": {
+      "valeur": 2,
+      "resume": "Le projet propose de « supprimer le droit du sol via un référendum », tout en maintenant la naturalisation ; la « fin du droit du sol » figure aussi dans ses 20 propositions du 20 octobre 2026.",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Supprimer le droit du sol via un référendum, tout en maintenant la possibilité de devenir Français par naturalisation.",
+      "date_source": "2026-03",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": 2,
+      "resume": "Le projet propose de « supprimer les aides sociales non contributives pour les étrangers (RSA, allocations familiales, aides au logement…) » ; ses propositions du 20 octobre 2026 ajoutent la « priorité aux étudiants français pour les aides universitaires ».",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Supprimer les aides sociales non contributives pour les étrangers (RSA, allocations familiales, aides au logement…)",
+      "date_source": "2026-03",
+      "confiance": "programme",
+      "relu": true
+    },
     "eur_integration": {
       "valeur": 2,
       "resume": "Propose de sortir de l'Union européenne, après référendum, pour la remplacer par une « Europe des nations libres » et des coopérations à la carte.",
@@ -162,6 +216,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "Le projet propose de « sortir du commandement intégré de l'OTAN pour regagner notre indépendance militaire ».",
+      "source": "https://www.debout-la-france.fr/projet/defense/",
+      "citation": "Sortir du commandement intégré de l’OTAN pour regagner notre indépendance militaire et stratégique […]",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": 1,
+      "resume": "Le projet s'engage à porter le budget de la défense à « 2,5 % du PIB », qualifié de « chiffre raisonnable », soit en deçà de 3 %.",
+      "source": "https://www.debout-la-france.fr/projet/defense/",
+      "citation": "Aussi, nous nous engageons à augmenter notre budget de défense pour atteindre le chiffre raisonnable de 2,5% du PIB, permettant de mettre en œuvre les 15 mesures suivantes.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
     "soc_medecins": {
       "valeur": 1,
       "resume": "Le projet DLF lutte contre les déserts médicaux par incitation (bourse aux étudiants en échange de 5 ans d'installation en zone sous-dotée, revenus majorés), sans régulation de la liberté d'installation.",
@@ -181,13 +253,31 @@
       "relu": true
     },
     "soc_rsa": {
+      "valeur": -2,
+      "resume": "Il propose d'exiger des bénéficiaires d'allocations un travail d'intérêt général d'une journée par semaine (discours de clôture des universités de rentrée de Debout la France, octobre 2024).",
+      "source": "https://www.debout-la-france.fr/actualite/nicolas-dupont-aignan-presente-ses-12-travaux-dhercule-pour-sauver-la-france/",
+      "citation": "Celui qui travaille durement ne gagne pas assez par rapport à celui qui vit des aides sociales. […] Supprimons aussi les cumuls d’aide en exigeant pour les bénéficiaires d’allocation un travail d’intérêt général d’une journée par semaine.",
+      "date_source": "2024-10-05",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "soc_100secu": {
       "valeur": null,
-      "resume": "Aucune position trouvée sur le conditionnement du RSA à des heures d'activité ; le projet prévoit un délai de carence de 5 ans pour le RSA des étrangers et un plafond de prestations à 70 % du SMIC net pour les inactifs.",
+      "resume": "Le projet défend le caractère solidaire de l'assurance maladie et propose d'élargir la complémentaire santé solidaire aux plus de 65 ans, sans proposer la suppression du rôle des complémentaires.",
       "source": null,
       "citation": null,
       "date_source": null,
       "confiance": null,
       "relu": false
+    },
+    "soc_chomage": {
+      "valeur": -1,
+      "resume": "Dans un projet de discours de motion de censure (juin 2024), il reproche au gouvernement de cibler les chômeurs en fin de droits pour faire des économies budgétaires.",
+      "source": "https://www.debout-la-france.fr/actualite/motion-de-censure-projet-de-discours-de-nicolas-dupont-aignan/",
+      "citation": "En matière budgétaire, vous préférez, selon la vieille théorie du bouc émissaire, cibler les chômeurs en fin de droits et les malades pour grappiller quelques centaines de millions d’euros.",
+      "date_source": "2024-06-03",
+      "confiance": "declaration",
+      "relu": true
     },
     "edu_prive": {
       "valeur": -1,
@@ -206,6 +296,33 @@
       "date_source": "2026",
       "confiance": "programme",
       "relu": true
+    },
+    "edu_signes": {
+      "valeur": 2,
+      "resume": "Le volet instruction publique propose l'« interdiction du port de signes religieux démonstratifs pour tous » ; les parents accompagnateurs de sorties scolaires ne sont pas cités explicitement ; valeur +2 : une interdiction « pour tous » dans le cadre scolaire couvre les parents accompagnateurs (même raisonnement que pour Zemmour et Tondelier).",
+      "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "citation": "Interdiction du port de signes religieux démonstratifs pour tous.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_etudiants": {
+      "valeur": 1,
+      "resume": "Le projet de Debout la France (page enseignement supérieur) prévoit de maintenir les bourses sur critères sociaux, en tenant compte aussi de l'assiduité et des résultats.",
+      "source": "https://www.debout-la-france.fr/projet/enseignement-superieur/",
+      "citation": "Maintenir des bourses sur critères sociaux mais les conditions d’octroi prendront réellement en compte l’assiduité aux travaux dirigés et pratiques, ainsi que les résultats scolaires.",
+      "date_source": "2024-02",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Le projet veut « doper l'apprentissage » (objectif d'un million d'apprentis) et présenter les métiers dès la quatrième, sans proposer d'âge d'entrée en apprentissage à 14 ans.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": 2,
@@ -234,123 +351,6 @@
       "confiance": "programme",
       "relu": true
     },
-    "ecol_thermique2035": {
-      "valeur": -2,
-      "resume": "Le projet propose de « supprimer l'interdiction des véhicules thermiques à l'horizon 2035 imposée par l'UE ».",
-      "source": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
-      "citation": "Supprimer l’interdiction des véhicules thermiques à l’horizon 2035 imposée par l’UE.",
-      "date_source": "2026-10",
-      "confiance": "programme",
-      "relu": true
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": 2,
-      "resume": "Le projet propose d'abroger l'ordonnance de 1945 sur la justice des mineurs et de « baisser la majorité pénale à 16 ans », mesure reprise dans ses 20 propositions du 20 octobre 2026.",
-      "source": "https://www.debout-la-france.fr/projet/justice/",
-      "citation": "Baisser la majorité pénale à 16 ans.",
-      "date_source": "2026-10",
-      "confiance": "programme",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": 2,
-      "resume": "Position déduite d'un acte parlementaire de mars 2023 : il a déposé un amendement de suppression de l'article de la loi JO 2024 autorisant la vidéosurveillance algorithmique, estimant que « la surveillance généralisée de la population, via l'utilisation de l'intelligence artificielle, ne peut aboutir qu'à l'autoritarisme ».",
-      "source": "https://www.assemblee-nationale.fr/dyn/16/amendements/0939/AN/692.pdf",
-      "citation": "La surveillance généralisée de la population, via l’utilisation de l’intelligence artificielle, ne peut aboutir qu’à l’autoritarisme.",
-      "date_source": "2023-03-16",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "imm_droitdusol": {
-      "valeur": 2,
-      "resume": "Le projet propose de « supprimer le droit du sol via un référendum », tout en maintenant la naturalisation ; la « fin du droit du sol » figure aussi dans ses 20 propositions du 20 octobre 2026.",
-      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
-      "citation": "Supprimer le droit du sol via un référendum, tout en maintenant la possibilité de devenir Français par naturalisation.",
-      "date_source": "2026-03",
-      "confiance": "programme",
-      "relu": true
-    },
-    "imm_preference": {
-      "valeur": 2,
-      "resume": "Le projet propose de « supprimer les aides sociales non contributives pour les étrangers (RSA, allocations familiales, aides au logement…) » ; ses propositions du 20 octobre 2026 ajoutent la « priorité aux étudiants français pour les aides universitaires ».",
-      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
-      "citation": "Supprimer les aides sociales non contributives pour les étrangers (RSA, allocations familiales, aides au logement…)",
-      "date_source": "2026-03",
-      "confiance": "programme",
-      "relu": true
-    },
-    "eur_otan": {
-      "valeur": 2,
-      "resume": "Le projet propose de « sortir du commandement intégré de l'OTAN pour regagner notre indépendance militaire ».",
-      "source": "https://www.debout-la-france.fr/projet/defense/",
-      "citation": "Sortir du commandement intégré de l’OTAN pour regagner notre indépendance militaire et stratégique […]",
-      "date_source": "2026-10",
-      "confiance": "programme",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": 1,
-      "resume": "Le projet s'engage à porter le budget de la défense à « 2,5 % du PIB », qualifié de « chiffre raisonnable », soit en deçà de 3 %.",
-      "source": "https://www.debout-la-france.fr/projet/defense/",
-      "citation": "Aussi, nous nous engageons à augmenter notre budget de défense pour atteindre le chiffre raisonnable de 2,5% du PIB, permettant de mettre en œuvre les 15 mesures suivantes.",
-      "date_source": "2026-10",
-      "confiance": "programme",
-      "relu": true
-    },
-    "soc_100secu": {
-      "valeur": null,
-      "resume": "Le projet défend le caractère solidaire de l'assurance maladie et propose d'élargir la complémentaire santé solidaire aux plus de 65 ans, sans proposer la suppression du rôle des complémentaires.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_chomage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_signes": {
-      "valeur": 2,
-      "resume": "Le volet instruction publique propose l'« interdiction du port de signes religieux démonstratifs pour tous » ; les parents accompagnateurs de sorties scolaires ne sont pas cités explicitement ; valeur +2 : une interdiction « pour tous » dans le cadre scolaire couvre les parents accompagnateurs (même raisonnement que pour Zemmour et Tondelier).",
-      "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
-      "citation": "Interdiction du port de signes religieux démonstratifs pour tous.",
-      "date_source": "2026-10",
-      "confiance": "programme",
-      "relu": true
-    },
-    "edu_etudiants": {
-      "valeur": null,
-      "resume": "Le projet prévoit de maintenir les bourses sur critères sociaux en tenant compte de l'assiduité et de donner la priorité aux étudiants français pour les aides universitaires, sans proposer d'allocation universelle.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Le projet veut « doper l'apprentissage » (objectif d'un million d'apprentis) et présenter les métiers dès la quatrième, sans proposer d'âge d'entrée en apprentissage à 14 ans.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": -2,
       "resume": "Le projet propose de « diminuer le nombre de parlementaires » : passer de 577 à 500 députés et de 348 à 300 sénateurs, avec une baisse de 25 % de leurs indemnités.",
@@ -365,6 +365,204 @@
       "resume": "Le projet propose de « prendre en compte le vote blanc dans les résultats des élections » et de reporter le scrutin s'il est majoritaire ; mesure rappelée dans son discours de rentrée du 19 septembre 2026.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
       "citation": "Prendre en compte le vote blanc dans les résultats des élections pour respecter le sentiment populaire.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_libre_echange": {
+      "valeur": 2,
+      "resume": "Le projet DLF prévoit un « protectionnisme intelligent », la renégociation de tous les accords de libre-échange et des droits de douane compensateurs ; il refuse l'accord UE-Mercosur.",
+      "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "citation": "Déployer un protectionnisme intelligent et renégocier tous les accords de libre-échange à l’occasion de la sortie de l’UE. […] ne pas hésiter à imposer des droits de douane compensateurs pour limiter les importations déloyales.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": -2,
+      "resume": "Le projet DLF prévoit de supprimer les droits de succession sur la résidence principale et sur les 100 premiers hectares agricoles, et de doubler les plafonds d'exonération des donations.",
+      "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "citation": "Supprimer les droits de succession sur la résidence principale et sur les 100 premiers hectares de terres agricoles, doubler les plafonds d’exonération des donations, exonérer de 90 % la valeur des titres d’une entreprise transmise (75 % actuellement).",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Le projet DLF prévoit de renationaliser les autoroutes sans indemnité et de maintenir les barrages hydroélectriques dans le giron d'EDF.",
+      "source": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "citation": "Renationaliser les autoroutes (qui réalisent des bénéfices de l’ordre de 4 milliards d’euros par an) par une reprise de la gestion des autoroutes sans verser aucune indemnité,",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_zan": {
+      "valeur": 2,
+      "resume": "Le projet DLF prévoit de réformer la loi Climat et résilience pour mettre fin à l'objectif « zéro artificialisation nette ».",
+      "source": "https://www.debout-la-france.fr/projet/logement/",
+      "citation": "Réformer intégralement la loi Climat et Résilience pour mettre fin à l’objectif de Zéro Artificialisation Nette (ZAN) afin de déverrouiller le marché des maisons individuelles en excluant leur terrain du calcul de l’artificialisation.",
+      "date_source": "2026-09",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": 2,
+      "resume": "Le projet DLF prévoit la suppression définitive des zones à faibles émissions.",
+      "source": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+      "citation": "Acter la suppression définitive des zones à faibles émissions.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": 2,
+      "resume": "Le projet DLF prévoit une présomption de légitime défense pour les policiers ayant fait usage de leur arme.",
+      "source": "https://www.debout-la-france.fr/projet/securite/",
+      "citation": "Instaurer une présomption de légitime défense pour permettre aux policiers de se défendre contre des agresseurs. Il s’agit de considérer un policier ayant fait usage de son arme comme ayant agi en légitime défense jusqu’à preuve du contraire.",
+      "date_source": "2026-02",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_police_municipale": {
+      "valeur": 0,
+      "resume": "Le projet DLF propose à la fois 10 000 policiers et gendarmes supplémentaires et l'élargissement du champ d'action des polices municipales.",
+      "source": "https://www.debout-la-france.fr/projet/securite/",
+      "citation": "10 000 policiers et gendarmes supplémentaires nets en 5 ans. […] Élargir le champ d’action des polices municipales de façon à accroître leur efficacité et à être parfaitement interopérable avec les forces de la police nationale.",
+      "date_source": "2026-02",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_travail": {
+      "valeur": 1,
+      "resume": "Le projet DLF propose de conditionner l'immigration économique au taux de chômage, sans détailler de mesure de formation des demandeurs d'emploi.",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Conditionner l’immigration économique au taux de chômage : si le chômage est élevé, cette immigration doit rester exceptionnelle.",
+      "date_source": "2026-03",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_asile_externalise": {
+      "valeur": 1,
+      "resume": "Le projet DLF prévoit que les migrants secourus en mer soient ramenés à leur point d'embarquement pour y voir leur demande d'asile examinée, et de limiter l'asile aux demandes faites aux frontières.",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Les migrants en difficulté seront secourus en mer puis ramenés à leur point d’embarquement, où leur demande d’asile sera examinée.",
+      "date_source": "2026-03",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_naturalisation": {
+      "valeur": -2,
+      "resume": "Le projet DLF prévoit d'exiger dix ans de résidence pour la naturalisation, la maîtrise de la langue et un plafond annuel voté par le Parlement.",
+      "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+      "citation": "Clarifier les conditions d’accès à la naturalisation en : Exigeant 10 ans de résidence en France comme minimum pour évaluer l’assimilation réelle. Renforçant l’assimilation via la maîtrise de la langue,",
+      "date_source": "2026-03",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_service_militaire": {
+      "valeur": 0,
+      "resume": "Le projet DLF prévoit un service national civique obligatoire de trois mois, remplaçable par un service militaire d'un an pour les volontaires.",
+      "source": "https://www.debout-la-france.fr/projet/defense/",
+      "citation": "Instaurer un service national civique obligatoire de trois mois avec option militaire d’une année pour retisser le lien armée-nation et développer un esprit de défense parmi les jeunes.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": 2,
+      "resume": "Demande que l'Ukraine reste en dehors de l'Union européenne et critique l'élargissement de l'UE ; il propose par ailleurs la sortie de la France de l'UE.",
+      "source": "https://www.sudradio.fr/linvite-politique/nicolas-dupont-aignan-la-position-du-rn-est-incomprehensible",
+      "citation": "Le retrait des troupes russes, bien évidemment. En échange de ce qui n’aurait jamais dû cesser d’être : que l’Ukraine reste en dehors de l’OTAN et de l’Union européenne.",
+      "date_source": "2026-09-20",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "soc_capitalisation": {
+      "valeur": -2,
+      "resume": "Le projet DLF prévoit de doter chaque nouveau-né d'un capital de 10 000 euros placé dans un fonds public de capitalisation, en complément de la retraite par répartition.",
+      "source": "https://www.debout-la-france.fr/projet/economie-travail/",
+      "citation": "À 60 ans, le bénéficiaire disposerait ainsi d’un socle de retraite par capitalisation, qui viendrait en complément de la retraite par répartition.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "soc_allocations_familiales": {
+      "valeur": 2,
+      "resume": "Le projet DLF prévoit de rétablir l'universalité des allocations familiales.",
+      "source": "https://www.debout-la-france.fr/projet/famille/",
+      "citation": "Rétablir l’universalité des allocations familiales.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
+    },
+    "soc_loyers": {
+      "valeur": 2,
+      "resume": "Position déduite de la campagne 2017 : le porte-parole logement de Nicolas Dupont-Aignan annonçait l'abandon de l'encadrement des loyers ; aucune position récente trouvée.",
+      "source": "https://www.boursedescredits.com/actualite-election-presidentielle-programme-logement-nicolas-dupont-aignan-2687.php",
+      "citation": "Nous ne maintiendrons pas l'encadrement des loyers, une source de stress pour les propriétaires. Il faut plus de flexibilité et moins de coercition.",
+      "date_source": "2017-04-20",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": 1,
+      "resume": "Le projet DLF prévoit une hausse générale de 15 % en quatre ans des salaires nets des professeurs, sans part liée à l'évaluation.",
+      "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
+      "citation": "Augmenter de 15 % en 4 ans les salaires nets des professeurs.",
+      "date_source": "2026-10",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": -1,
+      "resume": "Le projet DLF propose de revenir au septennat avec un référendum révocatoire à mi-mandat, sans préciser si le mandat serait unique.",
+      "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+      "citation": "Revenir au septennat avec la possibilité d’un référendum révocatoire d’initiative citoyenne à mi-mandat.",
       "date_source": "2026-06",
       "confiance": "programme",
       "relu": true

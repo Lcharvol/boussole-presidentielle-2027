@@ -7,7 +7,7 @@
   "programme": "disponible",
   "programme_url": "https://ruches.org/le-projet",
   "mis_a_jour": "2026-10-21",
-  "notes": "Candidature annoncée le 19 décembre 2025 sur Sud Radio (https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle) ; recherche de parrainages en cours. Programme « La Voie » (845 mesures, élaboré de façon participative) publié sur ruches.org ; la page n'est pas datée, date_source « 2026-07 » estimée d'après l'horodatage du PDF du programme (16 juillet 2026). Particularité : de nombreuses mesures (sortie de l'UE et de l'OTAN, RIC, constituante) sont proposées par référendum, et certains sujets (drogues, régime législatif) sont présentés comme des options alternatives soumises à une assemblée constituante.",
+  "notes": "Candidature annoncée le 19 décembre 2025 sur Sud Radio (https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle) ; recherche de parrainages toujours en cours au 21 octobre 2026 (aucun retrait ni ralliement trouvé). Programme « La Voie » (845 mesures, élaboré de façon participative) publié sur ruches.org ; la page n'est pas datée, date_source « 2026-07 » estimée d'après l'horodatage du PDF du programme (16 juillet 2026). Particularité : de nombreuses mesures (sortie de l'UE et de l'OTAN, RIC, constituante) sont proposées par référendum, et certains sujets (drogues, laïcité, régime législatif) sont présentés comme des options alternatives soumises à une assemblée constituante.",
   "positions": {
     "eco_retraite": {
       "valeur": null,
@@ -81,6 +81,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": -1,
+      "resume": "Le programme prévoit la « fin de l'exemption de TICPE sur les vols intérieurs », parmi des mesures de financement des transports en commun et du rail.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Fin de l’exemption de TICPE sur les vols intérieurs.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
     "sec_peines": {
       "valeur": -1,
       "resume": "Le programme annonce la « fin du modèle Badinter : peines réelles, exécution des peines courtes », sans proposer de peines planchers.",
@@ -91,13 +109,13 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": null,
-      "resume": "Le programme prévoit un plan pénitentiaire avec des cellules collectives de 6 à 12 personnes, sans objectif de création de places.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": -1,
+      "resume": "Le programme prévoit un plan pénitentiaire avec des cellules collectives de 6 à 12 personnes, tout en réaffirmant le droit à l'encellulement individuel ; il prévoit par ailleurs des travaux d'intérêt général systématiques pour les seules infractions au séjour.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Réaffirmation du droit à l'encellulement individuel, mais adoption d'un plan pénitentiaire avec des cellules collectives (6 à 12 personnes).",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 0,
@@ -107,6 +125,24 @@
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Le programme prévoit une « réduction stricte des prérogatives de surveillance généralisée », sans mesure explicite sur la vidéosurveillance algorithmique dans l'espace public.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "imm_baisse": {
       "valeur": -1,
@@ -135,6 +171,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Le programme réserve l'attribution des logements sociaux aux « classes les plus défavorisées », sans critère de nationalité.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "eur_integration": {
       "valeur": 1,
       "resume": "Le programme propose un référendum sur la sortie de l'Union européenne et de l'euro, et la création d'une « Union des peuples européens » ; valeur −1 : le programme soumet ces sorties à référendum (« et/ou ») et propose une autre union européenne, sans rejeter toute intégration.",
@@ -161,6 +215,24 @@
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": true
+    },
+    "eur_otan": {
+      "valeur": 1,
+      "resume": "Le programme propose un référendum sur la « sortie de l'OTAN (commandement intégré ou du Traité) » et une politique de neutralité, sans trancher lui-même.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Référendum fondé sur l’article 11 de la Constitution proposant : ◆ Sortie de l’Union Européenne, de l’euro, du Conseil de l’Europe et/ou de l’espace Schengen. ◆ Sortie de l’OTAN (commandement intégré ou du Traité).",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Le programme détaille de nombreux équipements militaires (300 avions de combat, drones, frégates) sans objectif de budget en pourcentage du PIB.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "soc_medecins": {
       "valeur": -2,
@@ -189,6 +261,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "soc_100secu": {
+      "valeur": -2,
+      "resume": "Le programme prévoit l'« abolition des complémentaires santé et mutuelles » et leur absorption dans un « système unique de sécurité sociale intégrale ».",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Abolition des complémentaires santé et mutuelles publiques et privées, institutions de prévoyance, complémentaires collectives, etc et absorption au sein d’un grand système unique de sécurité sociale intégrale de tous les dispositifs compensatoires […]",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "soc_chomage": {
+      "valeur": 1,
+      "resume": "Le programme prévoit la « dégressivité des allocations chômage à partir de la première année », tout en ouvrant trois mois de droits en cas de démission.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Dégressivité des allocations chômage à partir de la première année, création d’une caisse de sécurité professionnelle remplaçant les UNEDIC/ASSEDIC/France Travail.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
     "edu_prive": {
       "valeur": 2,
       "resume": "Le programme prévoit la fin de « toute aide publique » aux institutions privées et l'« absorption du parc scolaire privé ».",
@@ -201,6 +291,33 @@
     "edu_autorite": {
       "valeur": null,
       "resume": "Le programme prévoit un corps de professeurs des écoles « identifiable à l'uniforme » (pour les enseignants) et des classes à niveaux agglomérés, sans mesure sur l'uniforme des élèves, les sanctions ou les groupes de niveau.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Le programme soumet à une constituante le choix entre confirmation de la loi de 1905 et régime concordataire, sans mesure sur les sorties scolaires.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_etudiants": {
+      "valeur": -1,
+      "resume": "Le programme prévoit l'« extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources » et détachée du foyer fiscal familial, ce qui n'est pas une allocation réservée aux étudiants.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources […]",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
       "citation": null,
       "date_source": null,
@@ -234,123 +351,6 @@
       "confiance": "programme",
       "relu": true
     },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": -1,
-      "resume": "Le programme prévoit la « fin de l'exemption de TICPE sur les vols intérieurs », parmi des mesures de financement des transports en commun et du rail.",
-      "source": "https://ruches.org/le-projet",
-      "citation": "Fin de l’exemption de TICPE sur les vols intérieurs.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Le programme prévoit une « réduction stricte des prérogatives de surveillance généralisée », sans mesure explicite sur la vidéosurveillance algorithmique dans l'espace public.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Le programme réserve l'attribution des logements sociaux aux « classes les plus défavorisées », sans critère de nationalité.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": 1,
-      "resume": "Le programme propose un référendum sur la « sortie de l'OTAN (commandement intégré ou du Traité) » et une politique de neutralité, sans trancher lui-même.",
-      "source": "https://ruches.org/le-projet",
-      "citation": "Référendum fondé sur l’article 11 de la Constitution proposant : ◆ Sortie de l’Union Européenne, de l’euro, du Conseil de l’Europe et/ou de l’espace Schengen. ◆ Sortie de l’OTAN (commandement intégré ou du Traité).",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Le programme détaille de nombreux équipements militaires (300 avions de combat, drones, frégates) sans objectif de budget en pourcentage du PIB.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_100secu": {
-      "valeur": -2,
-      "resume": "Le programme prévoit l'« abolition des complémentaires santé et mutuelles » et leur absorption dans un « système unique de sécurité sociale intégrale ».",
-      "source": "https://ruches.org/le-projet",
-      "citation": "Abolition des complémentaires santé et mutuelles publiques et privées, institutions de prévoyance, complémentaires collectives, etc et absorption au sein d’un grand système unique de sécurité sociale intégrale de tous les dispositifs compensatoires […]",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "soc_chomage": {
-      "valeur": 1,
-      "resume": "Le programme prévoit la « dégressivité des allocations chômage à partir de la première année », tout en ouvrant trois mois de droits en cas de démission.",
-      "source": "https://ruches.org/le-projet",
-      "citation": "Dégressivité des allocations chômage à partir de la première année, création d’une caisse de sécurité professionnelle remplaçant les UNEDIC/ASSEDIC/France Travail.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "edu_signes": {
-      "valeur": null,
-      "resume": "Le programme soumet à une constituante le choix entre confirmation de la loi de 1905 et régime concordataire, sans mesure sur les sorties scolaires.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_etudiants": {
-      "valeur": -1,
-      "resume": "Le programme prévoit l'« extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources » et détachée du foyer fiscal familial, ce qui n'est pas une allocation réservée aux étudiants.",
-      "source": "https://ruches.org/le-projet",
-      "citation": "Extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources […]",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": -1,
       "resume": "Le programme soumet à une constituante trois options qui réduisent toutes le nombre de parlementaires (chambre basse de 314 députés et chambre haute tirée au sort absorbant Sénat et CESE, suppression des deux chambres, ou fusion).",
@@ -365,6 +365,204 @@
       "resume": "Le programme prévoit la « prise en compte du vote nul et blanc », rendant caduc le mandat électoral en cas de majorité de vote blanc.",
       "source": "https://ruches.org/le-projet",
       "citation": "[…] prise en compte du vote nul et blanc (réduisant proportionnellement le financement public et rendant caduque le mandat électoral en cas de majorité de vote blanc).",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_libre_echange": {
+      "valeur": 2,
+      "resume": "Le programme prévoit une politique commerciale « fondée sur des droits douaniers » et le blocage des négociations de traités de libre-échange (droits de douane nationaux, dans la perspective d'une sortie de l'UE soumise à référendum).",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Adoption d’une politique sociale, commerciale et écologique fondée sur des droits douaniers […] Blocage de négociations de traités de libre-échange.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": 2,
+      "resume": "Le programme supprime les droits de succession pour 90 % des foyers et concentre l'imposition sur les gros héritages, jusqu'à une taxation « confiscatoire » au-delà de 100 millions d'euros (10 millions pour les héritages non directs).",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Réforme radicale de la fiscalité de l’héritage. Fin des DMTG pour 90% des foyers fiscaux. Rehaussement des seuils de taxation de l’héritage au-delà de 40 millions d’euros (confiscatoire à partir de 100 millions)",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Le programme prévoit la nationalisation de l'électricité, de l'eau, de la santé, des télécoms et des autoroutes, ainsi que l'expropriation des compagnies d'autoroutes.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Nationalisation du marché de l’électricité, de l’eau, de la santé, des télécoms et des autoroutes",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_zan": {
+      "valeur": -2,
+      "resume": "Le programme prévoit un plan d'arrêt et de reconversion des sols artificialisés « durcissant les ZAN ».",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Plan d’arrêt et de reconversion des sols artificialisés durcissant les ZAN, d’écoconception des produits de consommation et de réorientation massive des friches industrielles existantes.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": 2,
+      "resume": "Le programme prévoit l'abolition des zones à faibles émissions.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Abolition des Zones à Faibles Émissions.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_controle_identite": {
+      "valeur": -2,
+      "resume": "Le programme prévoit la création d'un récépissé de contrôle d'identité et le port obligatoire du matricule.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Création d’un récépissé d’un contrôle d’identité, systématisation de l’enregistrement des interventions et port obligatoire du matricule.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": -2,
+      "resume": "Le programme prévoit de municipaliser la police nationale, à l'exception de la police judiciaire et des unités de maintien de l'ordre.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Municipalisation de la police nationale (hors Police Judiciaire et unités de maintien de l’ordre).",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_travail": {
+      "valeur": -1,
+      "resume": "Le programme prévoit une politique d'attractivité envers les étrangers à haut niveau de qualification, sans mesure sur l'immigration de travail en général.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Développement d’une politique d’attractivité en faveur des individus à haut niveau de qualification, via la refonte des programmes existant et leur fusion avec ceux du Quai d’Orsay.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_asile_externalise": {
+      "valeur": 1,
+      "resume": "Le programme prévoit de déconcentrer le traitement des demandes d'asile au niveau consulaire (donc à l'étranger), sans évoquer de centres hors d'Europe.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Conditionnalisation du regroupement familial et déconcentration du traitement de l’asile au niveau consulaire.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": -2,
+      "resume": "Le programme propose, par référendum, un service obligatoire pour tous avec options civile et militaire, et le passage d'une armée expéditionnaire à la conscription.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Référendum proposant un service militaire obligatoire pour tous, avec options civile et militaire (six mois communs à tous, puis le choix entre un service civil de douze mois ou un service militaire de six mois)",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": 1,
+      "resume": "Le programme supprime Parcoursup et prévoit une proposition d'admission pour tous les candidats aux formations universitaires, tout en renforçant la sélection à l'entrée du lycée.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Fin des MIG (ex-SNU) et de Parcoursup. […] Distribution finale d’une proposition d’admission à tous les candidats à des formations universitaires avant les vacances d’été.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": 0,
+      "resume": "Le programme porte le mandat présidentiel à 7 ans, renouvelable dans la limite de trois mandats.",
+      "source": "https://ruches.org/le-projet",
+      "citation": "Changement de la durée du mandat présidentiel (7 ans), avec limitation de trois mandats.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": true

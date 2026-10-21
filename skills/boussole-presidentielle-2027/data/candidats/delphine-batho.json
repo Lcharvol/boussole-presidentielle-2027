@@ -7,7 +7,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-21",
-  "notes": "Candidature déclarée fin novembre 2025, investie à l'unanimité par la convention nationale de Génération Écologie le 6 juin 2026. Refuse toute primaire ; doit réunir les 500 parrainages. Son site (delphinebatho.fr) indique que le programme est en cours d'élaboration avec les citoyens. Faute de programme, les positions reposent surtout sur ses votes de députée des Deux-Sèvres (relevés Datan, d'après les scrutins publics de l'Assemblée) et sur le texte d'orientation de son parti (2023).",
+  "notes": "Candidature déclarée fin novembre 2025, investie par la convention nationale de Génération Écologie le 6 juin 2026 ; refuse toute primaire et tout ralliement (« Vous irez donc jusqu'au bout ? Totalement », Reporterre, entretien du 9/10/2026 publié le 16/10/2026) ; « plusieurs dizaines » de parrainages à cette date. Pas de programme publié au 21/10/2026 (delphinebatho.fr ne contient pas de page programme). Priorités annoncées hors grille : passage de toute l'agriculture au bio/agroécologie en cinq ans, aides PAC conditionnées, « règle d'or de stabilité » des normes pendant cinq ans. Sur la défense, dit « assumer l'effort de défense » et avoir voté la révision de la LPM (vote pour, 19/05 et 01/07/2026), sans objectif chiffré en % du PIB : eur_defense3 laissé à null. Aucun vote 2025-2026 trouvé sur les autres enjeux à null (relevé Datan des scrutins).",
   "positions": {
     "eco_retraite": {
       "valeur": -1,
@@ -81,6 +81,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": 2,
+      "resume": "A voté pour l'amendement avançant de 2040 à 2035 l'interdiction de la vente des véhicules diesel et essence neufs (loi Climat et résilience).",
+      "source": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3581",
+      "citation": "Scrutin public n°3581 sur l'amendement n° 6556 de M. Colas-Roy à l'article 25 du projet de loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (première lecture).",
+      "date_source": "2021-04-09",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -108,6 +126,24 @@
       "confiance": null,
       "relu": false
     },
+    "sec_mineurs": {
+      "valeur": -1,
+      "resume": "A voté contre la loi Attal « visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants », qui restreignait notamment l'excuse de minorité pour les 16-18 ans (vote sur l'ensemble du texte).",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
+      "date_source": "2025-05-13",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "sec_videosurveillance": {
+      "valeur": 1,
+      "resume": "A voté contre le projet de loi relatif aux Jeux olympiques de 2024, qui autorisait l'expérimentation de la vidéosurveillance algorithmique (vote sur l'ensemble du texte).",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
+      "citation": "Scrutin public n°1305 sur l'ensemble du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions (première lecture).",
+      "date_source": "2023-03-28",
+      "confiance": "declaration",
+      "relu": true
+    },
     "imm_baisse": {
       "valeur": 1,
       "resume": "A voté contre la loi immigration de décembre 2023, qui durcissait notamment le regroupement familial.",
@@ -127,6 +163,24 @@
       "relu": false
     },
     "imm_regularisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_preference": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
@@ -162,6 +216,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur un objectif de 3 % du PIB ; elle a voté pour l'actualisation de la loi de programmation militaire en 2026.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "soc_medecins": {
       "valeur": -2,
       "resume": "A voté pour la proposition de loi transpartisane Garot qui régule l'installation des médecins dans les zones bien dotées.",
@@ -189,123 +261,6 @@
       "confiance": "declaration",
       "relu": true
     },
-    "edu_prive": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_autorite": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_proportionnelle": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_ric": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_6e": {
-      "valeur": 2,
-      "resume": "Position déduite du texte d'orientation de Génération Écologie (déc. 2023), qui fait de « l'abolition du présidentialisme » et de nouvelles institutions démocratiques un axe central.",
-      "source": "https://www.generationecologie.fr/app/uploads/2025/07/VIVRE-AUTREMENT-14eme-convention-nationale.pdf",
-      "citation": "En France, l’abolition du présidentialisme et la perspective de nouvelles institutions démocratiques sont la pierre angulaire du changement pour sortir du système de la croissance, lever une nouvelle espérance et battre l’extrême-droite.",
-      "date_source": "2023-12",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "ecol_thermique2035": {
-      "valeur": 2,
-      "resume": "A voté pour l'amendement avançant de 2040 à 2035 l'interdiction de la vente des véhicules diesel et essence neufs (loi Climat et résilience).",
-      "source": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3581",
-      "citation": "Scrutin public n°3581 sur l'amendement n° 6556 de M. Colas-Roy à l'article 25 du projet de loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (première lecture).",
-      "date_source": "2021-04-09",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": -1,
-      "resume": "A voté contre la loi Attal « visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants », qui restreignait notamment l'excuse de minorité pour les 16-18 ans (vote sur l'ensemble du texte).",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
-      "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
-      "date_source": "2025-05-13",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": 1,
-      "resume": "A voté contre le projet de loi relatif aux Jeux olympiques de 2024, qui autorisait l'expérimentation de la vidéosurveillance algorithmique (vote sur l'ensemble du texte).",
-      "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
-      "citation": "Scrutin public n°1305 sur l'ensemble du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions (première lecture).",
-      "date_source": "2023-03-28",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur un objectif de 3 % du PIB ; elle a voté pour l'actualisation de la loi de programmation militaire en 2026.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -323,6 +278,24 @@
       "date_source": "2022-10-11",
       "confiance": "declaration",
       "relu": true
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "edu_signes": {
       "valeur": null,
@@ -351,6 +324,33 @@
       "confiance": null,
       "relu": false
     },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_ric": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_6e": {
+      "valeur": 1,
+      "resume": "Plaide pour une réorganisation des pouvoirs mettant fin à la verticalité du présidentialisme et donnant plus de pouvoir au local, sans parler explicitement de VIe République.",
+      "source": "https://reporterre.net/Delphine-Batho-Je-ne-multiplie-pas-les-candidatures-a-gauche-je-suis-la-seule-candidate-de-l-ecologie",
+      "citation": "C’est pourquoi je plaide pour une réorganisation des pouvoirs en France, en donnant beaucoup plus de pouvoir au local. […] En mettant fin à la verticalité liée au présidentialisme qui affaiblit les agents de services publics sur le terrain.",
+      "date_source": "2026-10-16",
+      "confiance": "declaration",
+      "relu": true
+    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -361,6 +361,204 @@
       "relu": false
     },
     "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Dans un communiqué de Génération Écologie qu'elle signe, elle s'oppose à l'accord UE-Mercosur et juge la croissance du commerce international incompatible avec la lutte contre le changement climatique, sans proposer de hausse des droits de douane ; elle a aussi voté pour la résolution de l'Assemblée demandant au gouvernement de s'opposer à cet accord (scrutin n°4244, 27/11/2025).",
+      "source": "https://www.generationecologie.fr/2025/09/04/accord-avec-le-mercosur-non-cest-non/",
+      "citation": "Génération Écologie renouvelle son opposition la plus ferme à l’accord entre l’Union européenne et le Mercosur […] La croissance du commerce international, avec toujours plus d’exportations et toujours plus d’importations, est incompatible avec la lutte contre le changement climatique",
+      "date_source": "2025-09-04",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": -1,
+      "resume": "Position déduite d'un communiqué de Génération Écologie, le parti qu'elle préside, qui demande de mettre fin aux modèles économiques qui organisent l'artificialisation des sols et rappelle sa proposition de moratoire sur les entrepôts du commerce en ligne ; rien d'explicite sur l'objectif ZAN de 2050.",
+      "source": "https://www.generationecologie.fr/2026/05/12/la-france-continue-de-derouler-le-tapis-rouge-a-amazon/",
+      "citation": "Il faut mettre fin aux modèles économiques qui organisent la surconsommation et l’artificialisation des sols, au lieu de les subventionner par l’inaction publique. Depuis 2020, Delphine Batho et un groupe de députés avaient déposé une proposition de loi instaurant un moratoire",
+      "date_source": "2026-05-12",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "ecol_eau_agricole": {
+      "valeur": 2,
+      "resume": "Sa proposition de loi de septembre 2024 instaure un moratoire sur la construction de retenues d'eau pour l'irrigation agricole et inscrit dans le code de l'environnement la réduction des volumes prélevés pour l'irrigation.",
+      "source": "https://questions.assemblee-nationale.fr/dyn/17/textes/l17b0199_proposition-loi.pdf",
+      "citation": "est instauré un moratoire suspendant la délivrance des autorisations environnementales […] pour les ouvrages de stockage de l’eau à usage d’irrigation agricole […] « 5° bis La réduction des volumes prélevés dans les eaux superficielles ou souterraines destinées à l’usage d’irrigation agricole",
+      "date_source": "2024-09-17",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": -1,
+      "resume": "Position déduite d'un communiqué de Génération Écologie, le parti qu'elle préside : l'ouverture du débat sur la protection de l'Europe par la dissuasion nucléaire française n'a de sens qu'avec une défense européenne indépendante des États-Unis ; pas de déclaration personnelle trouvée.",
+      "source": "https://www.generationecologie.fr/2025/03/05/ni-trump-ni-poutine-en-tant-quecologistes-nous-prendrons-toute-notre-part-a-leffort-de-defense-du-pays-et-de-leurope/",
+      "citation": "L’ouverture du débat stratégique sur la protection de l’Europe par notre dissuasion nucléaire n’a de sens que dans la clarté d’une défense européenne strictement indépendante des États-Unis.",
+      "date_source": "2025-03-05",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": 1,
+      "resume": "A voté pour l'amendement n°27 (rejeté) qui précisait que le rapport demandé sur l'universalité des allocations familiales viserait la fin de leur modulation selon les revenus (scrutin n°2268, 05/06/2025) ; il s'agit d'un vote sur le périmètre d'un rapport, pas d'une déclaration.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/1473/AN/27",
+      "citation": "À la deuxième phrase, substituer aux mots : « un accès universel » les mots : « leur universalité, en particulier la fin de la modulation de leur montant selon les revenus du ménage, ».",
+      "date_source": "2025-06-05",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "soc_loyers": {
+      "valeur": -1,
+      "resume": "A voté pour la proposition de loi expérimentant l'encadrement des loyers dans les outre-mer (mesure limitée à ces territoires) ; pas de déclaration trouvée sur l'encadrement des loyers en général.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2262",
+      "citation": "Scrutin public n°2262 sur l'ensemble de la proposition de loi expérimentant l'encadrement des loyers et améliorant l'habitat dans les outre-mer (première lecture).",
+      "date_source": "2025-06-05",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,

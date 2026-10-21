@@ -5,9 +5,9 @@
   "parti": "Les Républicains",
   "statut": "désigné par son parti",
   "programme": "partiel",
-  "programme_url": null,
+  "programme_url": "https://republicains.fr/nos-propositions/",
   "mis_a_jour": "2026-10-21",
-  "notes": "Candidature annoncée en février 2026 ; soutenu directement par les adhérents LR le 19 avril 2026 (pas de primaire). Pas de programme complet publié : projet présenté par thèmes (plan de finances publiques du 12/10/2026, réforme constitutionnelle du 03/09/2026, travail le 07/01/2026). Plusieurs positions reposent sur des déclarations 2023-2025 (Sénat, ministère de l'Intérieur). Position SMIC sourcée par une déclaration ancienne (2018).",
+  "notes": "Toujours candidat LR au 21/10/2026 : candidature annoncée le 12 février 2026, désigné par les adhérents LR (73,8 %) le 19 avril 2026 sans primaire ; a rejeté en septembre 2026 la proposition de rassemblement d'Édouard Philippe (« Il y aura un bulletin Bruno Retailleau au premier tour », selon son porte-parole) tout en n'excluant pas par principe une primaire ; présenté comme « candidat des Républicains » lors de son plan de finances publiques du 12/10/2026 et comme candidat au sommet Politico du 13/10/2026. Pas de programme complet unique : projet publié par thèmes sous forme de livrets LR (travail, produire plus, agriculture, électricité, famille, logement, IA, école) sur republicains.fr/nos-propositions, plus plan de finances publiques (12/10/2026) et réforme constitutionnelle (03/09/2026). Position SMIC toujours sourcée par une déclaration de 2018 : aucune source 2025-2026 trouvée.",
   "positions": {
     "eco_retraite": {
       "valeur": 2,
@@ -81,6 +81,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": -2,
       "resume": "Propose une « charte de l'ordre républicain » rendant obligatoires des peines minimales pour certaines infractions, ainsi que le retour des courtes peines de prison.",
@@ -105,6 +123,24 @@
       "source": "https://www.europe1.fr/politique/legalisation-du-cannabis-ca-ne-marche-pas-estime-bruno-retailleau-396031",
       "citation": "\"Je suis contre. Totalement contre. Et ce qui se passe, dans les pays qui ont pu légaliser, montre que la légalisation de la drogue, notamment dite douce, ça ne marche pas\", a déclaré le ministre sur TF1.",
       "date_source": "2025-02-18",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": 2,
+      "resume": "Comme ministre de l'Intérieur, a déclaré que l'excuse de minorité, « aujourd'hui la règle », devait « devenir l'exception » et appelé à réformer profondément la justice des mineurs.",
+      "source": "https://www.europe1.fr/politique/aujourdhui-lexcuse-de-minorite-est-la-regle-demain-elle-doit-devenir-lexception-affirme-bruno-retailleau-669464",
+      "citation": "\"Aujourd'hui, l'excuse de minorité est la règle, demain elle doit devenir l'exception\", a affirmé Bruno Retailleau, ministre de l'Intérieur",
+      "date_source": "2025-03-25",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "sec_videosurveillance": {
+      "valeur": -1,
+      "resume": "Comme ministre de l'Intérieur, a voulu généraliser par la loi la vidéosurveillance algorithmique expérimentée aux JO ; aucune position publique vérifiée sur la reconnaissance faciale.",
+      "source": "https://next.ink/brief-article/le-gouvernement-barnier-veut-generaliser-la-videosurveillance-algorithmique-vsa/",
+      "citation": "« C’est bien l’intention du ministre [de l’Intérieur, Bruno Retailleau, ndlr] de tirer les enseignements des JO. Ce point en fait partie et la nécessité d’une loi est incontournable » précise le ministère de l’Intérieur à Tech&Co.",
+      "date_source": "2024-10-02",
       "confiance": "declaration",
       "relu": true
     },
@@ -135,14 +171,32 @@
       "confiance": "declaration",
       "relu": true
     },
+    "imm_droitdusol": {
+      "valeur": 2,
+      "resume": "Son projet de réforme constitutionnelle prévoit d'« abolir le droit du sol » pour qu'il n'y ait plus de naturalisations automatiques.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+      "citation": "Elle permettra en outre « d’expulser tous ceux qui n’ont rien à faire en France, supprimer le droit au mariage pour les OQTF, abolir le droit du sol et revenir à l’assimilation pour qu’il n’y ait plus de naturalisations automatiques ».",
+      "date_source": "2026-09-03",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": 1,
+      "resume": "Propose d'imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives (via une révision constitutionnelle par référendum), sans réserver explicitement ces prestations aux Français.",
+      "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "citation": "Sans elle, impossible d’imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives, ou encore de l’examen de l’asile en dehors des frontières.",
+      "date_source": "2026-10-12",
+      "confiance": "declaration",
+      "relu": true
+    },
     "eur_integration": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": 1,
+      "resume": "Dans une tribune sur la défense (juillet 2026), estime que l'action européenne doit passer par l'impulsion des États, « qui seuls disposent du monopole de la souveraineté », et non par le fédéralisme.",
+      "source": "https://republicains.fr/actualites/2026/07/14/lunite-nationale-premiere-de-nos-armes/",
+      "citation": "La réponse passe par les Etats, qui seuls disposent du monopole de la souveraineté. C’est sous leur impulsion, et non dans des chimères fédéralistes, que peut agir une Europe forte et autonome.",
+      "date_source": "2026-07-14",
+      "confiance": "declaration",
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 1,
@@ -159,6 +213,24 @@
       "source": "https://thepublic.info/en/news/bruno-retailleau-arrived-in-kyiv-ahead-of-the-french-elections",
       "citation": "“In Kyiv. I have decided to dedicate my first international campaign tour to Ukraine, which has been facing Russian aggression for over four years,” Retailleau said.",
       "date_source": "2026-05-20",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_otan": {
+      "valeur": -1,
+      "resume": "Dans une tribune du 14 juillet 2026, rejette une sortie de l'OTAN, qu'il juge favorable aux adversaires de la France, et propose d'« européaniser » l'Alliance ; il ne parle pas explicitement du commandement intégré.",
+      "source": "https://republicains.fr/actualites/2026/07/14/lunite-nationale-premiere-de-nos-armes/",
+      "citation": "Pas en sortant de l’OTAN comme le proposent certains – ce serait un cadeau inespéré fait à nos adversaires stratégiques",
+      "date_source": "2026-07-14",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": -1,
+      "resume": "S'engage (juillet 2026) sur une loi de programmation militaire portant le budget de la défense à 100 milliards d'euros à la fin du quinquennat, sans exprimer l'objectif en pourcentage du PIB.",
+      "source": "https://republicains.fr/actualites/2026/07/14/lunite-nationale-premiere-de-nos-armes/",
+      "citation": "Il sera assorti d’une loi de programmation militaire comportant cette fois une trajectoire budgétaire sincère et sanctuarisée, pour atteindre 100 milliards d’euros à la fin du quinquennat.",
+      "date_source": "2026-07-14",
       "confiance": "declaration",
       "relu": true
     },
@@ -189,7 +261,7 @@
       "confiance": "declaration",
       "relu": true
     },
-    "edu_prive": {
+    "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
@@ -198,12 +270,57 @@
       "confiance": null,
       "relu": false
     },
+    "soc_chomage": {
+      "valeur": 2,
+      "resume": "Veut limiter la durée et plafonner le montant de l'indemnisation après une rupture conventionnelle, supprimer l'allocation après un troisième refus d'offre et aligner les règles d'indemnisation sur les « standards européens ».",
+      "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+      "citation": "Pour freiner cette « dérive », il veut « limiter la durée d’indemnisation et plafonner la hauteur de l’allocation, suite à une rupture conventionnelle ».",
+      "date_source": "2026-01-07",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "edu_prive": {
+      "valeur": -2,
+      "resume": "Le projet éducation des Républicains (septembre 2026) veut supprimer la règle du « 80-20 » qui limite à 20 % les moyens publics accordés à l'enseignement privé sous contrat, dont il défend le financement par l'État.",
+      "source": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "citation": "C’est pourquoi nous mettrons fin à la règle non écrite du « 80-20 », qui, depuis quarante ans, étouffe un enseignement de plus en plus plébiscité en bornant à 20 % les moyens publics qui lui sont accordés.",
+      "date_source": "2026-09",
+      "confiance": "programme",
+      "relu": true
+    },
     "edu_autorite": {
       "valeur": -2,
       "resume": "Son programme éducation présenté en août 2026 prévoit de développer les groupes de niveau, de rétablir un examen d'entrée en sixième, de renforcer les conseils de discipline et de créer des internats disciplinaires ; il prévoit aussi des dispositifs de rattrapage, sans mesure sur la taille des classes.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
       "citation": "Bruno Retailleau propose notamment de rétablir un examen d’entrée en sixième, de développer les groupes de niveau et de mettre en place des dispositifs permettant aux élèves de rattraper les connaissances qui n’auraient pas été acquises à l’école primaire.",
       "date_source": "2026-08-31",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_signes": {
+      "valeur": 2,
+      "resume": "Comme ministre de l'Intérieur (janvier 2025), a prôné l'interdiction du port du voile pour les accompagnatrices de sorties scolaires, estimant qu'elles devraient être soumises aux principes de neutralité et de laïcité.",
+      "source": "https://www.leclubdesjuristes.com/en-bref/bruno-retailleau-souhaite-interdire-le-port-du-voile-pour-les-accompagnatrices-scolaires-8664/",
+      "citation": "En ce sens, Bruno Retailleau prône également l’interdiction du port du voile pour les accompagnantes de sorties scolaires, estimant qu’elles devraient être soumises aux principes de neutralité et de laïcité.",
+      "date_source": "2025-01-07",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "edu_etudiants": {
+      "valeur": 1,
+      "resume": "Le projet logement des Républicains (mai 2026) veut exclure de l'APL les étudiants des familles les plus aisées, au nom de la cohérence avec les bourses sur critères sociaux ; il ne se prononce pas directement sur une allocation universelle.",
+      "source": "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+      "citation": "Nous exclurons également de l’APL les étudiants issus des familles les plus aisées. […] Ce système est incohérent avec les bourses sur critères sociaux.",
+      "date_source": "2026-05",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_apprentissage": {
+      "valeur": 2,
+      "resume": "Le projet éducation des Républicains présenté pour sa campagne (septembre 2026) prévoit d'ouvrir l'apprentissage dès la classe de quatrième, à 14 ans, et de confier la voie professionnelle aux régions.",
+      "source": "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+      "citation": "L’apprentissage sera ouvert dès la classe de quatrième, à quatorze ans, des passerelles seront créées entre les voies générale, technologique, professionnelle et l’apprentissage",
+      "date_source": "2026-09",
       "confiance": "programme",
       "relu": true
     },
@@ -234,123 +351,6 @@
       "confiance": "declaration",
       "relu": true
     },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": 2,
-      "resume": "Comme ministre de l'Intérieur, a déclaré que l'excuse de minorité, « aujourd'hui la règle », devait « devenir l'exception » et appelé à réformer profondément la justice des mineurs.",
-      "source": "https://www.europe1.fr/politique/aujourdhui-lexcuse-de-minorite-est-la-regle-demain-elle-doit-devenir-lexception-affirme-bruno-retailleau-669464",
-      "citation": "\"Aujourd'hui, l'excuse de minorité est la règle, demain elle doit devenir l'exception\", a affirmé Bruno Retailleau, ministre de l'Intérieur",
-      "date_source": "2025-03-25",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": -1,
-      "resume": "Comme ministre de l'Intérieur, a voulu généraliser par la loi la vidéosurveillance algorithmique expérimentée aux JO ; aucune position publique vérifiée sur la reconnaissance faciale.",
-      "source": "https://next.ink/brief-article/le-gouvernement-barnier-veut-generaliser-la-videosurveillance-algorithmique-vsa/",
-      "citation": "« C’est bien l’intention du ministre [de l’Intérieur, Bruno Retailleau, ndlr] de tirer les enseignements des JO. Ce point en fait partie et la nécessité d’une loi est incontournable » précise le ministère de l’Intérieur à Tech&Co.",
-      "date_source": "2024-10-02",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "imm_droitdusol": {
-      "valeur": 2,
-      "resume": "Son projet de réforme constitutionnelle prévoit d'« abolir le droit du sol » pour qu'il n'y ait plus de naturalisations automatiques.",
-      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
-      "citation": "Elle permettra en outre « d’expulser tous ceux qui n’ont rien à faire en France, supprimer le droit au mariage pour les OQTF, abolir le droit du sol et revenir à l’assimilation pour qu’il n’y ait plus de naturalisations automatiques ».",
-      "date_source": "2026-09-03",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "imm_preference": {
-      "valeur": 1,
-      "resume": "Propose d'imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives (via une révision constitutionnelle par référendum), sans réserver explicitement ces prestations aux Français.",
-      "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
-      "citation": "Sans elle, impossible d’imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives, ou encore de l’examen de l’asile en dehors des frontières.",
-      "date_source": "2026-10-12",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "eur_otan": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_100secu": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_chomage": {
-      "valeur": 2,
-      "resume": "Veut limiter la durée et plafonner le montant de l'indemnisation après une rupture conventionnelle, supprimer l'allocation après un troisième refus d'offre et aligner les règles d'indemnisation sur les « standards européens ».",
-      "source": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
-      "citation": "Pour freiner cette « dérive », il veut « limiter la durée d’indemnisation et plafonner la hauteur de l’allocation, suite à une rupture conventionnelle ».",
-      "date_source": "2026-01-07",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "edu_signes": {
-      "valeur": 2,
-      "resume": "Comme ministre de l'Intérieur (janvier 2025), a prôné l'interdiction du port du voile pour les accompagnatrices de sorties scolaires, estimant qu'elles devraient être soumises aux principes de neutralité et de laïcité.",
-      "source": "https://www.leclubdesjuristes.com/en-bref/bruno-retailleau-souhaite-interdire-le-port-du-voile-pour-les-accompagnatrices-scolaires-8664/",
-      "citation": "En ce sens, Bruno Retailleau prône également l’interdiction du port du voile pour les accompagnantes de sorties scolaires, estimant qu’elles devraient être soumises aux principes de neutralité et de laïcité.",
-      "date_source": "2025-01-07",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "edu_etudiants": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": -1,
       "resume": "En 2017, s'est dit favorable à la réduction du nombre de parlementaires « à la condition » qu'elle donne plus de moyens aux élus ; aucune déclaration récente vérifiée.",
@@ -363,6 +363,204 @@
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "S'oppose à l'accord de libre-échange UE-Mercosur, au point de menacer le gouvernement de censure si la France le votait ; aucune position trouvée sur les protections commerciales européennes en général.",
+      "source": "https://www.brut.media/fr/articles/retailleau-previent-si-macron-vote-pour-le-mercosur-il-prend-le-risque-dune-censure-du-gouvernement",
+      "citation": "\"Ce que je dis solennellement, c'est que si le président de la République vote pour le Mercosur, après toutes ses déclarations, il prend le risque d'une censure\", a affirmé l'ancien ministre de l’Intérieur Bruno Retailleau",
+      "date_source": "2026-09-14",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": -2,
+      "resume": "S'engage à baisser les droits de succession et refuse de les augmenter.",
+      "source": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+      "citation": "\"Je ne serai pas le président qui augmentera les droits de succession mais celui qui les baissera\", déclare ce jeudi 27 août dans L'Opinion Bruno Retailleau, le candidat des Républicains.",
+      "date_source": "2026-08-27",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eco_nationalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": 2,
+      "resume": "Propose une loi d'urgence abrogeant l'objectif « zéro artificialisation nette » pour rendre aux maires la liberté de bâtir.",
+      "source": "https://www.europe1.fr/immobilier/exclu-europe-1-immobilier-bruno-retailleau-veut-renverser-la-table-en-2027-939395",
+      "citation": "Il propose une loi d’urgence qui permettrait de rendre la liberté de bâtir aux maires en abrogeant, le ZAN, \"le Zéro Artificialisation Net\", qui leur interdit de bétoniser les sols.",
+      "date_source": "2026-05-28",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": 2,
+      "resume": "S'engage, s'il est élu en 2027, à abroger les zones à faibles émissions, qu'il présente comme une mesure pénalisant les automobilistes modestes.",
+      "source": "https://www.europe1.fr/politique/suppression-des-zfe-par-le-conseil-constitutionnel-une-grande-partie-de-la-classe-politique-revoltee-937349",
+      "citation": "Les ZFE pénalisent les Français qui travaillent, qui n’ont pas les moyens de changer de voiture. C’est le symbole de l’ écologie punitive et de la folie normative française déconnectée du réel. Si je suis élu en 2027, je les abrogerai.",
+      "date_source": "2026-05-22",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": -1,
+      "resume": "Comme ministre de l'Intérieur (2024), s'est dit très favorable à une évolution des pouvoirs des polices municipales ; position gouvernementale non réaffirmée depuis dans les sources trouvées (un cran de moins).",
+      "source": "https://maire-info.com/bruno-retailleau-tres-favorable-%C3%A0-une-extension-des-pouvoirs-des-policiers-municipaux--article2-28977",
+      "citation": "il s'est dit très favorable à une évolution des pouvoirs des polices municipales, et disposé à aller « très résolument dans ce sens », tout en disant ne pas vouloir aller contre l'avis de l'AMF.",
+      "date_source": "2024-10-07",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_travail": {
+      "valeur": 1,
+      "resume": "En 2023, comme sénateur, s'opposait à la création d'un titre de séjour pour les métiers en tension ; la source ne dit pas qu'il privilégie la formation des demandeurs d'emploi.",
+      "source": "https://www.europe1.fr/politique/le-texte-promu-par-darmanin-ne-veut-pas-reduire-limmigration-estime-bruno-retailleau-4161593",
+      "citation": "En cause, la possibilité de la création d'un titre de séjour pour les métiers en tension. \"Tous les métiers sont en tension\", s'agace-t-il.",
+      "date_source": "2023-01-17",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_asile_externalise": {
+      "valeur": 2,
+      "resume": "Son plan de finances publiques prévoit l'examen des demandes d'asile en dehors des frontières, sous réserve d'une révision constitutionnelle par référendum.",
+      "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "citation": "Sans elle, impossible d’imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives, ou encore de l’examen de l’asile en dehors des frontières.",
+      "date_source": "2026-10-12",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_naturalisation": {
+      "valeur": -1,
+      "resume": "Son projet de réforme constitutionnelle vise à « revenir à l'assimilation » pour mettre fin aux naturalisations automatiques ; la source ne précise ni durée de résidence ni niveau de langue (il avait durci ces critères par circulaire comme ministre en 2025).",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+      "citation": "abolir le droit du sol et revenir à l’assimilation pour qu’il n’y ait plus de naturalisations automatiques",
+      "date_source": "2026-09-03",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": 2,
+      "resume": "En 2024, comme président du groupe LR au Sénat, jugeait « inacceptable » la proposition d'Emmanuel Macron d'ouvrir la dissuasion nucléaire à la défense européenne.",
+      "source": "https://www.publicsenat.fr/actualites/politique/partage-de-la-dissuasion-nucleaire-une-nouvelle-fois-le-president-macron-improvise-au-detriment-de-notre-credibilite",
+      "citation": "Bruno Retailleau, chef de file des sénateurs LR, considère que la proposition du chef de l’Etat est « inacceptable ».",
+      "date_source": "2024-04-29",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": -2,
+      "resume": "Son plan de finances publiques prévoit l'introduction d'une part de capitalisation dans le système de retraite, aux côtés d'une réforme paramétrique.",
+      "source": "https://www.publicsenat.fr/actualites/economie/presidentielle-2027-bruno-retailleau-sengage-sur-un-plan-deconomies-de-pres-de-200-milliards-deuros-sil-est-elu",
+      "citation": "Le reste provient de l’introduction d’une part de capitalisation, du placement des réserves sur des fonds d’investissement, de la convergence sur l’Agirc-Arrco […] ou encore de l’extinction des derniers régimes spéciaux.",
+      "date_source": "2026-10-12",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": 2,
+      "resume": "Promet de supprimer l'encadrement des loyers, estimant qu'on ne fait pas baisser les loyers en fixant leur montant.",
+      "source": "https://www.europe1.fr/immobilier/exclu-europe-1-immobilier-bruno-retailleau-veut-renverser-la-table-en-2027-939395",
+      "citation": "\"on ne fait pas baisser les loyers en décrétant leur montant\" martèle Bruno Retailleau, qui promet de mettre fin à ce système qui décourage et asphyxie les particuliers investisseurs",
+      "date_source": "2026-05-28",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": 0,
+      "resume": "Son projet éducation prévoit une revalorisation significative des salaires de tous les enseignants et une réforme de la progression de carrière, aujourd'hui fondée surtout sur l'ancienneté ; la source ne détaille pas de part liée au mérite.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
+      "citation": "Le candidat entend revaloriser significativement les salaires des enseignants […] Le programme de Bruno Retailleau souhaite ainsi réformer en profondeur les règles d’affectation et de progression de carrière, aujourd’hui largement fondées sur l’ancienneté et les barèmes.",
+      "date_source": "2026-08-31",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ins_cumul": {
+      "valeur": -1,
+      "resume": "En 2021, comme président du groupe LR au Sénat, a cosigné la proposition de loi permettant aux parlementaires d'être maires ou adjoints dans les communes de moins de 10 000 habitants (rétablissement partiel du cumul).",
+      "source": "https://www.echodumardi.com/politiqueetterritoire/le-senateur-jean-baptiste-blanc-vote-contre-le-cumul-des-mandats/",
+      "citation": "permettre aux députés et sénateurs d’être maires ou adjoints d’une commune de moins de 10.000 habitants […] cette proposition de loi est par ailleurs cosignée par le président des sénateurs LR, Bruno Retailleau.",
+      "date_source": "2021-10-14",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,

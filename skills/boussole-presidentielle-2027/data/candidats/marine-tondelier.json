@@ -7,7 +7,7 @@
   "programme": "disponible",
   "programme_url": "https://lesecologistes.fr/share/page/6ImK65GKUnvibm33WGkjkj/projet",
   "mis_a_jour": "2026-10-21",
-  "notes": "Déclarée en octobre 2025, désignée par les adhérents des Écologistes le 8 décembre 2025 (86 %) pour la primaire unitaire de la gauche, finalement abandonnée. Le conseil fédéral du 21 septembre 2026 la maintient candidate, mais les adhérents voteront du 10 au 13 décembre 2026 entre sa candidature et un ralliement à un autre candidat de gauche (Public Sénat). Positions tirées du programme des Écologistes « Pour une prospérité écologique » (juillet 2026, 557 mesures), qu'elle porte.",
+  "notes": "Déclarée le 22 octobre 2025, désignée par les adhérents des Écologistes le 8 décembre 2025 (86 %) pour la primaire unitaire de la gauche, finalement abandonnée. Le conseil fédéral du 21 septembre 2026 la maintient candidate (motion adoptée à 69,44 %), mais les adhérents voteront du 10 au 13 décembre 2026 entre sa candidature et un ralliement à un autre candidat de gauche (Public Sénat, LCP). Toujours candidate au 21 octobre 2026. Positions tirées du programme des Écologistes « Pour une prospérité écologique » (juillet 2026, 557 mesures), qu'elle porte. Le programme ne chiffre pas l'effort de défense en part du PIB et ne se prononce pas sur le nombre de parlementaires : ces deux enjeux restent inconnus.",
   "positions": {
     "eco_retraite": {
       "valeur": -2,
@@ -81,6 +81,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": 2,
+      "resume": "Le programme veut « maintenir l'objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs ».",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Maintenir l’objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_aerien": {
+      "valeur": -2,
+      "resume": "Le programme veut « augmenter la fiscalité sur les billets d'avion » (TSBA et TVA) et réduire les taux réduits sur le kérosène des vols intérieurs, ainsi qu'interdire l'atterrissage des jets privés.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Augmenter la fiscalité sur les billets d’avion (Taxe sur les Billets d’Avion ou TSBA et taux de TVA) pour compenser les exonérations fiscales sectorielles.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
     "sec_peines": {
       "valeur": 1,
       "resume": "Le programme ne mentionne pas les peines planchers mais affirme que « la prison doit rester l'exception » et réaffirme la primauté de l'éducatif sur le répressif pour les mineurs.",
@@ -104,6 +122,24 @@
       "resume": "« Légaliser et encadrer la production, la vente et la consommation de cannabis », avec distribution par des structures à but non lucratif.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
       "citation": "Légaliser et encadrer la production, la vente et la consommation de cannabis.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": -2,
+      "resume": "Le programme réaffirme « la primauté de l'éducatif sur le répressif » pour les mineurs délinquants, veut limiter les jugements rapides et abroger la loi Attal de 2025 (qui restreignait l'excuse de minorité pour les 16-18 ans).",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Réaffirmer le principe de la primauté de l’éducatif sur le répressif pour les mineur·es délinquants. […] Abroger la loi Attal de 2025.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_videosurveillance": {
+      "valeur": 2,
+      "resume": "Le programme veut « interdire la reconnaissance faciale », encadrer la vidéosurveillance et en faire évaluer les dispositifs de manière indépendante.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Encadrer la vidéosurveillance et renforcer la présence humaine. Interdire la reconnaissance faciale et évaluer de manière indépendante les dispositifs de vidéosurveillance en lien avec la Défenseure des droits.",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": true
@@ -135,6 +171,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "imm_droitdusol": {
+      "valeur": -2,
+      "resume": "Le programme veut « garantir l'application du droit du sol pour les enfants nés en France indépendamment de la situation des parents » et supprimer le régime dérogatoire de Mayotte.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Garantir l’application du droit du sol pour les enfants nés en France indépendamment de la situation des parents. Supprimer le régime dérogatoire à Mayotte.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Le programme veut garantir aux personnes exilées l'accès à l'AME et à la PUMa et supprimer les délais de carence, et abroger les lois asile et immigration du mandat d'Emmanuel Macron.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Garantir les droits fondamentaux des personnes exilées : scolarisation de tous les enfants, accès à l’AME et PUMA, suppression des délais de carence",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
     "eur_integration": {
       "valeur": -2,
       "resume": "Prône un « saut fédéral européen » : remplacer les veto nationaux par la majorité qualifiée (y compris en politique étrangère) et construire une défense européenne autonome.",
@@ -161,6 +215,24 @@
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": true
+    },
+    "eur_otan": {
+      "valeur": -1,
+      "resume": "Le programme estime que « nous ne pouvons pas nous priver de l'Alliance atlantique à court terme » et veut bâtir un commandement militaire intégré européen tenant compte du pilier européen de l'OTAN ; il ne propose pas de quitter le commandement intégré de l'OTAN.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Nous ne pouvons pas nous priver de l’Alliance atlantique à court terme, mais elle n’est plus acquise dans sa forme historique.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Le programme prévoit une nouvelle loi de programmation militaire « prenant en compte nos moyens budgétaires » sans fixer d'objectif en % du PIB ; aucune déclaration trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "soc_medecins": {
       "valeur": -2,
@@ -189,123 +261,6 @@
       "confiance": "programme",
       "relu": true
     },
-    "edu_prive": {
-      "valeur": 2,
-      "resume": "« Diminuer et conditionner les subventions à l'enseignement privé ».",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Mieux maîtriser les dépenses publiques inutiles et fossiles. Diminuer et conditionner les subventions à l’enseignement privé.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "edu_autorite": {
-      "valeur": 2,
-      "resume": "Veut abroger le « choc des savoirs » (groupes de niveau en sixième et cinquième) et diminuer le nombre d'élèves par classe (19 en 2032 en primaire, 12 en éducation prioritaire), avec des temps de soutien scolaire ; pas de mesure sur l'uniforme ou les sanctions.",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "La diminution des effectifs démographiques est l’occasion de diminuer radicalement le nombre d’élèves par classe. […] Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "ins_proportionnelle": {
-      "valeur": -2,
-      "resume": "« Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives », sur base de circonscriptions régionales.",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives […]",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "ins_ric": {
-      "valeur": -2,
-      "resume": "Mettre en œuvre le « Référendum d'Initiative Citoyenne (RIC) propositionnel ou abrogatif » sous contrôle de constitutionnalité préalable.",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Renforcer la démocratie directe par la mise en œuvre du Référendum d’Initiative Citoyenne (RIC) propositionnel ou abrogatif – sous condition d’un contrôle de constitutionnalité préalable.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "ins_6e": {
-      "valeur": 2,
-      "resume": "Propose de « passer à la Première République écologique et citoyenne » : septennat unique, abrogation de l'article 16, président recentré sur un rôle de garant.",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Etablir un septennat unique. Abroger les pouvoirs conférés par l’actuel article 16 et les pouvoirs de nomination de l’article 13 (à confier au Gouvernement).",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "ecol_thermique2035": {
-      "valeur": 2,
-      "resume": "Le programme veut « maintenir l'objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs ».",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Maintenir l’objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "ecol_aerien": {
-      "valeur": -2,
-      "resume": "Le programme veut « augmenter la fiscalité sur les billets d'avion » (TSBA et TVA) et réduire les taux réduits sur le kérosène des vols intérieurs, ainsi qu'interdire l'atterrissage des jets privés.",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Augmenter la fiscalité sur les billets d’avion (Taxe sur les Billets d’Avion ou TSBA et taux de TVA) pour compenser les exonérations fiscales sectorielles.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "sec_mineurs": {
-      "valeur": -2,
-      "resume": "Le programme réaffirme « la primauté de l'éducatif sur le répressif » pour les mineurs délinquants, veut limiter les jugements rapides et abroger la loi Attal de 2025 (qui restreignait l'excuse de minorité pour les 16-18 ans).",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Réaffirmer le principe de la primauté de l’éducatif sur le répressif pour les mineur·es délinquants. […] Abroger la loi Attal de 2025.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": 2,
-      "resume": "Le programme veut « interdire la reconnaissance faciale », encadrer la vidéosurveillance et en faire évaluer les dispositifs de manière indépendante.",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Encadrer la vidéosurveillance et renforcer la présence humaine. Interdire la reconnaissance faciale et évaluer de manière indépendante les dispositifs de vidéosurveillance en lien avec la Défenseure des droits.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "imm_droitdusol": {
-      "valeur": -2,
-      "resume": "Le programme veut « garantir l'application du droit du sol pour les enfants nés en France indépendamment de la situation des parents » et supprimer le régime dérogatoire de Mayotte.",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Garantir l’application du droit du sol pour les enfants nés en France indépendamment de la situation des parents. Supprimer le régime dérogatoire à Mayotte.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Le programme des Écologistes ne mentionne pas explicitement la préférence nationale ; aucune déclaration trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": -1,
-      "resume": "Le programme estime que « nous ne pouvons pas nous priver de l'Alliance atlantique à court terme » et veut bâtir un commandement militaire intégré européen tenant compte du pilier européen de l'OTAN ; il ne propose pas de quitter le commandement intégré de l'OTAN.",
-      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Nous ne pouvons pas nous priver de l’Alliance atlantique à court terme, mais elle n’est plus acquise dans sa forme historique.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Le programme prévoit une nouvelle loi de programmation militaire « prenant en compte nos moyens budgétaires » sans fixer d'objectif en % du PIB ; aucune déclaration trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "soc_100secu": {
       "valeur": -1,
       "resume": "Le programme veut « bâtir la Grande Sécu » : prise en charge à 100 % par l'Assurance maladie des « soins essentiels », suppression des franchises et couverture des mutuelles limitée « aux seuls soins optionnels ».",
@@ -320,6 +275,24 @@
       "resume": "Le programme veut abroger les réformes de l'assurance chômage des deux derniers quinquennats, dont celle du calcul de l'allocation, et indexer les allocations sur l'inflation.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
       "citation": "Abroger les réformes régressives adoptées lors des deux derniers quinquennats notamment celle sur le calcul de l’Allocation de Retour à l’Emploi. Indexer le montant des allocations sur l’inflation.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_prive": {
+      "valeur": 2,
+      "resume": "« Diminuer et conditionner les subventions à l'enseignement privé ».",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Mieux maîtriser les dépenses publiques inutiles et fossiles. Diminuer et conditionner les subventions à l’enseignement privé.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_autorite": {
+      "valeur": 2,
+      "resume": "Veut abroger le « choc des savoirs » (groupes de niveau en sixième et cinquième) et diminuer le nombre d'élèves par classe (19 en 2032 en primaire, 12 en éducation prioritaire), avec des temps de soutien scolaire ; pas de mesure sur l'uniforme ou les sanctions.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "La diminution des effectifs démographiques est l’occasion de diminuer radicalement le nombre d’élèves par classe. […] Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": true
@@ -351,6 +324,33 @@
       "confiance": "programme",
       "relu": true
     },
+    "ins_proportionnelle": {
+      "valeur": -2,
+      "resume": "« Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives », sur base de circonscriptions régionales.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives […]",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ins_ric": {
+      "valeur": -2,
+      "resume": "Mettre en œuvre le « Référendum d'Initiative Citoyenne (RIC) propositionnel ou abrogatif » sous contrôle de constitutionnalité préalable.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Renforcer la démocratie directe par la mise en œuvre du Référendum d’Initiative Citoyenne (RIC) propositionnel ou abrogatif – sous condition d’un contrôle de constitutionnalité préalable.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ins_6e": {
+      "valeur": 2,
+      "resume": "Propose de « passer à la Première République écologique et citoyenne » : septennat unique, abrogation de l'article 16, président recentré sur un rôle de garant.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Etablir un septennat unique. Abroger les pouvoirs conférés par l’actuel article 16 et les pouvoirs de nomination de l’article 13 (à confier au Gouvernement).",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Le programme veut « démocratiser le Sénat » sur une base régionale mais ne se prononce pas sur le nombre de parlementaires ; aucune déclaration trouvée.",
@@ -368,6 +368,204 @@
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": true
+    },
+    "eco_libre_echange": {
+      "valeur": 2,
+      "resume": "Le programme propose de ne pas ratifier les accords commerciaux européens en attente (CETA, Mercosur…) et d'« améliorer le protectionnisme écologique et social aux frontières de l'Europe ».",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Ne pas ratifier les accords européens en attente qui affectent le climat et la biodiversité notamment les traités avec le Canada (CETA) le Vietnam, Singapour, le Chili, le Mexique, le Mercosur, l’Indonésie et le Japon. […] Améliorer le protectionnisme écologique et social aux frontières de l’Europe.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": 2,
+      "resume": "Le programme propose un barème progressif unique des droits de succession avec deux tranches supplémentaires pour le 1 % et le 0,1 % les plus riches.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Simplifier et rendre progressif la fiscalité sur l’héritage. Mettre en place un barème de taxation progressif unique en ajoutant deux tranches pour les ménages faisant partie du 1 % le plus riche au-delà de 4 millions d’euros et le 0,1 % le plus riche au-delà de 13 millions d’euros.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Le programme propose de renationaliser progressivement les autoroutes pour financer les infrastructures de transport.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Renationaliser progressivement les autoroutes afin d’investir dans les infrastructures de transport (entretien du réseau routier, fluvial et ferroviaire, développement des pistes et voies cyclables…).",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_zan": {
+      "valeur": -2,
+      "resume": "Le programme propose de renforcer la trajectoire « zéro artificialisation nette », avec un plafond d'artificialisation pour 2031-2041 et des sanctions en cas de non-respect.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Renforcer la trajectoire de la Zéro Artificialisation Nette (ZAN) pour préserver les sols […] Intégrer des sanctions en cas de non-respect du ZAN.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_eau_agricole": {
+      "valeur": 2,
+      "resume": "Le programme propose un moratoire sur les méga-bassines, conditionne toute retenue pompée dans les nappes ou rivières à une réduction de la consommation d'eau et veut reconvertir les cultures les plus irriguées.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Décréter un moratoire sur tous les projets de méga-bassines. Conditionner tout projet de retenue artificielle dont l’eau serait pompée dans les nappes phréatiques et dans les rivières et fleuves à une trajectoire de réduction de la consommation d’eau",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_zfe": {
+      "valeur": -1,
+      "resume": "Le programme propose de modifier les conditions des ZFE, de développer des zones à trafic limité et d'aider au changement de véhicule, sans les supprimer.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Améliorer la qualité de l’air en modifiant les conditions des ZFE (Zones à Faibles Émissions). Développer les Zones à Trafic Limité.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_controle_identite": {
+      "valeur": -2,
+      "resume": "Le programme propose d'interdire les contrôles d'identité aléatoires et d'instaurer un récépissé attestant des motifs du contrôle.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Mettre fin au contrôle au faciès en interdisant les contrôles d’identité aléatoires pour les limiter aux situations de fragrance, d’enquête judiciaire ou d’ordre public. Instaurer un récépissé attestant des motifs du contrôle.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_legitime_defense": {
+      "valeur": -2,
+      "resume": "Le programme propose d'abroger les dispositions de la loi Cazeneuve (2017) sur l'ouverture du feu par les policiers pour revenir à la condition d'absolue nécessité.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Abroger les dispositions de la loi Cazeneuve sur l’ouverture du feu pour que cessent les morts pour refus d’obtempérer et que soit respectée la condition d’absolue nécessité.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": -2,
+      "resume": "Le programme veut revenir sur la notion de « pays tiers sûr » et pose que toutes les demandes d'asile déposées en Europe soient examinées en Europe.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Revenir sur la notion de « pays tiers sûr » adoptée en 2026 qui permet de rejeter une demande d’asile sans l’examiner en vertu d’un accord avec un pays hors UE. Toutes les demandes d’asile déposées en Europe doivent faire l’objet d’un examen en Europe.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_naturalisation": {
+      "valeur": 2,
+      "resume": "Le programme propose de faciliter l'obtention de la nationalité française et de garantir le droit du sol, y compris à Mayotte.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Garantir l’application du droit du sol pour les enfants nés en France indépendamment de la situation des parents. Supprimer le régime dérogatoire à Mayotte. Faciliter l’obtention de la nationalité française.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": -1,
+      "resume": "Le programme propose d'« envisager » l'extension de la garantie nucléaire française à d'autres pays européens, en conservant la décision d'emploi à la France.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "envisager l’extension de la garantie de sécurité nucléaire française à d’autres pays européens dans une optique de non-prolifération. […] Conserver la décision d'emploi, sans délégation possible aux Etats partenaires",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_elargissement": {
+      "valeur": -2,
+      "resume": "Le programme propose d'accélérer l'accueil de nouveaux États membres, notamment l'Islande, les Balkans occidentaux, la Moldavie et l'Ukraine.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Accélérer l’accueil de nouveaux Etats membres pour partager notre modèle d’état de droit et écologique avec l’ensemble des peuples qui le souhaitent et renforcer l’unité et la sécurité européenne.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "soc_capitalisation": {
+      "valeur": 2,
+      "resume": "Le programme refuse toute évolution vers une retraite par capitalisation.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Refuser toute forme d’évolution vers une retraite par capitalisation en particulier la retraite à points.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": -2,
+      "resume": "Le programme propose de généraliser et pérenniser l'encadrement des loyers.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Assurer le droit au logement par la généralisation, l’amélioration et la pérennisation de l’encadrement des loyers.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_selection_universite": {
+      "valeur": 1,
+      "resume": "Le programme veut « réhabiliter le droit à des études supérieures » en remplaçant Parcoursup et MonMaster par une plateforme de vœux sans lettre de motivation ni mention du lycée d'origine.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Réhabiliter le droit à des études supérieures en remplaçant ParcourSup et MonMaster par une vraie plateforme d’orientation permettant de hiérarchiser et de sectoriser des vœux sans lettres de motivation ni mention du lycée d’origine.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_remuneration": {
+      "valeur": 1,
+      "resume": "Le programme propose d'augmenter les salaires des enseignants de 15 % en cinq ans, sans évoquer de part liée au mérite.",
+      "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+      "citation": "Réhabiliter les métiers de l’Education nationale en augmentant les salaires des enseignant·es de 15 % en 5 ans.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     }
   }
 }

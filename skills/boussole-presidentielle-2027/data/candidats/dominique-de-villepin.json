@@ -7,7 +7,7 @@
   "programme": "partiel",
   "programme_url": "https://lafrancehumaniste.fr/france2027.html",
   "mis_a_jour": "2026-10-21",
-  "notes": "Fondateur de La France humaniste (juin 2025). A dit le 30 août 2026 vouloir être candidat, mais n'a pas officiellement déclaré sa candidature : mi-septembre 2026, il attendait encore « le moment opportun ». Il recherche les 500 parrainages et refuse une primaire. Pas de programme présidentiel complet : un « Projet France 2027 » avec 20 propositions économiques et des chroniques thématiques sur lafrancehumaniste.fr. Les positions viennent surtout de ces textes signés de sa main. Au 20/10/2026, toujours pas de déclaration officielle : le 30 août 2026 il disait « se battre pour être candidat » et revendiquait « plusieurs centaines » de parrainages, insuffisants. Source : https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
+  "notes": "Fondateur de La France humaniste (juin 2025). A dit le 30 août 2026 sur BFMTV vouloir être candidat (« je le confirmerai quand la campagne électorale aura commencé ») et revendique plusieurs centaines de parrainages, insuffisants ; refuse une primaire. Au 21 octobre 2026, toujours pas de déclaration officielle : le 17 septembre 2026 sur LCI, il disait attendre « le moment opportun ». Pas de programme présidentiel complet : un « Projet France 2027 » (20 propositions économiques) et des chroniques thématiques signées sur lafrancehumaniste.fr.",
   "positions": {
     "eco_retraite": {
       "valeur": 0,
@@ -81,6 +81,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur l'interdiction des voitures thermiques en 2035 ; il juge que la réduction récente des objectifs européens de décarbonation pour 2035 et 2040 est une « fragilisation majeure », sans viser explicitement l'automobile.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la taxation du transport aérien.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": null,
       "resume": "Insiste sur « l'exécution effective des peines » et la lutte contre le narcotrafic, sans position trouvée sur les peines planchers ou un durcissement des peines.",
@@ -108,14 +126,32 @@
       "confiance": null,
       "relu": false
     },
-    "imm_baisse": {
+    "sec_mineurs": {
       "valeur": null,
-      "resume": "Se dit favorable à une immigration « maîtrisée » et conditionne l'accueil à l'acceptation des retours, sans position trouvée sur une forte réduction de l'immigration légale, les quotas ou le regroupement familial.",
+      "resume": "Aucune position trouvée sur le jugement des mineurs comme des majeurs.",
       "source": null,
       "citation": null,
       "date_source": null,
       "confiance": null,
       "relu": false
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la vidéosurveillance algorithmique ou la reconnaissance faciale.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_baisse": {
+      "valeur": 1,
+      "resume": "Dans son discours de la Sorbonne, il présente l'immigration comme un levier de stabilisation démographique au service de la croissance et des retraites, et défend une politique d'immigration « maîtrisée » fondée sur la réciprocité avec les pays d'origine, sans objectif de réduction de l'immigration légale.",
+      "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "citation": "Nous avons la chance – j’assume ce mot- d’être un pays attractif dans le monde. L’enjeu d’une politique d’immigration, c’est notre stabilisation démographique, au service de notre croissance, de nos retraites et de notre avenir.",
+      "date_source": "2026-03-27",
+      "confiance": "declaration",
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,
@@ -132,6 +168,24 @@
       "source": "https://www.20minutes.fr/politique/4246387-20260918-presidentielle-2027-regularisation-massive-globale-dit-villepin-immigration",
       "citation": "« Pas de régularisation massive et globale », affirme Dominique de Villepin",
       "date_source": "2026-09-18",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_droitdusol": {
+      "valeur": -2,
+      "resume": "Il critique la proposition d'Édouard Philippe de revoir le droit du sol et le droit d'asile à Mayotte, y voyant des « entorses à notre régime républicain » (opposition à une restriction limitée à Mayotte, codée -2 selon la règle des restrictions partielles).",
+      "source": "https://www.journaldunet.com/business/action-publique/1554173-dominique-de-villepin-veut-etre-candidat-a-la-presidentielle-2027-et-accuse-edouard-philippe-de-faire-le-jeu-de-marine-le-pen-sur-l-immigration-a-mayotte/",
+      "citation": "\"Quand je vois Edouard Philippe, membre d'un parti républicain, dire à Mayotte qu'il faut revoir le droit du sol et revoir le droit d'asile... On est en France, à Mayotte. […] Tous ceux qui veulent jouer à coups d'exceptions, non seulement font des entorses à notre régime républicain",
+      "date_source": "2026-08-30",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Estime qu'une préférence nationale, « contraire aujourd'hui à notre Constitution », bouleverserait l'égalité devant la loi et les droits fondamentaux.",
+      "source": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+      "citation": "on demande au peuple de placer au-dessus des garanties constitutionnelles ordinaires une préférence nationale qui bouleverserait l’égalité devant la loi, les droits fondamentaux et nos engagements européens et internationaux.",
+      "date_source": "2026-05-24",
       "confiance": "declaration",
       "relu": true
     },
@@ -162,6 +216,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "eur_otan": {
+      "valeur": 0,
+      "resume": "Veut une sécurité européenne « dans l'OTAN, mais viable sans l'OTAN » et juge l'Alliance nécessaire à court terme ; opposé en 2009 au retour dans le commandement intégré, il ne propose pas d'en sortir dans les textes trouvés.",
+      "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "citation": "Il faut produire un projet de sécurité dans l’OTAN, mais viable sans l’OTAN.",
+      "date_source": "2026-03-06",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Estime qu'« avant de chiffrer les crédits, une revue stratégique devra définir nos besoins » ; pas d'objectif en pourcentage du PIB.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "soc_medecins": {
       "valeur": -1,
       "resume": "Prend acte de la loi soumettant l'installation des médecins à une autorisation de l'ARS en mettant en garde contre la bureaucratie, et propose d'aller plus loin (bourses conditionnées à un exercice dans les territoires en crise).",
@@ -189,6 +261,24 @@
       "confiance": null,
       "relu": false
     },
+    "soc_100secu": {
+      "valeur": 1,
+      "resume": "Il juge une « Grande Sécurité sociale » envisageable mais préfère clarifier les rôles : soins essentiels pris en charge par l'assurance maladie, liberté d'offre laissée aux complémentaires, avec un bouclier sanitaire plafonnant le reste à charge.",
+      "source": "https://lafrancehumaniste.fr/articles/protection-sociale.html",
+      "citation": "Créer une « Grande Sécurité sociale » est une option envisageable. Mais clarifier les rôles est sans doute plus pertinent : à l’assurance maladie, la prise en charge simple et automatique des soins essentiels […] ; aux complémentaires, non pas un périmètre figé, mais la pleine liberté d’innover",
+      "date_source": "2025-12-04",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "soc_chomage": {
+      "valeur": -1,
+      "resume": "Il demande d'abandonner le projet de réforme de l'assurance chômage de fin 2025 et propose de fusionner les allocations chômage avec les crédits de formation en un « revenu de transition » versé pendant deux ans.",
+      "source": "https://lafrancehumaniste.fr/articles/un-nouveau-monde-du-travail.html",
+      "citation": "Il est nécessaire d’abandonner le projet actuel de réforme de l’assurance-chômage qui vient à contre-temps et de reprendre la concertation.",
+      "date_source": "2025-12-08",
+      "confiance": "declaration",
+      "relu": true
+    },
     "edu_prive": {
       "valeur": 1,
       "resume": "Estime que le privé « largement financé sur fonds publics » doit prendre sa part de la mixité sociale et propose de moduler l'aide publique selon le profil social des élèves accueillis.",
@@ -206,123 +296,6 @@
       "date_source": "2026-09-01",
       "confiance": "declaration",
       "relu": true
-    },
-    "ins_proportionnelle": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur l'élection des députés à la proportionnelle.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_ric": {
-      "valeur": -1,
-      "resume": "Propose un « référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux », préparé par une convention citoyenne permanente.",
-      "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
-      "citation": "Nous avons besoin pour débloquer le pays d'un référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux, préparé par une convention citoyenne permanente.",
-      "date_source": "2026-03-27",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "ins_6e": {
-      "valeur": -1,
-      "resume": "Défend la Ve République et les pouvoirs du président en temps de crise, tout en proposant de renforcer le Parlement (vote de confiance systématique, motion de défiance constructive).",
-      "source": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
-      "citation": "L’une de ces réformes devrait être le caractère systématique du vote de confiance de l’Assemblée, mais également l’encadrement de la censure du gouvernement par une motion de défiance constructive",
-      "date_source": "2026-05-24",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur l'interdiction des voitures thermiques en 2035 ; il juge que la réduction récente des objectifs européens de décarbonation pour 2035 et 2040 est une « fragilisation majeure », sans viser explicitement l'automobile.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur la taxation du transport aérien.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur le jugement des mineurs comme des majeurs.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur la vidéosurveillance algorithmique ou la reconnaissance faciale.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur le droit du sol.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": -2,
-      "resume": "Estime qu'une préférence nationale, « contraire aujourd'hui à notre Constitution », bouleverserait l'égalité devant la loi et les droits fondamentaux.",
-      "source": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
-      "citation": "on demande au peuple de placer au-dessus des garanties constitutionnelles ordinaires une préférence nationale qui bouleverserait l’égalité devant la loi, les droits fondamentaux et nos engagements européens et internationaux.",
-      "date_source": "2026-05-24",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "eur_otan": {
-      "valeur": 0,
-      "resume": "Veut une sécurité européenne « dans l'OTAN, mais viable sans l'OTAN » et juge l'Alliance nécessaire à court terme ; opposé en 2009 au retour dans le commandement intégré, il ne propose pas d'en sortir dans les textes trouvés.",
-      "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
-      "citation": "Il faut produire un projet de sécurité dans l’OTAN, mais viable sans l’OTAN.",
-      "date_source": "2026-03-06",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Estime qu'« avant de chiffrer les crédits, une revue stratégique devra définir nos besoins » ; pas d'objectif en pourcentage du PIB.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_100secu": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur un remboursement à 100 % ou le rôle des complémentaires santé.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_chomage": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur l'indemnisation chômage.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
     },
     "edu_signes": {
       "valeur": null,
@@ -351,6 +324,33 @@
       "confiance": null,
       "relu": false
     },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur l'élection des députés à la proportionnelle.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_ric": {
+      "valeur": -1,
+      "resume": "Propose un « référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux », préparé par une convention citoyenne permanente.",
+      "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "citation": "Nous avons besoin pour débloquer le pays d'un référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux, préparé par une convention citoyenne permanente.",
+      "date_source": "2026-03-27",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Défend la Ve République et les pouvoirs du président en temps de crise, tout en proposant de renforcer le Parlement (vote de confiance systématique, motion de défiance constructive).",
+      "source": "https://lafrancehumaniste.fr/articles/chemin-gaulliste.html",
+      "citation": "L’une de ces réformes devrait être le caractère systématique du vote de confiance de l’Assemblée, mais également l’encadrement de la censure du gouvernement par une motion de défiance constructive",
+      "date_source": "2026-05-24",
+      "confiance": "declaration",
+      "relu": true
+    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le nombre de parlementaires.",
@@ -363,6 +363,204 @@
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la reconnaissance du vote blanc.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Estime que les accords de type Mercosur « ne font plus le poids » et demande de protéger la production européenne par une taxe carbone aux frontières étendue, sans proposer de hausse générale des droits de douane.",
+      "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "citation": "les modèles d’accords comme celui du Mercosur ne font plus le poids dans la nouvelle géoéconomie. Cela impose de protéger le modèle de production européen respectueux des consommateurs et de l’environnement grâce à la taxe carbone aux frontières (MACF), qui doit être étendue et améliorée",
+      "date_source": "2026-03-06",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": 1,
+      "resume": "Propose une imposition « renforcée » des successions, en contrepartie d'une défiscalisation des transmissions de son vivant (aucun droit sous 1 M€, droits progressifs au-delà).",
+      "source": "https://lafrancehumaniste.fr/articles/big-bang-la-regle-republicaine.html",
+      "citation": "un impôt unique sur le patrimoine, incluant l’ensemble des sources de la fortune, et une imposition unique renforcée des successions, en contrepartie d’une défiscalisation intégrale des transmissions de son vivant",
+      "date_source": "2026-08-28",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eco_nationalisation": {
+      "valeur": -1,
+      "resume": "Son projet économique prévoit le retour des autoroutes en régie publique à l'échéance des concessions ; il ne propose pas d'autres reprises d'entreprises sous contrôle public.",
+      "source": "https://lafrancehumaniste.fr/programme/economie.html",
+      "citation": "Retour des autoroutes en régie publique à l’échéance des concessions.",
+      "date_source": "2026",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_zan": {
+      "valeur": -2,
+      "resume": "Juge que l'objectif « zéro artificialisation nette » fixe « avec raison » un horizon ambitieux et propose d'investir dans la réhabilitation de l'existant pour l'atteindre.",
+      "source": "https://lafrancehumaniste.fr/articles/la-grande-adaptation-du-territoire.html",
+      "citation": "Le plan Zéro artificialisation nette (ZAN) adopté par le Parlement fixe avec raison un horizon ambitieux : celui de cesser, d’ici 2050, de consommer, de « mordre » sur le sol agricole et naturel.",
+      "date_source": "2025-08-21",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ecol_eau_agricole": {
+      "valeur": 1,
+      "resume": "Refuse que les projets de stockage d'eau soient présumés d'intérêt général et les conditionne à l'absence d'alternative, sans se prononcer sur une baisse des prélèvements agricoles.",
+      "source": "https://lafrancehumaniste.fr/articles/la-grande-adaptation-du-territoire.html",
+      "citation": "Les projets de stockage ne sauraient être présumés d’intérêt général : ils doivent démontrer nécessité, proportion et absence d’alternative au niveau du bassin versant.",
+      "date_source": "2025-08-21",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": -2,
+      "resume": "Défend les récépissés de contrôle d'identité comme « un outil de confiance » contre les contrôles au faciès.",
+      "source": "https://lafrancehumaniste.fr/articles/recoudre-la-france.html",
+      "citation": "lutter contre la « douane intérieure » des contrôles au faciès. Les récépissés ne sont pas un totem administratif, mais un outil de confiance.",
+      "date_source": "2025-11-28",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": -1,
+      "resume": "Présente l'immigration comme un levier de stabilisation démographique au service de la croissance et des retraites, sans opposer cet apport à la formation des demandeurs d'emploi.",
+      "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
+      "citation": "L’enjeu d’une politique d’immigration, c’est notre stabilisation démographique, au service de notre croissance, de nos retraites et de notre avenir.",
+      "date_source": "2026-03-27",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": -1,
+      "resume": "Propose de travailler, à travers la dissuasion nucléaire française, à une meilleure prise en compte des intérêts de sécurité européens, en clarifiant les conditions de son extension, hors du cadre de l'OTAN.",
+      "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "citation": "Il faut enfin travailler, à travers notre dissuasion nucléaire, à une meilleure prise en compte des intérêts de sécurité européens avec définition d’une nouvelle doctrine stratégique dans le cadre du Conseil de sécurité européen.",
+      "date_source": "2026-03-06",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_elargissement": {
+      "valeur": 1,
+      "resume": "Propose une pause sur les élargissements au-delà des engagements pris et des procédures en cours, avec une voie spécifique (procédure accélérée ou association renforcée) pour l'Ukraine.",
+      "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
+      "citation": "Pause sur les élargissements au-delà des engagements pris et des procédures en cours, indépendamment de leur issue, en réservant le cas ukrainien",
+      "date_source": "2026-03-06",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "soc_capitalisation": {
+      "valeur": -2,
+      "resume": "Propose d'abonder un fonds souverain par un volet d'épargne retraite obligatoire, versée sous forme de rente à rendement garanti.",
+      "source": "https://lafrancehumaniste.fr/articles/la-grande-transformation-du-monde.html",
+      "citation": "Ce fonds, réunissant les participations de l’Etat et le Fonds de réserve pour les retraites se verrait abondé par un volet d’épargne retraite obligatoire, servie au départ à la retraite sous forme de rente à rendement garanti",
+      "date_source": "2025-12-26",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "soc_allocations_familiales": {
+      "valeur": 1,
+      "resume": "Estime que la politique familiale est affaiblie par le plafonnement des allocations et la baisse du quotient familial, sans proposer explicitement de revenir à des allocations universelles.",
+      "source": "https://lafrancehumaniste.fr/articles/la-rupture-du-pacte-social.html",
+      "citation": "La politique familiale est affaiblie par le plafonnement des allocations, la baisse du quotient familial, l’absence d’un véritable soutien aux familles nombreuses.",
+      "date_source": "2025-12-02",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "soc_loyers": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,

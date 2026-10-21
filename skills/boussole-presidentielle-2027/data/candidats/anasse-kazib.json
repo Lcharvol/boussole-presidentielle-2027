@@ -7,7 +7,7 @@
   "programme": "partiel",
   "programme_url": "https://anasse2027.fr/programme",
   "mis_a_jour": "2026-10-21",
-  "notes": "Candidature annoncée le 1er-2 juin 2026 (Franceinfo, Libération). En 2022, il n'avait pas obtenu les 500 parrainages ; la collecte 2027 est en cours, ce qui rend sa présence au premier tour incertaine. Le programme 2027 est « en cours d'élaboration » : seul un 4 pages de premières mesures (6 axes) est publié sur anasse2027.fr (non daté ; date indiquée 2026-06 = mois du lancement de campagne, approximative) ; certaines positions sont déduites du programme de pré-campagne 2022 republié sur le même site.",
+  "notes": "Candidature annoncée le 1er-2 juin 2026 (Franceinfo, Libération) pour Révolution permanente. En 2022, il n'avait pas obtenu les 500 parrainages ; au 21 octobre 2026, la collecte est toujours en cours (appel aux parrainages sur anasse2027.fr), ce qui rend sa présence au premier tour incertaine. Le programme 2027 est « en cours d'élaboration » : seul un 4 pages de premières mesures (6 axes) est publié sur anasse2027.fr (non daté ; date indiquée 2026-06 = mois du lancement de campagne, approximative) ; certaines positions sont déduites du programme de pré-campagne 2022 republié sur le même site ou d'articles du journal Révolution permanente.",
   "positions": {
     "eco_retraite": {
       "valeur": -2,
@@ -81,6 +81,24 @@
       "confiance": "deduite",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": 2,
       "resume": "Position déduite du programme de 2022, qui critique le durcissement de la réponse pénale comme renforcement du système répressif ; les mesures 2027 demandent par ailleurs l'« abrogation de toutes les lois sécuritaires ».",
@@ -104,6 +122,24 @@
       "resume": "Déduit du programme 2022 : légaliser sous contrôle de l'État, avec suivi médical, l'ensemble des substances stupéfiantes, à commencer par le cannabis.",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
       "citation": "il faut légaliser, sous contrôle de l’État et avec un suivi médical, lorsque cela l’exige, l’ensemble des substances stupéfiantes et addictives, à commencer par le cannabis […]",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_videosurveillance": {
+      "valeur": 2,
+      "resume": "Position déduite du programme de pré-campagne 2022, qui exige le retrait des lois « sécurité globale » et de responsabilité pénale et range la reconnaissance faciale et les drones parmi les outils renforçant la répression.",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "nous exigeons le retrait total des lois « sécurité globale » et de responsabilité pénale qui cèdent à des revendications historiques des « syndicats » de police : reconnaissance faciale, drones, création de délits spécifiques concernant la police.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": true
@@ -135,6 +171,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Position déduite du programme de 2022 : dénonce comme « première forme de préférence nationale » la condition de nationalité pour l'emploi public et la surenchère de la droite et de l'extrême droite sur ce thème.",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "dans le service public, on ne peut devenir fonctionnaire qu’en étant de nationalité française ou ressortissant d’un autre État européen, ce qui établit la première forme de préférence nationale à l’embauche.",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
     "eur_integration": {
       "valeur": 1,
       "resume": "Déduit du programme 2022 (« Ni Frexit ni Europe du Capital ») : rejet de l'Union européenne actuelle au profit d'« États-Unis socialistes d'Europe » ; les mesures 2027 refusent tout budget militaire (« pas un euro pour la guerre »).",
@@ -156,6 +210,24 @@
     "eur_ukraine": {
       "valeur": 2,
       "resume": "Les premières mesures 2027 réclament « pas un euro pour la guerre » et le démantèlement de l'industrie d'armement française.",
+      "source": "https://anasse2027.fr/programme",
+      "citation": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_defense3": {
+      "valeur": 2,
+      "resume": "Le 4 pages de campagne 2027 réclame « pas un euro pour la guerre » et le démantèlement de la machine de guerre française.",
       "source": "https://anasse2027.fr/programme",
       "citation": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
       "date_source": "2026-06",
@@ -189,6 +261,24 @@
       "confiance": "deduite",
       "relu": true
     },
+    "soc_100secu": {
+      "valeur": -2,
+      "resume": "Position déduite du programme de 2022 : nationalisation de toutes les mutuelles et intégration à la Sécurité sociale, avec un remboursement intégral des soins.",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "sur la base de la nationalisation de toutes les mutuelles et leur intégration à la Sécu, gérée par les professionnels du secteur et les usagers, garantissant un remboursement intégral des soins pour tous celles et ceux qui résident sur le territoire.",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Le 4 pages de campagne 2027 réclame la revalorisation de toutes les allocations ; le programme de 2022 s'opposait « radicalement à toute réduction des prestations allouées aux chômeurs ».",
+      "source": "https://anasse2027.fr/programme",
+      "citation": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
+    },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
@@ -206,6 +296,33 @@
       "date_source": "2023-09-04",
       "confiance": "deduite",
       "relu": true
+    },
+    "edu_signes": {
+      "valeur": -2,
+      "resume": "Les premières mesures 2027 demandent l'abrogation des lois qualifiées de « sécuritaires, racistes et islamophobes », à commencer par la loi de 2004 sur les signes religieux à l'école ; le programme 2022 dénonçait déjà les dispositions empêchant les mères voilées d'accompagner les sorties scolaires.",
+      "source": "https://anasse2027.fr/programme",
+      "citation": "Abrogation de toutes les lois sécuritaires, racistes et islamophobes, à commencer par la loi de 2004.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_etudiants": {
+      "valeur": -2,
+      "resume": "Le 4 pages de campagne 2027 réclame un « revenu étudiant à hauteur du SMIC, financé par le patronat ».",
+      "source": "https://anasse2027.fr/programme",
+      "citation": "Revenu étudiant à hauteur du SMIC, financé par le patronat.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
@@ -234,135 +351,216 @@
       "confiance": "programme",
       "relu": true
     },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": -2,
-      "resume": "Position déduite du programme de 2022 : dénonce comme « première forme de préférence nationale » la condition de nationalité pour l'emploi public et la surenchère de la droite et de l'extrême droite sur ce thème.",
-      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
-      "citation": "dans le service public, on ne peut devenir fonctionnaire qu’en étant de nationalité française ou ressortissant d’un autre État européen, ce qui établit la première forme de préférence nationale à l’embauche.",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "eur_otan": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_defense3": {
-      "valeur": 2,
-      "resume": "Le 4 pages de campagne 2027 réclame « pas un euro pour la guerre » et le démantèlement de la machine de guerre française.",
-      "source": "https://anasse2027.fr/programme",
-      "citation": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
-      "date_source": "2026-06",
-      "confiance": "programme",
-      "relu": true
-    },
-    "soc_100secu": {
-      "valeur": -2,
-      "resume": "Position déduite du programme de 2022 : nationalisation de toutes les mutuelles et intégration à la Sécurité sociale, avec un remboursement intégral des soins.",
-      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
-      "citation": "sur la base de la nationalisation de toutes les mutuelles et leur intégration à la Sécu, gérée par les professionnels du secteur et les usagers, garantissant un remboursement intégral des soins pour tous celles et ceux qui résident sur le territoire.",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "soc_chomage": {
-      "valeur": -2,
-      "resume": "Le 4 pages de campagne 2027 réclame la revalorisation de toutes les allocations ; le programme de 2022 s'opposait « radicalement à toute réduction des prestations allouées aux chômeurs ».",
-      "source": "https://anasse2027.fr/programme",
-      "citation": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
-      "date_source": "2026-06",
-      "confiance": "programme",
-      "relu": true
-    },
-    "edu_signes": {
-      "valeur": -2,
-      "resume": "Position déduite du programme de 2022, qui dénonce les dispositions empêchant les mères voilées d'accompagner les sorties scolaires ; le 4 pages 2027 demande l'abrogation de la loi de 2004 sur les signes religieux à l'école.",
-      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
-      "citation": "De la loi sur l’interdiction du voile dans les collèges et lycées aux dispositions qui empêchent aux mamans voilées d’accompagner les enfants dans les sorties scolaires, le gouvernement n’a de cesse d’utiliser la question de l’émancipation des femmes […] à des fins racistes.",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "edu_etudiants": {
-      "valeur": -2,
-      "resume": "Le 4 pages de campagne 2027 réclame un « revenu étudiant à hauteur du SMIC, financé par le patronat ».",
-      "source": "https://anasse2027.fr/programme",
-      "citation": "Revenu étudiant à hauteur du SMIC, financé par le patronat.",
-      "date_source": "2026-06",
-      "confiance": "programme",
-      "relu": true
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": -1,
+      "resume": "Les premières mesures 2027 demandent la suppression du Sénat (avec la fin de la Ve République et de la « figure présidentielle »), ce qui réduirait le nombre de parlementaires ; le programme 2022 proposait une assemblée unique, sans se prononcer sur son effectif.",
+      "source": "https://anasse2027.fr/programme",
+      "citation": "Fin de la Ve République, du Sénat et de la figure présidentielle.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
     },
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Les premières mesures 2027 prévoient l'expropriation des secteurs stratégiques (énergie, transports, banques, santé) et leur placement sous contrôle des travailleurs.",
+      "source": "https://anasse2027.fr/programme",
+      "citation": "Expropriation des secteurs stratégiques (énergie, transports, banques, santé, …) et placement sous contrôle des travailleur·ses.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": -2,
+      "resume": "Position déduite de la ligne du journal Révolution Permanente (article non signé par le candidat), qui appelle à refuser la proposition de loi instaurant une présomption de légitime défense pour les policiers.",
+      "source": "https://www.revolutionpermanente.fr/Presomption-de-legitime-defense-pour-la-police-le-nouveau-permis-de-tuer-de-retour-a-l-Assemblee",
+      "citation": "En présumant d’emblée la légalité du tir, le gouvernement organise les conditions d’une impunité encore plus grande.",
+      "date_source": "2026-07-02",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": -1,
+      "resume": "Les premières mesures 2027 demandent la régularisation de tous les sans-papiers et la liberté de circulation et d'installation, sans mentionner explicitement l'examen des demandes d'asile.",
+      "source": "https://anasse2027.fr/programme",
+      "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": 2,
+      "resume": "Position déduite de la ligne du journal Révolution Permanente (article non signé par le candidat), qui oppose la retraite par capitalisation au système par répartition de la Sécurité sociale.",
+      "source": "https://www.revolutionpermanente.fr/Retraite-par-capitalisation-au-conclave-droite-et-patronat-repartent-a-l-offensive-contre-les",
+      "citation": "L’arnaque de la retraite par capitalisation consiste par ailleurs à faire croire qu’elle ne couterait rien",
+      "date_source": "2025-02-17",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": -2,
+      "resume": "Les premières mesures 2027 prévoient le plafonnement et le gel des loyers ainsi que l'expropriation des logements vides.",
+      "source": "https://anasse2027.fr/programme",
+      "citation": "Expropriation des logements vides, plafonnement et gel des loyers.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_selection_universite": {
+      "valeur": 2,
+      "resume": "Position déduite du programme de pré-campagne 2022 : abrogation de toutes les réformes de sélection à l'université et université « ouverte à toutes et tous ».",
+      "source": "https://anasse2027.fr/programme/programme-2022.pdf",
+      "citation": "Nous revendiquons l’abrogation de toutes les réformes de sélection à l’université et une augmentation des moyens de l’éducation et de l’enseignement supérieur",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,

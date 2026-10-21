@@ -925,6 +925,470 @@
           "validee": true
         }
       ]
+    },
+    {
+      "id": "eco_libre_echange",
+      "theme": "economie",
+      "pole_a": "Conclure de nouveaux accords de libre-échange",
+      "pole_b": "Relever les protections commerciales de l'Europe",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eco_libre_echange.1",
+          "question": "Commerce international, que privilégier ?",
+          "a": "Signer de nouveaux accords de libre-échange",
+          "b": "Augmenter les droits de douane européens",
+          "validee": true
+        },
+        {
+          "id": "eco_libre_echange.2",
+          "question": "Pour l'emploi et les prix, quelle politique commerciale ?",
+          "a": "Ouvrir davantage les échanges avec le reste du monde",
+          "b": "Protéger davantage les productions européennes",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "eco_succession",
+      "theme": "economie",
+      "pole_a": "Alléger les droits de succession",
+      "pole_b": "Taxer davantage les gros héritages",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eco_succession.1",
+          "question": "Droits de succession :",
+          "a": "Les baisser, y compris pour les gros héritages",
+          "b": "Les augmenter pour les gros héritages",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "eco_nationalisation",
+      "theme": "economie",
+      "pole_a": "Reprendre sous contrôle public certaines entreprises",
+      "pole_b": "Laisser ces activités au secteur privé",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eco_nationalisation.1",
+          "question": "Autoroutes, énergie : qui doit les gérer ?",
+          "a": "L'État, en reprenant le contrôle des entreprises concernées",
+          "b": "Des entreprises privées, sous contrat avec l'État",
+          "validee": true
+        },
+        {
+          "id": "eco_nationalisation.2",
+          "question": "Concessions d'autoroutes arrivant à échéance :",
+          "a": "Les confier à une gestion publique",
+          "b": "Les remettre en concurrence entre entreprises privées",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "ecol_zan",
+      "theme": "ecologie",
+      "pole_a": "Tenir l'objectif « zéro artificialisation nette »",
+      "pole_b": "Assouplir cet objectif pour construire davantage",
+      "contexte": "La loi fixe un objectif de « zéro artificialisation nette » des sols en 2050 : toute nouvelle surface bâtie devra alors être compensée.",
+      "variantes": [
+        {
+          "id": "ecol_zan.1",
+          "question": "Objectif « zéro artificialisation nette » en 2050 :",
+          "a": "Le maintenir",
+          "b": "L'assouplir",
+          "validee": true
+        },
+        {
+          "id": "ecol_zan.2",
+          "question": "Construction sur des terres agricoles ou naturelles :",
+          "a": "La réduire progressivement jusqu'à l'arrêter",
+          "b": "Laisser chaque commune construire selon ses besoins",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "ecol_eau_agricole",
+      "theme": "ecologie",
+      "pole_a": "Construire des retenues d'eau pour l'irrigation",
+      "pole_b": "Réduire l'eau prélevée par l'agriculture",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "ecol_eau_agricole.1",
+          "question": "Face aux sécheresses, que privilégier ?",
+          "a": "Construire des retenues pour irriguer en été",
+          "b": "Adapter les cultures pour prélever moins d'eau en été",
+          "validee": true
+        },
+        {
+          "id": "ecol_eau_agricole.2",
+          "question": "Eau pour l'agriculture :",
+          "a": "Augmenter les capacités de stockage",
+          "b": "Diminuer les volumes d'irrigation",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "ecol_zfe",
+      "theme": "ecologie",
+      "pole_a": "Maintenir les zones à faibles émissions",
+      "pole_b": "Supprimer les zones à faibles émissions",
+      "contexte": "Les zones à faibles émissions (ZFE) interdisent aux véhicules les plus polluants de circuler dans certaines grandes villes.",
+      "variantes": [
+        {
+          "id": "ecol_zfe.1",
+          "question": "Zones à faibles émissions :",
+          "a": "Les maintenir",
+          "b": "Les supprimer",
+          "validee": true
+        },
+        {
+          "id": "ecol_zfe.2",
+          "question": "Dans les grandes villes, que privilégier ?",
+          "a": "Interdire les véhicules les plus polluants",
+          "b": "Laisser chacun circuler avec son véhicule actuel",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "sec_controle_identite",
+      "theme": "securite",
+      "pole_a": "Un récépissé à chaque contrôle d'identité",
+      "pole_b": "Des contrôles sans récépissé",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "sec_controle_identite.2",
+          "question": "Pour les contrôles d'identité, que privilégier ?",
+          "a": "Une trace écrite de chaque contrôle, pour limiter les abus",
+          "b": "Des contrôles rapides, pour ne pas alourdir le travail des policiers",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "sec_legitime_defense",
+      "theme": "securite",
+      "pole_a": "Mêmes règles de légitime défense pour tous",
+      "pole_b": "Présomption de légitime défense pour les policiers",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "sec_legitime_defense.2",
+          "question": "Légitime défense des forces de l'ordre :",
+          "a": "Un examen au cas par cas",
+          "b": "Une présomption de légitime défense, sauf preuve contraire",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "sec_police_municipale",
+      "theme": "securite",
+      "pole_a": "Élargir les pouvoirs des polices municipales",
+      "pole_b": "Renforcer d'abord la police nationale",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "sec_police_municipale.1",
+          "question": "Sécurité au quotidien :",
+          "a": "Élargir les pouvoirs des polices municipales",
+          "b": "Renforcer d'abord la police nationale",
+          "validee": true
+        },
+        {
+          "id": "sec_police_municipale.2",
+          "question": "Qui doit assurer la sécurité de proximité ?",
+          "a": "Davantage les communes, avec leur police municipale",
+          "b": "Davantage l'État, avec la police nationale",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "imm_travail",
+      "theme": "immigration",
+      "pole_a": "Faire venir des travailleurs étrangers",
+      "pole_b": "Former des demandeurs d'emploi déjà en France",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "imm_travail.2",
+          "question": "Immigration de travail :",
+          "a": "L'ouvrir selon les besoins des entreprises",
+          "b": "La réduire au profit de l'emploi des résidents",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "imm_asile_externalise",
+      "theme": "immigration",
+      "pole_a": "Examiner les demandes d'asile en France",
+      "pole_b": "Les examiner hors d'Europe",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "imm_asile_externalise.2",
+          "question": "Où examiner les demandes d'asile ?",
+          "a": "Sur le territoire français",
+          "b": "Dans des pays tiers, avant toute entrée en Europe",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "imm_naturalisation",
+      "theme": "immigration",
+      "pole_a": "Durcir les conditions de naturalisation",
+      "pole_b": "Garder les conditions actuelles",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "imm_naturalisation.1",
+          "question": "Naturalisation :",
+          "a": "Allonger la durée de résidence et relever le niveau de langue exigés",
+          "b": "Garder la durée de résidence et le niveau de langue actuels",
+          "validee": true
+        },
+        {
+          "id": "imm_naturalisation.2",
+          "question": "Pour devenir français par naturalisation :",
+          "a": "Des conditions plus exigeantes qu'aujourd'hui",
+          "b": "Les conditions actuelles",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "eur_service_militaire",
+      "theme": "europe",
+      "pole_a": "Service militaire obligatoire",
+      "pole_b": "Service militaire volontaire",
+      "contexte": "Le service militaire obligatoire est suspendu depuis 1997.",
+      "variantes": [
+        {
+          "id": "eur_service_militaire.1",
+          "question": "Service militaire :",
+          "a": "Le rendre obligatoire",
+          "b": "Le proposer aux volontaires",
+          "validee": true
+        },
+        {
+          "id": "eur_service_militaire.2",
+          "question": "Pour les jeunes, que privilégier ?",
+          "a": "Un service militaire obligatoire de quelques mois",
+          "b": "Un service militaire volontaire",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "eur_dissuasion",
+      "theme": "europe",
+      "pole_a": "Associer la dissuasion nucléaire à la défense de l'Europe",
+      "pole_b": "Réserver la dissuasion à la défense de la France",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eur_dissuasion.1",
+          "question": "Dissuasion nucléaire française :",
+          "a": "L'associer à la défense de l'Europe",
+          "b": "La réserver à la défense de la France",
+          "validee": true
+        },
+        {
+          "id": "eur_dissuasion.2",
+          "question": "Arme nucléaire française, que privilégier ?",
+          "a": "Qu'elle couvre aussi nos partenaires européens",
+          "b": "Qu'elle reste sous la seule décision de la France, pour sa seule défense",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "eur_elargissement",
+      "theme": "europe",
+      "pole_a": "Accueillir de nouveaux pays dans l'UE",
+      "pole_b": "Suspendre l'élargissement de l'UE",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eur_elargissement.1",
+          "question": "Élargissement de l'Union européenne (Ukraine, Moldavie, Balkans…) :",
+          "a": "Faire entrer de nouveaux pays",
+          "b": "Ne plus faire entrer de nouveaux pays",
+          "validee": true
+        },
+        {
+          "id": "eur_elargissement.2",
+          "question": "Pour l'Union européenne, que privilégier ?",
+          "a": "S'agrandir à de nouveaux pays",
+          "b": "Se consolider sans nouveaux membres",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "soc_capitalisation",
+      "theme": "social",
+      "pole_a": "Ajouter une part de retraite par capitalisation",
+      "pole_b": "Rester sur la seule répartition",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "soc_capitalisation.1",
+          "question": "Retraites :",
+          "a": "Ajouter une part de capitalisation (épargne placée)",
+          "b": "Garder la seule répartition (cotisations des actifs)",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "soc_allocations_familiales",
+      "theme": "social",
+      "pole_a": "Allocations familiales selon les revenus",
+      "pole_b": "Allocations familiales universelles",
+      "contexte": "Depuis 2015, le montant des allocations familiales baisse pour les familles aux revenus les plus élevés.",
+      "variantes": [
+        {
+          "id": "soc_allocations_familiales.1",
+          "question": "Allocations familiales :",
+          "a": "Les moduler selon les revenus des familles",
+          "b": "Les verser au même montant à toutes les familles",
+          "validee": true
+        },
+        {
+          "id": "soc_allocations_familiales.2",
+          "question": "Aide aux familles, que privilégier ?",
+          "a": "Une aide qui dépend des revenus des parents",
+          "b": "La même aide pour chaque enfant",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "soc_loyers",
+      "theme": "social",
+      "pole_a": "Encadrer les loyers",
+      "pole_b": "Laisser les loyers libres",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "soc_loyers.1",
+          "question": "Loyers dans les villes où ils sont élevés :",
+          "a": "Les plafonner",
+          "b": "Les laisser libres",
+          "validee": true
+        },
+        {
+          "id": "soc_loyers.2",
+          "question": "Pour le logement, que privilégier ?",
+          "a": "Limiter la hausse des loyers",
+          "b": "Inciter les propriétaires à louer",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "edu_selection_universite",
+      "theme": "education",
+      "pole_a": "Sélection à l'entrée de l'université",
+      "pole_b": "Accès ouvert à tout bachelier",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "edu_selection_universite.1",
+          "question": "Entrée à l'université :",
+          "a": "Sélectionner les étudiants selon leur dossier",
+          "b": "Ouvrir l'accès à tout bachelier",
+          "validee": true
+        },
+        {
+          "id": "edu_selection_universite.2",
+          "question": "Licences à l'université, que privilégier ?",
+          "a": "Admettre selon le niveau",
+          "b": "Admettre tous les bacheliers qui le demandent",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "edu_remuneration",
+      "theme": "education",
+      "pole_a": "Une part du salaire des enseignants liée au mérite",
+      "pole_b": "Une hausse identique pour tous les enseignants",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "edu_remuneration.1",
+          "question": "Salaire des enseignants :",
+          "a": "Une part liée à l'évaluation de leur travail",
+          "b": "Une hausse identique pour tous",
+          "validee": true
+        },
+        {
+          "id": "edu_remuneration.2",
+          "question": "Pour revaloriser le métier d'enseignant, que privilégier ?",
+          "a": "Récompenser davantage les enseignants les mieux évalués",
+          "b": "Augmenter tous les enseignants selon une grille commune",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "ins_cumul",
+      "theme": "institutions",
+      "pole_a": "Permettre à nouveau le cumul député-maire",
+      "pole_b": "Garder l'interdiction du cumul",
+      "contexte": "Depuis 2017, un député ou un sénateur ne peut plus être aussi maire.",
+      "variantes": [
+        {
+          "id": "ins_cumul.1",
+          "question": "Cumul des mandats :",
+          "a": "Permettre à un parlementaire d'être aussi maire",
+          "b": "Garder l'interdiction actuelle",
+          "validee": true
+        },
+        {
+          "id": "ins_cumul.2",
+          "question": "Pour un député, que privilégier ?",
+          "a": "Garder un ancrage local en restant maire",
+          "b": "Se consacrer entièrement à son mandat national",
+          "validee": true
+        }
+      ]
+    },
+    {
+      "id": "ins_mandat_unique",
+      "theme": "institutions",
+      "pole_a": "Un mandat présidentiel unique de 7 ans",
+      "pole_b": "Un mandat de 5 ans renouvelable",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "ins_mandat_unique.1",
+          "question": "Mandat du président de la République :",
+          "a": "Un seul mandat de 7 ans",
+          "b": "5 ans, renouvelable une fois",
+          "validee": true
+        },
+        {
+          "id": "ins_mandat_unique.2",
+          "question": "Pour le président de la République, que privilégier ?",
+          "a": "Un mandat long, sans réélection possible",
+          "b": "Un mandat court, avec une réélection possible",
+          "validee": true
+        }
+      ]
     }
   ]
 }

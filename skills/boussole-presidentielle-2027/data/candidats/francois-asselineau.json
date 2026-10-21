@@ -7,16 +7,16 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-21",
-  "notes": "Campagne officiellement lancée lors de son discours de rentrée du 30 septembre 2026 (https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale) ; en recherche de parrainages (appel du 19 octobre 2026). Le site de l'UPR indique que le programme présidentiel 2027 « sera publié prochainement » (https://www.upr.fr/notre-programme). Les positions sont donc tirées des mesures annoncées en septembre 2026 (confiance « declaration ») et, à défaut, du programme 2022 de l'UPR et de sa réponse de candidat au Shift Project de février 2022 (confiance « deduite ») ; Asselineau n'avait pas obtenu les parrainages en 2022.",
+  "notes": "Candidature lancée le 21 mars 2026 (19 ans de l'UPR) et campagne officiellement ouverte par son discours de rentrée du 30 septembre 2026 ; en recherche des 500 parrainages (il ne les avait pas obtenus en 2022). Au 21 octobre 2026, le site de l'UPR indique toujours que le programme présidentiel 2027 « sera publié prochainement » (« En cours d'élaboration »). Positions tirées des mesures annoncées en septembre 2026 et, à défaut, du programme 2022 de l'UPR (confiance « deduite »).",
   "positions": {
     "eco_retraite": {
-      "valeur": null,
-      "resume": "Le programme 2022 promettait de « mettre fin au processus de réforme – par le bas – des retraites » sans fixer d'âge légal ; pas de position récente trouvée sur l'âge de départ.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 de l'UPR, qui voulait mettre fin aux réformes des retraites ; en 2023, l'UPR a dénoncé la validation du report de l'âge légal de 62 à 64 ans, sans engagement chiffré de retour à 62 ans.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous mettrons fin au processus de réforme – par le bas – des retraites, car le rebond d’activité que favorisera notre programme économique créera la richesse suffisante pour assurer l’équilibre du système de retraites dans un avenir prévisible.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
     },
     "eco_smic": {
       "valeur": 2,
@@ -81,6 +81,24 @@
       "confiance": null,
       "relu": false
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": -2,
       "resume": "Position déduite du programme 2022 : rétablir des peines planchers pour les récidivistes d'infractions violentes, avec des planchers croissant à chaque récidive.",
@@ -91,13 +109,13 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": 0,
+      "resume": "Position déduite du programme 2022 de l'UPR, qui prévoit à la fois de systématiser les travaux d'intérêt général pour les délits non violents et de développer les peines d'emprisonnement, même courtes, pour les atteintes violentes, sans objectif de places de prison.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "nous systématiserons le recours aux peines de travail d’intérêt général, à encadrement civil ou militaire, pour sanctionner et réinsérer les auteurs de délits non-violents. […] Nous développerons le recours aux peines d’emprisonnement, même courtes, dès la première atteinte violente aux personnes",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,
@@ -107,6 +125,24 @@
       "date_source": null,
       "confiance": null,
       "relu": false
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_videosurveillance": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : proposer « l'interdiction constitutionnelle de toute surveillance généralisée de la population » (QR code, passe sanitaire, identité numérique), sans mention explicite de la vidéosurveillance algorithmique.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "De même, nous proposerons l’interdiction constitutionnelle de toute surveillance généralisée de la population, par QR code, Passe sanitaire ou vaccinal , Digital ID Wallet etc.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
     },
     "imm_baisse": {
       "valeur": -1,
@@ -127,6 +163,24 @@
       "relu": false
     },
     "imm_regularisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_droitdusol": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : un référendum demanderait aux Français de trancher « les modifications à apporter au droit du sol », jugé problématique à Mayotte et en Guyane.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Un référendum organisé avant la fin de l’année 2022 demandera notamment aux Français de trancher : • La politique de regroupement familial ; • Les modifications à apporter au droit du sol, dont le système actuel pose des problèmes particulièrement criants à Mayotte et en Guyane.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "imm_preference": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
@@ -162,14 +216,32 @@
       "confiance": "declaration",
       "relu": true
     },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "Il annonce la notification immédiate de la sortie de la France de l'Alliance atlantique (article 13), au-delà du seul commandement intégré.",
+      "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "citation": "Libération de l’OTAN : notification immédiate au Département d’État américain via l’article 13 pour faire sortir la France de l’alliance sous un an.",
+      "date_source": "2026-09-30",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : porter le budget de la défense « à hauteur d'au moins 3 % du PIB » sur le quinquennat.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous porterons le budget de la défense à hauteur d’au moins 3% du PIB sur la durée du quinquennat (contre 1,9% en 2019)",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
     "soc_medecins": {
-      "valeur": null,
-      "resume": "Le programme 2022 proposait une majoration de 20 % des actes des médecins dans les déserts médicaux (incitation), sans position sur la régulation de l'installation.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 de l'UPR, qui prévoit une majoration de 20 % des actes des médecins exerçant dans les déserts médicaux (incitation financière), sans régulation de l'installation.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "nous dresserons une cartographie des déserts médicaux pour lesquels les médecins bénéficieront d’une majoration de 20% sur les actes qu’ils réaliseront, prise en charge par la Sécurité sociale.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
     },
     "soc_findevie": {
       "valeur": null,
@@ -189,6 +261,24 @@
       "confiance": null,
       "relu": false
     },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Le programme 2022 propose de consolider l'Assurance maladie et de mettre fin aux déremboursements, sans position sur les complémentaires santé.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_chomage": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : passer à une « politique de sanction de l'inactivité choisie », les allocations chômage pouvant être supprimées après deux refus d'offres d'embauche.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Ainsi, les allocations-chômage pourront être supprimées après deux refus de propositions d’embauche correspondant aux critères géographiques du demandeur d’emploi.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
@@ -206,6 +296,33 @@
       "date_source": "2022-02",
       "confiance": "deduite",
       "relu": true
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_etudiants": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 de l'UPR, qui prévoit de revaloriser les bourses étudiantes de 25 % sur le quinquennat, sans allocation universelle.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous aiderons notre jeunesse et lutterons contre la précarité étudiante en réévaluant les bourses de 25% sur le quinquennat et pérennisant les repas à 1€.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": -1,
@@ -234,123 +351,6 @@
       "confiance": "deduite",
       "relu": true
     },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": 1,
-      "resume": "Position déduite du programme 2022 : proposer « l'interdiction constitutionnelle de toute surveillance généralisée de la population » (QR code, passe sanitaire, identité numérique), sans mention explicite de la vidéosurveillance algorithmique.",
-      "source": "https://www.upr.fr/notre-programme/programme-2022",
-      "citation": "De même, nous proposerons l’interdiction constitutionnelle de toute surveillance généralisée de la population, par QR code, Passe sanitaire ou vaccinal , Digital ID Wallet etc.",
-      "date_source": "2022-02",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "imm_droitdusol": {
-      "valeur": 1,
-      "resume": "Position déduite du programme 2022 : un référendum demanderait aux Français de trancher « les modifications à apporter au droit du sol », jugé problématique à Mayotte et en Guyane.",
-      "source": "https://www.upr.fr/notre-programme/programme-2022",
-      "citation": "Un référendum organisé avant la fin de l’année 2022 demandera notamment aux Français de trancher : • La politique de regroupement familial ; • Les modifications à apporter au droit du sol, dont le système actuel pose des problèmes particulièrement criants à Mayotte et en Guyane.",
-      "date_source": "2022-02",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": 2,
-      "resume": "Il annonce la notification immédiate de la sortie de la France de l'Alliance atlantique (article 13), au-delà du seul commandement intégré.",
-      "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
-      "citation": "Libération de l’OTAN : notification immédiate au Département d’État américain via l’article 13 pour faire sortir la France de l’alliance sous un an.",
-      "date_source": "2026-09-30",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": -2,
-      "resume": "Position déduite du programme 2022 : porter le budget de la défense « à hauteur d'au moins 3 % du PIB » sur le quinquennat.",
-      "source": "https://www.upr.fr/notre-programme/programme-2022",
-      "citation": "Nous porterons le budget de la défense à hauteur d’au moins 3% du PIB sur la durée du quinquennat (contre 1,9% en 2019)",
-      "date_source": "2022-02",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "soc_100secu": {
-      "valeur": null,
-      "resume": "Le programme 2022 propose de consolider l'Assurance maladie et de mettre fin aux déremboursements, sans position sur les complémentaires santé.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_chomage": {
-      "valeur": 1,
-      "resume": "Position déduite du programme 2022 : passer à une « politique de sanction de l'inactivité choisie », les allocations chômage pouvant être supprimées après deux refus d'offres d'embauche.",
-      "source": "https://www.upr.fr/notre-programme/programme-2022",
-      "citation": "Ainsi, les allocations-chômage pourront être supprimées après deux refus de propositions d’embauche correspondant aux critères géographiques du demandeur d’emploi.",
-      "date_source": "2022-02",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "edu_signes": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_etudiants": {
-      "valeur": null,
-      "resume": "Le programme 2022 propose de revaloriser les bourses de 25 % et de pérenniser les repas à 1 euro, sans allocation universelle.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": -2,
       "resume": "Il propose la « réduction du nombre de députés et de sénateurs » (discours de rentrée 2026), sans chiffrage dans ce discours.",
@@ -361,13 +361,211 @@
       "relu": true
     },
     "ins_voteblanc": {
+      "valeur": -2,
+      "resume": "Position déduite du programme présidentiel 2017 de l'UPR, qui prévoit la « reconnaissance pleine et entière du vote blanc » ; la page « Nos fondamentaux » du site de l'UPR en 2026 mentionne toujours « la reconnaissance du vote blanc ».",
+      "source": "https://www.upr.fr/notre-programme/programme-2017",
+      "citation": "L’instauration des référendums d’initiative populaire (RIP) ou citoyenne (RIC) en toute matière (constituant, abrogatoire, révocatoire, législatif). La reconnaissance pleine et entière du vote blanc avec pouvoir révocatoire.",
+      "date_source": "2017",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Annonce en septembre 2026 le rétablissement des contrôles aux frontières sur les marchandises et les capitaux pour lutter contre les délocalisations (dans le cadre d'une sortie de l'UE) ; le programme 2022 prévoyait de dénoncer les traités de type CETA. Pas de mention de droits de douane européens.",
+      "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
+      "citation": "Contrôle aux frontières et des mouvements de capitaux : rétablissement des contrôles frontaliers pour les flux humains, de marchandises et de capitaux afin de lutter contre les délocalisations et l’évasion fiscale des grands groupes.",
+      "date_source": "2026-09-30",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 de l'UPR : baisse de 5 points des droits de succession en dessous de 300 000 € par héritier, sans mesure sur les gros héritages.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Attachés à favoriser la transmission entre les générations, nous diminuerons de 5 points l’ensemble des droits de succession en dessous d’une valeur de 300 000 € par héritier.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 de l'UPR : renationalisation ou arrêt de la privatisation du gaz, de l'eau, d'EDF, d'Enedis, de La Poste, des concessionnaires d'autoroutes, de la RATP et de la SNCF.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous renationaliserons ou cesserons le processus de privatisation rampante et de dégradation de la qualité de service de plusieurs grandes entreprises, en particulier : […] des concessionnaires d’autoroutes",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "ecol_zan": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 de l'UPR : lutte contre l'étalement urbain et l'artificialisation des sols, avec un moratoire sur les zones commerciales périphériques, sans mention de l'objectif ZAN lui-même.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous lutterons enfin contre l’étalement urbain qui participe à l’artificialisation des sols",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "ecol_eau_agricole": {
       "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,
       "confiance": null,
       "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 de l'UPR : hausse du budget de la police pour rétablir une police de proximité, la politique des quartiers étant confiée à des fonctionnaires d'État ; les polices municipales ne sont pas évoquées.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "l’augmentation des budgets de la police permettra de remettre en place une police de proximité dans les quartiers, qui a prouvé son efficacité. La politique de quartiers sera appliquée par des fonctionnaires d’État, afin d’éviter tout clientélisme.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 de l'UPR : instructions aux administrations pour ne naturaliser que les personnes manifestant une « claire volonté d'assimilation », sans modification annoncée de la durée de résidence ou du niveau de langue.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "ne doivent intégrer la communauté nationale par naturalisation que les personnes manifestant une claire volonté d’assimilation. Des instructions précises en ce sens seront données aux administrations.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": 2,
+      "resume": "Selon le compte rendu publié par l'UPR, met en garde contre l'idée de placer l'Europe sous un « parapluie nucléaire » français, qu'il présente comme une dilution de la souveraineté.",
+      "source": "https://www.upr.fr/medias/francois-asselineau-invite-de-nicolas-stoquer-sur-gp-tv-24-12-2025/",
+      "citation": "Sur la dissuasion nucléaire, François Asselineau met en garde contre l’idée de placer l’Europe sous un parapluie nucléaire français. Il s’agirait d’une dilution dangereuse de notre souveraineté au profit d’un bloc européen instable.",
+      "date_source": "2025-12-24",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 de l'UPR : inscription dans la Constitution du principe d'un régime général de retraites par répartition, la capitalisation restant un choix personnel et facultatif.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Nous proposerons ainsi aux Français d’inscrire dans la Constitution le principe selon lequel le régime général de retraites se fait par répartition.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 de l'UPR : rétablir le septennat présidentiel, sans préciser s'il serait unique ou renouvelable.",
+      "source": "https://www.upr.fr/notre-programme/programme-2022",
+      "citation": "Rétablir le septennat pour le mandat du Président de la République, et passer la durée du mandat des députés de 5 à 4 ans",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": true
     }
   }
 }

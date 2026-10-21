@@ -7,7 +7,7 @@
   "programme": "partiel",
   "programme_url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
   "mis_a_jour": "2026-10-21",
-  "notes": "S'est déclaré candidat dans Le Figaro le 28 avril 2026, puis a confirmé sa « volonté pleine et entière » le 19 mai (France Inter) et dit le 30 juillet que son objectif est de devenir président. Son statut reste ambigu : sa « Lettre aux Françaises et aux Français » (86 pages, mi-juillet 2026, 30 propositions) dit qu'« aucune candidature n'est déclarée », et certains suivis le classent comme « probable ». Cette lettre tient lieu de socle programmatique (site de campagne : bc2027.fr). Il refuse une primaire de la gauche. Beaucoup de thèmes de la boussole n'y sont pas traités.",
+  "notes": "S'est déclaré candidat dans Le Figaro le 28 avril 2026, a confirmé sa « volonté pleine et entière » le 19 mai (France Inter) et dit le 30 juillet que son objectif est de devenir président. Son statut reste ambigu : sa « Lettre aux Françaises et aux Français » (mi-juillet 2026, 30 propositions) dit qu'« aucune candidature n'est déclarée », et certains suivis le classent comme « probable ». N'a pas participé à la primaire PS–Place publique ; après la victoire de Raphaël Glucksmann (11 octobre 2026), il l'a félicité sur X en y voyant la confirmation de la ligne de La Convention (« sociale-démocrate, européenne […] sans alliance avec LFI ») et a appelé à « rassembler largement autour d'un projet pour la Nation », sans annoncer ni retrait ni ralliement. Au 21/10/2026, aucun retrait trouvé ; la page Actualités de bc2027.fr n'a rien publié depuis le 1er juillet 2026. Statut à surveiller (rapprochement possible avec Glucksmann). La Lettre tient lieu de socle programmatique ; beaucoup de thèmes de la boussole n'y sont pas traités.",
   "positions": {
     "eco_retraite": {
       "valeur": 1,
@@ -81,6 +81,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "La lettre ne traite pas des voitures thermiques ; elle prône l'électrification des usages et la sortie des énergies fossiles sans se prononcer sur 2035.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la taxation du transport aérien.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": 1,
       "resume": "Demande des « peines réellement exécutées » contre le narcotrafic, mais propose de sortir du « tout-comparution immédiate et de la prison par défaut » ; aucune proposition de peines planchers.",
@@ -102,6 +120,24 @@
     "sec_cannabis": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la légalisation du cannabis.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur le jugement des mineurs ; la lettre propose de sortir du « tout-comparution immédiate » sans viser les mineurs.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la vidéosurveillance algorithmique ou la reconnaissance faciale.",
       "source": null,
       "citation": null,
       "date_source": null,
@@ -135,6 +171,24 @@
       "confiance": null,
       "relu": false
     },
+    "imm_droitdusol": {
+      "valeur": -1,
+      "resume": "Ministre de l'Intérieur en 2015, a qualifié d'« absurde » la remise en cause du droit du sol, qui ne serait pas la cause des flux migratoires ; aucune déclaration plus récente trouvée ; valeur ramenée à −1 car la position date de 2015, quand il était ministre, et n'a pas été réaffirmée depuis.",
+      "source": "https://www.lecourrierdelatlas.com/france-la-remise-en-cause-du-droit-du-sol-est-absurde-selon-cazeneuve-3243/",
+      "citation": "« Ce débat donne le sentiment que nous sommes exclusivement dans le droit du sol et que le droit du sol en France serait la cause des flux migratoires, c'est absurde »",
+      "date_source": "2015-06-22",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la préférence nationale ; la lettre pose trois principes (humanité, intégration, fermeté) sans aborder l'accès des étrangers aux prestations.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "eur_integration": {
       "valeur": -1,
       "resume": "Propose la fin de la règle de l'unanimité au profit des décisions à la majorité, une réforme budgétaire et une politique industrielle commune, tout en voulant contribuer à l'Europe de la défense « sans prétendre s'y substituer ».",
@@ -161,6 +215,24 @@
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": true
+    },
+    "eur_otan": {
+      "valeur": -1,
+      "resume": "Propose de « demeurer dans l'OTAN, sans rien y abdiquer » tout en contribuant à l'Europe de la défense ; ne propose pas de quitter le commandement intégré (non mentionné explicitement).",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": "Demeurer dans l’OTAN, sans rien y abdiquer, et contribuer à l’Europe de la défense sans prétendre s’y substituer.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Veut « réarmer, à proportion de la menace » et rendre des moyens aux armées, sans objectif chiffré en pourcentage du PIB.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "soc_medecins": {
       "valeur": null,
@@ -189,123 +261,6 @@
       "confiance": null,
       "relu": false
     },
-    "edu_prive": {
-      "valeur": 0,
-      "resume": "Combat « l'évitement organisé » et la ségrégation scolaire, mais estime que « ce n'est pas la coexistence du public et du privé qui pose problème » ; aucune proposition sur le financement du privé.",
-      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
-      "citation": "Ce n’est pas la coexistence du public et du privé qui pose problème : elle est inscrite dans notre histoire, et beaucoup de parents se résignent au privé face à l’abandon de l’école publique. Le vrai problème, c’est l’évitement organisé […]",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "edu_autorite": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur l'uniforme, les sanctions ou les groupes de niveau ; la lettre insiste sur la transmission des savoirs et la « civilité laïque ».",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_proportionnelle": {
-      "valeur": -1,
-      "resume": "Propose d'introduire une dose de proportionnelle aux législatives.",
-      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
-      "citation": "Introduire une dose de proportionnelle dans le mode de scrutin législatif y contribuerait utilement.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "ins_ric": {
-      "valeur": null,
-      "resume": "Propose d'ouvrir la fabrique de la loi à la participation des citoyens, sans se prononcer sur le RIC.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_6e": {
-      "valeur": -1,
-      "resume": "Écarte un changement de régime, mais propose de rétablir le septennat, de restaurer le rôle du Premier ministre et de discipliner le recours au 49.3 et aux ordonnances.",
-      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
-      "citation": "Faut-il pour autant précipiter un changement de régime, alors que la Nation, dans son histoire, a si souvent souffert du grand fracas institutionnel ?",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "La lettre ne traite pas des voitures thermiques ; elle prône l'électrification des usages et la sortie des énergies fossiles sans se prononcer sur 2035.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur la taxation du transport aérien.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur le jugement des mineurs ; la lettre propose de sortir du « tout-comparution immédiate » sans viser les mineurs.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur la vidéosurveillance algorithmique ou la reconnaissance faciale.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": -1,
-      "resume": "Ministre de l'Intérieur en 2015, a qualifié d'« absurde » la remise en cause du droit du sol, qui ne serait pas la cause des flux migratoires ; aucune déclaration plus récente trouvée ; valeur ramenée à −1 car la position date de 2015, quand il était ministre, et n'a pas été réaffirmée depuis.",
-      "source": "https://www.lecourrierdelatlas.com/france-la-remise-en-cause-du-droit-du-sol-est-absurde-selon-cazeneuve-3243/",
-      "citation": "« Ce débat donne le sentiment que nous sommes exclusivement dans le droit du sol et que le droit du sol en France serait la cause des flux migratoires, c'est absurde »",
-      "date_source": "2015-06-22",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur la préférence nationale ; la lettre pose trois principes (humanité, intégration, fermeté) sans aborder l'accès des étrangers aux prestations.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": -1,
-      "resume": "Propose de « demeurer dans l'OTAN, sans rien y abdiquer » tout en contribuant à l'Europe de la défense ; ne propose pas de quitter le commandement intégré (non mentionné explicitement).",
-      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
-      "citation": "Demeurer dans l’OTAN, sans rien y abdiquer, et contribuer à l’Europe de la défense sans prétendre s’y substituer.",
-      "date_source": "2026-07",
-      "confiance": "programme",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Veut « réarmer, à proportion de la menace » et rendre des moyens aux armées, sans objectif chiffré en pourcentage du PIB.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le remboursement à 100 % ou le rôle des complémentaires santé.",
@@ -318,6 +273,24 @@
     "soc_chomage": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la durée ou le montant de l'indemnisation chômage.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_prive": {
+      "valeur": 0,
+      "resume": "Combat « l'évitement organisé » et la ségrégation scolaire, mais estime que « ce n'est pas la coexistence du public et du privé qui pose problème » ; aucune proposition sur le financement du privé.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": "Ce n’est pas la coexistence du public et du privé qui pose problème : elle est inscrite dans notre histoire, et beaucoup de parents se résignent au privé face à l’abandon de l’école publique. Le vrai problème, c’est l’évitement organisé […]",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur l'uniforme, les sanctions ou les groupes de niveau ; la lettre insiste sur la transmission des savoirs et la « civilité laïque ».",
       "source": null,
       "citation": null,
       "date_source": null,
@@ -351,6 +324,33 @@
       "confiance": null,
       "relu": false
     },
+    "ins_proportionnelle": {
+      "valeur": -1,
+      "resume": "Propose d'introduire une dose de proportionnelle aux législatives.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": "Introduire une dose de proportionnelle dans le mode de scrutin législatif y contribuerait utilement.",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
+    "ins_ric": {
+      "valeur": null,
+      "resume": "Propose d'ouvrir la fabrique de la loi à la participation des citoyens, sans se prononcer sur le RIC.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Écarte un changement de régime, mais propose de rétablir le septennat, de restaurer le rôle du Premier ministre et de discipliner le recours au 49.3 et aux ordonnances.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": "Faut-il pour autant précipiter un changement de régime, alors que la Nation, dans son histoire, a si souvent souffert du grand fracas institutionnel ?",
+      "date_source": "2026-07",
+      "confiance": "programme",
+      "relu": true
+    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position trouvée sur le nombre de parlementaires.",
@@ -368,6 +368,204 @@
       "date_source": null,
       "confiance": null,
       "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Sa lettre programmatique demande à l'Union européenne une « approche commerciale moins naïve », sans détailler de mesure sur les accords de libre-échange ou les droits de douane.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": "Ce sursaut appelle une réforme budgétaire et une politique industrielle commune ; une doctrine de la concurrence moins dogmatique et une approche commerciale moins naïve ;",
+      "date_source": "2026-07-15",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": 1,
+      "resume": "Comme ministre de l'Intérieur, son ministère a écarté en 2016 le récépissé de contrôle d'identité au profit d'autres mesures (code de déontologie, caméras-piétons) ; position gouvernementale non réaffirmée depuis.",
+      "source": "https://www.assemblee-nationale.fr/dyn/14/questions/QANR5L14QE94326",
+      "citation": "Après de nombreux échanges, il est apparu que la proposition tendant à la délivrance d'un récépissé ne constituait pas la meilleure solution. […] Le Gouvernement n'a pas l'intention à ce stade de revenir sur cette décision.",
+      "date_source": "2016-05-31",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": 1,
+      "resume": "Propose une réserve citoyenne élargie, ouverte à davantage de Français, « non pour militariser la société », sans proposer de service militaire obligatoire.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": "Je veux une réserve citoyenne plus ambitieuse, ouverte à davantage de Français : non pour militariser la société, mais pour rappeler que la défense engage plus que le seul gouvernement.",
+      "date_source": "2026-07-15",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_dissuasion": {
+      "valeur": -1,
+      "resume": "Propose d'engager, avec les partenaires européens et le Royaume-Uni, une réflexion sur l'apport de la dissuasion française à une architecture européenne de sécurité.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": "Cet effort n’a de sens que dans une architecture européenne de sécurité. […] Engager ensuite, y compris avec le Royaume-Uni, une réflexion sur ce que notre dissuasion peut y apporter.",
+      "date_source": "2026-07-15",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": 1,
+      "resume": "Veut consolider les retraites dans le système par répartition, qu'il dit ne pas vouloir remettre en cause, sans se prononcer explicitement sur une part de capitalisation.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": "Les retraites doivent être consolidées dans le cadre d’un système par répartition que nul ne saurait remettre en cause, car lui seul assure la justice",
+      "date_source": "2026-07-15",
+      "confiance": "programme",
+      "relu": true
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": -1,
+      "resume": "Propose de rétablir le septennat, sans préciser dans la lettre si le mandat serait unique ou renouvelable.",
+      "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
+      "citation": "Mieux vaut, par la loi comme par la pratique, rendre au Président son rôle de garant du pacte républicain et d’une certaine conception de l’intérêt général. Il faut pour cela rétablir le septennat,",
+      "date_source": "2026-07-15",
+      "confiance": "programme",
+      "relu": true
     }
   }
 }

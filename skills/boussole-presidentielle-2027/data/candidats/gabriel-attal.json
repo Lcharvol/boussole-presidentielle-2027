@@ -7,7 +7,7 @@
   "programme": "partiel",
   "programme_url": "https://attalpresident.fr/programme",
   "mis_a_jour": "2026-10-21",
-  "notes": "Candidature officialisée le 22 mai 2026 (Mur-de-Barrez, Aveyron) ; désignation par vote interne de Renaissance. Pas de programme complet : six « chantiers » thématiques sur attalpresident.fr (pages non datées) et un « pacte pour la jeunesse » présenté le 10 octobre 2026. Une candidature unique avec Édouard Philippe reste discutée (proposition de médiation de Jean-Louis Borloo, à laquelle Attal s'est dit ouvert). Certaines positions reposent sur des déclarations de 2024, quand il était Premier ministre. Le programme en ligne compte six pages (école, travail et salaires, frontières, IA, dette de l'État, dette écologique) ; sécurité et Europe sont sourcées par l'entretien au JDD (2 août 2026, repris sur attalpresident.fr) et le discours de Reims (17 septembre 2026).",
+  "notes": "Toujours candidat au 21 octobre 2026 (candidature officialisée le 22 mai 2026 ; campagne active, interventions des 19 et 20 octobre 2026 sur attalpresident.fr). Pas d'accord de candidature unique avec Édouard Philippe : les deux restent candidats ; Attal se dit persuadé que le rassemblement se fera derrière lui « au début de l'année 2027 » et appelle à une « coalition des démocrates » ; les entourages évoquent un point sur la candidature unique début 2027. Pas de programme complet : six « chantiers » sur attalpresident.fr/programme et le « pacte pour la jeunesse » (meeting de Lyon, 10 octobre 2026), plus une lettre sur les finances publiques (15 octobre 2026).",
   "positions": {
     "eco_retraite": {
       "valeur": 1,
@@ -81,6 +81,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur l'échéance de 2035 ; son programme prône de « libérer la France des fossiles » et un développement massif de l'électrique, sans se prononcer sur l'interdiction.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur la taxation du transport aérien.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": -1,
       "resume": "Dans le JDD, propose la suppression du juge de l'application des peines et la fin des remises automatiques de peine ; aucune proposition de peines planchers trouvée.",
@@ -100,13 +118,31 @@
       "relu": true
     },
     "sec_cannabis": {
-      "valeur": null,
-      "resume": "Aucune position récente trouvée sur la légalisation du cannabis.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": -1,
+      "resume": "Position déduite : en février 2025, son entourage (alors président du groupe et du parti Renaissance) a pris ses distances avec un rapport parlementaire préconisant la légalisation du cannabis ; aucune déclaration personnelle récente trouvée (en 2020 il s'était dit favorable à un débat).",
+      "source": "https://www.france24.com/fr/france/20250218-pour-lutter-contre-le-narcotrafic-un-rapport-parlementaire-pr%C3%A9conise-la-l%C3%A9galisation-du-cannabis",
+      "citation": "L'entourage du chef du groupe et du parti macroniste Renaissance, Gabriel Attal […] a clairement pris ses distances vis-à-vis de ce rapport, soulignant qu'il n'a jamais été envisagé \"une légalisation du cannabis pour lutter contre le narcotrafic\".",
+      "date_source": "2025-02-18",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": 1,
+      "resume": "Auteur de la loi de 2025 sur la justice des mineurs qui instaurait une dérogation à l'excuse de minorité pour les 16-18 ans et étendait la comparution immédiate aux mineurs de 16 ans, dispositions censurées par le Conseil constitutionnel ; il ne propose pas de juger les mineurs de 16 ans comme des majeurs.",
+      "source": "https://www.publicsenat.fr/actualites/politique/justice-des-mineurs-le-conseil-constitutionnel-censure-largement-le-texte-attal-notamment-la-derogation-de-lexcuse-de-minorite",
+      "citation": "L’article 4 qui prévoyait d’étendre la comparution immédiate aux mineurs de 16 ans a été censuré […] Autre mesure emblématique : l’instauration d’une dérogation à l’excuse de minorité",
+      "date_source": "2025-06-19",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "sec_videosurveillance": {
+      "valeur": -1,
+      "resume": "Après les violences d'octobre 2026, il propose d'utiliser la reconnaissance faciale et l'intelligence artificielle pour identifier les auteurs de pillages ; pas de proposition de généralisation trouvée.",
+      "source": "https://attalpresident.fr/actualites/gabriel-attal-rtl-retablir-ordre-jeunesse-avenir-france",
+      "citation": "utiliser la reconnaissance faciale et l'intelligence artificielle pour identifier les pilleurs et permettre des condamnations rapides.",
+      "date_source": "2026-10-19",
+      "confiance": "declaration",
+      "relu": true
     },
     "imm_baisse": {
       "valeur": -2,
@@ -127,8 +163,26 @@
       "relu": true
     },
     "imm_regularisation": {
+      "valeur": -1,
+      "resume": "Il veut réformer les règles de Schengen pour qu'un pays ne puisse pas décider seul de régularisations massives ; pas de position trouvée sur les régularisations au cas par cas en France.",
+      "source": "https://www.lejdd.fr/politique/exclusif-gabriel-attal-je-propose-la-plus-grande-reforme-institutionnelle-depuis-1958-180333",
+      "citation": "Je veux aussi réformer les règles de Schengen : les pays doivent pouvoir refouler des personnes en situation irrégulière à leurs frontières et un pays ne devrait pas décider unilatéralement de régularisations massives impactant ses voisins.",
+      "date_source": "2026-08-01",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_droitdusol": {
+      "valeur": 1,
+      "resume": "Premier ministre en février 2024, a défendu la fin du droit du sol à Mayotte comme une mesure nécessaire, limitée à l'archipel ; aucune proposition trouvée pour le reste du territoire.",
+      "source": "https://outremers360.com/bassin-indien-appli/fin-du-droit-du-sol-a-mayotte-une-mesure-necessaire-selon-gabriel-attal-le-courrier-dengagement-adresse-aux-collectifs-et-elus-ce-mardi-soir-indique-marie-guenevoux",
+      "citation": "Fin du droit du sol à Mayotte : une mesure « nécessaire» selon Gabriel Attal",
+      "date_source": "2024-02",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_preference": {
       "valeur": null,
-      "resume": "Aucune position trouvée dans une source primaire sur la régularisation des travailleurs sans papiers.",
+      "resume": "Aucune position trouvée ; son programme parle de « préférence travail » (immigration choisie par points), sans réserver de prestations aux Français.",
       "source": null,
       "citation": null,
       "date_source": null,
@@ -162,14 +216,32 @@
       "confiance": "programme",
       "relu": true
     },
-    "soc_medecins": {
+    "eur_otan": {
       "valeur": null,
-      "resume": "Aucune position trouvée sur la régulation de l'installation des médecins.",
+      "resume": "Aucune position trouvée sur le commandement intégré de l'OTAN.",
       "source": null,
       "citation": null,
       "date_source": null,
       "confiance": null,
       "relu": false
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Son programme veut « poursuivre et amplifier » le réarmement, sans objectif chiffré en pourcentage du PIB.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_medecins": {
+      "valeur": 2,
+      "resume": "Il juge contre-productif d'imposer aux généralistes leur lieu d'installation et met l'accent sur l'augmentation du nombre de médecins formés.",
+      "source": "https://attalpresident.fr/actualites/gabriel-attal-debat-avec-les-francais-a-blois-et-a-bourges",
+      "citation": "Imposer aux généralistes leur lieu d'installation serait contre-productif, car on ne réussirait pas à couvrir tous les besoins. Le sujet est avant tout le nombre de médecins.",
+      "date_source": "2026-10-05",
+      "confiance": "declaration",
+      "relu": true
     },
     "soc_findevie": {
       "valeur": 2,
@@ -189,123 +261,6 @@
       "confiance": "declaration",
       "relu": true
     },
-    "edu_prive": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur le financement public de l'enseignement privé sous contrat.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_autorite": {
-      "valeur": 0,
-      "resume": "Veut rétablir dès son élection les mesures du « Choc des savoirs » (dont les groupes de niveau) et une école « où l'autorité du professeur est respectée », et viser moins de 20 élèves par classe, notamment en primaire.",
-      "source": "https://attalpresident.fr/programme/education",
-      "citation": "l’une de mes premières décisions sera d’en rétablir les mesures. […] une opportunité pour avoir moins d’élèves par classe notamment en primaire où nous devons viser moins de 20 élèves par classe comme dans les meilleurs systèmes éducatifs européens.",
-      "date_source": "2026",
-      "confiance": "programme",
-      "relu": true
-    },
-    "ins_proportionnelle": {
-      "valeur": 1,
-      "resume": "Position déduite : son groupe a jugé le scrutin actuel « le moins pire » et la proportionnelle « pas forcément une priorité » ; aucune proposition personnelle trouvée.",
-      "source": "https://lcp.fr/actualites/proportionnelle-aux-legislatives-francois-bayrou-consulte-les-avis-divergent-sur-le",
-      "citation": "Pierre Cazeneuve explique, à l'aune de plusieurs critères, que \"le moins pire de ces scrutins est le mode de scrutin actuel\". Et ajoute que le dossier de la proportionnelle \"n'est pas forcément une priorité\" pour le groupe présidé par Gabriel Attal.",
-      "date_source": "2025-04-30",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "ins_ric": {
-      "valeur": 0,
-      "resume": "Propose une journée référendaire annuelle sur de grands choix nationaux, préparée avec les partis et les partenaires sociaux, sans référendum d'initiative citoyenne.",
-      "source": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
-      "citation": "Il souhaite redonner la parole aux citoyens et aux acteurs du terrain en instaurant une journée référendaire annuelle sur les grands choix du pays, tout en facilitant le recours aux référendums locaux.",
-      "date_source": "2026-08-02",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "ins_6e": {
-      "valeur": -1,
-      "resume": "Appelle à une « Ve République du XXIe siècle » plutôt qu'à une VIe République, tout en invitant à « partager le pouvoir » et à renoncer à « l'homme providentiel ».",
-      "source": "https://www.franceinfo.fr/politique/gabriel-attal/en-meeting-a-arras-gabriel-attal-appelle-a-une-ve-republique-du-21e-siecle_7505410.html",
-      "citation": "Il prône une \"nouvelle République démocratique\", pour \"une Ve République du XXIe siècle\". \"Cessons de croire au mythe de l'homme providentiel et acceptons de partager le pouvoir\", a-t-il lancé",
-      "date_source": "2025-09-21",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur l'échéance de 2035 ; son programme prône de « libérer la France des fossiles » et un développement massif de l'électrique, sans se prononcer sur l'interdiction.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur la taxation du transport aérien.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": 1,
-      "resume": "Auteur de la loi de 2025 sur la justice des mineurs qui instaurait une dérogation à l'excuse de minorité pour les 16-18 ans et étendait la comparution immédiate aux mineurs de 16 ans, dispositions censurées par le Conseil constitutionnel ; il ne propose pas de juger les mineurs de 16 ans comme des majeurs.",
-      "source": "https://www.publicsenat.fr/actualites/politique/justice-des-mineurs-le-conseil-constitutionnel-censure-largement-le-texte-attal-notamment-la-derogation-de-lexcuse-de-minorite",
-      "citation": "L’article 4 qui prévoyait d’étendre la comparution immédiate aux mineurs de 16 ans a été censuré […] Autre mesure emblématique : l’instauration d’une dérogation à l’excuse de minorité",
-      "date_source": "2025-06-19",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur la vidéosurveillance algorithmique ou la reconnaissance faciale.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": 1,
-      "resume": "Premier ministre en février 2024, a défendu la fin du droit du sol à Mayotte comme une mesure nécessaire, limitée à l'archipel ; aucune proposition trouvée pour le reste du territoire.",
-      "source": "https://outremers360.com/bassin-indien-appli/fin-du-droit-du-sol-a-mayotte-une-mesure-necessaire-selon-gabriel-attal-le-courrier-dengagement-adresse-aux-collectifs-et-elus-ce-mardi-soir-indique-marie-guenevoux",
-      "citation": "Fin du droit du sol à Mayotte : une mesure « nécessaire» selon Gabriel Attal",
-      "date_source": "2024-02",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Aucune position trouvée ; son programme parle de « préférence travail » (immigration choisie par points), sans réserver de prestations aux Français.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur le commandement intégré de l'OTAN.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Son programme veut « poursuivre et amplifier » le réarmement, sans objectif chiffré en pourcentage du PIB.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position trouvée sur un remboursement à 100 % par la Sécurité sociale.",
@@ -320,6 +275,24 @@
       "resume": "Son programme porte « une réforme de l'assurance chômage qui incite au travail », sans préciser de baisse de la durée ou du montant des indemnités ; Premier ministre, il avait engagé une réforme de l'assurance chômage stoppée par la dissolution.",
       "source": "https://attalpresident.fr/programme/travail-salaires",
       "citation": "C’est pourquoi je porte une réforme de l’assurance chômage qui incite au travail et qui créerait 100 000 emplois supplémentaires.",
+      "date_source": "2026",
+      "confiance": "programme",
+      "relu": true
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur le financement public de l'enseignement privé sous contrat.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_autorite": {
+      "valeur": 0,
+      "resume": "Veut rétablir dès son élection les mesures du « Choc des savoirs » (dont les groupes de niveau) et une école « où l'autorité du professeur est respectée », et viser moins de 20 élèves par classe, notamment en primaire.",
+      "source": "https://attalpresident.fr/programme/education",
+      "citation": "l’une de mes premières décisions sera d’en rétablir les mesures. […] une opportunité pour avoir moins d’élèves par classe notamment en primaire où nous devons viser moins de 20 élèves par classe comme dans les meilleurs systèmes éducatifs européens.",
       "date_source": "2026",
       "confiance": "programme",
       "relu": true
@@ -351,6 +324,33 @@
       "confiance": null,
       "relu": false
     },
+    "ins_proportionnelle": {
+      "valeur": 1,
+      "resume": "Position déduite : son groupe a jugé le scrutin actuel « le moins pire » et la proportionnelle « pas forcément une priorité » ; aucune proposition personnelle trouvée.",
+      "source": "https://lcp.fr/actualites/proportionnelle-aux-legislatives-francois-bayrou-consulte-les-avis-divergent-sur-le",
+      "citation": "Pierre Cazeneuve explique, à l'aune de plusieurs critères, que \"le moins pire de ces scrutins est le mode de scrutin actuel\". Et ajoute que le dossier de la proportionnelle \"n'est pas forcément une priorité\" pour le groupe présidé par Gabriel Attal.",
+      "date_source": "2025-04-30",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "ins_ric": {
+      "valeur": 0,
+      "resume": "Propose une journée référendaire annuelle sur de grands choix nationaux, préparée avec les partis et les partenaires sociaux, sans référendum d'initiative citoyenne.",
+      "source": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+      "citation": "Il souhaite redonner la parole aux citoyens et aux acteurs du terrain en instaurant une journée référendaire annuelle sur les grands choix du pays, tout en facilitant le recours aux référendums locaux.",
+      "date_source": "2026-08-02",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Appelle à une « Ve République du XXIe siècle » plutôt qu'à une VIe République, tout en invitant à « partager le pouvoir » et à renoncer à « l'homme providentiel ».",
+      "source": "https://www.franceinfo.fr/politique/gabriel-attal/en-meeting-a-arras-gabriel-attal-appelle-a-une-ve-republique-du-21e-siecle_7505410.html",
+      "citation": "Il prône une \"nouvelle République démocratique\", pour \"une Ve République du XXIe siècle\". \"Cessons de croire au mythe de l'homme providentiel et acceptons de partager le pouvoir\", a-t-il lancé",
+      "date_source": "2025-09-21",
+      "confiance": "declaration",
+      "relu": true
+    },
     "ins_parlementaires": {
       "valeur": -1,
       "resume": "Dans son discours d'Arras (septembre 2025), a évoqué la réduction du nombre de parlementaires, sans en préciser l'ampleur.",
@@ -363,6 +363,204 @@
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position trouvée sur la reconnaissance du vote blanc.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Propose des barrières commerciales ciblées (taxes à l'importation sur des produits chinois vendus à perte, contrôle des investissements chinois), sans position sur les accords de libre-échange en général.",
+      "source": "https://attalpresident.fr/programme/frontieres",
+      "citation": "c’est accepter de mettre en place des barrières commerciales claires : des taxes à l’importation ciblées sur les produits chinois vendus à perte (acier, voitures électriques, panneaux solaires)",
+      "date_source": "2026",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": -1,
+      "resume": "Souhaite que les transmissions aux petits-enfants soient moins taxées pour faciliter l'accès des jeunes à la propriété, sans proposer de baisse générale des droits de succession.",
+      "source": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+      "citation": "\"Je souhaite que si des personnes veulent que ce soit leurs petits enfants qui héritent davantage, ce soit possible\" et que \"ce soit moins taxé pour que des jeunes qui cherchent à devenir propriétaire, qui ont besoin d'un apport pour acheter un logement, puisse le faire plus facilement\"",
+      "date_source": "2026-08-27",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eco_nationalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": -1,
+      "resume": "Veut privilégier l'immigration de travail par rapport au regroupement familial, avec un système à points fondé sur une offre d'emploi, un logement et la maîtrise du français.",
+      "source": "https://attalpresident.fr/programme/frontieres",
+      "citation": "Notre ligne est claire, ce que nous voulons, c’est accueillir moins pour accueillir mieux, privilégier l’immigration de travail au détriment d’autres types d’immigration comme le regroupement familial, qui doit être mieux encadré et qui doit donc diminuer.",
+      "date_source": "2026",
+      "confiance": "programme",
+      "relu": true
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": -1,
+      "resume": "Soutient la doctrine de « dissuasion nucléaire avancée » proposée par Emmanuel Macron et estime que la défense de l'Europe repose en partie sur la France.",
+      "source": "https://attalpresident.fr/programme/frontieres",
+      "citation": "Notre dissuasion nucléaire doit être un outil de puissance, à travers notamment la doctrine de dissuasion nucléaire avancée proposée par le président de la République. Car la France doit être capable de dissuader, de se projeter, elle et ses alliés, de commander.",
+      "date_source": "2026",
+      "confiance": "programme",
+      "relu": true
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": -2,
+      "resume": "Propose (novembre 2025, comme président du groupe EPR) un nouveau système de retraite universel intégrant une part de capitalisation, avec un compte de capitalisation de 1 000 euros à la naissance.",
+      "source": "https://lcp.fr/actualites/retraites-avant-le-debat-sur-la-suspension-de-la-reforme-gabriel-attal-prone-une",
+      "citation": "Gabriel Attal, va déposer \"dans les jours qui viennent\" une proposition de loi visant à bâtir un nouveau système des retraites \"universel, clair et compréhensible\". Celui-ci intégrerait une part de capitalisation.",
+      "date_source": "2025-11-10",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,

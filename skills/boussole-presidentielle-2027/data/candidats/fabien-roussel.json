@@ -7,7 +7,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-21",
-  "notes": "Candidature approuvée par 72 % des adhérents du PCF lors de la consultation du 3 au 6 septembre 2026 (https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389). Le site fabienroussel2027.fr ne présente pas encore de programme. Plusieurs positions s'appuient sur des discours de 2025 publiés sur pcf.fr ; les autres sont déduites du programme « La France des Jours heureux » publié sur pcf.fr (programme 2022, SMIC actualisé à 1 600 € net sur le site) ; Roussel n'est plus député depuis 2024. À revoir à la publication du programme 2027.",
+  "notes": "Candidature approuvée par 72 % des adhérents du PCF lors de la consultation du 3 au 6 septembre 2026 et officialisée le 6 septembre 2026 (https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389) ; toujours candidat au 21 octobre 2026. Le site de campagne fabienroussel2027.fr n'a pas pu être consulté (accès bloqué) et aucun programme 2027 complet n'a été trouvé ailleurs que sur des agrégateurs. Plusieurs positions s'appuient désormais sur ses discours de 2025-2026 publiés sur pcf.fr (Fête de l'Humanité 2025, universités d'été 2025 et 2026) ; d'autres sur des textes du PCF de 2025 (confiance « deduite ») ; les autres restent déduites du programme 2022 « La France des Jours heureux ». Roussel n'est plus député depuis 2024. À revoir à la publication du programme 2027.",
   "positions": {
     "eco_retraite": {
       "valeur": -2,
@@ -20,29 +20,29 @@
     },
     "eco_smic": {
       "valeur": 2,
-      "resume": "Déduit du programme du PCF en ligne : porter rapidement le SMIC à 1 600 euros net par mois.",
-      "source": "https://www.pcf.fr/objectif_1",
-      "citation": "Le smic horaire sera augmenté pour atteindre rapidement 1 600 euros net par mois (soit 2 021 euros brut).",
-      "date_source": "2022",
-      "confiance": "deduite",
+      "resume": "Demande de porter le SMIC à 2 000 euros brut et d'indexer tous les salaires sur le SMIC (échelle mobile des salaires).",
+      "source": "https://www.pcf.fr/huma_25_discours_fr",
+      "citation": "Eh bien oui, il faut augmenter les salaires et nous demandons l'augmentation du SMIC à 2 000 € brut et une hausse de 10 % du point d'indice des fonctionnaires.",
+      "date_source": "2025-09-17",
+      "confiance": "declaration",
       "relu": true
     },
     "eco_depenses": {
       "valeur": 2,
-      "resume": "Déduit du programme du PCF : refus du « carcan austéritaire » et de la règle des 3 % de déficit, et hausse des recettes par la suppression des niches fiscales des plus riches et le triplement de l'impôt sur la fortune.",
-      "source": "https://www.pcf.fr/moyen_1",
-      "citation": "Les niches fiscales qui favorisent outrageusement les plus riches seront supprimées.",
-      "date_source": "2022",
-      "confiance": "deduite",
+      "resume": "Refuse de nouveaux efforts demandés aux salariés et retraités et veut mettre davantage à contribution les plus riches, notamment par le rétablissement de l'ISF.",
+      "source": "https://www.pcf.fr/huma_25_discours_fr",
+      "citation": "Les sacrifices et les efforts demandés au peuple, aux travailleurs, aux retraités, à la jeunesse, c'est terminé. On a assez donné qu'ils prennent aux riches, mais plus à nous.",
+      "date_source": "2025-09-17",
+      "confiance": "declaration",
       "relu": true
     },
     "eco_patrimoine": {
       "valeur": -2,
-      "resume": "Déduit du programme du PCF : rétablir l'impôt sur la fortune en accentuant taux et progressivité, avec un montant « triplé ».",
-      "source": "https://www.pcf.fr/moyen_1",
-      "citation": "L’impôt sur la fortune sera rétabli, son taux et sa progressivité seront accentués, les niches fiscales qui minent son rendement seront supprimées Son montant sera triplé.",
-      "date_source": "2022",
-      "confiance": "deduite",
+      "resume": "Défend le rétablissement de l'ISF et la mise à contribution des revenus du capital.",
+      "source": "https://www.pcf.fr/huma_25_discours_fr",
+      "citation": "Oui, il est possible de rétablir l'ISF. Oui, il est possible de faire cotiser les revenus du capital pour les retraites, pour notre modèle social, pour la sécurité sociale.",
+      "date_source": "2025-09-17",
+      "confiance": "declaration",
       "relu": true
     },
     "eco_35h": {
@@ -64,12 +64,12 @@
       "relu": true
     },
     "ecol_renouvelables": {
-      "valeur": 0,
-      "resume": "Déduit du programme du PCF : investir dans le solaire et l'éolien « et surtout dans l'hydraulique », aux côtés du nucléaire, sans objectif d'accélération forte de l'éolien et du solaire.",
-      "source": "https://www.pcf.fr/objectif_4",
-      "citation": "en investissant dans les énergies renouvelables (solaire, éolien et surtout dans l’hydraulique, énergie renouvelable pilotable) et dans l’électricité nucléaire avec la construction de six EPR supplémentaires au minimum.",
-      "date_source": "2022",
-      "confiance": "deduite",
+      "valeur": 1,
+      "resume": "Prévoit de doubler la production d'électricité décarbonée, en s'appuyant autant sur les énergies renouvelables que sur le nucléaire.",
+      "source": "https://www.pcf.fr/ue_26_discours_fr",
+      "citation": "nous sommes la seule force politique à gauche à prévoir le doublement de la production d'électricité stable et décarbonée provenant autant des énergies renouvelables que du nucléaire.",
+      "date_source": "2026-08-26",
+      "confiance": "declaration",
       "relu": true
     },
     "ecol_normes": {
@@ -80,6 +80,24 @@
       "date_source": "2025-08-26",
       "confiance": "declaration",
       "relu": true
+    },
+    "ecol_thermique2035": {
+      "valeur": 1,
+      "resume": "Interrogé en mars 2022 par le Journal de l'Automobile sur l'objectif européen de 2035, s'est dit favorable « à la sortie du thermique dans le calendrier le plus rapide possible », sans se prononcer explicitement sur l'échéance de 2035 ; aucune déclaration plus récente trouvée.",
+      "source": "https://journalauto.com/services/presidentielle-2022-fabien-roussel-pcf-lautomobile-de-demain-sera-moins-lourde-moins-polluante-et-electrique/",
+      "citation": "Je suis favorable à la décarbonation la plus rapide possible de la mobilité, donc à la sortie du thermique dans le calendrier le plus rapide possible.",
+      "date_source": "2022-03-21",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "sec_peines": {
       "valeur": null,
@@ -108,6 +126,24 @@
       "confiance": "deduite",
       "relu": true
     },
+    "sec_mineurs": {
+      "valeur": -1,
+      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : supprimer l'enfermement des jeunes de 13 à 16 ans et limiter celui des 16-18 ans ; le programme ne traite pas directement du jugement des mineurs comme des majeurs.",
+      "source": "https://www.pcf.fr/moyen_2",
+      "citation": "L’enfermement des jeunes de 13 à 16 ans sera supprimé et celui des 16 à 18 ans sera limité.",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_videosurveillance": {
+      "valeur": 2,
+      "resume": "Position déduite d'un communiqué du PCF (janvier 2023) qui s'oppose à la légalisation de la vidéosurveillance algorithmique prévue par la loi sur les Jeux olympiques.",
+      "source": "https://www.pcf.fr/les_jeux_olympiques_et_paralympiques_2024_m_ritent_mieux_qu_une_loi_s_curitaire",
+      "citation": "Le projet de loi comporte la légalisation de la vidéosurveillance algorithmique, c’est-à-dire la détection par logiciel d’événements et de comportements dits “suspects”. Or, cette méthode est tout aussi dangereuse que la reconnaissance faciale",
+      "date_source": "2023-01-24",
+      "confiance": "deduite",
+      "relu": true
+    },
     "imm_baisse": {
       "valeur": 1,
       "resume": "Position déduite du programme du PCF (2022) : ouvrir des « voies légales et sécurisées » pour les migrants et renforcer l'accueil des réfugiés, sans proposition de restriction de l'immigration légale.",
@@ -128,10 +164,28 @@
     },
     "imm_regularisation": {
       "valeur": 2,
-      "resume": "Déduit du programme du PCF : « les travailleuses et travailleurs sans papiers en activité seront régularisés ».",
-      "source": "https://www.pcf.fr/objectif_6",
-      "citation": "Les travailleuses et travailleurs sans papiers en activité seront régularisés, car l’égalité de statut est une arme contre le travail clandestin et la mise en concurrence des salarié·e·s […]",
-      "date_source": "2022",
+      "resume": "Position déduite d'une déclaration du PCF (mars 2025) : exige la régularisation de tous les travailleurs sans papiers.",
+      "source": "https://www.pcf.fr/contre_xenophobie_racisme_antisemitisme_gagnons_egalite_des_droits",
+      "citation": "nous exigeons : La régularisation de tous les travailleuses et travailleurs sans-papiers",
+      "date_source": "2025-03-03",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "imm_droitdusol": {
+      "valeur": -2,
+      "resume": "Position déduite d'un communiqué du PCF (février 2025) qui condamne la restriction du droit du sol à Mayotte et défend le droit du sol comme pilier de la République.",
+      "source": "https://www.pcf.fr/restriction_du_droit_du_sol_mayotte",
+      "citation": "Le droit du sol est un pilier de notre République. L’affaiblir, c’est ouvrir la porte à des reculs généralisés sur tout le territoire national",
+      "date_source": "2025-02-07",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Position déduite d'une déclaration du PCF (mars 2025) qui combat le principe de « priorité nationale », présenté comme un ressort de la xénophobie.",
+      "source": "https://www.pcf.fr/contre_xenophobie_racisme_antisemitisme_gagnons_egalite_des_droits",
+      "citation": "Nous combattons le racisme et la xénophobie qui demeurent des ressorts majeurs de la progression de l’extrême droite en alimentant le rejet des immigrés et en portant le principe de « priorité nationale », clé de voûte du programme du RN.",
+      "date_source": "2025-03-03",
       "confiance": "deduite",
       "relu": true
     },
@@ -162,6 +216,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "Demande que la France sorte du commandement intégré de l'OTAN.",
+      "source": "https://www.pcf.fr/ue_25_discours_fr",
+      "citation": "La France doit sortir du commandement intégré de l’OTAN. C’est la condition de notre souveraineté stratégique.",
+      "date_source": "2025-08-26",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": 2,
+      "resume": "Refuse la hausse prévue du budget de la défense (36 milliards d'euros supplémentaires d'ici 2030), au profit des services publics.",
+      "source": "https://www.pcf.fr/ue_26_discours_fr",
+      "citation": "Ce sont 36 milliards d'euros pour le budget de la défense en plus, qui sonts prévu d'ici 2030. Et forcément moins d'argent pour nos services publics et pour nos concitoyens. Nous ne voulons pas de ces choix.",
+      "date_source": "2026-08-26",
+      "confiance": "declaration",
+      "relu": true
+    },
     "soc_medecins": {
       "valeur": -2,
       "resume": "Déduit du programme du PCF : conventionnement sélectif ; en zone dense, un médecin ne pourra s'installer que si un autre part à la retraite.",
@@ -189,7 +261,34 @@
       "confiance": "declaration",
       "relu": true
     },
+    "soc_100secu": {
+      "valeur": -1,
+      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : mettre fin au reste à charge et aller vers une prise en charge des soins à 100 % par la Sécurité sociale, sans préciser le sort des complémentaires santé.",
+      "source": "https://www.pcf.fr/objectif_2",
+      "citation": "La démocratie sociale et une réforme de progrès du financement permettront de mettre fin au reste à charge des dépenses de soins, d’aller vers une véritable prise en charge à 100 % […]",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : abrogation immédiate de la loi Borne sur l'assurance chômage.",
+      "source": "https://www.pcf.fr/objectif_1",
+      "citation": "La loi El Khomri, les ordonnances Macron et la loi Borne sur l’Assurance-chômage seront immédiatement abrogées",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
     "edu_prive": {
+      "valeur": 2,
+      "resume": "Position déduite d'un texte de la commission Éducation du PCF (juin 2025) : réserver l'argent public à l'école publique et contester le subventionnement du privé sous contrat.",
+      "source": "https://www.pcf.fr/pour_la_transparence_des_financements",
+      "citation": "Si nous considérons que la seule solution reste de réserver l’argent public à l’école publique, nous ne pouvons nous contenter d’une telle affirmation",
+      "date_source": "2025-06-04",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "edu_autorite": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
@@ -198,7 +297,25 @@
       "confiance": null,
       "relu": false
     },
-    "edu_autorite": {
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_etudiants": {
+      "valeur": -2,
+      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : un revenu de 850 euros par mois pour tous les étudiants, financé par une cotisation sociale et par l'État.",
+      "source": "https://www.pcf.fr/objectif_3",
+      "citation": "Un revenu, fixé à 850 euros par mois, pour tous les étudiants et toutes les étudiantes, sera mis en place",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
@@ -234,123 +351,6 @@
       "confiance": "deduite",
       "relu": true
     },
-    "ecol_thermique2035": {
-      "valeur": 1,
-      "resume": "Interrogé en mars 2022 par le Journal de l'Automobile sur l'objectif européen de 2035, s'est dit favorable « à la sortie du thermique dans le calendrier le plus rapide possible », sans se prononcer explicitement sur l'échéance de 2035 ; aucune déclaration plus récente trouvée.",
-      "source": "https://journalauto.com/services/presidentielle-2022-fabien-roussel-pcf-lautomobile-de-demain-sera-moins-lourde-moins-polluante-et-electrique/",
-      "citation": "Je suis favorable à la décarbonation la plus rapide possible de la mobilité, donc à la sortie du thermique dans le calendrier le plus rapide possible.",
-      "date_source": "2022-03-21",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": -1,
-      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : supprimer l'enfermement des jeunes de 13 à 16 ans et limiter celui des 16-18 ans ; le programme ne traite pas directement du jugement des mineurs comme des majeurs.",
-      "source": "https://www.pcf.fr/moyen_2",
-      "citation": "L’enfermement des jeunes de 13 à 16 ans sera supprimé et celui des 16 à 18 ans sera limité.",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": 2,
-      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : la France quitterait l'OTAN, immédiatement son commandement intégré, et demanderait sa dissolution.",
-      "source": "https://www.pcf.fr/moyen_3",
-      "citation": "Sortie de l’OTAN, et immédiatement de son commandement intégré, elle mettra un terme aux opérations militaires extérieures et fermera ses bases hors du pays.",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_100secu": {
-      "valeur": -1,
-      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : mettre fin au reste à charge et aller vers une prise en charge des soins à 100 % par la Sécurité sociale, sans préciser le sort des complémentaires santé.",
-      "source": "https://www.pcf.fr/objectif_2",
-      "citation": "La démocratie sociale et une réforme de progrès du financement permettront de mettre fin au reste à charge des dépenses de soins, d’aller vers une véritable prise en charge à 100 % […]",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "soc_chomage": {
-      "valeur": -2,
-      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : abrogation immédiate de la loi Borne sur l'assurance chômage.",
-      "source": "https://www.pcf.fr/objectif_1",
-      "citation": "La loi El Khomri, les ordonnances Macron et la loi Borne sur l’Assurance-chômage seront immédiatement abrogées",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "edu_signes": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_etudiants": {
-      "valeur": -2,
-      "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : un revenu de 850 euros par mois pour tous les étudiants, financé par une cotisation sociale et par l'État.",
-      "source": "https://www.pcf.fr/objectif_3",
-      "citation": "Un revenu, fixé à 850 euros par mois, pour tous les étudiants et toutes les étudiantes, sera mis en place",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
@@ -363,6 +363,204 @@
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 2,
+      "resume": "Au meeting de Marseille (novembre 2025), annonce que les traités de libre-échange comme le CETA et le Mercosur ne seront pas appliqués, pour protéger les agriculteurs.",
+      "source": "https://www.pcf.fr/meeting_marseille_231125_discours_fr",
+      "citation": "Ensemble, avec le peuple souverain, nous déciderons de ne pas appliquer les traités de libre-échange mortifères tel que le CETA, le Mercosur. Nous protégerons nos agriculteurs, nos viticulteurs, notre gastronomie.",
+      "date_source": "2025-11-23",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eco_succession": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF (2022) : accentuer fortement la progressivité des droits de succession, avec une franchise de 170 000 euros.",
+      "source": "https://www.pcf.fr/moyen_1",
+      "citation": "La fiscalité des donations et des successions sera profondément réformée […] Sa progressivité sera fortement accentuée, en doublant le nombre de tranches en fonction de deux critères : la valeur des biens transmis et la capacité contributive (les ressources) des donataires",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "À la Fête de l'Humanité 2025, défend un État « qui nationalise quand c'est nécessaire », par exemple ArcelorMittal, Vencorex et Sanofi ; le programme du PCF de 2022 prévoyait aussi de nationaliser les autoroutes.",
+      "source": "https://www.pcf.fr/huma_25_discours_fr",
+      "citation": "Nous avons besoin d'un Etat plus fort, d'un Etat stratège qui organise la relocalisation de la production, qui organise les filières, qui nationalise quand c'est nécessaire, comme à Arcelor, comme dans la chimie avec Vencorex et avec Sanofi.",
+      "date_source": "2025-09",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": -2,
+      "resume": "Déduit du programme du PCF (2022) : combattre les contrôles au faciès par la mise en place d'un récépissé.",
+      "source": "https://www.pcf.fr/objectif_6",
+      "citation": "Les contrôles au faciès seront combattus, grâce à la mise en place du récépissé justifiant qu’une personne a déjà été contrôlée.",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": 1,
+      "resume": "Reproche au gouvernement d'inviter les communes à investir dans les polices municipales et estime que c'est à l'État d'assurer la sécurité partout, sans se prononcer sur les pouvoirs des polices municipales.",
+      "source": "https://www.pcf.fr/ue_25_discours_fr",
+      "citation": "nous avons un gouvernement et un ministre de l’intérieur qui invitent les communes à investir dans les polices municipales, dans la vidéo surveillance et bien sur, à tout payer ! Mais que fait l’État ? C’est à lui de garantir partout […] le droit à la tranquillité !",
+      "date_source": "2025-08-26",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": 2,
+      "resume": "Au meeting de Vénissieux (avril 2025), qualifie de « scandale » l'idée de discuter du partage de la dissuasion nucléaire française avec les Européens.",
+      "source": "https://www.pcf.fr/discours_fr_meeting_venissieux",
+      "citation": "plutôt que de discuter du partage de la dissuasion nucléaire française - quel scandale quand même ! - exigeons plutôt des chefs d'État européens qu'ils travaillent à la paix en Europe",
+      "date_source": "2025-04-08",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": -2,
+      "resume": "Déduit du programme du PCF (2022) : encadrer les loyers et limiter la quittance à 20 % des revenus du foyer.",
+      "source": "https://www.pcf.fr/objectif_6",
+      "citation": "Les loyers seront encadrés et la quittance ne devra pas dépasser 20 % des revenus du foyer.",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "edu_selection_universite": {
+      "valeur": 2,
+      "resume": "Déduit du programme du PCF (2022) : supprimer la sélection à l'entrée de l'université et Parcoursup, le bac garantissant une place dans une formation choisie.",
+      "source": "https://www.pcf.fr/objectif_3",
+      "citation": "La sélection à l’entrée de l’université sera supprimée Les réformes du lycée et du baccalauréat seront abrogées, et « Parcoursup » sera supprimé.",
+      "date_source": "2022",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,
