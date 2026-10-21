@@ -177,7 +177,7 @@
       "citation": "Il maintient cette position s'il accédait à l'Elysée : \"Je ferai un bilan au bout d'un an et, en fonction, je verrai si je ne demande pas aux Français de trancher par eux-mêmes\", déclarait-il mercredi soir sur BFMTV.",
       "date_source": "2026-07-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": 2,
@@ -222,7 +222,7 @@
       "citation": "Plus consensuel, Bruno Retailleau souhaite aussi « alléger les contraintes nécessaires à l’organisation d’un référendum d’initiative partagée (RIP) » avec 2,5 millions de signatures nécessaires contre 5 millions aujourd’hui.",
       "date_source": "2026-09-03",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_6e": {
       "valeur": -1,
@@ -231,7 +231,7 @@
       "citation": "« À l’avenir, lorsque le Conseil constitutionnel censurera une loi votée par le Parlement, le président de la République pourra donner la parole au peuple français pour censurer la censure. Soit par référendum, soit en réunissant le Parlement en congrès »",
       "date_source": "2026-09-03",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -357,7 +357,7 @@
       "citation": "\"Je suis pour, à la condition que cela puisse donner un certain nombre de moyens aux parlementaires\", a déclaré le sénateur Bruno Retailleau",
       "date_source": "2017-07-04",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_voteblanc": {
       "valeur": null,

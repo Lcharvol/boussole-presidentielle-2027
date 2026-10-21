@@ -78,7 +78,7 @@
       "citation": "Nous proposons d’en finir avec les surtranspositions françaises, l’alignement réglementaire avec le marché commun, et la mise en œuvre de clauses miroirs obligatoires pour les produits importés.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": 2,
@@ -105,7 +105,7 @@
       "citation": "Il y a des jours où je me demande s’il ne faut pas sortir de la prohibition sur certaines drogues pour casser une partie des trafics. […] Je n’ai pas de réponse définitive.",
       "date_source": "2026-07",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": 2,
@@ -141,7 +141,7 @@
       "citation": "Ni le fédéralisme ni le repli vers des États-Nations isolés ne sont des solutions. […] La négociation d’un Traité de démocratisation de l’Europe permettra de revoir la répartition des compétences",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 1,
@@ -150,7 +150,7 @@
       "citation": "Inscrire la primauté du droit national en matière migratoire dans la Constitution afin de rendre inapplicables les décisions de la CJUE et de la CEDH contraires à l’intérêt national Sortir de la CEDH en dernier recours",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": 2,
@@ -168,7 +168,7 @@
       "citation": "Mais cela ne passe ni par la contrainte, ni par les injonctions administratives. Cela passe par l’incitation, la liberté contractuelle, l’efficacité territoriale.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_findevie": {
       "valeur": -1,
@@ -177,7 +177,7 @@
       "citation": "l’homme politique confie encore pourquoi il est opposé à une loi sur euthanasie qui serait \"un basculement anthropologique majeur\".",
       "date_source": "2025-01-18",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_rsa": {
       "valeur": null,
@@ -204,7 +204,7 @@
       "citation": "Contre quarante ans de pédagogisme inefficace, nous rétablirons l’autorité du professeur, le primat du cours sur l’animation, et la logique de progression sur celle du ressenti.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": null,
@@ -231,7 +231,7 @@
       "citation": "A l’opposé de l’ « hyperprésidentialisme jupitérien », le rôle du Président de la République doit être recentré sur son statut constitutionnel autour de trois grandes fonctions",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -267,7 +267,7 @@
       "citation": "moderniser les outils (vidéoprotection, radios numériques, IA de prévention",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_droitdusol": {
       "valeur": 1,
@@ -276,7 +276,7 @@
       "citation": "Mettre fin à l’automaticité du droit du sol",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_preference": {
       "valeur": 1,
@@ -285,7 +285,7 @@
       "citation": "Conditionner les prestations sociales non contributives aux étrangers résidant régulièrement sur le territoire national depuis au moins cinq ans",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_otan": {
       "valeur": null,
@@ -348,7 +348,7 @@
       "citation": "Enfin, la limite d’âge pour l’apprentissage sera revue à la baisse.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_parlementaires": {
       "valeur": null,

@@ -15,7 +15,7 @@
       "citation": "Scrutin public n°3684 sur l'article 45 bis (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).",
       "date_source": "2025-11-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": null,
@@ -114,7 +114,7 @@
       "citation": "Scrutin public n°3213 sur l'ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration (texte de la commission mixte paritaire).",
       "date_source": "2023-12-19",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,
@@ -186,7 +186,7 @@
       "citation": "Scrutin public n°2965 sur l'ensemble du projet de loi pour le plein emploi (texte de la commission mixte paritaire).",
       "date_source": "2023-11-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_prive": {
       "valeur": null,
@@ -258,7 +258,7 @@
       "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
       "date_source": "2025-05-13",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": -1,
@@ -267,7 +267,7 @@
       "citation": "Scrutin public n°1305 sur l'ensemble du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions (première lecture).",
       "date_source": "2023-03-28",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_droitdusol": {
       "valeur": null,
@@ -321,7 +321,7 @@
       "citation": "Scrutin public n°236 sur l'ensemble du projet de loi portant mesures d'urgence relatives au fonctionnement du marché de travail en vue du plein emploi (première lecture).",
       "date_source": "2022-10-11",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,
@@ -339,7 +339,7 @@
       "citation": "Scrutin public n°2761 sur la proposition de résolution invitant le Gouvernement à la mise en place d'un revenu étudiant (article 34-1 de la Constitution).",
       "date_source": "2020-06-18",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_apprentissage": {
       "valeur": null,

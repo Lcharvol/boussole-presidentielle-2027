@@ -15,7 +15,7 @@
       "citation": "Ma préférence va à un système plus souple, plus juste, plus simple. Il supprimerait l’âge légal et reposerait sur une règle de durée de cotisations, avec une prise en compte sérieuse de la pénibilité des métiers.",
       "date_source": "2026-03-27",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": -1,
@@ -24,7 +24,7 @@
       "citation": "Plus de 200 Md€ de cotisations basculés vers une CSG universelle : +200 € nets par mois en moyenne, +100 € au Smic.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_depenses": {
       "valeur": 0,
