@@ -1179,14 +1179,14 @@
           "question": "Service militaire :",
           "a": "Le rendre obligatoire",
           "b": "Le proposer aux volontaires",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eur_service_militaire.2",
           "question": "Pour les jeunes, que privilégier ?",
           "a": "Un service militaire obligatoire de quelques mois",
           "b": "Un service militaire volontaire",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -1202,14 +1202,14 @@
           "question": "Dissuasion nucléaire française :",
           "a": "L'associer à la défense de l'Europe",
           "b": "La réserver à la défense de la France",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eur_dissuasion.2",
           "question": "Arme nucléaire française, que privilégier ?",
           "a": "Qu'elle couvre aussi nos partenaires européens",
           "b": "Qu'elle reste sous la seule décision de la France, pour sa seule défense",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -1225,14 +1225,14 @@
           "question": "Élargissement de l'Union européenne (Ukraine, Moldavie, Balkans…) :",
           "a": "Faire entrer de nouveaux pays",
           "b": "Ne plus faire entrer de nouveaux pays",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eur_elargissement.2",
           "question": "Pour l'Union européenne, que privilégier ?",
           "a": "S'agrandir à de nouveaux pays",
           "b": "Se consolider sans nouveaux membres",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -1248,14 +1248,7 @@
           "question": "Retraites :",
           "a": "Ajouter une part de capitalisation (épargne placée)",
           "b": "Garder la seule répartition (cotisations des actifs)",
-          "validee": false
-        },
-        {
-          "id": "soc_capitalisation.2",
-          "question": "Pour financer les retraites de demain, que privilégier ?",
-          "a": "Une part d'épargne placée sur les marchés financiers",
-          "b": "La solidarité entre actifs et retraités (répartition)",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -1271,14 +1264,14 @@
           "question": "Allocations familiales :",
           "a": "Les moduler selon les revenus des familles",
           "b": "Les verser au même montant à toutes les familles",
-          "validee": false
+          "validee": true
         },
         {
           "id": "soc_allocations_familiales.2",
           "question": "Aide aux familles, que privilégier ?",
           "a": "Une aide qui dépend des revenus des parents",
           "b": "La même aide pour chaque enfant",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -1294,14 +1287,14 @@
           "question": "Loyers dans les villes où ils sont élevés :",
           "a": "Les plafonner",
           "b": "Les laisser libres",
-          "validee": false
+          "validee": true
         },
         {
           "id": "soc_loyers.2",
           "question": "Pour le logement, que privilégier ?",
           "a": "Limiter la hausse des loyers",
           "b": "Inciter les propriétaires à louer",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -1317,14 +1310,14 @@
           "question": "Entrée à l'université :",
           "a": "Sélectionner les étudiants selon leur dossier",
           "b": "Ouvrir l'accès à tout bachelier",
-          "validee": false
+          "validee": true
         },
         {
           "id": "edu_selection_universite.2",
           "question": "Licences à l'université, que privilégier ?",
           "a": "Admettre selon le niveau",
           "b": "Admettre tous les bacheliers qui le demandent",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -1340,14 +1333,14 @@
           "question": "Salaire des enseignants :",
           "a": "Une part liée à l'évaluation de leur travail",
           "b": "Une hausse identique pour tous",
-          "validee": false
+          "validee": true
         },
         {
           "id": "edu_remuneration.2",
           "question": "Pour revaloriser le métier d'enseignant, que privilégier ?",
           "a": "Récompenser davantage les enseignants les mieux évalués",
           "b": "Augmenter tous les enseignants selon une grille commune",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -1363,14 +1356,14 @@
           "question": "Cumul des mandats :",
           "a": "Permettre à un parlementaire d'être aussi maire",
           "b": "Garder l'interdiction actuelle",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ins_cumul.2",
           "question": "Pour un député, que privilégier ?",
           "a": "Garder un ancrage local en restant maire",
           "b": "Se consacrer entièrement à son mandat national",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -1386,14 +1379,14 @@
           "question": "Mandat du président de la République :",
           "a": "Un seul mandat de 7 ans",
           "b": "5 ans, renouvelable une fois",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ins_mandat_unique.2",
           "question": "Pour le président de la République, que privilégier ?",
           "a": "Un mandat long, sans réélection possible",
           "b": "Un mandat court, avec une réélection possible",
-          "validee": false
+          "validee": true
         }
       ]
     }
