@@ -97,7 +97,7 @@
       "citation": "En privilégiant les comparutions immédiates, passées de trente et une mille affaires en 2001 à près de cinquante mille en 2021, on a rempli des prisons parmi les plus surpeuplées d’Europe. La prison ne peut pas être la réponse par défaut.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,

@@ -97,7 +97,7 @@
       "citation": "Construire les dizaines de milliers de places de prison qui manquent et expulser les prisonniers étrangers (ils représentent 25% du total des prisonniers).",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,

@@ -97,7 +97,7 @@
       "citation": "M. Philippe défend \"une stratégie d’enfermement immédiat des délinquants, y compris pour des peines très brèves, dès la première infraction, dans des établissements pour courtes peines\"",
       "date_source": "2025-05-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,

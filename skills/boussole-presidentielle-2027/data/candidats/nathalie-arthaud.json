@@ -97,7 +97,7 @@
       "citation": "Darmanin a accumulé ces derniers temps des propositions sécuritaires en tout genre : louer des places de prison à l’étranger, […] installer des préfabriqués pour augmenter le nombre de places […]. Quant à résoudre les problèmes de la délinquance, que la prison nourrit autant que la rue",
       "date_source": "2025-06-11",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,

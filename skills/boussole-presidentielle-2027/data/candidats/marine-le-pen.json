@@ -97,7 +97,7 @@
       "citation": "Supprimer toute possibilité de réduction et d’aménagements de peine, en particulier pour les violences contre les personnes. […] Atteindre 85 000 places de prison en 2027.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": -2,

@@ -97,7 +97,7 @@
       "citation": "Adopter un moratoire sur la construction de nouvelles places de prison en dehors de celles destinées à remplacer les prisons insalubres. […] Développer la probation et les possibilités de placement extérieurs et de semi-liberté […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 2,

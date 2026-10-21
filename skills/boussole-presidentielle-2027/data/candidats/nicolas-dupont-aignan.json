@@ -97,7 +97,7 @@
       "citation": "Prison ferme pour les multirécidivistes […] Construction de 40 000 places de prison",
       "date_source": "2026-10-20",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": -2,

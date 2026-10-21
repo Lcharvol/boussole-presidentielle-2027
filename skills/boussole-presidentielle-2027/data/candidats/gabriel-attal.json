@@ -97,7 +97,7 @@
       "citation": "Il défend également une réécriture complète du Code de procédure pénale, la construction de nouvelles places de prison classées comme opérations d'intérêt national […]",
       "date_source": "2026-08-02",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": null,

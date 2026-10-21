@@ -97,7 +97,7 @@
       "citation": "Lancer un plan de construction de prisons afin de garantir que les peines courtes seront appliquées et que les conditions d’hygiène / sécurité seront respectées. Elles devront être à taille humaine.",
       "date_source": "2022-02-25",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 2,

@@ -97,7 +97,7 @@
       "citation": "Déployer massivement la justice restaurative et les travaux d’intérêt général (TIG), leviers de réinsertion […]. Lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus, en investissant dans des prisons rénovées et dignes […]",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 0,

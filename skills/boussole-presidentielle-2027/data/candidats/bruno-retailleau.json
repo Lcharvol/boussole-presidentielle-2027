@@ -97,7 +97,7 @@
       "citation": "Michel Barnier et Bruno Retailleau plaident pour la création « d’établissements différenciés, notamment adaptés aux mineurs, pour mettre en œuvre les courtes peines ».",
       "date_source": "2024-10-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": -2,

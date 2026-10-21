@@ -97,7 +97,7 @@
       "citation": "David Lisnard s’engage à construire vingt mille places de prison. […] la pénurie de places façonne la pratique pénale elle-même, produisant à la fois une surpopulation carcérale et une sous-incarcération qu’il tient pour une source d’arbitraire.",
       "date_source": "2026-10-16",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_cannabis": {
       "valeur": 0,
