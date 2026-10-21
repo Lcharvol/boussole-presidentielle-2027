@@ -506,14 +506,14 @@
           "question": "Union européenne : quelle direction ?",
           "a": "Plus de décisions prises en commun (défense, emprunt commun, vote à la majorité)",
           "b": "Plus de décisions laissées à chaque État (budget, défense, droit de veto)",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eur_integration.2",
           "question": "Pour peser face aux États-Unis et à la Chine, que privilégier ?",
           "a": "Une Europe plus intégrée, avec des politiques communes",
           "b": "Une coopération entre États qui gardent la main",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -529,14 +529,14 @@
           "question": "En cas de conflit entre le droit français et le droit de l'Union européenne :",
           "a": "Appliquer le droit européen",
           "b": "Appliquer le droit français",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eur_primaute.2",
           "question": "Les traités européens :",
           "a": "Les appliquer, y compris quand ils priment sur la loi française",
           "b": "Les renégocier pour que la loi française prime sur eux",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -552,14 +552,14 @@
           "question": "Guerre en Ukraine : que doit faire la France ?",
           "a": "Poursuivre son aide militaire, pour soutenir la défense de l'Ukraine",
           "b": "Y mettre fin, pour éviter une escalade du conflit",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eur_ukraine.2",
           "question": "Pour mettre fin à la guerre en Ukraine, que privilégier ?",
           "a": "Continuer à livrer des armes à l'Ukraine",
           "b": "Arrêter de livrer des armes à l'Ukraine",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -575,14 +575,14 @@
           "question": "La France et l'OTAN :",
           "a": "Rester dans le commandement intégré",
           "b": "Quitter le commandement intégré",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eur_otan.2",
           "question": "Pour la défense de la France, que privilégier ?",
           "a": "La coopération militaire au sein de l'OTAN",
           "b": "Une défense indépendante, hors du commandement de l'OTAN",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -598,14 +598,14 @@
           "question": "Budget de la défense :",
           "a": "Le porter à 3 % du PIB ou plus",
           "b": "Le garder sous 3 % du PIB",
-          "validee": false
+          "validee": true
         },
         {
           "id": "eur_defense3.2",
           "question": "Avec l'argent public disponible, que privilégier ?",
           "a": "Porter les dépenses militaires à 3 % du PIB",
           "b": "Limiter leur hausse pour financer d'autres priorités",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -621,14 +621,14 @@
           "question": "Pour lutter contre les déserts médicaux, que privilégier ?",
           "a": "Encadrer l'installation des médecins dans les zones bien dotées",
           "b": "Garder la liberté d'installation et inciter à s'installer ailleurs",
-          "validee": false
+          "validee": true
         },
         {
           "id": "soc_medecins.2",
           "question": "Liberté d'installation des médecins :",
           "a": "La limiter dans les zones bien pourvues",
           "b": "La conserver, y compris dans ces zones",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -644,14 +644,14 @@
           "question": "Aide à mourir :",
           "a": "Revenir sur cette loi",
           "b": "Garder cette loi",
-          "validee": false
+          "validee": true
         },
         {
           "id": "soc_findevie.2",
           "question": "Pour la fin de vie, que privilégier ?",
           "a": "Interdire l'aide à mourir",
           "b": "Autoriser l'aide à mourir",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -663,18 +663,11 @@
       "contexte": null,
       "variantes": [
         {
-          "id": "soc_rsa.1",
-          "question": "Revenu de solidarité active (RSA) :",
-          "a": "Exiger des heures d'activité pour le verser",
-          "b": "Le verser sans exiger d'heures d'activité",
-          "validee": false
-        },
-        {
           "id": "soc_rsa.2",
           "question": "Pour les allocataires du RSA, que privilégier ?",
           "a": "Une contrepartie en heures d'activité",
           "b": "Un accompagnement sans obligation d'heures",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -690,14 +683,14 @@
           "question": "Remboursement des soins :",
           "a": "Tout par la Sécurité sociale, sans complémentaire santé",
           "b": "Partagé entre Sécurité sociale et complémentaires santé",
-          "validee": false
+          "validee": true
         },
         {
           "id": "soc_100secu.2",
           "question": "Complémentaires santé (mutuelles) :",
           "a": "Les remplacer par un remboursement intégral par la Sécurité sociale",
           "b": "Les conserver aux côtés de la Sécurité sociale",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -713,14 +706,14 @@
           "question": "Assurance chômage :",
           "a": "Garder la durée et le montant actuels des allocations",
           "b": "Réduire la durée ou le montant des allocations",
-          "validee": false
+          "validee": true
         },
         {
           "id": "soc_chomage.2",
           "question": "Pour les demandeurs d'emploi, que privilégier ?",
           "a": "Une indemnisation qui protège leur niveau de vie",
           "b": "Une indemnisation plus courte qui incite à reprendre un emploi",
-          "validee": false
+          "validee": true
         }
       ]
     },
