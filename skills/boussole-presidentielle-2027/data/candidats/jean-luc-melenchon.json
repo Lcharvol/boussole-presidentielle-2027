@@ -376,7 +376,7 @@
       "citation": "Utiliser le droit de veto de la France, par exemple pour refuser tous les nouveaux accords de libre-échange (avec le Mercosur, y compris révisé, le Chili, le Mexique, l’Inde, l’Indonésie, le Kenya, l’Australie, les Philippines, la Thaïlande, etc.)",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": 2,
@@ -385,7 +385,7 @@
       "citation": "Augmenter les droits de succession sur les plus hauts patrimoines en comptabilisant l’ensemble des dons et héritages reçus tout au long de la vie et créer un héritage maximal de 12 millions d’euros (soit 100 fois le patrimoine net médian)",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Renationaliser les autoroutes, en revenant sur les hausses de prix passées, ainsi que les aéroports stratégiques",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": -2,
@@ -403,7 +403,7 @@
       "citation": "Mettre en place un plan de protection généralisée du foncier agricole, forestier et naturel en vue de mettre en œuvre le « zéro artificialisation nette » des sols dès 2027 en hexagone",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": 1,
@@ -412,7 +412,7 @@
       "citation": "Instaurer un moratoire sur le déploiement des méga-bassines • Décider démocratiquement d’un nouveau partage sobre de l’eau entre ses usages agricoles, énergétiques, industriels, de transport et de potabilisation",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": 1,
@@ -421,7 +421,7 @@
       "citation": "Décréter un moratoire sur les zones à faibles émissions (ZFE) dans leur conception actuelle, dont les critères induisent des inégalités sociales et une trop grande tolérance à l’égard de certains véhicules, notamment les SUV, qualifiés à tort de non-polluants",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": -2,
@@ -430,7 +430,7 @@
       "citation": "Mettre en place le récépissé de contrôle d’identité par les forces de l’ordre pour lutter contre le contrôle au faciès, accompagné de dispositifs de formation, de contrôle et de sanctions",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_legitime_defense": {
       "valeur": -2,
@@ -439,7 +439,7 @@
       "citation": "Abroger la loi Cazeneuve sur le refus d’obtempérer, dite « permis de tuer »",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_police_municipale": {
       "valeur": 2,
@@ -448,7 +448,7 @@
       "citation": "Intégrer les effectifs de police municipale à la nouvelle police de proximité après une formation de quelques mois, la répartir en fonction de la taille de la population et des besoins objectifs, et la placer sous l’autorité fonctionnelle du maire et l’autorité hiérarchique du préfet",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": null,
@@ -475,7 +475,7 @@
       "citation": "Garantir le droit du sol intégral à tous les enfants nés en France, le rétablir sur l’ensemble du territoire national et faciliter l’accès à la nationalité française",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_service_militaire": {
       "valeur": 0,
@@ -484,7 +484,7 @@
       "citation": "Mettre en place une conscription citoyenne de neuf mois, pour les femmes et les hommes de moins de 25 ans, rémunérée au SMIC - revalorisé - ; elle comprend une formation militaire initiale (avec droit d’objection de conscience) et des tâches d’utilité publique",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": 2,
@@ -493,7 +493,7 @@
       "citation": "Elle ne se partage donc pas. […] La France insoumise refuse solennellement ce choix.",
       "date_source": "2024-02-01",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": 1,
@@ -502,7 +502,7 @@
       "citation": "Utiliser le droit de veto de la France, par exemple pour refuser […] tout nouvel élargissement sans harmonisation sociale, fiscale et environnementale préalable",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "soc_capitalisation": {
       "valeur": null,
@@ -529,7 +529,7 @@
       "citation": "Encadrer les loyers partout sur le territoire et à la baisse dans les grandes villes",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": 2,
@@ -538,7 +538,7 @@
       "citation": "Garantir à tous les bacheliers l’accès sans sélection à la formation de leur choix en démantelant le système Parcoursup et restaurer le droit à la poursuite d’études en Master",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_remuneration": {
       "valeur": 1,
@@ -547,7 +547,7 @@
       "citation": "Rattraper le gel du point d’indice depuis 2010 et revaloriser les grilles salariales en engageant une négociation avec les organisations syndicales et mettre fin au Pacte enseignant",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": 2,
@@ -556,7 +556,7 @@
       "citation": "Rendre effectif le principe du non-cumul des mandats et des indemnités, y compris dans le temps",
       "date_source": "2025-02",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_mandat_unique": {
       "valeur": null,
