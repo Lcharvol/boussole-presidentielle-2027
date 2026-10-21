@@ -376,7 +376,7 @@
       "citation": "Donc, on sauve nos agriculteurs, on arrête de les laisser en concurrence avec le reste du monde, et donc, par exemple, dans la commande publique, on commande à nos agriculteurs.",
       "date_source": "2026-09-15",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": null,
@@ -394,7 +394,7 @@
       "citation": "Quand, par exemple, l'Union Européenne essaye de nous expliquer qu'il faut privatiser notre énergie hydroélectrique, nos barrages, c'est non. Et on renationalise EDF",
       "date_source": "2026-09-15",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": null,
@@ -412,7 +412,7 @@
       "citation": "Elle défend une planification de la gestion de l’eau par la puissance publique, afin d’organiser le partage de la ressource […] Parmi les autres pistes qu’elle avance figurent la lutte contre le gaspillage, la récupération des eaux grises, ainsi que le stockage et l’irrigation raisonnée",
       "date_source": "2026-10-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": null,
@@ -484,7 +484,7 @@
       "citation": "on n’apprend rien en un mois, ni les bases de la défense civile et du maniement des armes, ni le minimum de règles de vie en commun qui permettraient de reconstruire une communauté nationale. Il avance aujourd’hui l’idée d’un service de 3 à 6 mois. On sort des promesses ineptes.",
       "date_source": "2018-02-16",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": null,
@@ -547,7 +547,7 @@
       "citation": "on va comptabiliser autre chose que simplement le temps passé devant les élèves […] Et en échange, on augmente les salaires entre 20 et 30 %.",
       "date_source": "2026-10-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": null,

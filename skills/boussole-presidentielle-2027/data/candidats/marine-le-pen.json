@@ -376,7 +376,7 @@
       "citation": "Un Pacte pour établir une concurrence extra-européenne loyale : - Instaurer un moratoire sur la négociation de nouveaux accords de libre-échange par l’UE.",
       "date_source": "2024-05",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -2,
@@ -385,7 +385,7 @@
       "citation": "\"Pour ce qui est des droits de succession, sortiront de l'assiette de calcul, les biens immobiliers à hauteur de 300.000 euros\", précise sur son site le mouvement, qui veut aussi que \"les donations […] bénéficient d'un abattement de 100.000 euros tous les dix ans contre 15 aujourd'hui\".",
       "date_source": "2026-08-27",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Renationaliser les autoroutes pour baisser de 15% les péages et privatiser l’audiovisuel public pour supprimer les 138€ de redevance.",
       "date_source": "2022-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": null,
@@ -412,7 +412,7 @@
       "citation": "La création de réserves d’eau et la mise en place de systèmes d’irrigation adaptés aux enjeux environnementaux sont incontournables pour assurer l’avenir des productions agricoles d’une partie importante de notre pays.",
       "date_source": "2022-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ecol_zfe": {
       "valeur": 2,
@@ -421,7 +421,7 @@
       "citation": "La proposition de loi du Rassemblement national visant à \"abroger les zones à faibles émissions-mobilités\" (ZFE) n'a pas été adoptée lors de la journée réservée aux textes du groupe de Marine Le Pen, ce jeudi 8 octobre",
       "date_source": "2026-10-09",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": null,
@@ -439,7 +439,7 @@
       "citation": "Instituer une présomption de légitime défense pour les forces de l’ordre",
       "date_source": "2024-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_police_municipale": {
       "valeur": null,
@@ -466,7 +466,7 @@
       "citation": "Instaurer l’obligation de dépôt des demandes d’asile dans les ambassades et consulats",
       "date_source": "2024-06",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "imm_naturalisation": {
       "valeur": -2,
@@ -475,7 +475,7 @@
       "citation": "La naturalisation sera encadrée par des conditions très strictes et devra faire l’objet […] d’une demande motivée des intéressés.",
       "date_source": "2022-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_service_militaire": {
       "valeur": -2,
@@ -484,7 +484,7 @@
       "citation": "le rétablissement progressif d’un service militaire (minimum obligatoire 3 mois).",
       "date_source": "2017-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "eur_dissuasion": {
       "valeur": 2,
@@ -493,7 +493,7 @@
       "citation": "Pour Marine Le Pen, la dissuasion nucléaire de la France doit rester \"française\" et \"on ne doit pas la partager\".",
       "date_source": "2025-03-01",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": 2,
@@ -502,7 +502,7 @@
       "citation": "Refuser l’élargissement de l’UE aux Balkans, à la Turquie et à l’Ukraine, qui ruinerait notre agriculture et exercerait une pression à la baisse sur le salaire des Français.",
       "date_source": "2024-05",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_capitalisation": {
       "valeur": -1,
@@ -511,7 +511,7 @@
       "citation": "Marine Le Pen s'est dite dimanche favorable à l'instauration d'une part de capitalisation \"volontaire\" dans le système des retraites \"pour ceux qui le peuvent\"",
       "date_source": "2026-06-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": 2,
@@ -520,7 +520,7 @@
       "citation": "Mettre en œuvre une vraie politique nataliste réservée aux familles françaises, en rétablissant l’universalité des allocations familiales et en maintenant leur indexation sur le coût de la vie.",
       "date_source": "2017-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "soc_loyers": {
       "valeur": 1,
@@ -529,7 +529,7 @@
       "citation": "Cette dernière admet que l’encadrement des loyers a permis de faire baisser les loyers, mais pense que ce n’est pas une solution à long terme.",
       "date_source": "2017-05-04",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": -2,
@@ -538,7 +538,7 @@
       "citation": "\"Mesure essentielle\", la sélection à l'université serait \"immédiatement mise en œuvre\" par Marine Le Pen si la candidate FN remportait la présidentielle 2017.",
       "date_source": "2016-09-23",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_remuneration": {
       "valeur": 0,
@@ -547,7 +547,7 @@
       "citation": "les salaires des enseignants du primaire au lycée seront revalorisés de 3 % par an pendant 5 ans […] Revalorisation du mérite dans le déroulement des carrières.",
       "date_source": "2022-03",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": 1,
@@ -556,7 +556,7 @@
       "citation": "Marine Le Pen a aussi dit qu'elle ne \"reviendrait pas\" sur la loi de février 2014 interdisant à partir de 2017 le cumul de fonctions exécutives locales avec un mandat de député, de sénateur ou de député européen.",
       "date_source": "2017-01-03",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_mandat_unique": {
       "valeur": -2,
@@ -565,7 +565,7 @@
       "citation": "La candidate RN a, à ce titre, proposé « l’instauration du septennat non renouvelable ».",
       "date_source": "2022-04-12",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     }
   }
 }
