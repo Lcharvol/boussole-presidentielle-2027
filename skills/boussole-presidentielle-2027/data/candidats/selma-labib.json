@@ -205,7 +205,7 @@
       "citation": "La logique de sélection n’est pas une manière d’offrir des choix d’orientation mais transforme l’enseignement primaire et secondaire en une usine à tri social – parcoursup et la réforme des groupes de niveau au collège en sont deux exemples récents.",
       "date_source": "2024-05-28",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": null,

@@ -205,7 +205,7 @@
       "citation": "Plus de sécurité, cela passe par la tolérance zéro vis-à-vis des violences à l’encontre des enseignants […] La taille des classes pourrait ainsi être déterminée par une somme de ces indices, garantissant des classes à plus faibles effectifs là où la priorité sociale est la plus grande.",
       "date_source": "2026-09-01",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": null,

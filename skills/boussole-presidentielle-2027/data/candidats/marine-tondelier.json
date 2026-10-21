@@ -205,7 +205,7 @@
       "citation": "La diminution des effectifs démographiques est l’occasion de diminuer radicalement le nombre d’élèves par classe. […] Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": -2,

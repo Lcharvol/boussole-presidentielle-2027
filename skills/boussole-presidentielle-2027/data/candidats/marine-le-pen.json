@@ -205,7 +205,7 @@
       "citation": "Rétablir l’autorité de l’institution scolaire par l’instauration d’un uniforme au primaire et au collège tout en sanctionnant les absences et les incivilités. […] réduire les effectifs des classes et arrêter les fermetures d’écoles.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": -2,

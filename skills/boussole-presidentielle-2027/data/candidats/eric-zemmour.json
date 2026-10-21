@@ -205,7 +205,7 @@
       "citation": "«Il est plus que temps d’imposer, et non pas d’expérimenter, l’uniforme à l’école», a-t-il préconisé. […] et souhaite également instaurer les classes de niveau",
       "date_source": "2023-09-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": -1,

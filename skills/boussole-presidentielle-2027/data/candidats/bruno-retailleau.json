@@ -205,7 +205,7 @@
       "citation": "Bruno Retailleau propose notamment de rétablir un examen d’entrée en sixième, de développer les groupes de niveau et de mettre en place des dispositifs permettant aux élèves de rattraper les connaissances qui n’auraient pas été acquises à l’école primaire.",
       "date_source": "2026-08-31",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": 2,
