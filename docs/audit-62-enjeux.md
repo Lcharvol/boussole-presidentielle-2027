@@ -2,6 +2,8 @@
 
 Analyse du 21 octobre 2026 sur la branche `v2/completion` (PR #23). Aucune position n'a été modifiée. Les corrections ci-dessous sont **proposées, pas appliquées**.
 
+> **Mise à jour** : les propositions 1 (tri sur le score non arrondi) et 2 (audit sur plusieurs graines, pentes, candidats jamais classés signalés dans les tiers) sont appliquées dans la branche `fix/departage-score-brut`. Mesuré par `audit_biais.py --graines 7` (graines 2027 à 2033, 10 000 profils) : complet 1,07 / 0,99 / 0,95, rapide 1,04 / 1,03 / 0,95.
+
 ## En bref
 
 1. **La référence « 40 enjeux = 1,04 / 0,96 / 0,99 » était un tirage favorable.** Avec d'autres graines, les mêmes données (main) donnent un tiers central entre 0,90 et 0,91. Mesuré sur 7 graines, l'écart entre 40 et 62 enjeux est petit : centre 0,914 → 0,885.

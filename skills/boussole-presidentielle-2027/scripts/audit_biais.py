@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Audit de neutralité : le calcul, le tirage ou les formulations favorisent-ils mécaniquement un camp ?
 
-Usage : python3 audit_biais.py [--profils 2000] [--profils-adaptatif 200] [--graine 2027]
+Usage : python3 audit_biais.py [--profils 2000] [--profils-adaptatif 200] [--graine 2027] [--graines 1]
 Sortie : un rapport Markdown sur la sortie standard (repris dans le résumé de la CI).
 
 1. Axe principal. On calcule, à partir des seules positions des candidats, l'axe qui les sépare le plus
@@ -18,11 +18,23 @@ Sortie : un rapport Markdown sur la sortie standard (repris dans le résumé de 
    tirage étaient neutres, chaque candidat classé aurait la même chance : 1 / (nombre de candidats
    classés). L'attendu est calculé profil par profil, seulement quand le candidat est classé (couverture
    suffisante), pour séparer l'effet de la couverture de celui du calcul.
+
+Avec --graines N, la simulation est refaite avec N graines (graine, graine + 1, …), en parallèle sur les
+processeurs disponibles. Les tableaux par candidat cumulent toutes les graines ; les ratios des tiers sont
+donnés en moyenne et écart-type entre graines. À 2 000 profils, un ratio de tiers varie d'environ ±0,03
+d'une graine à l'autre : un seul tirage ne permet pas de comparer deux versions des données.
+
+Deux pentes résument l'équilibre sans dépendre du découpage en tiers : la régression pondérée (poids =
+attendu) du log du ratio de chaque candidat classé sur sa coordonnée normalisée (« gauche → droite »), et sur
+la valeur absolue de cette coordonnée (« extrêmes / milieu »). Une pente nulle = neutre ; l'incertitude est
+l'erreur type due au nombre de profils (le log d'un ratio a une variance d'environ 1 / attendu).
 """
 import math
+import os
 import random
 import statistics
 import sys
+from concurrent.futures import ProcessPoolExecutor
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -35,6 +47,7 @@ MIN_POSITIONS_AXE = 10                 # en dessous, un candidat n'est pas plac�
 SEUIL_CORRELATION = 0.4                # |r| en dessous : enjeu transversal
 MIN_CANDIDATS_QUESTION = 6             # en dessous, le sens d'un enjeu n'est pas mesurable
 RATIO_FORT, Z_FORT = 2.0, 3.0          # écart « net » : 2 fois l'attendu (ou moitié) et z ≥ 3
+PART_CLASSE_MIN = 0.2                  # pentes et corrélations : candidats classés au moins 20 % du temps
 TIRAGES_ECRAN = {"uniforme": (-2, -1, 0, 1, 2), "penche à gauche": (-2, -1, 0, 1), "penche à droite": (-1, 0, 1, 2)}
 
 
@@ -141,6 +154,69 @@ def simuler(mode, n, graine, ecran, questions, candidats):
     return stats, longueurs
 
 
+def simuler_tache(tache):
+    """Une simulation (mode, graine, écran) dans un processus séparé : les données sont relues sur place."""
+    mode, n, graine, ecran = tache
+    questions, candidats = charger()
+    return simuler(mode, n, graine, ecran, questions, candidats)
+
+
+def simuler_graines(taches, paralleles):
+    """Lance les simulations, en parallèle si possible ; renvoie les résultats dans l'ordre des tâches."""
+    if paralleles <= 1 or len(taches) == 1:
+        return [simuler_tache(t) for t in taches]
+    with ProcessPoolExecutor(max_workers=min(paralleles, len(taches))) as ex:
+        return list(ex.map(simuler_tache, taches))
+
+
+def cumuler(stats):
+    """Additionne les compteurs par candidat de plusieurs graines."""
+    total = {}
+    for st in stats:
+        for slug, s in st.items():
+            t = total.setdefault(slug, dict.fromkeys(s, 0))
+            for k, v in s.items():
+                t[k] += v
+    return total
+
+
+def pente(stats, coords, f, part_min, n):
+    """Pente pondérée (poids = attendu) du log du ratio des candidats classés sur f(coordonnée normalisée).
+
+    Renvoie (pente, erreur type) ou None. La variance du log d'un ratio vaut environ 1 / attendu : le poids
+    est donc aussi l'inverse de la variance, et l'erreur type vaut 1 / √(Σ poids × (x - x̄)²).
+    """
+    pts = [(coords[s], st["premier"], st["att1"]) for s, st in stats.items()
+           if s in coords and st["classe"] >= part_min * n and st["premier"] > 0]
+    if len(pts) < 3:
+        return None
+    et = statistics.pstdev([p[0] for p in pts]) or 1.0
+    xs = [f(p[0] / et) for p in pts]
+    ys = [math.log(p[1] / p[2]) for p in pts]
+    ws = [p[2] for p in pts]
+    W = sum(ws)
+    mx = sum(w * x for w, x in zip(ws, xs)) / W
+    my = sum(w * y for w, y in zip(ws, ys)) / W
+    sxx = sum(w * (x - mx) ** 2 for w, x in zip(ws, xs))
+    if not sxx:
+        return None
+    return sum(w * (x - mx) * (y - my) for w, x, y in zip(ws, xs, ys)) / sxx, 1 / math.sqrt(sxx)
+
+
+def fmt_pente(p):
+    return "—" if p is None else f"{p[0]:+.3f} ± {p[1]:.3f}"
+
+
+def moyenne_et(valeurs):
+    """« moyenne ± écart-type entre graines », ou la valeur seule avec une graine."""
+    valeurs = [v for v in valeurs if v is not None]
+    if not valeurs:
+        return "—"
+    if len(valeurs) == 1:
+        return f"{valeurs[0]:.2f}"
+    return f"{statistics.fmean(valeurs):.2f} ± {statistics.stdev(valeurs):.2f}"
+
+
 def ratio(obs, att):
     return obs / att if att else None
 
@@ -164,6 +240,8 @@ def main():
     n = option("--profils", 2000)
     n_adapt = option("--profils-adaptatif", 200)
     graine = option("--graine", 2027)
+    nb_graines = max(1, option("--graines", 1))
+    graines = [graine + k for k in range(nb_graines)]
     questions, candidats = charger()
     qs = questions["enjeux"]
     nom = {c["slug"]: c["nom"] for c in candidats}
@@ -175,9 +253,12 @@ def main():
     tiers = len(ordre) / 3
     camp = {s: ("gauche" if i < tiers else "centre" if i < 2 * tiers else "droite") for i, s in enumerate(ordre)}
 
+    texte_graines = (f"graine {graine}" if nb_graines == 1 else
+                     f"{nb_graines} graines, de {graines[0]} à {graines[-1]}, soit {n * nb_graines} et "
+                     f"{n_adapt * nb_graines} profils au total")
     L = ["# Audit de neutralité", "",
          f"{len(candidats)} candidats actifs, {len(qs)} enjeux ; profils aléatoires : {n} en modes complet et "
-         f"rapide, {n_adapt} en mode adaptatif (graine {graine}). Script : `scripts/audit_biais.py`.", ""]
+         f"rapide, {n_adapt} en mode adaptatif par graine ({texte_graines}). Script : `scripts/audit_biais.py`.", ""]
 
     # 1. Axe
     L += ["## 1. Axe principal calculé à partir des données", "",
@@ -240,12 +321,25 @@ def main():
           "compte de la couverture. **Ratio** = observé / attendu (1 = neutre).", ""]
     extremite = {c["slug"]: statistics.fmean([abs(valeur(c, q)) for q in tous if valeur(c, q) is not None] or [0])
                  for c in candidats}
-    signalements, camps_mode = {}, {}
+    # Toutes les simulations d'un coup (modes × penchants × graines), en parallèle.
+    cles, taches = [], []
     for m in ("complet", "rapide", "adaptatif"):
-        nm = profils[m]
-        if not nm:
+        for libelle, ecran in TIRAGES_ECRAN.items():
+            if profils[m] and (libelle == "uniforme" or m == "complet"):
+                for g in graines:
+                    cles.append((m, libelle, g))
+                    taches.append((m, profils[m], g, ecran))
+    sim = dict(zip(cles, simuler_graines(taches, os.cpu_count() or 1)))
+
+    membres = {k: [s for s in ordre if camp[s] == k] for k in ("gauche", "centre", "droite")}
+    signalements, camps_mode, pentes_mode = {}, {}, {}
+    for m in ("complet", "rapide", "adaptatif"):
+        if not profils[m]:
             continue
-        st, longueurs = simuler(m, nm, graine, TIRAGES_ECRAN["uniforme"], questions, candidats)
+        nm = profils[m] * nb_graines
+        par_graine = [sim[(m, "uniforme", g)][0] for g in graines]
+        st = cumuler(par_graine)
+        longueurs = [x for g in graines for x in sim[(m, "uniforme", g)][1]]
         L += [f"### Mode {m} ({nm} profils, {statistics.fmean(longueurs):.1f} enjeux posés en moyenne, "
               f"de {min(longueurs)} à {max(longueurs)})", "",
               "| Candidat | Classé | 1er | Attendu | Ratio 1er | Top 3 | Ratio top 3 | Positions connues | Écart moyen à 0 |",
@@ -268,21 +362,47 @@ def main():
                 signalements.setdefault(c["slug"], []).append(
                     f"{'sur' if r1 > 1 else 'sous'}-représenté en mode {m} (ratio {r1:.2f}, z = {z:+.1f})")
 
-        actifs = [x for x in lignes if x[1]["classe"] >= 0.2 * nm and x[2] is not None]
+        actifs = [x for x in lignes if x[1]["classe"] >= PART_CLASSE_MIN * nm and x[2] is not None]
         rr = [math.log(max(x[2], 0.01)) for x in actifs]
         r_ext = pearson([extremite[x[0]["slug"]] for x in actifs], rr)
         r_nb = pearson([x[5] for x in actifs], rr)
         L += ["", f"Corrélation entre le ratio (log) et : l'écart moyen à 0 des positions r = "
                   f"{'—' if r_ext is None else f'{r_ext:+.2f}'} ; le nombre de positions connues r = "
-                  f"{'—' if r_nb is None else f'{r_nb:+.2f}'} ({len(actifs)} candidats classés au moins 20 % du temps).", ""]
+                  f"{'—' if r_nb is None else f'{r_nb:+.2f}'} ({len(actifs)} candidats classés au moins "
+                  f"{round(100 * PART_CLASSE_MIN)} % du temps).", ""]
+
+        pentes = {}
+        for cle, f in (("gd", lambda x: x), ("ext", abs)):
+            pentes[cle] = pente(st, coords, f, PART_CLASSE_MIN, nm)
+            if nb_graines > 1:
+                une = [pente(x, coords, f, PART_CLASSE_MIN, profils[m]) for x in par_graine]
+                pentes[cle + "_graines"] = [p[0] for p in une if p]
+        pentes_mode[m] = pentes
+        dispersion = (lambda cle: f" (écart-type entre graines {statistics.stdev(pentes[cle + '_graines']):.3f})"
+                      if nb_graines > 1 and len(pentes[cle + "_graines"]) > 1 else "")
+        L += [f"Pente gauche → droite : {fmt_pente(pentes['gd'])}{dispersion('gd')} ; pente extrêmes / milieu : "
+              f"{fmt_pente(pentes['ext'])}{dispersion('ext')}. Régression pondérée par l'attendu du log du ratio "
+              "des mêmes candidats sur leur coordonnée normalisée (écart-type 1), ou sur sa valeur absolue. Une "
+              "pente positive avantage la droite de l'axe, ou ses extrémités ; 0 = neutre ; ± = erreur type.", ""]
 
         pc = par_camp(st, camp)
-        camps_mode[m] = pc
-        L += ["| Tiers de l'axe | 1er observé | Attendu | Ratio |", "|---|---|---|---|"]
+        camps_mode[m] = [par_camp(x, camp) for x in par_graine]
+        entete = "| Tiers de l'axe | 1er observé | Attendu | Ratio |"
+        if nb_graines > 1:
+            entete += " Ratio par graine (moyenne ± écart-type) |"
+        L += [entete + " Classés / candidats du tiers | Jamais classés (moins de 1 % des profils) |",
+              "|---" * (entete.count("|") + 1) + "|"]
         for k in ("gauche", "centre", "droite", "non placé"):
-            if k in pc:
-                o, a = pc[k]
-                L.append(f"| {k} | {o} | {a:.0f} | {fmt_ratio(ratio(o, a))} |")
+            if k not in pc:
+                continue
+            o, a = pc[k]
+            ligne = f"| {k} | {o} | {a:.0f} | {fmt_ratio(ratio(o, a))} |"
+            if nb_graines > 1:
+                ligne += f" {moyenne_et([ratio(*x[k]) for x in camps_mode[m] if k in x])} |"
+            liste = membres.get(k, [s for s in nom if s not in coords])
+            jamais = [nom[s] for s in liste if st[s]["classe"] < nm / 100]
+            ligne += f" {len(liste) - len(jamais)} / {len(liste)} | {', '.join(jamais) or '—'} |"
+            L.append(ligne)
         L.append("")
 
     # Effet d'un penchant pour un côté de l'écran, à opinions égales par ailleurs.
@@ -293,12 +413,9 @@ def main():
           "premières places par tiers de l'axe, en mode complet :", "",
           "| Profil | gauche | centre | droite |", "|---|---|---|---|"]
     parts = {}
-    for libelle, ecran in TIRAGES_ECRAN.items():
-        if libelle == "uniforme":
-            pc = {k: v[0] for k, v in camps_mode["complet"].items()}
-        else:
-            st, _ = simuler("complet", n, graine, ecran, questions, candidats)
-            pc = {k: v[0] for k, v in par_camp(st, camp).items()}
+    for libelle in TIRAGES_ECRAN:
+        st = cumuler([sim[("complet", libelle, g)][0] for g in graines])
+        pc = {k: v[0] for k, v in par_camp(st, camp).items()}
         total = sum(pc.values()) or 1
         parts[libelle] = {k: 100 * pc.get(k, 0) / total for k in ("gauche", "centre", "droite")}
         L.append(f"| {libelle} | " + " | ".join(f"{round(v)} %" for v in parts[libelle].values()) + " |")
@@ -318,12 +435,16 @@ def main():
         L.append("")
     else:
         L += ["Aucun candidat nettement sur- ou sous-représenté.", ""]
-    L += ["Ratios des tiers de l'axe (premières places observées / attendues) :", "",
-          "| Mode | gauche | centre | droite |", "|---|---|---|---|"]
-    for m, pc in camps_mode.items():
-        L.append(f"| {m} | " + " | ".join(fmt_ratio(ratio(*pc[k])) if k in pc else "—"
-                                         for k in ("gauche", "centre", "droite")) + " |")
-    L.append("")
+    L += ["Ratios des tiers de l'axe (premières places observées / attendues"
+          + (", moyenne ± écart-type entre graines" if nb_graines > 1 else "") + ") et pentes (± erreur type) :", "",
+          "| Mode | gauche | centre | droite | Pente gauche → droite | Pente extrêmes / milieu |",
+          "|---|---|---|---|---|---|"]
+    for m, pcs in camps_mode.items():
+        L.append(f"| {m} | " + " | ".join(moyenne_et([ratio(*pc[k]) for pc in pcs if k in pc])
+                                         for k in ("gauche", "centre", "droite"))
+                 + f" | {fmt_pente(pentes_mode[m]['gd'])} | {fmt_pente(pentes_mode[m]['ext'])} |")
+    L += ["", "Les tiers comptent aussi les candidats jamais classés (voir les tableaux par mode) : le ratio d'un "
+              "tiers repose parfois sur peu de candidats en compétition. Les pentes ne dépendent pas de ce découpage.", ""]
 
     # 5. Priorités de complétion
     L += ["## 5. Fiches à compléter en priorité", "",
