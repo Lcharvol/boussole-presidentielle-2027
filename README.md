@@ -67,12 +67,12 @@ Il fait trois choses :
 2. **Le sens des formulations.** Pour chaque affirmation, il mesure si « d'accord » rapproche plutôt des candidats d'un pôle ou de l'autre (corrélation avec l'axe recalculé sans cette question). Si beaucoup d'affirmations penchent du même côté, une personne qui répond souvent « d'accord » est poussée vers ce pôle.
 3. **Des profils au hasard.** Il tire 2 000 profils sans opinion (réponses au hasard, 10 % de « je passe »), les passe dans le calcul de `score.py` et compte qui sort premier ou dans les trois premiers, en mode long et en mode rapide. Un calcul neutre donnerait à chaque candidat classé la même chance ; l'attendu tient compte des candidats exclus faute de positions connues.
 
-**Résultats actuels** (20 octobre 2026, graine 2027 ; le résumé de la CI donne les chiffres à jour) :
+**Résultats actuels** (21 octobre 2026, après la relecture humaine des 565 positions, graine 2027 ; le résumé de la CI donne les chiffres à jour) :
 
 - L'axe calculé explique la moitié des écarts entre candidats et place à un bout les candidats habituellement classés à gauche, à l'autre ceux classés à droite, sans qu'on le lui ait indiqué.
-- **Pas d'avantage au centre ni de biais de camp.** Avec des réponses au hasard, les trois tiers de l'axe sortent premiers aussi souvent qu'attendu en mode long (ratios 1,03 à gauche, 0,96 au centre, 1,00 à droite). Avant la correction du hasard et des positions inconnues (voir Méthode), le centre sortait premier 1,8 fois plus souvent qu'attendu, et Dominique de Villepin 5 fois plus. Aucun candidat classé n'est plus nettement sur- ou sous-représenté.
+- **Pas d'avantage au centre ni de biais de camp.** Avec des réponses au hasard, les trois tiers de l'axe sortent premiers aussi souvent qu'attendu en mode long (ratios 1,05 à gauche, 1,01 au centre, 0,94 à droite). Avant la correction du hasard et des positions inconnues (voir Méthode), le centre sortait premier 1,8 fois plus souvent qu'attendu, et Dominique de Villepin 5 fois plus. Aucun candidat classé n'est plus nettement sur- ou sous-représenté.
 - **Formulations équilibrées.** En mode long, 16 affirmations orientent « d'accord » vers le pôle gauche, 16 vers le pôle droit, 6 sont transversales ; en mode rapide, 3 contre 4 (une transversale) ; en mode moyen, 12 contre 9. Quatre affirmations ont été retournées pour y arriver (`eco_depenses`, `sec_mineurs`, `soc_medecins`, `eur_defense3`), en gardant le même enjeu ; les positions des candidats ont été inversées en conséquence. Un profil qui répond plus souvent « d'accord » ne se déplace plus que de quelques points (-5 en mode long, +4 en mode rapide, contre +31 auparavant en mode rapide).
-- **Mode rapide : un écart résiduel.** Le tiers droit y sort premier un peu moins souvent qu'attendu (ratio 0,81, contre 1,15 à gauche). Sur ces 8 questions, les candidats de ce tiers ont des positions très proches entre eux (écart moyen 0,80 contre 0,94 à gauche) et se partagent donc les premières places. Le mode rapide reste une tendance ; le mode long est à privilégier.
+- **Mode rapide : un écart résiduel.** Le tiers droit y sort premier un peu moins souvent qu'attendu (ratio 0,87, contre 1,07 à gauche et 1,05 au centre). Sur ces 8 questions, les candidats de ce tiers ont des positions très proches entre eux (écart moyen 0,80 contre 0,94 à gauche) et se partagent donc les premières places. Le mode rapide reste une tendance ; le mode long est à privilégier.
 - **Couverture inégale.** 8 candidats ont moins de la moitié de leurs positions renseignées ; plusieurs ne sont jamais classés en mode long. La correction des positions inconnues empêche qu'ils soient avantagés, mais seule la complétion des fiches leur donne une place juste. L'audit liste les fiches et les questions à compléter en priorité.
 
 ## Confidentialité
@@ -88,7 +88,7 @@ Vos réponses sont des opinions politiques : le skill les traite comme une donn�
 - La liste officielle des candidats ne sera connue qu'après la validation des parrainages par le Conseil constitutionnel. D'ici là, la liste suit les candidatures déclarées ou pressenties.
 - Beaucoup de programmes ne sont pas encore publiés : une partie des positions est donc déduite.
 - 40 questions ne résument pas un projet présidentiel. Lisez les programmes des candidats qui vous intéressent.
-- Les fiches ont été constituées par recherche documentaire assistée par IA : des erreurs sont possibles. Signalez-les (voir ci-dessous).
+- Les fiches ont été constituées par recherche documentaire assistée par IA, puis **relues une à une par un humain** (octobre 2026) : chaque position a une citation vérifiée et le champ `relu`. Les arbitrages de codage sont décrits dans [`references/mise-a-jour.md`](skills/boussole-presidentielle-2027/references/mise-a-jour.md). Des erreurs restent possibles : signalez-les (voir ci-dessous).
 
 ## Contribuer
 
