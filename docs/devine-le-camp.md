@@ -486,3 +486,14 @@ Pôle A : **Compter le vote blanc comme suffrage exprimé** — pôle B : **Comp
 |---|---|---|---|---|---|---|---|---|
 | `ins_voteblanc.1` | Vote blanc : | Le compter dans les suffrages exprimés | Le compter à part, sans effet sur le résultat | 6 | — | 58 % | — | oui |
 | `ins_voteblanc.2` | Pour calculer le résultat d'une élection, que privilégier ? | Inclure les votes blancs dans les pourcentages | Calculer les pourcentages sur les seuls votes pour un candidat | 6 | — | 50 % | — | oui |
+
+## Relecture de Lcharvol (21 octobre 2026)
+
+Les quatre lots ont été validés (`validee: true` sur 78 variantes), avec ces décisions :
+
+- supprimées (refusées au test) : `imm_ame.2`, `imm_droitdusol.1`, `soc_rsa.1`, `edu_autorite.1` ; ces quatre enjeux n'ont plus qu'une formulation ;
+- `imm_preference.2` validée comme exception (aucune formulation dans la fourchette après trois tours) ; `imm_preference.1` reste non validée, donc jamais tirée ;
+- `soc_findevie.1` validée sans nouveau passage au test ;
+- `ecol_thermique2035.2` reste non validée (refusée au test), donc jamais tirée.
+
+Les tableaux ci-dessus donnent les scores de toutes les formulations testées, y compris celles qui ont été supprimées depuis (elles n'apparaissent plus dans `enjeux.json`).

@@ -729,14 +729,14 @@
           "question": "Écoles privées sous contrat :",
           "a": "Maintenir leur financement public",
           "b": "Réduire leur financement public",
-          "validee": false
+          "validee": true
         },
         {
           "id": "edu_prive.2",
           "question": "Argent public pour l'école :",
           "a": "Continuer à financer aussi le privé sous contrat",
           "b": "Le concentrer davantage sur l'école publique",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -748,18 +748,11 @@
       "contexte": null,
       "variantes": [
         {
-          "id": "edu_autorite.1",
-          "question": "Pour améliorer le climat scolaire, que privilégier ?",
-          "a": "Uniforme, sanctions renforcées et groupes de niveau",
-          "b": "Effectifs réduits, plus d'adultes encadrants et classes mixtes",
-          "validee": false
-        },
-        {
           "id": "edu_autorite.2",
           "question": "Au collège, que faut-il privilégier ?",
           "a": "Des règles plus exigeantes et des groupes de niveau",
           "b": "Des classes moins chargées et mélangeant les niveaux",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -775,14 +768,14 @@
           "question": "Parents qui accompagnent les sorties scolaires :",
           "a": "Ils peuvent porter un signe religieux",
           "b": "Ils ne doivent pas porter de signe religieux",
-          "validee": false
+          "validee": true
         },
         {
           "id": "edu_signes.2",
           "question": "Neutralité religieuse lors des sorties scolaires :",
           "a": "Elle s'impose aux enseignants, pas aux parents accompagnateurs",
           "b": "Elle s'impose aussi aux parents accompagnateurs",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -798,14 +791,14 @@
           "question": "Aide financière aux étudiants :",
           "a": "Une allocation versée à tous les étudiants",
           "b": "Des bourses selon les revenus des parents",
-          "validee": false
+          "validee": true
         },
         {
           "id": "edu_etudiants.2",
           "question": "Pour aider les étudiants à financer leurs études, que privilégier ?",
           "a": "Une allocation d'autonomie pour tous",
           "b": "Des bourses réservées aux familles modestes",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -821,14 +814,14 @@
           "question": "Apprentissage (formation en alternance chez un employeur) :",
           "a": "Le garder après le collège (15-16 ans)",
           "b": "L'ouvrir dès 14 ans",
-          "validee": false
+          "validee": true
         },
         {
           "id": "edu_apprentissage.2",
           "question": "Pour les élèves de 14 ans en difficulté au collège, que privilégier ?",
           "a": "Les garder au collège avec un accompagnement renforcé",
           "b": "Leur permettre d'entrer en apprentissage",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -844,14 +837,14 @@
           "question": "Élection des députés :",
           "a": "À la proportionnelle, selon le score des listes",
           "b": "Au scrutin majoritaire dans chaque circonscription, comme aujourd'hui",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ins_proportionnelle.2",
           "question": "Pour l'Assemblée nationale, que privilégier ?",
           "a": "Une représentation fidèle du poids de chaque parti",
           "b": "Un lien direct entre chaque député et sa circonscription",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -867,14 +860,14 @@
           "question": "Référendum d'initiative citoyenne (RIC) :",
           "a": "L'instaurer, pour que les citoyens puissent déclencher un vote",
           "b": "Ne pas l'instaurer, pour laisser la loi au Parlement",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ins_ric.2",
           "question": "Pour décider des lois, que privilégier ?",
           "a": "Des référendums que les citoyens peuvent déclencher eux-mêmes",
           "b": "Le vote des lois par les représentants élus",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -890,14 +883,14 @@
           "question": "Institutions :",
           "a": "Garder la Constitution actuelle (Ve République) et les pouvoirs du président",
           "b": "Une nouvelle Constitution (VIe République), avec un président aux pouvoirs réduits",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ins_6e.2",
           "question": "Rôle du président de la République :",
           "a": "Le conserver tel qu'il est",
           "b": "Le réduire au profit du Parlement",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -913,14 +906,14 @@
           "question": "Nombre de députés et de sénateurs :",
           "a": "Le réduire",
           "b": "Le conserver",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ins_parlementaires.2",
           "question": "Pour le Parlement, que privilégier ?",
           "a": "Moins de parlementaires, pour réduire le coût",
           "b": "Autant de parlementaires, pour garder la proximité avec les territoires",
-          "validee": false
+          "validee": true
         }
       ]
     },
@@ -936,14 +929,14 @@
           "question": "Vote blanc :",
           "a": "Le compter dans les suffrages exprimés",
           "b": "Le compter à part, sans effet sur le résultat",
-          "validee": false
+          "validee": true
         },
         {
           "id": "ins_voteblanc.2",
           "question": "Pour calculer le résultat d'une élection, que privilégier ?",
           "a": "Inclure les votes blancs dans les pourcentages",
           "b": "Calculer les pourcentages sur les seuls votes pour un candidat",
-          "validee": false
+          "validee": true
         }
       ]
     }
