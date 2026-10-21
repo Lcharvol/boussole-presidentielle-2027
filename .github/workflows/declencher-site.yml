@@ -1,0 +1,33 @@
+name: Reconstruire le site
+
+# Quand les données ou les scripts du skill changent sur main, demande au site vitrine
+# (Lcharvol/boussole-2027-site) de se reconstruire. Le site se reconstruit aussi chaque jour :
+# sans le secret SITE_DISPATCH_TOKEN, ce workflow ne fait rien et ne fait jamais échouer la CI.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "skills/boussole-presidentielle-2027/data/**"
+      - "skills/boussole-presidentielle-2027/scripts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  declencher:
+    name: Déclencher la reconstruction du site
+    runs-on: ubuntu-latest
+    steps:
+      - name: repository_dispatch vers boussole-2027-site
+        env:
+          GH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Secret SITE_DISPATCH_TOKEN absent : le site se reconstruira à sa prochaine exécution quotidienne."
+            exit 0
+          fi
+          gh api repos/Lcharvol/boussole-2027-site/dispatches \
+            -f event_type=donnees-mises-a-jour \
+            -f "client_payload[commit]=$GITHUB_SHA"
+          echo "Reconstruction du site demandée (commit $GITHUB_SHA)."
