@@ -96,7 +96,8 @@ class Presentation(unittest.TestCase):
 
     def test_variantes_validees_seules(self):
         e = json.loads(json.dumps(PAR_ID["eco_35h"]))
-        e["variantes"][1]["validee"] = True
+        for i, v in enumerate(e["variantes"]):
+            v["validee"] = i == 1
         self.assertEqual(tirage.variantes_utilisables(e), [e["variantes"][1]])
 
 
