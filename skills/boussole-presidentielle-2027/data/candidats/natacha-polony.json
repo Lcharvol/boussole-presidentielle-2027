@@ -60,7 +60,7 @@
       "citation": "Et on renationalise EDF et on protège et on met en place une véritable politique urgente de défense du nucléaire.",
       "date_source": "2026-09-15",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": null,
@@ -78,7 +78,7 @@
       "citation": "« La question n’est pas de revenir sur les normes environnementales. La question est de les imposer à tous et à tout le monde. »",
       "date_source": "2026-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": null,

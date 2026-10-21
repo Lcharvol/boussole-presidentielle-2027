@@ -366,7 +366,7 @@
       "citation": "Reconnaître le vote blanc en attribuant le taux équivalent à des citoyen·nes tirés au sort sur les listes électorales pour les élections territoriales.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     }
   }
 }

@@ -15,7 +15,7 @@
       "citation": "“L’équité exige que ceux qui ont les carrières les plus hachées et les métiers les plus difficiles puissent partir à la retraite plus tôt. (…) Ceux qui ont une espérance de vie en bonne santé plus longue doivent en revanche partir plus tard”, écrit-il, sans entrer dans les détails.",
       "date_source": "2026-08-24",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_smic": {
       "valeur": 1,
@@ -60,7 +60,7 @@
       "citation": "Il y a un point \"qui reste à discuter\" : \"la question des nouveaux réacteurs nucléaires\". Raphaël Glucksmann estime qu'il faut développer de nouveaux EPR, contrairement à Yannick Jadot.",
       "date_source": "2026-08-25",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": 2,
@@ -78,7 +78,7 @@
       "citation": "Plutôt que de s’attaquer au partage injuste de la PAC et de la valeur, à la concurrence déloyale, la droite et l’extrême-droite s’en prennent comme toujours aux normes environnementales.",
       "date_source": "2026-07-21",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": null,
@@ -114,7 +114,7 @@
       "citation": "\"Non, l'immigration zéro n'est ni souhaitable, ni possible. Et non, s'installer en France n'est pas un droit universel\", défend le leader de Place publique.",
       "date_source": "2026-05-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,

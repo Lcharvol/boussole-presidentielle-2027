@@ -42,7 +42,7 @@
       "citation": "Mais la couverture n’est petite que parce que tous ces politiciens refusent d’aller chercher dans les profits et les grandes fortunes.",
       "date_source": "2026-09-26",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_35h": {
       "valeur": -2,
@@ -78,7 +78,7 @@
       "citation": "À l’heure où il faudrait forcer les multinationales les plus polluantes à mettre des moyens dans leur transition énergétique, les gouvernants font marche arrière.",
       "date_source": "2026-07-20",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": -2,
@@ -141,7 +141,7 @@
       "citation": "Qu’il faut construire une armée européenne, rétablir le service militaire, envoyer nos soldats en Ukraine. […] Et l’UE n’y peut rien.",
       "date_source": "2026-02-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": -1,
@@ -150,7 +150,7 @@
       "citation": "mais quand ils ne jurent que par la souveraineté de la France, ils contribuent au repli nationaliste et à la xénophobie ambiante.",
       "date_source": "2026-02-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_ukraine": {
       "valeur": -2,
