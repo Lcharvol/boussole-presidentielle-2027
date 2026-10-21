@@ -51,7 +51,7 @@
       "citation": "Fixation d’un objectif de 1800 heures travaillées par actif et d’augmentation du taux d’emploi des 15-24 ans de 10%.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_nucleaire": {
       "valeur": 2,
@@ -69,7 +69,7 @@
       "citation": "Conditionnalisation des aides au développement des énergies alternatives à des critères de fabrication locale. ◆ Concentration des subventions photovoltaïques aux installations sur emprises déjà existantes (terrains militaires, gares, parkings…)",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_normes": {
       "valeur": -1,
@@ -78,7 +78,7 @@
       "citation": "Épurement des normes et certifications, suppression des normes sur le calibrage et conditionnement des fruits et légumes.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_peines": {
       "valeur": 1,
@@ -87,7 +87,7 @@
       "citation": "Fin du modèle Badinter : peines réelles, exécution des peines courtes, séparation des débats sur les faits et la personnalité ; de la condamnation et de la sentence.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": null,
@@ -105,7 +105,7 @@
       "citation": "Référendum interlocutoire de l’Assemblée constituante proposant alternativement : ◆ Réforme « portugaise » du suivi socio-sanitaire de la consommation de drogues, doublé d’une nationalisation monopolistique du marché de la production et de la distribution […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": 1,
@@ -114,7 +114,7 @@
       "citation": "Conditionnalisation du regroupement familial et déconcentration du traitement de l’asile au niveau consulaire.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_ame": {
       "valeur": null,
@@ -132,7 +132,7 @@
       "citation": "Mise en place de critères objectivables d’intégration concernant les étrangers, accompagnée d’obligations de service à la nation, dans le cadre des régularisations de personnes dénuées de titres de séjour.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": -1,
@@ -213,7 +213,7 @@
       "citation": "Concernant la chambre basse : élection à scrutin proportionnel sur listes à un tour pour 200 députés, au scrutin uninominal à un tour pour 101 députés sur les circonscriptions départementales, et au scrutin uninominal à un tour pour les treize députés des DROM-COM.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_ric": {
       "valeur": 2,
@@ -231,7 +231,7 @@
       "citation": "Référendum fondé sur l’article 11 de la Constitution proposant la convocation d’une assemblée constituante dotée d’un mandat de 12 mois […] Suppression du poste de Premier Ministre et transformation de Matignon en ministère de la présidence.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_thermique2035": {
       "valeur": null,
@@ -249,7 +249,7 @@
       "citation": "Fin de l’exemption de TICPE sur les vols intérieurs.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "sec_mineurs": {
       "valeur": null,
@@ -294,7 +294,7 @@
       "citation": "Référendum fondé sur l’article 11 de la Constitution proposant : ◆ Sortie de l’Union Européenne, de l’euro, du Conseil de l’Europe et/ou de l’espace Schengen. ◆ Sortie de l’OTAN (commandement intégré ou du Traité).",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_defense3": {
       "valeur": null,
@@ -321,7 +321,7 @@
       "citation": "Dégressivité des allocations chômage à partir de la première année, création d’une caisse de sécurité professionnelle remplaçant les UNEDIC/ASSEDIC/France Travail.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_signes": {
       "valeur": null,
@@ -339,7 +339,7 @@
       "citation": "Extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "edu_apprentissage": {
       "valeur": null,
@@ -357,7 +357,7 @@
       "citation": "Concernant la chambre haute : fonctionnement “à l’athénienne” avec un tirage au sort des 200 représentants tous les vingt-quatre mois. Concernant la chambre basse : élection à scrutin proportionnel sur listes à un tour pour 200 députés, au scrutin uninominal à un tour pour 101 députés […]",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ins_voteblanc": {
       "valeur": 2,
