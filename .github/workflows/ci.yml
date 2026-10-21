@@ -25,19 +25,18 @@ jobs:
       - name: Fiches candidats valides
         run: python3 scripts/check_data.py --jours 100000
 
-      - name: Questions et niveaux cohérents
+      - name: Tirage des questions
         run: |
+          python3 scripts/tirage.py --mode rapide --graine 2027 < /dev/null > /tmp/t1.json
+          python3 scripts/tirage.py --mode rapide --graine 2027 < /dev/null > /tmp/t2.json
+          cmp /tmp/t1.json /tmp/t2.json
           python3 - <<'PY'
-          import collections, json
-          q = json.load(open("data/questions.json", encoding="utf-8"))
-          ids = [x["id"] for x in q["questions"]]
-          assert len(ids) == len(set(ids)), "identifiant de question en double"
-          for x in q["questions"]:
-              assert x["theme"] in q["themes"], f"thème inconnu : {x['id']}"
-              assert x.get("niveau") in {"rapide", "moyen", "long"}, f"niveau manquant : {x['id']}"
-          n = collections.Counter(x["niveau"] for x in q["questions"])
-          print(f"{len(ids)} questions : {dict(n)}")
+          import json
+          t = json.load(open("/tmp/t1.json"))
+          assert len(t["questions"]) == 12 and not t["fin"], "mode rapide : 12 questions attendues"
+          print(" / ".join(q["enjeu"] for q in t["questions"]))
           PY
+          echo '{"reponses": {"eco_retraite": 1, "sec_cannabis": null}}' | python3 scripts/tirage.py --mode adaptatif --graine 2027 > /dev/null
 
       - name: Calcul des scores
         run: |

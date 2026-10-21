@@ -1,5 +1,6 @@
 {
   "slug": "xavier-bertrand",
+  "format": 2,
   "nom": "Xavier Bertrand",
   "parti": "Nous France (sans étiquette)",
   "statut": "pressenti",
@@ -9,7 +10,7 @@
   "notes": "Président des Hauts-de-France. Le 27/08/2026 (Medef), il a dit qu'il serait candidat (« Je le serai ») ; son entourage précise qu'il ne s'agit pas d'une déclaration officielle, annoncée « entre mi-octobre et la fin de l'année » (aucune déclaration formelle trouvée au 20/10/2026). Candidat indépendant (hors LR, qui soutient Retailleau), refuse toute primaire, promet un mandat unique. Aucun programme 2027 publié (il dit préparer « un projet plus global ») : les pages thématiques de nousfrance.fr ne contiennent pas de mesures. La plupart des positions sont déduites de son programme de la primaire LR 2021, non démenti à ce jour ; aucune déclaration 2025-2026 trouvée sur ces sujets.",
   "positions": {
     "eco_retraite": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite (2021-2022) : favorable à un recul progressif de l'âge légal vers 64 puis 65 ans ; en 2026 il défend en outre la retraite par capitalisation, sans âge précisé.",
       "source": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/elections-legislatives-xavier-bertrand-se-veut-rassembleur_5180029.html",
       "citation": "Xavier Bertrand milite pour une retraite à 65 ans avec des ajustements possibles.",
@@ -24,7 +25,7 @@
       "citation": "Avant la fin de l’année 2022, tous les salariés travaillant à temps complet toucheront au moins 1500€ nets par mois. C’est mon engagement. Il repose sur un dispositif nouveau, la prime au travail. […] Elle se fera sans surcoût pour les entreprises […]",
       "date_source": "2021-10-02",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "eco_depenses": {
       "valeur": -1,
@@ -54,13 +55,13 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite (campagne 2021) : promettait la relance d'un programme nucléaire « digne de ce nom » avec de nouveaux EPR dès l'été suivant son élection.",
       "source": "https://www.linfodurable.fr/presidentielle-2022-xavier-bertrand-pour-la-relance-du-nucleaire-28042",
       "citation": "\"Si je suis élu, je choisirai dès l'été prochain la relance d'un programme nucléaire digne de ce nom dont on a besoin pour rester indépendant et pour que l'électricité arrête d'augmenter dans notre pays\"",
       "date_source": "2021-07-27",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": -2,
@@ -81,7 +82,7 @@
       "relu": false
     },
     "sec_peines": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite (2021) : propose une peine encadrée entre un minimum et un maximum, plus contraignante que les peines planchers de 2007, via une révision constitutionnelle.",
       "source": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
       "citation": "Pour éviter cela, l’équipe de Xavier Bertrand a pensé à une « individualisation de la peine entre un minimum et un maximum », ce qui supposerait effectivement une « modification constitutionnelle ». « J’y suis prêt, les Français aussi » affirme solennellement Xavier Bertrand",
@@ -90,13 +91,13 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite (2021) : propose de créer 20 000 places de prison pour que les peines soient exécutées.",
       "source": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
       "citation": "Xavier Bertrand appelle d’ailleurs à « retrouver des principes simples », comme l’application effective des peines en créant 20 000 places de prison pour sortir de la « gestion immobilière de la délinquance »",
       "date_source": "2021-09-15",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": -2,
@@ -108,13 +109,13 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite (programme 2021) : quotas annuels votés par le Parlement par type d'immigration (hors asile) après référendum constitutionnel, et « passeport républicain » préalable au regroupement familial.",
       "source": "https://www.nousfrance.fr/2021/11/immigration-reprenons-le-controle/",
       "citation": "Chaque année, le Parlement fixera des quotas par type d’immigration, en-dehors de l’asile qui fera l’objet d’une réforme spécifique. La Constitution sera révisée, dès l’automne 2022, par référendum populaire, pour le permettre.",
       "date_source": "2021-11",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "imm_ame": {
       "valeur": 2,
@@ -153,7 +154,7 @@
       "relu": false
     },
     "eur_ukraine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Se dit « de façon indéfectible aux côtés des Ukrainiens », appelle à rétablir le rapport de force avec la Russie et à livrer ce qui a été promis.",
       "source": "https://www.boursorama.com/actualite-economique/actualites/guerre-en-ukraine-il-y-a-une-urgence-absolue-a-retablir-le-rapport-de-force-avec-la-russie-de-poutine-estime-xavier-bertrand-9b5d09bf36af035837e07e23287c55d6",
       "citation": "[…] a martelé Xavier Bertrand, avant de conclure : \"pour ce rapport de force, on livre ce que l'on a promis et on est de façon indéfectible aux côtés de Ukrainiens.\"",
@@ -198,16 +199,16 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Comme président de région, a remis en septembre 2024 une tenue unique aux élèves d'un lycée expérimental (« Les différences doivent se faire par la personnalité, pas par la tenue vestimentaire ») ; aucune autre mesure sur l'autorité à l'école trouvée.",
       "source": "https://generation.hautsdefrance.fr/crepy-en-valois-xavier-bertrand-remet-la-tenue-unique-aux-eleves/",
       "citation": "« Les différences doivent se faire par la personnalité, pas par la tenue vestimentaire » , souligne Xavier Bertrand.",
       "date_source": "2024-09-02",
       "confiance": "declaration",
-      "relu": true
+      "relu": false
     },
     "ins_proportionnelle": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite (2022) : opposé à la proportionnelle aux législatives par crainte d'un « hémicycle ingouvernable ». Aucune déclaration plus récente trouvée (recherche d'octobre 2026, y compris lors des consultations de 2025 sur la proportionnelle).",
       "source": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/elections-legislatives-xavier-bertrand-se-veut-rassembleur_5180029.html",
       "citation": "Par ailleurs, Xavier Bertrand ne veut pas l’instauration de la proportionnelle pour les élections législatives de peur de voir un hémicycle ingouvernable.",
@@ -252,7 +253,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite (2021) : proposait l'abaissement de la majorité pénale à 15 ans parmi ses mesures de sécurité ; aucune déclaration 2025-2026 trouvée.",
       "source": "https://www.publicsenat.fr/actualites/politique/apres-le-beauvau-de-la-securite-xavier-bertrand-repond-a-emmanuel-macron-en",
       "citation": "Xavier Bertrand appelle d’ailleurs à « retrouver des principes simples », comme l’application effective des peines en créant 20 000 places de prison pour sortir de la « gestion immobilière de la délinquance », ou bien l’abaissement de la majorité pénale à 15 ans.",

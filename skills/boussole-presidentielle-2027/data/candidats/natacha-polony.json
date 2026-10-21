@@ -1,5 +1,6 @@
 {
   "slug": "natacha-polony",
+  "format": 2,
   "nom": "Natacha Polony",
   "parti": "Nous sommes la France",
   "statut": "déclaré",
@@ -54,13 +55,13 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Sur Sud Radio, elle propose de renationaliser EDF et une « véritable politique urgente de défense du nucléaire », sans évoquer de nombre de nouveaux réacteurs.",
       "source": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
       "citation": "Et on renationalise EDF et on protège et on met en place une véritable politique urgente de défense du nucléaire.",
       "date_source": "2026-09-15",
       "confiance": "declaration",
-      "relu": true
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": null,

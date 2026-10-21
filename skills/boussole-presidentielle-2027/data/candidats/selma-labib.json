@@ -1,5 +1,6 @@
 {
   "slug": "selma-labib",
+  "format": 2,
   "nom": "Selma Labib",
   "parti": "NPA-Révolutionnaires",
   "statut": "désigné par son parti",
@@ -24,7 +25,7 @@
       "citation": "Il faut augmenter les salaires et les pensions de 400 euros par mois pour tous et toutes. Il ne faut pas un seul revenu sous les 2000 euros net.",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": true
+      "relu": false
     },
     "eco_depenses": {
       "valeur": 1,
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Veut « faire payer » les actionnaires et les milliardaires pour financer des mesures d'urgence, sans préciser d'instrument fiscal.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
       "citation": "Les travailleurs au pouvoir commenceraient par faire payer les actionnaires et les milliardaires pour toutes les mesures d’urgence de survie de la majorité la plus pauvre de l’humanité.",
@@ -60,7 +61,7 @@
       "citation": "L’énergie nucléaire est certes la source d’énergie la plus décarbonée aujourd’hui. L’absence de gestion des déchets radioactifs reste néanmoins catastrophique […]",
       "date_source": "2024-05-28",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 0,
@@ -108,13 +109,13 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Revendique la « liberté de circulation et d'installation » des étrangers.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
       "citation": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
       "date_source": "2026-09-12",
       "confiance": "declaration",
-      "relu": true
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
@@ -153,7 +154,7 @@
       "relu": false
     },
     "eur_ukraine": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Présente la guerre en Ukraine comme le prolongement de « concurrences capitalistes » et revendique « pas un homme, pas une femme, pas un euro pour les guerres impérialistes ».",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
       "citation": "Et le mur de leurs guerres qui sont le prolongement de leurs concurrences capitalistes, qu’on voit en Ukraine, en Iran ou d’une autre façon en Palestine et qui vont se multiplier si on ne les empêche pas.",
@@ -198,13 +199,13 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite de la lettre de Selma Labib à l'Académie des sciences (mai 2024), qui présente la réforme des groupes de niveau au collège comme une « usine à tri social ».",
       "source": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-au-bureau-de-lacademie-des-sciences",
       "citation": "La logique de sélection n’est pas une manière d’offrir des choix d’orientation mais transforme l’enseignement primaire et secondaire en une usine à tri social – parcoursup et la réforme des groupes de niveau au collège en sont deux exemples récents.",
       "date_source": "2024-05-28",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
@@ -252,7 +253,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui qualifie de « fantasmes » le projet de Gabriel Attal de revenir sur l'excuse de minorité et défend l'ordonnance de 1945, dont le but est de protéger et d'éduquer les mineurs « avant même de les punir ».",
       "source": "https://npa-revolutionnaires.org/excuse-de-minorite-les-fantasmes-de-gabriel-attal/",
       "citation": "Excuse de minorité : les fantasmes de Gabriel Attal […] Cette législation, qui date de 1945, posait les grands principes modernes de la justice pénale des mineurs en soulignant que le but était d’abord de les protéger et de les éduquer avant même de les punir.",

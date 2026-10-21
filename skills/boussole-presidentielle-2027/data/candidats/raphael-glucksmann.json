@@ -1,5 +1,6 @@
 {
   "slug": "raphael-glucksmann",
+  "format": 2,
   "nom": "Raphaël Glucksmann",
   "parti": "Place publique / Parti socialiste",
   "statut": "désigné par son parti",
@@ -24,7 +25,7 @@
       "citation": "Augmenter le SMIC à 1600 euros net dans les deux ans qui suivent notre accession au pouvoir.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "eco_depenses": {
       "valeur": 1,
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "A qualifié la taxe Zucman (impôt de 2 % sur les patrimoines de plus de 100 millions d'euros) de « base de tout accord » de non-censure entre la gauche et le gouvernement Lecornu.",
       "source": "https://www.brut.media/fr/articles/taxe-zucman-cest-non-pour-larcher-la-base-de-tout-accord-pour-glucksmann",
       "citation": "Pour l'eurodéputé Raphaël Glucksmann (Place publique), c'est même \"la base de tout accord\" de non censure entre la gauche et le nouveau gouvernement de Sébastien Lecornu.",
@@ -54,13 +55,13 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Lors de son premier déplacement de candidat, estime selon LCP « qu'il faut développer de nouveaux EPR », tout en indiquant que la question des nouveaux réacteurs « reste à discuter » avec Yannick Jadot.",
       "source": "https://lcp.fr/actualites/presidentielle-2027-s-il-gagne-raphael-glucksmann-engagera-les-100-jours-de-la",
       "citation": "Il y a un point \"qui reste à discuter\" : \"la question des nouveaux réacteurs nucléaires\". Raphaël Glucksmann estime qu'il faut développer de nouveaux EPR, contrairement à Yannick Jadot.",
       "date_source": "2026-08-25",
       "confiance": "declaration",
-      "relu": true
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 2,
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "A dénoncé la loi d'urgence agricole, qui « sacrifie l'écologie et la santé », et la réintroduction de l'acétamipride, reprochant à la droite de s'attaquer aux normes environnementales plutôt qu'au partage de la PAC et de la valeur.",
       "source": "https://place-publique.eu/posts/68jyTyNjDww1F2yvJ1c4St/reaction-de-raphael-glucksmann-suite-a-l-adoption-de-la-loi-d-urgence-agricole",
       "citation": "Plutôt que de s’attaquer au partage injuste de la PAC et de la valeur, à la concurrence déloyale, la droite et l’extrême-droite s’en prennent comme toujours aux normes environnementales.",
@@ -96,7 +97,7 @@
       "citation": "Lutter contre la surpopulation carcérale en adaptant les peines aux profils des détenus, en investissant dans des prisons rénovées et dignes et dans le renforcement des parcours individualisés de réinsertion.",
       "date_source": "2025-06",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": 0,
@@ -108,13 +109,13 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Juge que « l'immigration zéro n'est ni souhaitable, ni possible » tout en affirmant que s'installer en France n'est pas un droit universel ; propose une convention citoyenne sur l'immigration.",
       "source": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
       "citation": "\"Non, l'immigration zéro n'est ni souhaitable, ni possible. Et non, s'installer en France n'est pas un droit universel\", défend le leader de Place publique.",
       "date_source": "2026-05-26",
       "confiance": "declaration",
-      "relu": true
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose un plan pour la souveraineté européenne, un grand emprunt européen et la suppression du droit de veto dans l'UE.",
       "source": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
       "citation": "Le parlementaire défend un plan pour une souveraineté européenne et l'idée d'un grand emprunt européen. Il va jusqu'à proposer la suppression du droit de veto au sein de l'Union européenne, afin de lever les freins existants.",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "« Acte I », projet de Place publique (juin 2025), prévoit d'« augmenter drastiquement l'aide militaire à l'Ukraine » ; en 2026, franceinfo le cite parmi les trois candidats qui défendent l'aide à l'Ukraine dans la campagne.",
       "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
       "citation": "Augmenter drastiquement l’aide militaire à l’Ukraine qui est notre première ligne de défense et notre soutien aux alliés européens comme la Moldavie et l’Arménie.",
@@ -207,7 +208,7 @@
       "relu": false
     },
     "ins_proportionnelle": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Reçu à Matignon, a plaidé pour la proportionnelle aux législatives, de préférence régionale (« la proportionnelle, c'est la clarification, c'est l'esprit de compromis ») ; Acte I propose de l'« instaurer immédiatement ».",
       "source": "https://www.lagazettefrance.fr/article/la-proportionnelle-c-est-la-clarification-et-l-esprit-de-compromis-selon-glucksmann",
       "citation": "\"La proportionnelle, c'est la clarification, c'est l'esprit de compromis, c'est la sincérité face aux électrices et aux électeurs. C'est aussi une représentativité infiniment plus démocratique que le système actuel\", a affirmé M. Glucksmann",
@@ -216,7 +217,7 @@
       "relu": true
     },
     "ins_ric": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : propose un « droit d'initiative citoyenne » permettant de déclencher des référendums locaux et nationaux, sans employer le terme RIC.",
       "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
       "citation": "Instaurer un droit d’initiative citoyenne, permettant de déclencher des séquences démocratiques avec des référendums à l’échelle locale et nationale, généraliser des conventions citoyennes.",
@@ -243,7 +244,7 @@
       "relu": false
     },
     "ecol_aerien": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : suppression des exonérations de TVA et de taxe sur le kérosène et taxation des « plus gros pollueurs individuels (jets privés, yachts, SUV…) ».",
       "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
       "citation": "Mettre fin aux privilèges actuels des transports polluants : suppression des exonérations de TVA et de taxe sur le kérosène, étendre l’interdiction des vols intérieurs avec alternative ferroviaire viable, taxation des plus gros pollueurs individuels (jets privés, yachts, SUV…)",
@@ -306,7 +307,7 @@
       "relu": false
     },
     "soc_100secu": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : le texte maintient l'articulation entre assurance maladie obligatoire et complémentaires santé, dont il propose de mutualiser les systèmes d'information.",
       "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
       "citation": "Mutualiser les systèmes d’information entre assurance maladie obligatoire et complémentaires santé, afin de limiter les frais de fonctionnement du double système et simplifier les remboursements pour les patients.",

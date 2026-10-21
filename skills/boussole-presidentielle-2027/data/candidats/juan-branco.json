@@ -1,5 +1,6 @@
 {
   "slug": "juan-branco",
+  "format": 2,
   "nom": "Juan Branco",
   "parti": "Ruches Françaises (mouvement « Les Ruches »)",
   "statut": "déclaré",
@@ -24,7 +25,7 @@
       "citation": "Déconcentration du SMIC, avec réhaussement du seuil minimal national à 1500 euros net.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": true
+      "relu": false
     },
     "eco_depenses": {
       "valeur": -1,
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme prévoit le « rétablissement de l'ISF » et une taxation de l'héritage confiscatoire au-delà de 100 millions d'euros.",
       "source": "https://ruches.org/le-projet",
       "citation": "Rétablissement de l’ISF avec un mécanisme de précompte sur les droits de succession.",
@@ -54,13 +55,13 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme prévoit la « construction de 14 EPR 2 » et le développement d'une filière de réacteurs à neutrons rapides.",
       "source": "https://ruches.org/le-projet",
       "citation": "Construction de 14 EPR 2, développement d’une filière intégrée RNR-NA.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": true
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": -1,
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le programme prévoit l'« épurement des normes et certifications », l'abrogation des normes jugées excessives pour les PME et collectivités et la suppression des ZFE, tout en relevant à 500 000 euros le plafond des amendes des installations classées.",
       "source": "https://ruches.org/le-projet",
       "citation": "Épurement des normes et certifications, suppression des normes sur le calibrage et conditionnement des fruits et légumes.",
@@ -81,7 +82,7 @@
       "relu": true
     },
     "sec_peines": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme annonce la « fin du modèle Badinter : peines réelles, exécution des peines courtes », sans proposer de peines planchers.",
       "source": "https://ruches.org/le-projet",
       "citation": "Fin du modèle Badinter : peines réelles, exécution des peines courtes, séparation des débats sur les faits et la personnalité ; de la condamnation et de la sentence.",
@@ -108,13 +109,13 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme prévoit la « conditionnalisation du regroupement familial » et un système d'asile à deux niveaux dont l'un lié à l'origine géographique, tout en voulant attirer les profils hautement qualifiés.",
       "source": "https://ruches.org/le-projet",
       "citation": "Conditionnalisation du regroupement familial et déconcentration du traitement de l’asile au niveau consulaire.",
       "date_source": "2026-07",
       "confiance": "programme",
-      "relu": true
+      "relu": false
     },
     "imm_ame": {
       "valeur": null,
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le programme propose un référendum sur la sortie de l'Union européenne et de l'euro, et la création d'une « Union des peuples européens » ; valeur −1 : le programme soumet ces sorties à référendum (« et/ou ») et propose une autre union européenne, sans rejeter toute intégration.",
       "source": "https://ruches.org/le-projet",
       "citation": "Sortie de l’Union Européenne, de l’euro, du Conseil de l’Europe et/ou de l’espace Schengen. ◆ Sortie de l’OTAN (commandement intégré ou du Traité). ◆ Création d’une Union des peuples européens.",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme prévoit l'« arrêt des livraisons d'armes à l'Ukraine ».",
       "source": "https://ruches.org/le-projet",
       "citation": "Arrêt des livraisons d’armes à l’Ukraine.",
@@ -180,7 +181,7 @@
       "relu": false
     },
     "soc_rsa": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme prévoit la « déconditionnalisation du RSA » et l'attribution automatique des minima sociaux, ainsi que son extension aux jeunes dès 18 ans.",
       "source": "https://ruches.org/le-projet",
       "citation": "Déconditionnalisation du RSA, attribution automatique des minima sociaux afin de sortir de la pauvreté ceux qui n’ont même pas les moyens de les réclamer.",
@@ -207,7 +208,7 @@
       "relu": false
     },
     "ins_proportionnelle": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme propose une constituante élue aux deux tiers à la proportionnelle et, parmi les options, une chambre basse dont 200 députés élus à la proportionnelle et 114 au scrutin uninominal.",
       "source": "https://ruches.org/le-projet",
       "citation": "Concernant la chambre basse : élection à scrutin proportionnel sur listes à un tour pour 200 députés, au scrutin uninominal à un tour pour 101 députés sur les circonscriptions départementales, et au scrutin uninominal à un tour pour les treize députés des DROM-COM.",
@@ -216,7 +217,7 @@
       "relu": true
     },
     "ins_ric": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme propose la « création d'un RIC en toutes matières » et des mandats révocables.",
       "source": "https://ruches.org/le-projet",
       "citation": "Création d’un RIC en toutes matières. ◆ Instauration du principe de mandat révocable",
@@ -243,7 +244,7 @@
       "relu": false
     },
     "ecol_aerien": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme prévoit la « fin de l'exemption de TICPE sur les vols intérieurs », parmi des mesures de financement des transports en commun et du rail.",
       "source": "https://ruches.org/le-projet",
       "citation": "Fin de l’exemption de TICPE sur les vols intérieurs.",
@@ -306,7 +307,7 @@
       "relu": false
     },
     "soc_100secu": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme prévoit l'« abolition des complémentaires santé et mutuelles » et leur absorption dans un « système unique de sécurité sociale intégrale ».",
       "source": "https://ruches.org/le-projet",
       "citation": "Abolition des complémentaires santé et mutuelles publiques et privées, institutions de prévoyance, complémentaires collectives, etc et absorption au sein d’un grand système unique de sécurité sociale intégrale de tous les dispositifs compensatoires […]",
@@ -333,7 +334,7 @@
       "relu": false
     },
     "edu_etudiants": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme prévoit l'« extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources » et détachée du foyer fiscal familial, ce qui n'est pas une allocation réservée aux étudiants.",
       "source": "https://ruches.org/le-projet",
       "citation": "Extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources […]",
@@ -351,7 +352,7 @@
       "relu": false
     },
     "ins_parlementaires": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme soumet à une constituante trois options qui réduisent toutes le nombre de parlementaires (chambre basse de 314 députés et chambre haute tirée au sort absorbant Sénat et CESE, suppression des deux chambres, ou fusion).",
       "source": "https://ruches.org/le-projet",
       "citation": "Concernant la chambre haute : fonctionnement “à l’athénienne” avec un tirage au sort des 200 représentants tous les vingt-quatre mois. Concernant la chambre basse : élection à scrutin proportionnel sur listes à un tour pour 200 députés, au scrutin uninominal à un tour pour 101 députés […]",
@@ -360,7 +361,7 @@
       "relu": true
     },
     "ins_voteblanc": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme prévoit la « prise en compte du vote nul et blanc », rendant caduc le mandat électoral en cas de majorité de vote blanc.",
       "source": "https://ruches.org/le-projet",
       "citation": "[…] prise en compte du vote nul et blanc (réduisant proportionnellement le financement public et rendant caduque le mandat électoral en cas de majorité de vote blanc).",

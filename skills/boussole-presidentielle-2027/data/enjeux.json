@@ -1,0 +1,972 @@
+{
+  "version": "2026-10-21",
+  "format": 2,
+  "echelle": {
+    "-2": "Pôle A nettement",
+    "-1": "Plutôt le pôle A",
+    "0": "Entre les deux",
+    "1": "Plutôt le pôle B",
+    "2": "Pôle B nettement",
+    "null": "Je passe (pas d'avis, la question ne me concerne pas)"
+  },
+  "themes": {
+    "economie": "Économie, travail et fiscalité",
+    "ecologie": "Écologie et énergie",
+    "securite": "Sécurité et justice",
+    "immigration": "Immigration",
+    "europe": "Europe et international",
+    "social": "Santé et protection sociale",
+    "education": "Éducation",
+    "institutions": "Institutions et démocratie"
+  },
+  "enjeux": [
+    {
+      "id": "eco_retraite",
+      "theme": "economie",
+      "pole_a": "Revenir à 62 ans",
+      "pole_b": "Garder 64 ans ou plus",
+      "contexte": "La réforme de 2023 relève l'âge légal de départ de 62 à 64 ans ; sa mise en œuvre a été suspendue fin 2025.",
+      "variantes": [
+        {
+          "id": "eco_retraite.1",
+          "question": "Quel âge légal de départ à la retraite faut-il viser ?",
+          "a": "Revenir à 62 ans ou moins",
+          "b": "Rester à 64 ans ou plus",
+          "validee": false
+        },
+        {
+          "id": "eco_retraite.2",
+          "question": "Pour l'équilibre des retraites, quel levier privilégier ?",
+          "a": "Un départ à 62 ans, avec des cotisations plus élevées",
+          "b": "Un départ à 64 ans ou plus, avec des cotisations inchangées",
+          "validee": false
+        },
+        {
+          "id": "eco_retraite.3",
+          "question": "Âge légal de départ à la retraite :",
+          "a": "62 ans ou moins",
+          "b": "64 ans ou plus",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "eco_smic",
+      "theme": "economie",
+      "pole_a": "SMIC selon la seule revalorisation automatique",
+      "pole_b": "SMIC relevé par décision de l'État",
+      "contexte": "Le SMIC est revalorisé chaque année selon une formule automatique ; l'État peut décider d'aller au-delà (« coup de pouce »).",
+      "variantes": [
+        {
+          "id": "eco_smic.1",
+          "question": "Comment faire évoluer le SMIC ?",
+          "a": "Selon la seule revalorisation automatique",
+          "b": "Au-delà de la revalorisation automatique",
+          "validee": false
+        },
+        {
+          "id": "eco_smic.2",
+          "question": "Pour les salariés payés au SMIC, que faut-il privilégier ?",
+          "a": "La revalorisation automatique, pour ne pas freiner l'embauche",
+          "b": "Une hausse décidée par l'État, pour soutenir leur pouvoir d'achat",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "eco_depenses",
+      "theme": "economie",
+      "pole_a": "Baisser les dépenses publiques",
+      "pole_b": "Augmenter les impôts",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eco_depenses.1",
+          "question": "Pour réduire le déficit public, que faut-il faire d'abord ?",
+          "a": "Réduire les dépenses publiques",
+          "b": "Augmenter les recettes fiscales",
+          "validee": false
+        },
+        {
+          "id": "eco_depenses.2",
+          "question": "Pour rééquilibrer les comptes publics, quel levier privilégier ?",
+          "a": "Des économies ciblées sur les dépenses de l'État et des collectivités",
+          "b": "Des hausses d'impôts ciblées sur certains ménages ou certaines entreprises",
+          "validee": false
+        },
+        {
+          "id": "eco_depenses.3",
+          "question": "Face au déficit public :",
+          "a": "Réduire les dépenses",
+          "b": "Augmenter les impôts",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "eco_patrimoine",
+      "theme": "economie",
+      "pole_a": "Taxer davantage les grandes fortunes",
+      "pole_b": "Garder la fiscalité actuelle du patrimoine",
+      "contexte": "Depuis 2018, seul le patrimoine immobilier est soumis à un impôt sur la fortune (IFI).",
+      "variantes": [
+        {
+          "id": "eco_patrimoine.1",
+          "question": "Sur l'imposition des plus grandes fortunes, que privilégier ?",
+          "a": "Un impôt supplémentaire sur leur patrimoine",
+          "b": "Le niveau d'imposition actuel",
+          "validee": false
+        },
+        {
+          "id": "eco_patrimoine.2",
+          "question": "Impôt sur le patrimoine des ménages les plus fortunés :",
+          "a": "L'augmenter (retour de l'ISF, taxe Zucman…)",
+          "b": "Le maintenir ou le baisser (impôt sur la fortune immobilière…)",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "eco_35h",
+      "theme": "economie",
+      "pole_a": "Garder les 35 heures",
+      "pole_b": "Assouplir la durée légale",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eco_35h.1",
+          "question": "Durée légale du travail :",
+          "a": "La garder à 35 heures par semaine",
+          "b": "La porter au-delà de 35 heures par semaine",
+          "validee": false
+        },
+        {
+          "id": "eco_35h.2",
+          "question": "Pour le temps de travail, que faut-il privilégier ?",
+          "a": "Les 35 heures comme référence commune",
+          "b": "Une durée plus longue, négociée dans chaque entreprise",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ecol_nucleaire",
+      "theme": "ecologie",
+      "pole_a": "Construire de nouveaux réacteurs",
+      "pole_b": "Réduire la part du nucléaire",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "ecol_nucleaire.1",
+          "question": "Pour produire l'électricité, quelle voie privilégier ?",
+          "a": "Construire de nouveaux réacteurs nucléaires",
+          "b": "Réduire progressivement la part du nucléaire",
+          "validee": false
+        },
+        {
+          "id": "ecol_nucleaire.2",
+          "question": "Les réacteurs nucléaires actuels vieillissent. Que faut-il faire ?",
+          "a": "Les remplacer par de nouveaux réacteurs",
+          "b": "Les remplacer progressivement par d'autres sources",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ecol_renouvelables",
+      "theme": "ecologie",
+      "pole_a": "Limiter l'éolien et le solaire",
+      "pole_b": "Accélérer l'éolien et le solaire",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "ecol_renouvelables.1",
+          "question": "Pour l'éolien et le solaire, que faut-il faire ?",
+          "a": "Limiter les nouvelles installations",
+          "b": "Accélérer les nouvelles installations",
+          "validee": false
+        },
+        {
+          "id": "ecol_renouvelables.2",
+          "question": "Face aux projets d'éoliennes et de parcs solaires, que privilégier ?",
+          "a": "Le cadre de vie des riverains et les paysages",
+          "b": "La production d'électricité renouvelable",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ecol_normes",
+      "theme": "ecologie",
+      "pole_a": "Renforcer les normes environnementales",
+      "pole_b": "Alléger les normes environnementales",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "ecol_normes.1",
+          "question": "Normes environnementales pour les entreprises et les agriculteurs :",
+          "a": "Les renforcer pour mieux protéger l'environnement",
+          "b": "Les alléger pour soulager ceux qui produisent",
+          "validee": false
+        },
+        {
+          "id": "ecol_normes.2",
+          "question": "Agriculture : quelle priorité ?",
+          "a": "Réduire l'usage des pesticides et des engrais chimiques",
+          "b": "Réduire les contraintes réglementaires sur les exploitations",
+          "validee": false
+        },
+        {
+          "id": "ecol_normes.3",
+          "question": "Pour les entreprises et les exploitations agricoles :",
+          "a": "Plus d'exigences environnementales",
+          "b": "Moins d'exigences environnementales",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ecol_thermique2035",
+      "theme": "ecologie",
+      "pole_a": "Revenir sur l'échéance de 2035",
+      "pole_b": "Garder la fin des voitures thermiques neuves en 2035",
+      "contexte": "L'Union européenne a fixé à 2035 la fin de la vente de voitures neuves émettant du CO2 ; cette échéance est débattue.",
+      "variantes": [
+        {
+          "id": "ecol_thermique2035.1",
+          "question": "Fin de la vente des voitures thermiques neuves en 2035 :",
+          "a": "Repousser ou supprimer cette échéance",
+          "b": "Garder cette échéance",
+          "validee": false
+        },
+        {
+          "id": "ecol_thermique2035.2",
+          "question": "Pour les voitures neuves vendues à partir de 2035, que privilégier ?",
+          "a": "Des voitures électriques, hybrides ou thermiques, au choix",
+          "b": "Des voitures électriques uniquement",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ecol_aerien",
+      "theme": "ecologie",
+      "pole_a": "Taxer davantage l'aérien",
+      "pole_b": "Garder la fiscalité actuelle de l'aérien",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "ecol_aerien.1",
+          "question": "Billets d'avion et kérosène :",
+          "a": "Les taxer davantage pour financer la transition écologique",
+          "b": "Garder leur fiscalité actuelle pour ne pas renchérir les voyages",
+          "validee": false
+        },
+        {
+          "id": "ecol_aerien.2",
+          "question": "Taxes sur le transport aérien :",
+          "a": "Les augmenter",
+          "b": "Les laisser à leur niveau actuel",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "sec_peines",
+      "theme": "securite",
+      "pole_a": "Peines plus lourdes, avec un minimum légal",
+      "pole_b": "Peine fixée par le juge au cas par cas",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "sec_peines.1",
+          "question": "Pour sanctionner les délits, que faut-il privilégier ?",
+          "a": "Des peines plus lourdes, avec un minimum fixé par la loi",
+          "b": "Des peines fixées par le juge au cas par cas",
+          "validee": false
+        },
+        {
+          "id": "sec_peines.2",
+          "question": "En cas de récidive, que privilégier ?",
+          "a": "Une peine minimale fixée par la loi",
+          "b": "Une peine fixée par le juge, au cas par cas",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "sec_prisons",
+      "theme": "securite",
+      "pole_a": "Construire des places de prison",
+      "pole_b": "Développer les peines alternatives",
+      "contexte": "Les prisons françaises comptent plus de détenus que de places.",
+      "variantes": [
+        {
+          "id": "sec_prisons.1",
+          "question": "Face à la surpopulation carcérale, que faut-il privilégier ?",
+          "a": "Construire de nouvelles places de prison",
+          "b": "Développer les peines alternatives",
+          "validee": false
+        },
+        {
+          "id": "sec_prisons.2",
+          "question": "Les prisons sont surpeuplées. Quelle réponse privilégier ?",
+          "a": "Augmenter le nombre de places de prison",
+          "b": "Exécuter davantage de peines hors de prison (bracelet, travail d'intérêt général…)",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "sec_cannabis",
+      "theme": "securite",
+      "pole_a": "Maintenir l'interdiction du cannabis",
+      "pole_b": "Légaliser et encadrer le cannabis",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "sec_cannabis.1",
+          "question": "Cannabis récréatif :",
+          "a": "Maintenir l'interdiction",
+          "b": "Légaliser",
+          "validee": false
+        },
+        {
+          "id": "sec_cannabis.2",
+          "question": "Cannabis récréatif, que privilégier ?",
+          "a": "Interdire la vente et la consommation",
+          "b": "Autoriser la vente et la consommation",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "sec_mineurs",
+      "theme": "securite",
+      "pole_a": "Justice des mineurs pour les 16-18 ans",
+      "pole_b": "Pouvoir juger les 16-18 ans comme des majeurs",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "sec_mineurs.1",
+          "question": "Pour les mineurs de 16 à 18 ans auteurs de délits, que faut-il ?",
+          "a": "Les juger selon les règles de la justice des mineurs",
+          "b": "Pouvoir les juger comme des majeurs, selon les faits",
+          "validee": false
+        },
+        {
+          "id": "sec_mineurs.2",
+          "question": "Délinquance des 16-18 ans : que privilégier ?",
+          "a": "Une justice spécialisée, centrée sur l'éducation",
+          "b": "Les règles des majeurs, selon la gravité des faits",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "sec_videosurveillance",
+      "theme": "securite",
+      "pole_a": "Généraliser l'analyse automatique des images",
+      "pole_b": "Interdire ou limiter l'analyse automatique",
+      "contexte": "La vidéosurveillance algorithmique analyse les images des caméras par logiciel (détection de comportements, voire reconnaissance faciale).",
+      "variantes": [
+        {
+          "id": "sec_videosurveillance.1",
+          "question": "Caméras avec analyse automatique des images dans l'espace public :",
+          "a": "Les généraliser",
+          "b": "Les interdire",
+          "validee": false
+        },
+        {
+          "id": "sec_videosurveillance.2",
+          "question": "Dans l'espace public, que privilégier ?",
+          "a": "La détection automatique des risques par les caméras",
+          "b": "La protection de la vie privée face à ces caméras",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "imm_baisse",
+      "theme": "immigration",
+      "pole_a": "Réduire l'immigration légale",
+      "pole_b": "Maintenir ou ouvrir l'immigration légale",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "imm_baisse.1",
+          "question": "Immigration légale (travail, famille, études) :",
+          "a": "Fixer des quotas annuels plus bas qu'aujourd'hui",
+          "b": "Garder ou élargir les possibilités actuelles",
+          "validee": false
+        },
+        {
+          "id": "imm_baisse.2",
+          "question": "Nombre de titres de séjour délivrés chaque année :",
+          "a": "Le réduire",
+          "b": "Le maintenir ou l'augmenter",
+          "validee": false
+        },
+        {
+          "id": "imm_baisse.3",
+          "question": "Regroupement familial (venue de la famille d'un étranger installé en France) :",
+          "a": "Le restreindre",
+          "b": "Le garder dans ses conditions actuelles ou l'assouplir",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "imm_ame",
+      "theme": "immigration",
+      "pole_a": "Maintenir l'AME",
+      "pole_b": "Limiter l'AME aux soins urgents",
+      "contexte": "L'Aide médicale d'État (AME) prend en charge les soins des étrangers en situation irrégulière à faibles ressources.",
+      "variantes": [
+        {
+          "id": "imm_ame.1",
+          "question": "Aide médicale d'État (soins des étrangers en situation irrégulière) :",
+          "a": "La maintenir dans sa forme actuelle",
+          "b": "La limiter aux soins urgents",
+          "validee": false
+        },
+        {
+          "id": "imm_ame.2",
+          "question": "Soins des étrangers en situation irrégulière, que privilégier ?",
+          "a": "Garder la couverture des soins courants",
+          "b": "Réduire la couverture aux soins urgents",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "imm_regularisation",
+      "theme": "immigration",
+      "pole_a": "Restreindre les régularisations",
+      "pole_b": "Faciliter les régularisations",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "imm_regularisation.1",
+          "question": "Régularisation des étrangers sans papiers qui travaillent en France :",
+          "a": "En accorder moins qu'aujourd'hui",
+          "b": "En accorder plus qu'aujourd'hui",
+          "validee": false
+        },
+        {
+          "id": "imm_regularisation.2",
+          "question": "Étrangers sans titre de séjour qui travaillent en France :",
+          "a": "Réduire le nombre de régularisations",
+          "b": "Faciliter leur accès à un titre de séjour",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "imm_droitdusol",
+      "theme": "immigration",
+      "pole_a": "Maintenir le droit du sol",
+      "pole_b": "Supprimer ou restreindre le droit du sol",
+      "contexte": "Un enfant né en France de parents étrangers peut devenir français à sa majorité (droit du sol).",
+      "variantes": [
+        {
+          "id": "imm_droitdusol.1",
+          "question": "Nationalité des enfants nés en France de parents étrangers :",
+          "a": "Elle s'obtient automatiquement à 18 ans, comme aujourd'hui",
+          "b": "Elle s'obtient sur demande, sous conditions",
+          "validee": false
+        },
+        {
+          "id": "imm_droitdusol.2",
+          "question": "Droit du sol :",
+          "a": "Le conserver",
+          "b": "Le supprimer ou le restreindre",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "imm_preference",
+      "theme": "immigration",
+      "pole_a": "Mêmes règles pour Français et étrangers",
+      "pole_b": "Priorité selon la nationalité française",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "imm_preference.1",
+          "question": "Accès au logement social et à certaines aides sociales :",
+          "a": "Les mêmes conditions pour les Français et les étrangers en situation régulière",
+          "b": "Des conditions plus favorables pour les Français",
+          "validee": false
+        },
+        {
+          "id": "imm_preference.2",
+          "question": "Attribution d'un logement social, à situation égale :",
+          "a": "Selon les critères sociaux uniquement",
+          "b": "Selon les critères sociaux et la nationalité",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "eur_integration",
+      "theme": "europe",
+      "pole_a": "Plus de décisions européennes communes",
+      "pole_b": "Plus de décisions laissées aux États",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eur_integration.1",
+          "question": "Union européenne : quelle direction ?",
+          "a": "Plus de décisions prises en commun (défense, emprunt commun, vote à la majorité)",
+          "b": "Plus de décisions laissées à chaque État (budget, défense, droit de veto)",
+          "validee": false
+        },
+        {
+          "id": "eur_integration.2",
+          "question": "Pour peser face aux États-Unis et à la Chine, que privilégier ?",
+          "a": "Une Europe plus intégrée, avec des politiques communes",
+          "b": "Une coopération entre États qui gardent la main",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "eur_primaute",
+      "theme": "europe",
+      "pole_a": "Appliquer le droit européen",
+      "pole_b": "Faire primer le droit français",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eur_primaute.1",
+          "question": "En cas de conflit entre le droit français et le droit de l'Union européenne :",
+          "a": "Appliquer le droit européen",
+          "b": "Appliquer le droit français",
+          "validee": false
+        },
+        {
+          "id": "eur_primaute.2",
+          "question": "Les traités européens :",
+          "a": "Les appliquer, y compris quand ils priment sur la loi française",
+          "b": "Les renégocier pour que la loi française prime sur eux",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "eur_ukraine",
+      "theme": "europe",
+      "pole_a": "Poursuivre l'aide militaire à l'Ukraine",
+      "pole_b": "Cesser l'aide militaire à l'Ukraine",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eur_ukraine.1",
+          "question": "Guerre en Ukraine : que doit faire la France ?",
+          "a": "Poursuivre son aide militaire, pour soutenir la défense de l'Ukraine",
+          "b": "Y mettre fin, pour éviter une escalade du conflit",
+          "validee": false
+        },
+        {
+          "id": "eur_ukraine.2",
+          "question": "Pour mettre fin à la guerre en Ukraine, que privilégier ?",
+          "a": "Continuer à livrer des armes à l'Ukraine",
+          "b": "Arrêter de livrer des armes à l'Ukraine",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "eur_otan",
+      "theme": "europe",
+      "pole_a": "Rester dans le commandement intégré de l'OTAN",
+      "pole_b": "Quitter le commandement intégré de l'OTAN",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "eur_otan.1",
+          "question": "La France et l'OTAN :",
+          "a": "Rester dans le commandement intégré",
+          "b": "Quitter le commandement intégré",
+          "validee": false
+        },
+        {
+          "id": "eur_otan.2",
+          "question": "Pour la défense de la France, que privilégier ?",
+          "a": "La coopération militaire au sein de l'OTAN",
+          "b": "Une défense indépendante, hors du commandement de l'OTAN",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "eur_defense3",
+      "theme": "europe",
+      "pole_a": "Défense à 3 % du PIB ou plus",
+      "pole_b": "Défense sous 3 % du PIB",
+      "contexte": "Le budget de la défense représente environ 2 % du PIB.",
+      "variantes": [
+        {
+          "id": "eur_defense3.1",
+          "question": "Budget de la défense :",
+          "a": "Le porter à 3 % du PIB ou plus",
+          "b": "Le garder sous 3 % du PIB",
+          "validee": false
+        },
+        {
+          "id": "eur_defense3.2",
+          "question": "Avec l'argent public disponible, que privilégier ?",
+          "a": "Porter les dépenses militaires à 3 % du PIB",
+          "b": "Limiter leur hausse pour financer d'autres priorités",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "soc_medecins",
+      "theme": "social",
+      "pole_a": "Réguler l'installation des médecins",
+      "pole_b": "Garder la liberté d'installation",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "soc_medecins.1",
+          "question": "Pour lutter contre les déserts médicaux, que privilégier ?",
+          "a": "Encadrer l'installation des médecins dans les zones bien dotées",
+          "b": "Garder la liberté d'installation et inciter à s'installer ailleurs",
+          "validee": false
+        },
+        {
+          "id": "soc_medecins.2",
+          "question": "Liberté d'installation des médecins :",
+          "a": "La limiter dans les zones bien pourvues",
+          "b": "La conserver, y compris dans ces zones",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "soc_findevie",
+      "theme": "social",
+      "pole_a": "Abroger l'aide à mourir",
+      "pole_b": "Maintenir l'aide à mourir",
+      "contexte": "L'aide à mourir a été légalisée en 2026 sous conditions.",
+      "variantes": [
+        {
+          "id": "soc_findevie.1",
+          "question": "Aide à mourir :",
+          "a": "Revenir sur cette loi",
+          "b": "Garder cette loi",
+          "validee": false
+        },
+        {
+          "id": "soc_findevie.2",
+          "question": "Pour la fin de vie, que privilégier ?",
+          "a": "Interdire l'aide à mourir",
+          "b": "Autoriser l'aide à mourir",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "soc_rsa",
+      "theme": "social",
+      "pole_a": "RSA conditionné à des heures d'activité",
+      "pole_b": "RSA sans obligation d'heures d'activité",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "soc_rsa.1",
+          "question": "Revenu de solidarité active (RSA) :",
+          "a": "Exiger des heures d'activité pour le verser",
+          "b": "Le verser sans exiger d'heures d'activité",
+          "validee": false
+        },
+        {
+          "id": "soc_rsa.2",
+          "question": "Pour les allocataires du RSA, que privilégier ?",
+          "a": "Une contrepartie en heures d'activité",
+          "b": "Un accompagnement sans obligation d'heures",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "soc_100secu",
+      "theme": "social",
+      "pole_a": "Tout rembourser par la Sécurité sociale",
+      "pole_b": "Garder les complémentaires santé",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "soc_100secu.1",
+          "question": "Remboursement des soins :",
+          "a": "Tout par la Sécurité sociale, sans complémentaire santé",
+          "b": "Partagé entre Sécurité sociale et complémentaires santé",
+          "validee": false
+        },
+        {
+          "id": "soc_100secu.2",
+          "question": "Complémentaires santé (mutuelles) :",
+          "a": "Les remplacer par un remboursement intégral par la Sécurité sociale",
+          "b": "Les conserver aux côtés de la Sécurité sociale",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "soc_chomage",
+      "theme": "social",
+      "pole_a": "Maintenir l'indemnisation chômage",
+      "pole_b": "Réduire l'indemnisation chômage",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "soc_chomage.1",
+          "question": "Assurance chômage :",
+          "a": "Garder la durée et le montant actuels des allocations",
+          "b": "Réduire la durée ou le montant des allocations",
+          "validee": false
+        },
+        {
+          "id": "soc_chomage.2",
+          "question": "Pour les demandeurs d'emploi, que privilégier ?",
+          "a": "Une indemnisation qui protège leur niveau de vie",
+          "b": "Une indemnisation plus courte qui incite à reprendre un emploi",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "edu_prive",
+      "theme": "education",
+      "pole_a": "Maintenir le financement du privé sous contrat",
+      "pole_b": "Réduire le financement du privé sous contrat",
+      "contexte": "Les écoles privées sous contrat sont financées en grande partie par l'État (salaires des enseignants) et les collectivités.",
+      "variantes": [
+        {
+          "id": "edu_prive.1",
+          "question": "Écoles privées sous contrat :",
+          "a": "Maintenir leur financement public",
+          "b": "Réduire leur financement public",
+          "validee": false
+        },
+        {
+          "id": "edu_prive.2",
+          "question": "Argent public pour l'école :",
+          "a": "Continuer à financer aussi le privé sous contrat",
+          "b": "Le concentrer davantage sur l'école publique",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "edu_autorite",
+      "theme": "education",
+      "pole_a": "Plus de discipline",
+      "pole_b": "Plus d'accompagnement",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "edu_autorite.1",
+          "question": "Pour améliorer le climat scolaire, que privilégier ?",
+          "a": "Uniforme, sanctions renforcées et groupes de niveau",
+          "b": "Effectifs réduits, plus d'adultes encadrants et classes mixtes",
+          "validee": false
+        },
+        {
+          "id": "edu_autorite.2",
+          "question": "Au collège, que faut-il privilégier ?",
+          "a": "Des règles plus exigeantes et des groupes de niveau",
+          "b": "Des classes moins chargées et mélangeant les niveaux",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "edu_signes",
+      "theme": "education",
+      "pole_a": "Signes religieux autorisés aux parents accompagnateurs",
+      "pole_b": "Signes religieux interdits aux parents accompagnateurs",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "edu_signes.1",
+          "question": "Parents qui accompagnent les sorties scolaires :",
+          "a": "Ils peuvent porter un signe religieux",
+          "b": "Ils ne doivent pas porter de signe religieux",
+          "validee": false
+        },
+        {
+          "id": "edu_signes.2",
+          "question": "Neutralité religieuse lors des sorties scolaires :",
+          "a": "Elle s'impose aux enseignants, pas aux parents accompagnateurs",
+          "b": "Elle s'impose aussi aux parents accompagnateurs",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "edu_etudiants",
+      "theme": "education",
+      "pole_a": "Allocation pour tous les étudiants",
+      "pole_b": "Bourses selon les revenus des parents",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "edu_etudiants.1",
+          "question": "Aide financière aux étudiants :",
+          "a": "Une allocation versée à tous les étudiants",
+          "b": "Des bourses selon les revenus des parents",
+          "validee": false
+        },
+        {
+          "id": "edu_etudiants.2",
+          "question": "Pour aider les étudiants à financer leurs études, que privilégier ?",
+          "a": "Une allocation d'autonomie pour tous",
+          "b": "Des bourses réservées aux familles modestes",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "edu_apprentissage",
+      "theme": "education",
+      "pole_a": "Apprentissage après le collège",
+      "pole_b": "Apprentissage dès 14 ans",
+      "contexte": "Aujourd'hui, on peut entrer en apprentissage à 15 ans si l'on a terminé le collège, à 16 ans sinon.",
+      "variantes": [
+        {
+          "id": "edu_apprentissage.1",
+          "question": "Apprentissage (formation en alternance chez un employeur) :",
+          "a": "Le garder après le collège (15-16 ans)",
+          "b": "L'ouvrir dès 14 ans",
+          "validee": false
+        },
+        {
+          "id": "edu_apprentissage.2",
+          "question": "Pour les élèves de 14 ans en difficulté au collège, que privilégier ?",
+          "a": "Les garder au collège avec un accompagnement renforcé",
+          "b": "Leur permettre d'entrer en apprentissage",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ins_proportionnelle",
+      "theme": "institutions",
+      "pole_a": "Élection des députés à la proportionnelle",
+      "pole_b": "Scrutin majoritaire par circonscription",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "ins_proportionnelle.1",
+          "question": "Élection des députés :",
+          "a": "À la proportionnelle, selon le score des listes",
+          "b": "Au scrutin majoritaire dans chaque circonscription, comme aujourd'hui",
+          "validee": false
+        },
+        {
+          "id": "ins_proportionnelle.2",
+          "question": "Pour l'Assemblée nationale, que privilégier ?",
+          "a": "Une représentation fidèle du poids de chaque parti",
+          "b": "Un lien direct entre chaque député et sa circonscription",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ins_ric",
+      "theme": "institutions",
+      "pole_a": "Instaurer le RIC",
+      "pole_b": "Laisser la loi au Parlement",
+      "contexte": "Le référendum d'initiative citoyenne (RIC) permettrait à des citoyens de déclencher un référendum par pétition.",
+      "variantes": [
+        {
+          "id": "ins_ric.1",
+          "question": "Référendum d'initiative citoyenne (RIC) :",
+          "a": "L'instaurer, pour que les citoyens puissent déclencher un vote",
+          "b": "Ne pas l'instaurer, pour laisser la loi au Parlement",
+          "validee": false
+        },
+        {
+          "id": "ins_ric.2",
+          "question": "Pour décider des lois, que privilégier ?",
+          "a": "Des référendums que les citoyens peuvent déclencher eux-mêmes",
+          "b": "Le vote des lois par les représentants élus",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ins_6e",
+      "theme": "institutions",
+      "pole_a": "Garder la Ve République",
+      "pole_b": "Passer à une VIe République",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "ins_6e.1",
+          "question": "Institutions :",
+          "a": "Garder la Constitution actuelle (Ve République) et les pouvoirs du président",
+          "b": "Une nouvelle Constitution (VIe République), avec un président aux pouvoirs réduits",
+          "validee": false
+        },
+        {
+          "id": "ins_6e.2",
+          "question": "Rôle du président de la République :",
+          "a": "Le conserver tel qu'il est",
+          "b": "Le réduire au profit du Parlement",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ins_parlementaires",
+      "theme": "institutions",
+      "pole_a": "Réduire le nombre de parlementaires",
+      "pole_b": "Garder le nombre de parlementaires",
+      "contexte": "Le Parlement compte 577 députés et 348 sénateurs.",
+      "variantes": [
+        {
+          "id": "ins_parlementaires.1",
+          "question": "Nombre de députés et de sénateurs :",
+          "a": "Le réduire",
+          "b": "Le conserver",
+          "validee": false
+        },
+        {
+          "id": "ins_parlementaires.2",
+          "question": "Pour le Parlement, que privilégier ?",
+          "a": "Moins de parlementaires, pour réduire le coût",
+          "b": "Autant de parlementaires, pour garder la proximité avec les territoires",
+          "validee": false
+        }
+      ]
+    },
+    {
+      "id": "ins_voteblanc",
+      "theme": "institutions",
+      "pole_a": "Compter le vote blanc comme suffrage exprimé",
+      "pole_b": "Compter le vote blanc à part",
+      "contexte": null,
+      "variantes": [
+        {
+          "id": "ins_voteblanc.1",
+          "question": "Vote blanc :",
+          "a": "Le compter dans les suffrages exprimés",
+          "b": "Le compter à part, sans effet sur le résultat",
+          "validee": false
+        },
+        {
+          "id": "ins_voteblanc.2",
+          "question": "Pour calculer le résultat d'une élection, que privilégier ?",
+          "a": "Inclure les votes blancs dans les pourcentages",
+          "b": "Calculer les pourcentages sur les seuls votes pour un candidat",
+          "validee": false
+        }
+      ]
+    }
+  ]
+}

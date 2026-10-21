@@ -1,5 +1,6 @@
 {
   "slug": "anasse-kazib",
+  "format": 2,
   "nom": "Anasse Kazib",
   "parti": "Révolution permanente",
   "statut": "déclaré",
@@ -9,7 +10,7 @@
   "notes": "Candidature annoncée le 1er-2 juin 2026 (Franceinfo, Libération). En 2022, il n'avait pas obtenu les 500 parrainages ; la collecte 2027 est en cours, ce qui rend sa présence au premier tour incertaine. Le programme 2027 est « en cours d'élaboration » : seul un 4 pages de premières mesures (6 axes) est publié sur anasse2027.fr (non daté ; date indiquée 2026-06 = mois du lancement de campagne, approximative) ; certaines positions sont déduites du programme de pré-campagne 2022 republié sur le même site.",
   "positions": {
     "eco_retraite": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Les premières mesures 2027 prévoient la retraite à 60 ans, et à 55 ans pour les métiers pénibles, sans condition d'annuités.",
       "source": "https://anasse2027.fr/programme",
       "citation": "Retraite à 60 ans et 55 ans pour les métiers pénibles, sans conditions d'annuité.",
@@ -24,7 +25,7 @@
       "citation": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": true
+      "relu": false
     },
     "eco_depenses": {
       "valeur": 1,
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Les premières mesures 2027 jugent que « taxer les riches ne suffit pas » et proposent l'expropriation des secteurs stratégiques ; le programme 2022 demandait le rétablissement de l'impôt sur les grandes fortunes.",
       "source": "https://anasse2027.fr/programme",
       "citation": "Taxer les riches ne suffit pas, il faut s'attaquer à la racine de ce pouvoir et placer l'économie sous le contrôle des travailleurs.",
@@ -54,13 +55,13 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Déduit du programme 2022 : il critique le « tout nucléaire » et évoque « une transition pour sortir du nucléaire ».",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
       "citation": "Une transition pour sortir du nucléaire ne saurait se faire sans s’attaquer aux patrons du secteur et seuls les travailleuses et travailleurs de l’énergie sont à même de le faire.",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": null,
@@ -72,7 +73,7 @@
       "relu": false
     },
     "ecol_normes": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite d'un article de Révolution permanente qui qualifie la loi Duplomb (réintroduction de néonicotinoïdes, relèvement des seuils d'autorisation environnementale des élevages) de « désastre écologique et sanitaire ».",
       "source": "https://www.revolutionpermanente.fr/Loi-Duplomb-bis-vous-reprendrez-bien-des-neonicotinoides-39488",
       "citation": "En bref, un désastre écologique et sanitaire.",
@@ -81,7 +82,7 @@
       "relu": true
     },
     "sec_peines": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite du programme de 2022, qui critique le durcissement de la réponse pénale comme renforcement du système répressif ; les mesures 2027 demandent par ailleurs l'« abrogation de toutes les lois sécuritaires ».",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
       "citation": "Les annonces de Macron de doubler le nombre de policiers dans les dix prochaines années et de durcir la réponse pénale montrent bien que le renforcement du système répressif sont consubstantiels à l’avancée du néolibéralisme.",
@@ -108,13 +109,13 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Les premières mesures 2027 revendiquent la « liberté de circulation et d'installation » ; le programme 2022 défendait l'ouverture des frontières et le regroupement familial.",
       "source": "https://anasse2027.fr/programme",
       "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
       "date_source": "2026-06",
       "confiance": "programme",
-      "relu": true
+      "relu": false
     },
     "imm_ame": {
       "valeur": -2,
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Déduit du programme 2022 (« Ni Frexit ni Europe du Capital ») : rejet de l'Union européenne actuelle au profit d'« États-Unis socialistes d'Europe » ; les mesures 2027 refusent tout budget militaire (« pas un euro pour la guerre »).",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
       "citation": "Face à l’Europe du capital qui n’a à offrir que davantage de misères et de tragédies sociales pour le monde du travail et pour les peuples, nous revendiquons le combat pour des gouvernements ouvriers, dans la perspective d’instaurer les États-Unis socialistes d’Europe […]",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Les premières mesures 2027 réclament « pas un euro pour la guerre » et le démantèlement de l'industrie d'armement française.",
       "source": "https://anasse2027.fr/programme",
       "citation": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
@@ -180,7 +181,7 @@
       "relu": true
     },
     "soc_rsa": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite d'un article de Révolution permanente (2023) qui présente l'obligation de 15 heures d'activité pour les allocataires du RSA comme une « guerre aux pauvres ».",
       "source": "https://www.revolutionpermanente.fr/15-h-d-activite-pour-les-allocataires-du-RSA-le-Senat-declare-la-guerre-aux-pauvres",
       "citation": "15 h d’activité pour les allocataires du RSA : le Senat déclare la guerre aux pauvres",
@@ -198,13 +199,13 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite d'un article de Révolution permanente (2023) qui présente l'expérimentation de l'uniforme scolaire comme un « projet autoritaire pour la jeunesse ».",
       "source": "https://www.revolutionpermanente.fr/Experimentation-de-l-uniforme-a-l-ecole-Attal-poursuit-son-projet-autoritaire-pour-la-jeunesse",
       "citation": "Expérimentation de l’uniforme à l’école : Attal poursuit son projet autoritaire pour la jeunesse",
       "date_source": "2023-09-04",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
@@ -306,7 +307,7 @@
       "relu": true
     },
     "soc_100secu": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme de 2022 : nationalisation de toutes les mutuelles et intégration à la Sécurité sociale, avec un remboursement intégral des soins.",
       "source": "https://anasse2027.fr/programme/programme-2022.pdf",
       "citation": "sur la base de la nationalisation de toutes les mutuelles et leur intégration à la Sécu, gérée par les professionnels du secteur et les usagers, garantissant un remboursement intégral des soins pour tous celles et ceux qui résident sur le territoire.",
@@ -333,7 +334,7 @@
       "relu": true
     },
     "edu_etudiants": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le 4 pages de campagne 2027 réclame un « revenu étudiant à hauteur du SMIC, financé par le patronat ».",
       "source": "https://anasse2027.fr/programme",
       "citation": "Revenu étudiant à hauteur du SMIC, financé par le patronat.",

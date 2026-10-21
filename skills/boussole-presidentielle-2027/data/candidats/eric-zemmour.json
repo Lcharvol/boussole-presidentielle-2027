@@ -1,5 +1,6 @@
 {
   "slug": "eric-zemmour",
+  "format": 2,
   "nom": "Éric Zemmour",
   "parti": "Reconquête",
   "statut": "déclaré",
@@ -9,7 +10,7 @@
   "notes": "A annoncé sur BFMTV le 17 septembre 2026 qu'il serait candidat (« Je serai candidat à la présidentielle ») ; son entourage annonçait une déclaration formelle à l'automne. Sarah Knafo, un temps évoquée, l'a présenté comme le candidat naturel et doit jouer un rôle majeur dans la campagne. Aucun programme 2027 publié : la plupart des positions sont déduites du programme présidentiel 2022 ; les déclarations de « Face à BFM » (17/09/2026) ont été vérifiées via des comptes rendus de presse (la page BFMTV n'a pas pu être consultée directement). Sources : https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html ; https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871 Au 20/10/2026, aucune déclaration formelle de candidature postérieure au 17/09/2026 n'a été trouvée.",
   "positions": {
     "eco_retraite": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Se dit favorable à une retraite à « 64 ans voire 65 » et à un passage progressif à la capitalisation, en désaccord explicite avec Marine Le Pen.",
       "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
       "citation": "Éric Zemmour s'est prononcé en faveur d'un allongement de la durée du travail, assumant \"n'être absolument pas d'accord avec Marine Le Pen là-dessus\", suggérant \"64 voire 65 ans.\"",
@@ -24,7 +25,7 @@
       "citation": "Éric Zemmour, qui assure qu’il n’y a plus d’augmentation de salaire depuis vingt ans en France, promettait d’augmenter les salaires nets des travailleurs les plus modestes « jusqu’à plus de 105 euros par mois pour un travailleur au Smic ».",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "eco_depenses": {
       "valeur": -2,
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite du programme 2022 : maintien de l'IFI mais en retirant la résidence principale de son assiette ; pas de rétablissement de l'ISF.",
       "source": "https://www.toutsurmesfinances.com/argent/a/eric-zemmour-programme",
       "citation": "Concernant l’impôt sur la fortune, Éric Zemmour ne comptait pas supprimer l’impôt sur la fortune immobilière (IFI) […] En revanche, il entendait retirer purement et simplement la résidence principale de l’assiette de l’IFI.",
@@ -54,13 +55,13 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : construction de 14 nouveaux EPR et remise en cause de la fermeture prévue de douze réacteurs.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
       "citation": "Sa politique énergétique s’appuie fortement sur le nucléaire, « la voie du salut énergétique » : remise en cause de la fermeture prévue des douze réacteurs, création de 14 nouveaux EPR.",
       "date_source": "2022-03-23",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": -2,
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite du programme 2022 : fin de la surtransposition des normes européennes en agriculture, tout en interdisant l'importation de produits non conformes aux standards français.",
       "source": "https://www.linfodurable.fr/politique/le-programme-ecolo-deric-zemmour-31380",
       "citation": "- Mettre fin à la sur-transposition dans notre droit des normes européennes.",
@@ -81,7 +82,7 @@
       "relu": true
     },
     "sec_peines": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : peines planchers pour chaque crime et délit, perpétuité réelle et réduction drastique des remises de peine.",
       "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
       "citation": "1. Instaurer des peines planchers pour chaque crime et délit",
@@ -90,13 +91,13 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du programme 2022 : construction de 10 000 places de prison supplémentaires et expulsion de plus de 10 000 détenus étrangers.",
       "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
       "citation": "9. Construire 10.000 places de prison supplémentaires",
       "date_source": "2022",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": 0,
@@ -108,13 +109,13 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Défend la « remigration » : renvoi des clandestins, des délinquants étrangers, des chômeurs étrangers de longue durée (après un an) et de ceux qui vivent des aides sociales ; son programme 2022 prévoyait la suppression du regroupement familial.",
       "source": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
       "citation": "\"Il faut également renvoyer, c'est une évidence, Les clandestins. Il faut également renvoyer les chômeurs de longue durée, et tous ceux qui vivent uniquement des aides sociales\", a-t-il ajouté",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": true
+      "relu": false
     },
     "imm_ame": {
       "valeur": 2,
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite du programme 2022 : référendum obligatoire pour toute ratification de traité et supériorité des lois nationales sur les textes européens.",
       "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
       "citation": "S’ensuivra une réforme institutionnelle visant à rendre le référendum obligatoire pour « toutes ratification de traités européens, toute révision de la Constitution ou tout élargissement de l’Union européenne ».",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Selon le compte rendu de BFMTV, a déclaré que l'aide militaire à l'Ukraine n'était « pas dans [sa] liste » de priorités pour raisons budgétaires et plaide pour une médiation de la France ; en 2022 il critiquait les livraisons d'armes tout en condamnant l'invasion.",
       "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
       "citation": "Quid de l'aide à l'Ukraine? \"Elle n'est pas dans ma liste maintenant, je pense que nous allons être contraints par nos problèmes budgétaires, il faut se poser la question globalement et arriver à favoriser la paix.\"",
@@ -198,16 +199,16 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Estime qu'« il est plus que temps d'imposer l'uniforme à l'école » ; son programme 2022 prévoyait aussi l'interdiction de la « propagande idéologique » à l'école.",
       "source": "https://www.cnews.fr/france/2023-09-10/eric-zemmour-il-est-plus-que-temps-dimposer-luniforme-lecole-1395112",
       "citation": "«Il est plus que temps d’imposer, et non pas d’expérimenter, l’uniforme à l’école», a-t-il préconisé.",
       "date_source": "2023-09-10",
       "confiance": "declaration",
-      "relu": true
+      "relu": false
     },
     "ins_proportionnelle": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite de la ligne du parti : en 2024, Reconquête place ses espoirs dans l'instauration du scrutin proportionnel, Sarah Knafo y voyant « une garantie d'avoir des élus » ; aucune déclaration récente d'Éric Zemmour lui-même n'a été trouvée.",
       "source": "https://www.europe1.fr/politique/apres-la-tempete-reconquete-fait-sa-rentree-politique-a-orange-4266102",
       "citation": "Le mouvement d'extrême droite place ses espoirs dans l'instauration du scrutin proportionnel. \"C'est pour nous une garantie d'avoir des élus\", explique Sarah Knafo, dernière représentante Reconquête au Parlement européen.",
@@ -252,7 +253,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite du programme 2022 : abaisser l'âge de la majorité pénale de 18 à 16 ans.",
       "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
       "citation": "6. Abaisser l’âge de la majorité pénale de 18 à 16 ans",

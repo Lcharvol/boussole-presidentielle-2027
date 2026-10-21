@@ -1,5 +1,6 @@
 {
   "slug": "dominique-de-villepin",
+  "format": 2,
   "nom": "Dominique de Villepin",
   "parti": "La France humaniste",
   "statut": "pressenti",
@@ -24,7 +25,7 @@
       "citation": "Plus de 200 Md€ de cotisations basculés vers une CSG universelle : +200 € nets par mois en moyenne, +100 € au Smic.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": true
+      "relu": false
     },
     "eco_depenses": {
       "valeur": 0,
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose un impôt unique et fortement progressif sur le patrimoine des 1 % les plus riches, dès 2,2 millions d'euros, et des droits de succession progressifs au-delà d'un million d'euros.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
       "citation": "Un impôt unique sur le patrimoine des 1 % […] Dès 2,2 M€, fortement progressif. Il frappe la rente qui dort, pas l’entrepreneur qui risque.",
@@ -54,13 +55,13 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Propose six nouveaux réacteurs EPR2 et un plan national pour le nouveau nucléaire.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
       "citation": "6 EPR2, éolien en mer industrialisé, électrification massive des usages, pour les ménages comme pour l’industrie.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": true
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": 1,
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "S'est opposé à la loi Duplomb, qu'il juge « dangereuse pour notre environnement, dangereuse pour la santé des Français ».",
       "source": "https://lafrancehumaniste.fr/articles/sur-la-loi-duplomb.html",
       "citation": "Non à la loi Duplomb, adoptée sans réflexion et sans concertation. Une loi dangereuse pour notre environnement, dangereuse pour la santé des Français […]",
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Soutient des ressources propres et un emprunt mutualisé européens, un élargissement du vote à la majorité qualifiée, un Conseil de sécurité européen et des programmes de défense financés en commun, mais propose aussi une « pause sur la logique d'unification ».",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
       "citation": "La clé, c’est à la fois davantage de ressources propres européennes et l’emprunt mutualisé à l’échelle de l’Union, pour financer des politiques nationales validées pour leur valeur collective.",
@@ -204,7 +205,7 @@
       "citation": "Plus de sécurité, cela passe par la tolérance zéro vis-à-vis des violences à l’encontre des enseignants et de l’ensemble de la communauté éducative. Plus de liberté, cela signifie réduire la caporalisation et la bureaucratisation qui se sont emparées du système éducatif.",
       "date_source": "2026-09-01",
       "confiance": "declaration",
-      "relu": true
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": null,
@@ -216,7 +217,7 @@
       "relu": false
     },
     "ins_ric": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Propose un « référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux », préparé par une convention citoyenne permanente.",
       "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
       "citation": "Nous avons besoin pour débloquer le pays d'un référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux, préparé par une convention citoyenne permanente.",

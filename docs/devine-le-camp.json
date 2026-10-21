@@ -1,0 +1,1109 @@
+{
+ "eco_smic.1": {
+  "enjeu": "eco_smic",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eco_depenses.1": {
+  "enjeu": "eco_depenses",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ecol_renouvelables.1": {
+  "enjeu": "ecol_renouvelables",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "imm_baisse.3": {
+  "enjeu": "imm_baisse",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "eur_defense3.1": {
+  "enjeu": "eur_defense3",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "sec_prisons.1": {
+  "enjeu": "sec_prisons",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ecol_thermique2035.1": {
+  "enjeu": "ecol_thermique2035",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "ecol_normes.1": {
+  "enjeu": "ecol_normes",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "sec_peines.1": {
+  "enjeu": "sec_peines",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "edu_prive.1": {
+  "enjeu": "edu_prive",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.92,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_ric.1": {
+  "enjeu": "ins_ric",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.92,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "imm_ame.1": {
+  "enjeu": "imm_ame",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eco_patrimoine.1": {
+  "enjeu": "eco_patrimoine",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "edu_apprentissage.1": {
+  "enjeu": "edu_apprentissage",
+  "temoin": false,
+  "n": 6,
+  "redacteur": null,
+  "orientation": null,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "sec_mineurs.1": {
+  "enjeu": "sec_mineurs",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "eco_retraite.1": {
+  "enjeu": "eco_retraite",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_6e.1": {
+  "enjeu": "ins_6e",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "ecol_normes.3": {
+  "enjeu": "ecol_normes",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_parlementaires.1": {
+  "enjeu": "ins_parlementaires",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.83,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "soc_medecins.1": {
+  "enjeu": "soc_medecins",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ecol_aerien.1": {
+  "enjeu": "ecol_aerien",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "edu_signes.1": {
+  "enjeu": "edu_signes",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "edu_etudiants.1": {
+  "enjeu": "edu_etudiants",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.92,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eur_otan.1": {
+  "enjeu": "eur_otan",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.33,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "eco_retraite.3": {
+  "enjeu": "eco_retraite",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ecol_nucleaire.1": {
+  "enjeu": "ecol_nucleaire",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.92,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_proportionnelle.1": {
+  "enjeu": "ins_proportionnelle",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_voteblanc.1": {
+  "enjeu": "ins_voteblanc",
+  "temoin": false,
+  "n": 6,
+  "redacteur": null,
+  "orientation": null,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "imm_baisse.2": {
+  "enjeu": "imm_baisse",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_proportionnelle.2": {
+  "enjeu": "ins_proportionnelle",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ecol_nucleaire.2": {
+  "enjeu": "ecol_nucleaire",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_parlementaires.2": {
+  "enjeu": "ins_parlementaires",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "edu_etudiants.2": {
+  "enjeu": "edu_etudiants",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_ric.2": {
+  "enjeu": "ins_ric",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.75,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "sec_videosurveillance.2": {
+  "enjeu": "sec_videosurveillance",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "eur_defense3.2": {
+  "enjeu": "eur_defense3",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "edu_prive.2": {
+  "enjeu": "edu_prive",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_6e.2": {
+  "enjeu": "ins_6e",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eco_depenses.2": {
+  "enjeu": "eco_depenses",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "soc_rsa.2": {
+  "enjeu": "soc_rsa",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ecol_normes.2": {
+  "enjeu": "ecol_normes",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "soc_chomage.2": {
+  "enjeu": "soc_chomage",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "soc_100secu.2": {
+  "enjeu": "soc_100secu",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.17,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ins_voteblanc.2": {
+  "enjeu": "ins_voteblanc",
+  "temoin": false,
+  "n": 6,
+  "redacteur": null,
+  "orientation": null,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eco_smic.2": {
+  "enjeu": "eco_smic",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eur_integration.2": {
+  "enjeu": "eur_integration",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.75,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "sec_mineurs.2": {
+  "enjeu": "sec_mineurs",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "imm_droitdusol.2": {
+  "enjeu": "imm_droitdusol",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "edu_autorite.2": {
+  "enjeu": "edu_autorite",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eur_otan.2": {
+  "enjeu": "eur_otan",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.33,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "sec_prisons.2": {
+  "enjeu": "sec_prisons",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "imm_regularisation.2": {
+  "enjeu": "imm_regularisation",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "ecol_aerien.2": {
+  "enjeu": "ecol_aerien",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eco_35h.2": {
+  "enjeu": "eco_35h",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "edu_signes.2": {
+  "enjeu": "edu_signes",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.92,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "edu_apprentissage.2": {
+  "enjeu": "edu_apprentissage",
+  "temoin": false,
+  "n": 6,
+  "redacteur": null,
+  "orientation": null,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "ecol_renouvelables.2": {
+  "enjeu": "ecol_renouvelables",
+  "temoin": false,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "sec_cannabis.ancienne": {
+  "enjeu": "sec_cannabis",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.75,
+  "retenue": false
+ },
+ "eur_defense3.ancienne": {
+  "enjeu": "eur_defense3",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 0.83,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "eco_patrimoine.ancienne": {
+  "enjeu": "eco_patrimoine",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.67,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "sec_mineurs.ancienne": {
+  "enjeu": "sec_mineurs",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "eco_35h.ancienne": {
+  "enjeu": "eco_35h",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.67,
+  "orientation": 1.0,
+  "favorisee": 0.75,
+  "retenue": false
+ },
+ "edu_prive.ancienne": {
+  "enjeu": "edu_prive",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "eur_integration.ancienne": {
+  "enjeu": "eur_integration",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.83,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "imm_baisse.ancienne": {
+  "enjeu": "imm_baisse",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.67,
+  "orientation": 1.0,
+  "favorisee": 0.75,
+  "retenue": false
+ },
+ "ecol_normes.ancienne": {
+  "enjeu": "ecol_normes",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "soc_findevie.ancienne": {
+  "enjeu": "soc_findevie",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.92,
+  "retenue": false
+ },
+ "eco_depenses.ancienne": {
+  "enjeu": "eco_depenses",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "edu_autorite.ancienne": {
+  "enjeu": "edu_autorite",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.83,
+  "orientation": 0.92,
+  "favorisee": 0.75,
+  "retenue": false
+ },
+ "soc_medecins.ancienne": {
+  "enjeu": "soc_medecins",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": false
+ },
+ "ecol_nucleaire.ancienne": {
+  "enjeu": "ecol_nucleaire",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.75,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "sec_peines.ancienne": {
+  "enjeu": "sec_peines",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.67,
+  "orientation": 1.0,
+  "favorisee": 0.75,
+  "retenue": false
+ },
+ "edu_apprentissage.ancienne": {
+  "enjeu": "edu_apprentissage",
+  "temoin": true,
+  "n": 6,
+  "redacteur": null,
+  "orientation": null,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "eur_primaute.ancienne": {
+  "enjeu": "eur_primaute",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.67,
+  "orientation": 0.83,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "ecol_thermique2035.ancienne": {
+  "enjeu": "ecol_thermique2035",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "imm_regularisation.ancienne": {
+  "enjeu": "imm_regularisation",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.75,
+  "orientation": 1.0,
+  "favorisee": 0.83,
+  "retenue": false
+ },
+ "ins_parlementaires.ancienne": {
+  "enjeu": "ins_parlementaires",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 0.92,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "ins_proportionnelle.ancienne": {
+  "enjeu": "ins_proportionnelle",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "ecol_renouvelables.ancienne": {
+  "enjeu": "ecol_renouvelables",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "eur_ukraine.ancienne": {
+  "enjeu": "eur_ukraine",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.33,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "imm_ame.ancienne": {
+  "enjeu": "imm_ame",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.67,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "edu_etudiants.ancienne": {
+  "enjeu": "edu_etudiants",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "sec_videosurveillance.ancienne": {
+  "enjeu": "sec_videosurveillance",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "ins_ric.ancienne": {
+  "enjeu": "ins_ric",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "eco_retraite.ancienne": {
+  "enjeu": "eco_retraite",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "ecol_aerien.ancienne": {
+  "enjeu": "ecol_aerien",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.83,
+  "retenue": false
+ },
+ "eco_smic.ancienne": {
+  "enjeu": "eco_smic",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "imm_droitdusol.ancienne": {
+  "enjeu": "imm_droitdusol",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.67,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "edu_signes.ancienne": {
+  "enjeu": "edu_signes",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": false
+ },
+ "eur_otan.ancienne": {
+  "enjeu": "eur_otan",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.5,
+  "orientation": 0.33,
+  "favorisee": 0.5,
+  "retenue": false
+ },
+ "imm_preference.ancienne": {
+  "enjeu": "imm_preference",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.83,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "ins_6e.ancienne": {
+  "enjeu": "ins_6e",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "soc_rsa.ancienne": {
+  "enjeu": "soc_rsa",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "sec_prisons.ancienne": {
+  "enjeu": "sec_prisons",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.58,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "soc_100secu.ancienne": {
+  "enjeu": "soc_100secu",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.33,
+  "orientation": 0.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "soc_chomage.ancienne": {
+  "enjeu": "soc_chomage",
+  "temoin": true,
+  "n": 6,
+  "redacteur": 0.75,
+  "orientation": 1.0,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "ins_voteblanc.ancienne": {
+  "enjeu": "ins_voteblanc",
+  "temoin": true,
+  "n": 6,
+  "redacteur": null,
+  "orientation": null,
+  "favorisee": 0.67,
+  "retenue": false
+ },
+ "eur_primaute.1": {
+  "enjeu": "eur_primaute",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 0.88,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "soc_100secu.1": {
+  "enjeu": "soc_100secu",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 0.0,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "eur_integration.1": {
+  "enjeu": "eur_integration",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 0.92,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eco_depenses.3": {
+  "enjeu": "eco_depenses",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.46,
+  "retenue": true
+ },
+ "sec_peines.2": {
+  "enjeu": "sec_peines",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.46,
+  "retenue": true
+ },
+ "soc_chomage.1": {
+  "enjeu": "soc_chomage",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "eco_35h.1": {
+  "enjeu": "eco_35h",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "soc_medecins.2": {
+  "enjeu": "soc_medecins",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eur_primaute.2": {
+  "enjeu": "eur_primaute",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 0.83,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "eur_ukraine.1": {
+  "enjeu": "eur_ukraine",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 0.29,
+  "favorisee": 0.62,
+  "retenue": true
+ },
+ "imm_baisse.1": {
+  "enjeu": "imm_baisse",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.46,
+  "retenue": true
+ },
+ "sec_videosurveillance.1": {
+  "enjeu": "sec_videosurveillance",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.42,
+  "retenue": true
+ },
+ "eco_patrimoine.2": {
+  "enjeu": "eco_patrimoine",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.58,
+  "retenue": true
+ },
+ "eur_ukraine.2": {
+  "enjeu": "eur_ukraine",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 0.33,
+  "favorisee": 0.46,
+  "retenue": true
+ },
+ "eco_retraite.2": {
+  "enjeu": "eco_retraite",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "soc_findevie.2": {
+  "enjeu": "soc_findevie",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "imm_preference.2": {
+  "enjeu": "imm_preference",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.17,
+  "retenue": false
+ },
+ "sec_cannabis.1": {
+  "enjeu": "sec_cannabis",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "soc_rsa.1": {
+  "enjeu": "soc_rsa",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.71,
+  "retenue": false
+ },
+ "imm_droitdusol.1": {
+  "enjeu": "imm_droitdusol",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.0,
+  "retenue": false
+ },
+ "imm_ame.2": {
+  "enjeu": "imm_ame",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.17,
+  "retenue": false
+ },
+ "sec_cannabis.2": {
+  "enjeu": "sec_cannabis",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "imm_regularisation.1": {
+  "enjeu": "imm_regularisation",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.5,
+  "retenue": true
+ },
+ "imm_preference.1": {
+  "enjeu": "imm_preference",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.21,
+  "retenue": false
+ },
+ "ecol_thermique2035.2": {
+  "enjeu": "ecol_thermique2035",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.5,
+  "orientation": 1.0,
+  "favorisee": 0.0,
+  "retenue": false
+ },
+ "edu_autorite.1": {
+  "enjeu": "edu_autorite",
+  "temoin": false,
+  "n": 12,
+  "redacteur": 0.46,
+  "orientation": 1.0,
+  "favorisee": 0.17,
+  "retenue": false
+ }
+}

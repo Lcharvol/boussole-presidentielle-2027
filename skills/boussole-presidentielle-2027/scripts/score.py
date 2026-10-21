@@ -8,14 +8,17 @@ Usage (les réponses arrivent sur l'entrée standard, rien n'est écrit sur le d
     python3 score.py --json <<'FIN' ... FIN    # résultat brut
     python3 score.py reponses.json             # à partir d'un fichier (tests)
 
-Format des réponses :
+Format des réponses (identifiants d'enjeux de data/enjeux.json) :
 {
   "reponses":   {"eco_retraite": 2, "eco_smic": -1, "sec_cannabis": null, ...},
   "importance": {"economie": 2, "immigration": 3}      # optionnel, 1 par défaut (1 à 3)
 }
 
+Chaque enjeu oppose deux pôles : une réponse vaut -2 (pôle A nettement), -1 (plutôt A), 0 (entre les deux),
+1 (plutôt B) ou 2 (pôle B nettement), sur le même axe que les positions des candidats. Le côté où chaque pôle
+est affiché à l'écran n'y change rien : la conversion est faite au moment de poser la question (tirage.py).
 Une réponse null (ou absente) signifie que l'utilisateur a passé la question : elle ne compte pas.
-Pour chaque question où l'utilisateur ET le candidat ont une position, l'accord brut vaut
+Pour chaque enjeu où l'utilisateur ET le candidat ont une position, l'accord brut vaut
 1 - |écart| / 4 (1 = identique, 0 = opposé). Il est ensuite corrigé du hasard, comme un kappa de
 Cohen : (accord - accord_hasard) / (1 - accord_hasard), où accord_hasard est l'accord moyen avec une
 réponse tirée au hasard (0,7 pour une position à 0, 0,65 à ±1, 0,5 à ±2). Sans cette correction, une
@@ -86,7 +89,8 @@ def pourcentage(moyenne):
 
 
 def charger():
-    questions = json.loads((DATA / "questions.json").read_text(encoding="utf-8"))
+    """Renvoie (enjeux, candidats actifs) ; enjeux est le contenu de data/enjeux.json."""
+    questions = json.loads((DATA / "enjeux.json").read_text(encoding="utf-8"))
     candidats = []
     for f in sorted((DATA / "candidats").glob("*.json")):
         c = json.loads(f.read_text(encoding="utf-8"))
@@ -132,10 +136,13 @@ def marge_bootstrap(contributions, tirages, graine):
 def calculer(user, questions, candidats, tirages=TIRAGES, graine=GRAINE):
     reponses = {k: v for k, v in user.get("reponses", {}).items() if v is not None}
     importance = user.get("importance", {})
-    theme_de = {q["id"]: q["theme"] for q in questions["questions"]}
+    theme_de = {q["id"]: q["theme"] for q in questions["enjeux"]}
     inconnues = sorted(set(reponses) - set(theme_de))
     if inconnues:
-        raise SystemExit(f"Identifiants de question inconnus : {', '.join(inconnues)}")
+        raise SystemExit(f"Identifiants d'enjeu inconnus : {', '.join(inconnues)}")
+    invalides = sorted(k for k, v in reponses.items() if v not in (-2, -1, 0, 1, 2))
+    if invalides:
+        raise SystemExit(f"Réponses hors de l'échelle -2…2 : {', '.join(invalides)}")
 
     resultats = []
     for c in candidats:

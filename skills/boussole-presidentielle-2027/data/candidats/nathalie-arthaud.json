@@ -1,5 +1,6 @@
 {
   "slug": "nathalie-arthaud",
+  "format": 2,
   "nom": "Nathalie Arthaud",
   "parti": "Lutte ouvrière",
   "statut": "désigné par son parti",
@@ -9,7 +10,7 @@
   "notes": "Désignée candidate par Lutte ouvrière (vote interne au congrès de décembre 2025 selon la presse), candidature présentée publiquement à la fête de LO en mai 2026 ; quatrième candidature (elle avait obtenu les 500 parrainages en 2012, 2017 et 2022). Campagne en cours (meeting à Paris le 26 septembre 2026) ; la collecte officielle des parrainages n'est pas encore close. LO ne publie pas de programme de mesures détaillé : la brochure « Présidentielle 2027 » (mai 2026) et les discours de meeting tiennent lieu de programme. Plusieurs positions sont déduites d'articles non signés du journal Lutte ouvrière (position du parti) ou d'éditoriaux qu'elle a signés avant 2025 ; cannabis, peines, école (autorité), institutions (proportionnelle, RIC, VIe République) et renouvelables restent à null faute de position trouvée.",
   "positions": {
     "eco_retraite": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite d'un éditorial signé par Nathalie Arthaud en juin 2024, selon lequel les richesses produites suffisent à assurer « une retraite à 60 ans » ; les textes de campagne 2026 dénoncent le recul de l'âge de départ sans chiffrer de nouvel âge.",
       "source": "https://www.lutte-ouvriere.org/portail/editoriaux/dimanche-prochain-votez-lutte-ouvriere-camp-travailleurs-175911.html",
       "citation": "ils omettent de dire que les caisses du grand patronat débordent et que toutes les richesses, que nous produisons, sont largement suffisantes pour assurer un minimum de 2000 € de salaire, une retraite à 60 ans",
@@ -24,7 +25,7 @@
       "citation": "Aujourd’hui il faut gagner au moins 2 200 euros net par mois pour s’en sortir. Eh bien voilà ce que nous devons exiger ! Les salaires doivent suivre la hausse des prix.",
       "date_source": "2026-05",
       "confiance": "programme",
-      "relu": true
+      "relu": false
     },
     "eco_depenses": {
       "valeur": 1,
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Reproche aux politiciens de refuser « d'aller chercher dans les profits et les grandes fortunes » (meeting du 26 septembre 2026) ; LO met cependant en avant l'expropriation des capitalistes plutôt qu'une réforme fiscale.",
       "source": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
       "citation": "Mais la couverture n’est petite que parce que tous ces politiciens refusent d’aller chercher dans les profits et les grandes fortunes.",
@@ -60,7 +61,7 @@
       "citation": "Les travailleurs ne peuvent s’opposer à cette évolution qu’en exerçant un contrôle direct sur cette filière de l’économie, comme sur les autres filières.",
       "date_source": "2024-09-07",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": null,
@@ -72,7 +73,7 @@
       "relu": false
     },
     "ecol_normes": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Dans un éditorial signé, dénonce la loi « d'urgence agricole » permettant de « réutiliser des pesticides interdits » et l'assouplissement des objectifs européens de réduction des émissions demandé par les industriels, estimant qu'il faudrait « forcer les multinationales les plus polluantes » à financer leur transition.",
       "source": "https://www.lutte-ouvriere.org/portail/editoriaux/politique-ecologique-consequente-cest-renverser-capitalisme-195906.html",
       "citation": "À l’heure où il faudrait forcer les multinationales les plus polluantes à mettre des moyens dans leur transition énergétique, les gouvernants font marche arrière.",
@@ -81,7 +82,7 @@
       "relu": true
     },
     "sec_peines": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite de la ligne du journal Lutte ouvrière, dont elle est la porte-parole (aucune déclaration personnelle trouvée) : l'article de juin 2025 qualifie de « surenchère sécuritaire » les condamnations minimales systématiques proposées par Darmanin, « l'équivalent des peines plancher ».",
       "source": "https://www.lutte-ouvriere.org/portail/journal/darmanin-surenchere-securitaire-184994.html",
       "citation": "Darmanin : surenchère sécuritaire […] Darmanin a remis en avant les propositions de réforme faites il y a quelques semaines, comprenant la suppression du sursis et la mise en place de condamnations minimales systématiques dès la première peine, l’équivalent des peines plancher de Sarkozy.",
@@ -90,13 +91,13 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite du même article du journal Lutte ouvrière, qui range l'ajout de places de prison (préfabriqués, location de places à l'étranger) parmi des « propositions sécuritaires » et souligne la surpopulation carcérale.",
       "source": "https://www.lutte-ouvriere.org/portail/journal/darmanin-surenchere-securitaire-184994.html",
       "citation": "Darmanin a accumulé ces derniers temps des propositions sécuritaires en tout genre : louer des places de prison à l’étranger, faire contribuer financièrement les détenus, installer des préfabriqués pour augmenter le nombre de places",
       "date_source": "2025-06-11",
       "confiance": "deduite",
-      "relu": true
+      "relu": false
     },
     "sec_cannabis": {
       "valeur": null,
@@ -108,13 +109,13 @@
       "relu": false
     },
     "imm_baisse": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "La brochure de campagne revendique la « liberté de circulation et d'installation pour chaque être humain » et dénonce l'« Europe-forteresse ».",
       "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
       "citation": "À bas les barbelés, les traques, les expulsions ! À bas l’Europe-forteresse ! Régularisation de tous les sans-papiers, liberté de circulation et d’installation pour chaque être humain de cette planète !",
       "date_source": "2026-05",
       "confiance": "programme",
-      "relu": true
+      "relu": false
     },
     "imm_ame": {
       "valeur": -2,
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Range l'appel à « construire une armée européenne » parmi les discours de préparation à la guerre et juge que l'UE « n'y peut rien » face aux rivalités entre puissances (meeting du 14 février 2026) ; elle rejette aussi le souverainisme.",
       "source": "https://www.lutte-ouvriere.org/portail/brochures/meeting-14-fevrier-2026-discours-nathalie-arthaud-191591.html",
       "citation": "Qu’il faut construire une armée européenne, rétablir le service militaire, envoyer nos soldats en Ukraine. […] Et l’UE n’y peut rien.",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Estime que les livraisons de missiles et de canons à l'Ukraine servent les industriels de l'armement et les grands groupes français, et non l'Ukraine (meeting du 26 septembre 2026).",
       "source": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
       "citation": "Mais si la France intervient de plus en plus dans cette guerre, […] si elle livre des missiles et des canons, ce n’est pas « pour aider l’Ukraine ». C’est pour aider Dassault, Thales, Safran et MBDA à promouvoir leur arsenal et à remplir leur carnet de commandes.",
@@ -180,7 +181,7 @@
       "relu": true
     },
     "soc_rsa": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite d'un article du journal Lutte ouvrière qui présente l'obligation de 15 heures d'activité et les sanctions visant les allocataires du RSA comme une « guerre aux pauvres ».",
       "source": "https://www.lutte-ouvriere.org/portail/journal/rsa-letat-mene-guerre-pauvres-188106.html",
       "citation": "Ces mesures font partie d’une campagne politique qui présente ceux qui n’ont pas de travail comme des fainéants qui n’ont pas le courage de « traverser la rue »",
