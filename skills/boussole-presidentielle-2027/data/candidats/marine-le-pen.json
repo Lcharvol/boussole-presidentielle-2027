@@ -61,7 +61,7 @@
       "citation": "Accélérer un premier programme de cinq paires de réacteurs nucléaires en choisissant le design le plus opérationnel, ouvert aux coopérations internationales, livrées entre 2034 et 2037.",
       "date_source": "2025-04-01",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_renouvelables": {
       "valeur": -2,
@@ -106,7 +106,7 @@
       "citation": "elle instaure un dispositif de peines minimales de privation de liberté afin de garantir une réponse judiciaire ferme et homogène sur l’ensemble du territoire.",
       "date_source": "2026-07-23",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_prisons": {
       "valeur": -2,
@@ -133,7 +133,7 @@
       "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
       "date_source": "2025-05-13",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_videosurveillance": {
       "valeur": -1,
@@ -142,7 +142,7 @@
       "citation": "Scrutin public n°5296 sur l'ensemble du projet de loi relatif à l'organisation des jeux Olympiques et Paralympiques de 2030 (texte de la commission mixte paritaire).",
       "date_source": "2026-02-03",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_baisse": {
       "valeur": -2,
@@ -160,7 +160,7 @@
       "citation": "Transformation de l’AME en AMU.",
       "date_source": "2025-10-23",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": -2,
@@ -187,7 +187,7 @@
       "citation": "Logement : avec Marine Le Pen, appliquons la priorité nationale. […] Instaurer la priorité nationale dans le logement n'est pas un acte d'exclusion. C'est un acte de justice élémentaire.",
       "date_source": "2026-09",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_integration": {
       "valeur": 2,
@@ -196,7 +196,7 @@
       "citation": "la seconde consiste à restituer aux États la maîtrise des décisions qui engagent leur corps social, en réservant à l’Union la fonction pour laquelle elle est utile : la tenue de la frontière extérieure et la coordination opérationnelle. La France se doit de porter la seconde.",
       "date_source": "2026-09-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_primaute": {
       "valeur": 2,
@@ -259,7 +259,7 @@
       "citation": "Scrutin public n°2717 sur l'ensemble du projet de loi pour le plein emploi (première lecture).",
       "date_source": "2023-10-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_100secu": {
       "valeur": null,
@@ -304,7 +304,7 @@
       "citation": "Parmi ses propositions figurent un référendum sur la lutte contre les soi-disant \"idéologies islamistes\" […] qui inclurait l'interdiction du port du voile dans l'espace public",
       "date_source": "2026-09-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_etudiants": {
       "valeur": 1,
@@ -313,7 +313,7 @@
       "citation": "Sortons des débats médiocres sur un « RSA Jeunes » ou sur une « Garantie Jeunes ». Récompensons maintenant, la jeunesse travailleuse de France.",
       "date_source": "2022-02",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "edu_apprentissage": {
       "valeur": null,
