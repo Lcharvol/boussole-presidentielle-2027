@@ -1,5 +1,6 @@
 {
   "slug": "gabriel-attal",
+  "format": 2,
   "nom": "Gabriel Attal",
   "parti": "Renaissance",
   "statut": "déclaré",
@@ -9,7 +10,7 @@
   "notes": "Candidature officialisée le 22 mai 2026 (Mur-de-Barrez, Aveyron) ; désignation par vote interne de Renaissance. Pas de programme complet : six « chantiers » thématiques sur attalpresident.fr (pages non datées) et un « pacte pour la jeunesse » présenté le 10 octobre 2026. Une candidature unique avec Édouard Philippe reste discutée (proposition de médiation de Jean-Louis Borloo, à laquelle Attal s'est dit ouvert). Certaines positions reposent sur des déclarations de 2024, quand il était Premier ministre. Le programme en ligne compte six pages (école, travail et salaires, frontières, IA, dette de l'État, dette écologique) ; sécurité et Europe sont sourcées par l'entretien au JDD (2 août 2026, repris sur attalpresident.fr) et le discours de Reims (17 septembre 2026).",
   "positions": {
     "eco_retraite": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Propose que l'enjeu ne soit plus l'âge de départ à la retraite mais la durée de cotisation ; ne propose pas de revenir à 62 ans.",
       "source": "https://attalpresident.fr/programme/travail-salaires",
       "citation": "Pour augmenter le taux d’emploi des seniors, l’enjeu ne sera plus l’âge de départ à la retraite, mais la durée de cotisation.",
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "A voté contre l'amendement instaurant la taxe Zucman (prélèvement plancher de 2 % sur les patrimoines de plus de 100 millions d'euros) lors du scrutin public n° 3300 du 31 octobre 2025 ; aucune proposition de taxation des hauts patrimoines dans son programme.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3300",
       "citation": "Scrutin public n°3300 sur l'amendement n° 2359 de M. Vallaud et les amendements identiques suivants après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).",
@@ -54,7 +55,7 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Premier ministre, s'est présenté comme « pro-énergie nucléaire » et a annoncé la « montée en puissance » du parc nucléaire dans sa déclaration de politique générale, sans y chiffrer de nouveaux réacteurs ; son programme 2027 ne donne pas de chiffre.",
       "source": "https://www.vie-publique.fr/discours/292847-declaration-de-politique-generale-gabriel-attal-30012024",
       "citation": "Nous allons continuer la montée en puissance de notre parc nucléaire, investir massivement dans les programmes – et cette année, l'EPR de Flamanville sera opérationnel.",
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Premier ministre pendant la crise agricole, a annoncé des mesures de simplification et d'allègement des contraintes pour les agriculteurs ; son programme 2027 ne traite pas des normes environnementales.",
       "source": "https://www.vie-publique.fr/discours/293101-gabriel-attal-21022024-crise-agricole-et-souverainete-agricole",
       "citation": "Cinquième enjeu : faciliter la vie de nos agriculteurs, éviter toute surtransposition, simplifier les procédures et les normes, dès qu'elles peuvent l'être, partout où elles peuvent l'être.",
@@ -81,7 +82,7 @@
       "relu": true
     },
     "sec_peines": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Dans le JDD, propose la suppression du juge de l'application des peines et la fin des remises automatiques de peine ; aucune proposition de peines planchers trouvée.",
       "source": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
       "citation": "Il propose des mesures choc pour rétablir l'ordre républicain, passant par la suppression du juge de l'application des peines et la fin des remises automatiques de peine.",
@@ -90,7 +91,7 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Dans le JDD, propose « la construction de nouvelles places de prison classées comme opérations d'intérêt national », sans chiffre.",
       "source": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
       "citation": "Il défend également une réécriture complète du Code de procédure pénale, la construction de nouvelles places de prison classées comme opérations d'intérêt national […]",
@@ -108,7 +109,7 @@
       "relu": false
     },
     "imm_baisse": {
-      "valeur": 1,
+      "valeur": -2,
       "resume": "Son programme veut « accueillir moins pour accueillir mieux » : priorité à l'immigration de travail via un système à points « comme au Canada » et un regroupement familial « mieux encadré » qui « doit donc diminuer », sans objectif chiffré.",
       "source": "https://attalpresident.fr/programme/frontieres",
       "citation": "Notre ligne est claire, ce que nous voulons, c’est accueillir moins pour accueillir mieux, privilégier l’immigration de travail au détriment d’autres types d’immigration comme le regroupement familial, qui doit être mieux encadré et qui doit donc diminuer.",
@@ -135,7 +136,7 @@
       "relu": false
     },
     "eur_integration": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "À Reims, propose de « faire naître les États-Unis d'Europe » en commençant par un noyau de 8 à 10 pays (intégration économique, ressources propres), validés par un « premier référendum européen » ; les compétences régaliennes et de défense resteraient nationales selon son entourage.",
       "source": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
       "citation": "« La grande mission de ma génération est d’accomplir le rêve européen et de faire naître les Etats-Unis d’Europe », lance le candidat",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Son programme affirme : « Nous allons continuer sans relâche à soutenir l'Ukraine » et appelle à « poursuivre et amplifier » le réarmement.",
       "source": "https://attalpresident.fr/programme/frontieres",
       "citation": "Nous allons continuer sans relâche à soutenir l’Ukraine.",
@@ -180,7 +181,7 @@
       "relu": true
     },
     "soc_rsa": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Premier ministre, a annoncé la généralisation du RSA conditionné à 15 heures d'activité dans sa déclaration de politique générale ; le programme 2027 n'en parle pas.",
       "source": "https://www.vie-publique.fr/discours/292847-declaration-de-politique-generale-gabriel-attal-30012024",
       "citation": "Dans 18 départements, nous avons lancé une expérimentation qui conditionne le RSA à 15 heures d'activité pour l'insertion. Je vous annonce que nous généraliserons ce dispositif à tous les départements de France, d'ici le 1er janvier 2025.",
@@ -198,16 +199,16 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": 2,
-      "resume": "Veut rétablir dès son élection les mesures du « Choc des savoirs » (dont les groupes de niveau) et une école « où l'autorité du professeur est respectée ».",
+      "valeur": 0,
+      "resume": "Veut rétablir dès son élection les mesures du « Choc des savoirs » (dont les groupes de niveau) et une école « où l'autorité du professeur est respectée », et viser moins de 20 élèves par classe, notamment en primaire.",
       "source": "https://attalpresident.fr/programme/education",
-      "citation": "Comme ministre de l’Éducation nationale, j’ai pris des décisions fortes en lançant le Choc des savoirs et comme président de la République, l’une de mes premières décisions sera d’en rétablir les mesures.",
+      "citation": "l’une de mes premières décisions sera d’en rétablir les mesures. […] une opportunité pour avoir moins d’élèves par classe notamment en primaire où nous devons viser moins de 20 élèves par classe comme dans les meilleurs systèmes éducatifs européens.",
       "date_source": "2026",
       "confiance": "programme",
       "relu": true
     },
     "ins_proportionnelle": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite : son groupe a jugé le scrutin actuel « le moins pire » et la proportionnelle « pas forcément une priorité » ; aucune proposition personnelle trouvée.",
       "source": "https://lcp.fr/actualites/proportionnelle-aux-legislatives-francois-bayrou-consulte-les-avis-divergent-sur-le",
       "citation": "Pierre Cazeneuve explique, à l'aune de plusieurs critères, que \"le moins pire de ces scrutins est le mode de scrutin actuel\". Et ajoute que le dossier de la proportionnelle \"n'est pas forcément une priorité\" pour le groupe présidé par Gabriel Attal.",
@@ -252,7 +253,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Auteur de la loi de 2025 sur la justice des mineurs qui instaurait une dérogation à l'excuse de minorité pour les 16-18 ans et étendait la comparution immédiate aux mineurs de 16 ans, dispositions censurées par le Conseil constitutionnel ; il ne propose pas de juger les mineurs de 16 ans comme des majeurs.",
       "source": "https://www.publicsenat.fr/actualites/politique/justice-des-mineurs-le-conseil-constitutionnel-censure-largement-le-texte-attal-notamment-la-derogation-de-lexcuse-de-minorite",
       "citation": "L’article 4 qui prévoyait d’étendre la comparution immédiate aux mineurs de 16 ans a été censuré […] Autre mesure emblématique : l’instauration d’une dérogation à l’excuse de minorité",
@@ -351,7 +352,7 @@
       "relu": false
     },
     "ins_parlementaires": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Dans son discours d'Arras (septembre 2025), a évoqué la réduction du nombre de parlementaires, sans en préciser l'ampleur.",
       "source": "https://www.franceinfo.fr/politique/gabriel-attal/en-meeting-a-arras-gabriel-attal-appelle-a-une-ve-republique-du-21e-siecle_7505410.html",
       "citation": "Il a également évoqué la réduction du nombre de parlementaires, la suppression de strates de collectivités territoriales",

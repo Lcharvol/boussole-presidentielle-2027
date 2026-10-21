@@ -15,7 +15,7 @@ Les positions sont classées par priorité :
 Dans chaque groupe, les positions sans citation passent en premier.
 
 Pour relire une position : ouvrir la source, vérifier que la citation y figure mot pour mot,
-qu'elle justifie la valeur au regard du texte exact de l'affirmation, et que le résumé est
+qu'elle justifie la valeur au regard des deux pôles de l'enjeu (-2 = pôle A, +2 = pôle B), et que le résumé est
 neutre. Si tout est juste, passer "relu" à true dans la fiche ; sinon corriger (relu reste false).
 Les positions nulles ne sont pas listées.
 """
@@ -47,8 +47,8 @@ def priorite(p):
 def main():
     candidat = sys.argv[sys.argv.index("--candidat") + 1] if "--candidat" in sys.argv else None
     limite = int(sys.argv[sys.argv.index("--limite") + 1]) if "--limite" in sys.argv else None
-    questions = json.loads((DATA / "questions.json").read_text(encoding="utf-8"))
-    textes = {q["id"]: q["texte"] for q in questions["questions"]}
+    questions = json.loads((DATA / "enjeux.json").read_text(encoding="utf-8"))
+    textes = {q["id"]: f"A (-2) : {q['pole_a']} / B (+2) : {q['pole_b']}" for q in questions["enjeux"]}
     ordre = {qid: i for i, qid in enumerate(textes)}
 
     items, total, relues = [], 0, 0
@@ -77,7 +77,7 @@ def main():
     print(f"{reste} positions sur {total} restent à relire ({relues} déjà relues)"
           + (f" ; {len(items)} affichées." if limite is not None else "."))
     print("\nPour chaque position : ouvrir la source, vérifier que la citation y figure mot pour mot "
-          "et qu'elle justifie la valeur au regard du texte exact de l'affirmation, puis passer "
+          "et qu'elle justifie la valeur entre les deux pôles de l'enjeu, puis passer "
           "`relu` à `true` dans la fiche.")
     groupe = None
     for prio, _, slug, _, nom, qid, p in items:
@@ -89,7 +89,7 @@ def main():
         citation = (p.get("citation") or "").strip()
         print(f"- [ ] **{nom}** — `{qid}` : valeur **{v:+d}**, confiance *{p.get('confiance')}* "
               f"(`data/candidats/{slug}.json`)")
-        print(f"  - Affirmation : {textes.get(qid, '?')}")
+        print(f"  - Enjeu : {textes.get(qid, '?')}")
         print(f"  - Résumé : {p.get('resume', '')}")
         print(f"  - Citation : {'« ' + citation + ' »' if citation else '**aucune citation**'}")
         print(f"  - Source : <{p.get('source')}> ({p.get('date_source', '?')})")

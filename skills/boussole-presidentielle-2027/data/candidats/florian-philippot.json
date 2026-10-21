@@ -1,5 +1,6 @@
 {
   "slug": "florian-philippot",
+  "format": 2,
   "nom": "Florian Philippot",
   "parti": "Les Patriotes",
   "statut": "déclaré",
@@ -9,7 +10,7 @@
   "notes": "Candidature annoncée le 9 mai 2026 sur France 2 (https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027), assortie d'un engagement à se retirer en cas de candidature jugée plus rassembleuse dans le camp souverainiste (Philippe de Villiers) ; le site du parti évoque aussi une « primaire souverainiste ». N'avait obtenu qu'un parrainage en 2022. Programme : livret « Projet pour la France », édition 2026-2027 (publié en septembre 2026), centré sur le Frexit ; plusieurs mesures y sont présentées comme conditionnées à la sortie de l'UE. Prudence : des résumés de moteurs de recherche attribuaient au programme un rétablissement de l'ISF et une hausse du SMIC de 15 % ; ces mesures ne figurent ni dans le livret officiel ni sur l'agrégateur cité, elles n'ont donc pas été retenues.",
   "positions": {
     "eco_retraite": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme propose de « baisser l'âge de départ à la retraite » une fois la France sortie de l'UE, « si les Français le désirent », sans fixer d'âge cible.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Délivrée de la menace bruxelloise, la France pourra souverainement déterminer les conditions d’accession à la retraite et baisser l’âge de départ si les Français le désirent.",
@@ -54,7 +55,7 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme prévoit d'« investir massivement dans le nucléaire » et un « plan d'investissement massif dans le nucléaire de nouvelle génération ».",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Il faut non seulement préserver cet avantage stratégique, mais aussi le renforcer par un plan d’investissement massif dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le programme veut supprimer la PAC « et ses normes absurdes », préserver la voiture thermique au-delà de 2035, tout en proposant un plan national de protection de la faune et de la flore et le développement de l'agriculture biologique.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Supprimer la PAC, ses normes absurdes (tel que le taux de jachère obligatoire) et ses contraintes administratives.",
@@ -81,7 +82,7 @@
       "relu": true
     },
     "sec_peines": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme propose de « réinstaurer les peines planchers » et de supprimer les réductions automatiques de peine.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Il convient donc de réinstaurer les peines planchers et de généraliser les sanctions dès la première infraction.",
@@ -90,8 +91,8 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": 2,
-      "resume": "Le programme propose de « construire les dizaines de milliers de places de prison qui manquent » et d'expulser les détenus étrangers.",
+      "valeur": -1,
+      "resume": "Le programme propose de « construire les dizaines de milliers de places de prison qui manquent » et de réformer les réductions automatiques de peine ; rien sur les peines alternatives.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Construire les dizaines de milliers de places de prison qui manquent et expulser les prisonniers étrangers (ils représentent 25% du total des prisonniers).",
       "date_source": "2026-09",
@@ -108,7 +109,7 @@
       "relu": false
     },
     "imm_baisse": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme vise à revenir à des flux migratoires « extrêmement limités », à mettre fin à l'immigration de travail et à quitter la CEDH, notamment pour pouvoir remettre en cause le regroupement familial.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "L’objectif est de mettre un terme à la politique d’immigration massive en revenant à des flux extrêmement limités et en reconduisant aux frontières ceux qui n’ont rien à faire en France.",
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme prône la sortie de l'UE et de l'euro (Frexit) et rejette toute armée européenne.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Rejeter la création d’une armée européenne.",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme demande de « cesser d'entretenir la guerre en Ukraine » et de couper les financements européens à l'Ukraine.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Cesser d’entretenir la guerre en Ukraine.",
@@ -198,10 +199,10 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": 1,
-      "resume": "Le programme veut « refonder l'autorité des professeurs », une hiérarchie claire dans l'Éducation nationale et en finir avec le collège unique, sans mentionner l'uniforme.",
+      "valeur": -1,
+      "resume": "Le programme veut « refonder l'autorité des professeurs », une hiérarchie claire dans l'Éducation nationale et en finir avec le collège unique au profit de parcours différenciés dès 14 ans ; ni uniforme ni mesure sur la taille des classes.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
-      "citation": "Refonder l’autorité des professeurs et redonner du sens à la vocation enseignante.",
+      "citation": "Refonder l’autorité des professeurs et redonner du sens à la vocation enseignante. […] Il faut rompre avec le dogme du collège unique, qui nivelle par le bas, pour proposer dès 14 ans des parcours différenciés",
       "date_source": "2026-09",
       "confiance": "programme",
       "relu": true
@@ -216,7 +217,7 @@
       "relu": false
     },
     "ins_ric": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme propose de « créer le référendum d'initiative citoyenne (RIC) sur tout sujet et l'inscrire dans la Constitution ».",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Créer le référendum d’initiative citoyenne (RIC) sur tout sujet et l’inscrire dans la Constitution.",
@@ -252,7 +253,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le programme veut que l'excuse de minorité ne s'applique que si le juge la motive spécialement (« qui tue comme un adulte doit être jugé comme un adulte »), sans fixer de seuil d'âge à 16 ans.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "La responsabilité doit primer et l’excuse de minorité ne doit s’appliquer qu’à la condition que le juge la motive spécialement. Les actes graves doivent être jugés comme tels : qui tue comme un adulte doit être jugé comme un adulte.",
@@ -351,7 +352,7 @@
       "relu": true
     },
     "ins_parlementaires": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite de la charte fondatrice des Patriotes (2017), qui propose la suppression du Sénat et des conseils régionaux ; aucun chiffre sur le nombre de députés.",
       "source": "https://www.publicsenat.fr/actualites/politique/philippot-presente-la-charte-des-patriotes-en-reclamant-un-frexit-79488",
       "citation": "En 26 points, le texte fondateur du nouveau parti propose le recours aux référendums d'initiative populaire, la suppression du Sénat et des conseils régionaux ou le droit du sol conditionné au mérite.",

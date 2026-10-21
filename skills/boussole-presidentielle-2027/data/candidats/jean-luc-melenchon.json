@@ -1,5 +1,6 @@
 {
   "slug": "jean-luc-melenchon",
+  "format": 2,
   "nom": "Jean-Luc Mélenchon",
   "parti": "La France insoumise",
   "statut": "déclaré",
@@ -9,7 +10,7 @@
   "notes": "Candidature annoncée le 3 mai 2026 au JT de TF1 (https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851). Le livre-programme « L'Avenir en commun » est en cours de réactualisation ; nouvelle version annoncée pour les 6-7 novembre 2026. Positions tirées du document de campagne d'octobre 2026 « Comment nous allons remettre de l'ordre dans les comptes publics » et, à défaut, de l'édition 2025 de « L'Avenir en commun » (PDF de février 2025 hébergé sur melenchon2027.fr), programme en vigueur de LFI. La position sur l'Ukraine reste déduite d'un vote du groupe LFI (Mélenchon n'est pas député). À revoir après la publication du programme 2027. Le site melenchon2027.fr bloque les accès automatisés (pages HTML) ; les PDF restent accessibles.",
   "positions": {
     "eco_retraite": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le document de campagne d'octobre 2026 prévoit d'abroger la réforme de 2023 (retraite à 64 ans) puis de revenir à la retraite à 60 ans avec 40 annuités au cours du mandat.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
       "citation": "C’est pourquoi nous abrogerons la réforme Borne qui a porté la retraite à 64 ans, ce qui occasionnera une dépense de 9 milliards d’euros. Cette abrogation immédiate sera un premier pas vers le retour à la retraite à 60 ans avec 40 annuités, objectif sur un mandat.",
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le document de campagne d'octobre 2026 prévoit le rétablissement d'un impôt sur la fortune renforcé (10 milliards d'euros attendus) et la suppression de la flat tax.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
       "citation": "Pour cela, nous reviendrons sur les mesures fiscales les plus injustes des mandats d’Emmanuel Macron : […] rétablissement d’un impôt sur la fortune renforcé (10 milliards d’euros)",
@@ -54,7 +55,7 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « sortir du nucléaire » en abandonnant les projets d'EPR et en planifiant le démantèlement des sites.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Sortir du nucléaire : abandonner les projets d’EPR (European Pressurized Reactor – Réacteur pressurisé européen), planifier le démantèlement, la réhabilitation et la reconversion des sites nucléaires",
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de réduire progressivement engrais et pesticides, d'interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l'importation de productions qui en contiennent.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Planifier la réduction progressive des doses d’engrais et de pesticides, interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l’importation de productions qui en contiennent",
@@ -90,7 +91,7 @@
       "relu": false
     },
     "sec_prisons": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Le programme L'Avenir en commun (édition 2025) veut « en finir avec la surpopulation carcérale » par « un mécanisme contraignant de régulation carcérale », sans programme de construction de places.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Respecter la dignité et les droits des personnes privées de liberté : en finir avec la surpopulation carcérale par la mise en place d’un mécanisme contraignant de régulation carcérale",
@@ -108,7 +109,7 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « faciliter l'accès aux visas », de faire de la carte de séjour de dix ans le titre de référence et d'abroger les dernières lois asile et immigration.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Faciliter l’accès aux visas, régulariser les travailleurs, étudiants, parents d’enfants scolarisés et instituer la carte de séjour de dix ans comme titre de séjour de référence",
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de suspendre la participation (opt-out) de la France à des programmes comme « l'Europe de la défense » et de désobéir aux règles européennes jugées bloquantes.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Suspendre la participation (opt-out) de la France à certains programmes comme l’Europe de la défense et s’opposer à la reconduction d’un Commissaire européen à la Défense",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Déduit du vote du groupe LFI-NFP (Mélenchon n'est pas député) : la page du scrutin n°988 du 12 mars 2025 liste le groupe « Contre : 45 » sur la résolution appelant au renforcement du soutien à l'Ukraine.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
       "citation": "Scrutin public n°988 sur l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
@@ -180,7 +181,7 @@
       "relu": true
     },
     "soc_rsa": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'« abroger la loi France Travail et l'obligation de réaliser 15h d'activités hebdomadaires » pour les allocataires du RSA.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Abroger la loi France Travail et l’obligation de réaliser 15h d’activités hebdomadaires contre le revenu de remplacement (allocation-chômage, RSA, ASS, etc.)",
@@ -198,16 +199,16 @@
       "relu": true
     },
     "edu_autorite": {
-      "valeur": -2,
-      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « suspendre l'expérimentation de l'uniforme », d'abroger le « Choc des savoirs » et de mettre fin aux groupes de niveau au collège.",
+      "valeur": 2,
+      "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de réduire partout les effectifs par classe, de suspendre l'expérimentation de l'uniforme, d'abroger le « Choc des savoirs » et de mettre fin aux groupes de niveau au profit de classes de niveau hétérogène.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
-      "citation": "Suspendre l’expérimentation de l’uniforme • Abroger le « Choc des savoirs » qui renforce la ségrégation scolaire et sociale",
+      "citation": "Réduire partout les effectifs par classe […] Suspendre l’expérimentation de l’uniforme • Abroger le « Choc des savoirs » […] Garantir le droit de chaque élève à progresser au sein d’une même classe de niveau hétérogène […] en mettant fin aux groupes de niveaux au collège",
       "date_source": "2025-02",
       "confiance": "programme",
       "relu": true
     },
     "ins_proportionnelle": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'« élire l'Assemblée nationale au scrutin proportionnel ».",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Élire l’Assemblée nationale au scrutin proportionnel",
@@ -216,7 +217,7 @@
       "relu": true
     },
     "ins_ric": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'instaurer le RIC permettant de révoquer des élus, proposer ou abroger une loi et modifier la Constitution.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Instaurer le Référendum d’initiative citoyenne (RIC), par lequel les citoyens qui réunissent suffisamment de signatures peuvent révoquer des élus, proposer ou abroger une loi et modifier la Constitution",
@@ -243,7 +244,7 @@
       "relu": false
     },
     "ecol_aerien": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « mettre fin aux niches fiscales sur le kérosène » et de supprimer les lignes aériennes lorsque l'alternative en train dure moins de quatre heures ; il ne prévoit pas de taxe sur les billets.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Mettre fin aux niches fiscales sur le kérosène pour limiter le dumping du e-commerce depuis l’étranger",
@@ -252,7 +253,7 @@
       "relu": true
     },
     "sec_mineurs": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de garantir les principes de l'ordonnance de 1945 sur l'enfance délinquante et d'abroger le code de justice pénale des mineurs pour le remplacer par un code de l'enfance.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Garantir le respect des principes de l’ordonnance de février 1945 sur l’enfance en conflit avec la loi, abroger le code de justice pénale des mineurs de Dupond-Moretti pour instaurer un code de l’enfance",
@@ -261,7 +262,7 @@
       "relu": true
     },
     "sec_videosurveillance": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le programme L'Avenir en commun (édition 2025) veut interdire certains usages de l'intelligence artificielle comme les identifications biométriques et privilégier les moyens humains du renseignement plutôt que la surveillance technologique.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Interdire certains usages de l’intelligence artificielle et du « big data » qui vont à l’encontre des droits sociaux : identifications biométriques, surveillance pour l’évaluation des droits sociaux",
@@ -306,7 +307,7 @@
       "relu": false
     },
     "soc_100secu": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit d'instaurer le « 100 % Sécu » en remboursant à 100 % les soins prescrits et en intégrant les mutuelles dans la Sécurité sociale.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Reconstruire le service public hospitalier et instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits et en intégrant les mutuelles dans la Sécurité sociale",
@@ -333,7 +334,7 @@
       "relu": false
     },
     "edu_etudiants": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit une « garantie d'autonomie » portant au-dessus du seuil de pauvreté (1 216 euros) le revenu des jeunes détachés du foyer fiscal parental ; il ne s'agit pas d'une allocation réservée ni versée à tous les étudiants.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Financer l’autonomie des jeunes détachés du foyer fiscal parental grâce à la garantie d’autonomie, qui les portera au-dessus du seuil de pauvreté (1 216 euros pour une personne seule)",
@@ -360,7 +361,7 @@
       "relu": false
     },
     "ins_voteblanc": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le programme L'Avenir en commun (édition 2025) prévoit de « reconnaître le vote blanc », d'instaurer le vote obligatoire et un seuil de votes exprimés pour valider une élection.",
       "source": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
       "citation": "Reconnaître le vote blanc, mettre en place le vote obligatoire et instaurer un seuil de votes exprimés pour valider une élection",

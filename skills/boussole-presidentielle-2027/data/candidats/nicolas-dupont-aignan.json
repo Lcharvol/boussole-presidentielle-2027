@@ -1,5 +1,6 @@
 {
   "slug": "nicolas-dupont-aignan",
+  "format": 2,
   "nom": "Nicolas Dupont-Aignan",
   "parti": "Debout la France",
   "statut": "déclaré",
@@ -9,7 +10,7 @@
   "notes": "A officialisé sa quatrième candidature présidentielle le 19 septembre 2026 à Yerres ; il se présente comme le seul candidat proposant la sortie de l'Union européenne (par référendum). Il évoque des difficultés de financement et devra réunir ses 500 parrainages. Le projet de Debout la France est en cours d'actualisation pour 2027 : certaines pages thématiques (ex. retraites) semblent antérieures à 2023 ; le communiqué « 20 mesures chocs » du 20 octobre 2026 constitue le document de campagne le plus récent. Source statut : https://www.cnews.fr/france/2026-09-19/presidentielle-2027-depuis-son-fief-de-yerres-nicolas-dupont-aignan-se-lance-dans",
   "positions": {
     "eco_retraite": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le projet DLF prévoit de maintenir l'âge minimum de départ et la durée de cotisation issus de la réforme de 2010 (soit 62 ans) ; DLF s'est opposé au passage à 64 ans en 2023.",
       "source": "https://www.debout-la-france.fr/projet/retraites/",
       "citation": "Nous maintiendrons l’âge minimum de départ à la retraite et la durée de cotisations actuelle (issue de la réforme de 2010).",
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Propose de rétablir un impôt sur les très grandes fortunes, en excluant la résidence principale et en permettant de déduire les investissements dans des entreprises produisant en France.",
       "source": "https://www.debout-la-france.fr/projet/economie-travail/",
       "citation": "Rétablir un impôt sur les très grandes fortunes en excluant la résidence principale et en permettant de déduire tous les investissements dans des entreprises / organismes localisant leur production en France",
@@ -54,10 +55,10 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 1,
-      "resume": "Veut maintenir le nucléaire à au moins 70 % de la production d'électricité, abandonner l'objectif de 50 %, et soutenir les réacteurs de génération IV et une filière thorium, sans chiffrer de nouveaux réacteurs.",
+      "valeur": -2,
+      "resume": "Veut abandonner l'objectif de 50 % de nucléaire, maintenir sa part à 70 % au moins de la production d'électricité et développer les réacteurs de génération IV et une filière thorium, sans chiffrer de nouveaux réacteurs.",
       "source": "https://www.debout-la-france.fr/projet/environnement-energie/",
-      "citation": "Abandonner l’objectif de 50% de nucléaire dans la production électrique en 2035, maintenir le nucléaire à 70% de la production d’électricité minimum.",
+      "citation": "Abandonner l’objectif de 50% de nucléaire dans la production électrique en 2035, maintenir le nucléaire à 70% de la production d’électricité minimum. […] Conforter le développement des réacteurs GENERATION IV relancer le nucléaire […]",
       "date_source": "2022",
       "confiance": "programme",
       "relu": true
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Veut sortir de la PAC, mettre fin au Pacte vert européen et aux quotas de jachères et simplifier les normes agricoles, tout en bloquant les importations ne respectant pas les normes françaises.",
       "source": "https://www.debout-la-france.fr/projet/agriculture/",
       "citation": "Revenir à une politique agricole nationale, échappant aux délires bureaucratiques de la Commission de Bruxelles et simplifiant les procédures (fin du pacte vert européen, des quotas de jachères, etc…).",
@@ -81,7 +82,7 @@
       "relu": true
     },
     "sec_peines": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le projet propose de « réinstaurer et élargir les peines planchers » pour les agressions contre policiers, gendarmes, pompiers, enseignants et soignants, ainsi qu'une perpétuité réelle ; la peine plancher pour agression de policiers figure dans ses 20 propositions du 20 octobre 2026.",
       "source": "https://www.debout-la-france.fr/projet/justice/",
       "citation": "Réinstaurer et élargir les peines planchers pour toute agression contre policiers, gendarmes, pompiers, enseignants, soignants.",
@@ -90,10 +91,10 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": 2,
-      "resume": "Propose la construction de 40 000 nouvelles places de prison.",
+      "valeur": -1,
+      "resume": "Propose la construction de 40 000 places de prison et la prison ferme pour les multirécidivistes ; rien sur les peines alternatives en général.",
       "source": "https://www.dupontaignan.fr/actualite/communique-nicolas-dupont-aignan-a-limoges/",
-      "citation": "Construction de 40 000 places de prison",
+      "citation": "Prison ferme pour les multirécidivistes […] Construction de 40 000 places de prison",
       "date_source": "2026-10-20",
       "confiance": "programme",
       "relu": true
@@ -108,7 +109,7 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose la suppression du droit du sol, la suspension du regroupement familial, le rétablissement des frontières nationales et la fin des aides sociales non contributives aux étrangers.",
       "source": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
       "citation": "Nous proposons, par conséquent, la suppression du droit du sol, la suspension du regroupement familial, la fin des aides sociales non contributives aux étrangers et la fermeture immédiate des mosquées fondamentalistes.",
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Propose de sortir de l'Union européenne, après référendum, pour la remplacer par une « Europe des nations libres » et des coopérations à la carte.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
       "citation": "Sortir de l’Union européenne pour rapatrier nos compétences au niveau national, seul cadre de l’exercice de notre démocratie.",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Déclare qu'élu président il arrêterait « toutes subventions à l'Ukraine » ; son projet vise la paix et la relance d'un partenariat avec la Russie.",
       "source": "https://www.dupontaignan.fr/actualite/president-jarreterai-toutes-subventions-a-lukraine-%c2%b7-bfmtv-21-09-26/",
       "citation": "“Président, j’arrêterai toutes subventions à l’Ukraine !” · BFMTV, 21/09/26",
@@ -198,16 +199,16 @@
       "relu": true
     },
     "edu_autorite": {
-      "valeur": 2,
-      "resume": "Propose l'uniforme obligatoire, la tolérance zéro, l'exclusion des élèves harceleurs, des établissements « d'apaisement civique » et des classes de niveau au collège.",
+      "valeur": -2,
+      "resume": "Propose l'uniforme obligatoire, la tolérance zéro, l'exclusion des élèves harceleurs, des établissements « d'apaisement civique » et des classes de niveau au collège ; il prévoit aussi un accompagnement personnalisé des élèves en difficulté en maternelle et au CP, sans mesure sur la taille des classes.",
       "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
-      "citation": "Uniforme obligatoire, niveau de langage minimum et vouvoiement.",
+      "citation": "Uniforme obligatoire, niveau de langage minimum et vouvoiement. […] Le collège Organiser des classes de niveau tout en garantissant leur porosité.",
       "date_source": "2026",
       "confiance": "programme",
       "relu": true
     },
     "ins_proportionnelle": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Qualifie la proportionnelle de « fausse bonne idée » qui rendrait le pays ingouvernable, et lui préfère le référendum et le RIC.",
       "source": "https://www.debout-la-france.fr/actualite/communique-de-presse-%c2%b7-la-proportionnelle-le-piege-du-systeme-pour-priver-la-france-dalternative-politique/",
       "citation": "La mise en place du scrutin proportionnel est une fausse bonne idée, une illusion démocratique qui, sous couvert de représentativité, installerait en réalité un système verrouillé entre partis dominants […]",
@@ -216,7 +217,7 @@
       "relu": true
     },
     "ins_ric": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose un RIC législatif et constituant déclenché par un million d'électeurs, précédé d'un débat de six mois.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
       "citation": "Instaurer le référendum d’initiative citoyenne constituant (RIC) pour rendre les citoyens acteurs de l’élaboration des lois et maîtres de leur Constitution.",
@@ -252,7 +253,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Le projet propose d'abroger l'ordonnance de 1945 sur la justice des mineurs et de « baisser la majorité pénale à 16 ans », mesure reprise dans ses 20 propositions du 20 octobre 2026.",
       "source": "https://www.debout-la-france.fr/projet/justice/",
       "citation": "Baisser la majorité pénale à 16 ans.",
@@ -261,7 +262,7 @@
       "relu": true
     },
     "sec_videosurveillance": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite d'un acte parlementaire de mars 2023 : il a déposé un amendement de suppression de l'article de la loi JO 2024 autorisant la vidéosurveillance algorithmique, estimant que « la surveillance généralisée de la population, via l'utilisation de l'intelligence artificielle, ne peut aboutir qu'à l'autoritarisme ».",
       "source": "https://www.assemblee-nationale.fr/dyn/16/amendements/0939/AN/692.pdf",
       "citation": "La surveillance généralisée de la population, via l’utilisation de l’intelligence artificielle, ne peut aboutir qu’à l’autoritarisme.",
@@ -351,7 +352,7 @@
       "relu": false
     },
     "ins_parlementaires": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le projet propose de « diminuer le nombre de parlementaires » : passer de 577 à 500 députés et de 348 à 300 sénateurs, avec une baisse de 25 % de leurs indemnités.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
       "citation": "Diminuer le nombre de parlementaires et réduire leurs indemnités de 25 % :",
@@ -360,7 +361,7 @@
       "relu": true
     },
     "ins_voteblanc": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le projet propose de « prendre en compte le vote blanc dans les résultats des élections » et de reporter le scrutin s'il est majoritaire ; mesure rappelée dans son discours de rentrée du 19 septembre 2026.",
       "source": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
       "citation": "Prendre en compte le vote blanc dans les résultats des élections pour respecter le sentiment populaire.",

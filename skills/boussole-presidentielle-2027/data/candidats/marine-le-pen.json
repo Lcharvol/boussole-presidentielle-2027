@@ -1,5 +1,6 @@
 {
   "slug": "marine-le-pen",
+  "format": 2,
   "nom": "Marine Le Pen",
   "parti": "Rassemblement national",
   "statut": "déclaré",
@@ -9,7 +10,7 @@
   "notes": "Candidature annoncée le 7 juillet 2026 après l'arrêt de la cour d'appel de Paris (affaire des assistants parlementaires FN) : condamnation confirmée, 3 ans de prison dont 2 avec sursis (partie ferme sous bracelet électronique) et inéligibilité ramenée à 45 mois dont 30 avec sursis, soit 15 mois fermes considérés comme déjà purgés depuis l'exécution provisoire du 31 mars 2025 ; elle est donc juridiquement éligible. Elle s'est pourvue en cassation (pourvoi suspensif de la peine de prison) ; selon la presse, le parquet général a renoncé à se pourvoir. Des juristes estiment que son propre pourvoi pourrait faire revivre la peine de première instance (5 ans d'inéligibilité avec exécution provisoire) — point débattu ; la Cour de cassation doit statuer avant le premier tour (18 avril 2027), date non fixée. Jordan Bardella n'est PAS candidat : il soutient Marine Le Pen, qui l'a présenté comme son futur Premier ministre ; il reste le recours du RN si l'inéligibilité était rétablie. Programme 2027 non publié en entier : contre-budget présenté le 6 octobre 2026, volet retraites annoncé pour le 17 novembre 2026. Plusieurs positions sont déduites du programme 2022 (22 mesures), du programme législatif 2024 ou des votes du groupe RN. Sources : https://www.rts.ch/info/monde/2026/article/condamnee-en-appel-marine-le-pen-pourra-se-presenter-en-2027-29296439.html ; https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/presidentielle-bracelet-electronique-pourvoi-en-cassation-les-questions-qui-se-posent-apres-la-condamnation-reduite-de-marine-le-pen-en-appel_8097893.html ; https://www.france24.com/fr/france/20260708-jordan-bardella-se-r%C3%A9jouit-marine-le-pen-pr%C3%A9sidentielle-2027-extreme-droite-rassemblement-national-campagne Au 20/10/2026, elle reste la candidate du RN : la Cour de cassation examinera le 16 décembre 2026 les seules QPC liées à son pourvoi (transmission éventuelle au Conseil constitutionnel, qui aurait trois mois) ; un arrêt sur le fond pourrait intervenir fin mars ou début avril 2027. Source : https://actu.orange.fr/politique/affaire-des-assistants-parlementaires-du-rn-la-cour-de-cassation-fixera-le-sort-de-marine-le-pen-le-16-decembre-l-express-via-6medias-CNT000002t1bDR.html",
   "positions": {
     "eco_retraite": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Maintient le retour à un âge légal de 62 ans, voire 60 ans avec 40 annuités pour ceux ayant commencé à travailler avant 20 ans (débat du Medef, 27 août 2026).",
       "source": "https://www.journaldunet.com/business/action-publique/1554113-marine-le-pen-maintient-le-retour-a-la-retraite-a-62-ans/",
       "citation": "La candidate du RN a officialisé son souhait de conserver la retraite à 62 ans, voire 60 ans, lors de ce débat, précisant ainsi les contours d’une réforme déjà présentée lors des élections législatives de 2024.",
@@ -54,7 +55,7 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : relance du nucléaire avec cinq paires d'EPR et cinq EPR2, prolongation des centrales à 60 ans et réouverture de Fessenheim.",
       "source": "https://www.linfodurable.fr/politique/le-programme-ecolo-de-marine-le-pen-31355",
       "citation": "Relancer le nucléaire via la création de cinq paires d’EPR et cinq autre EPR2, le prolongement jusqu’à soixante ans des centrales et la réouverture de Fessenheim.",
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Demande la suppression de la surtransposition des normes et l'arrêt de leur multiplication pour les agriculteurs, et qualifie le Pacte vert européen de « stupidité économique et politique ».",
       "source": "https://www.publicsenat.fr/actualites/politique/prix-planchers-dans-lagriculture-un-prix-garanti-ne-peut-fonctionner-que-si-on-nimpose-pas-la-multiplication-des-normes-estime-marine-le-pen",
       "citation": "« Si on ne supprime pas les surtranspositions de normes inutiles qui empêchent les agriculteurs de travailler et renchérissent les prix, alors le prix garanti est signé d’échec », a-t-elle ajouté.",
@@ -81,7 +82,7 @@
       "relu": true
     },
     "sec_peines": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 et des propositions du groupe RN : instauration de peines minimales (peines planchers) et réduction des remises de peine.",
       "source": "https://rassemblementnational.fr/22-mesures",
       "citation": "Rétablir les peines planchers pour que tout criminel et délinquant aient une sanction.",
@@ -90,10 +91,10 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": 2,
-      "resume": "Position déduite du programme 2022 : augmentation massive de la capacité carcérale (objectif de 85 000 places selon le chiffrage de l'Institut Montaigne).",
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : atteindre 85 000 places de prison en 2027 et supprimer toute possibilité de réduction et d'aménagement de peine.",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": "Atteindre 85 000 places de prison en 2027.",
+      "citation": "Supprimer toute possibilité de réduction et d’aménagements de peine, en particulier pour les violences contre les personnes. […] Atteindre 85 000 places de prison en 2027.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": true
@@ -108,8 +109,8 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": 2,
-      "resume": "Position déduite des programmes 2022 et 2024 : référendum sur l'immigration, restriction puis fin du regroupement familial, suppression du droit du sol et priorité nationale.",
+      "valeur": -2,
+      "resume": "Position déduite du programme législatif du RN de 2024 : restriction et durcissement des conditions du regroupement familial, suppression du droit du sol et priorité nationale.",
       "source": "https://lcp.fr/actualites/legislatives-2024-le-programme-du-rassemblement-national-en-matiere-d-immigration-a-l",
       "citation": "Suppression du droit du sol, priorité nationale, allocations familiales réservées aux Français, restriction du regroupement familial...",
       "date_source": "2024-06-28",
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Position déduite : a renoncé à la sortie de l'UE et de l'euro mais veut retirer à Bruxelles l'essentiel de ses pouvoirs pour en faire une alliance de nations plus souple.",
       "source": "https://fr.euronews.com/my-europe/2026/09/17/marine-le-pen-veut-elle-ou-non-organiser-un-referendum-sur-le-frexit-si-elle-est-elue",
       "citation": "Lors de l'élection de 2022, elle a plutôt défendu l'idée de réformer en profondeur l'UE de l'intérieur, en retirant à Bruxelles l'essentiel de ses pouvoirs et en transformant le bloc en une alliance de nations plus souple.",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Annonce qu'élue elle maintiendrait l'aide à l'Ukraine six mois puis cesserait l'aide financière faute de moyens, tout en évoquant la poursuite de la formation et de matériel défensif.",
       "source": "https://fr.euronews.com/2026/10/16/marine-le-pen-prete-a-debattre-avec-zelensky-apres-avoir-promis-de-couper-laide-francaise-",
       "citation": "“À partir de mon élection, durant six mois nous maintiendrons les aides [...] pour ne mettre personne au pied du mur. Mais après nous cesserons l'aide financière à l'Ukraine car nous n'avons plus les moyens de le faire\" , avait-elle déclaré.",
@@ -198,16 +199,16 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": 2,
-      "resume": "Position déduite du programme 2022 : uniforme à l'école et recentrage sur les savoirs fondamentaux.",
+      "valeur": 0,
+      "resume": "Position déduite du programme 2022 : uniforme au primaire et au collège, sanctions des absences et incivilités, et réduction des effectifs des classes financée par la suppression de bureaucratie.",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": "Rétablir l’autorité de l’institution scolaire par l’instauration d’un uniforme au primaire et au collège tout en sanctionnant les absences et les incivilités.",
+      "citation": "Rétablir l’autorité de l’institution scolaire par l’instauration d’un uniforme au primaire et au collège tout en sanctionnant les absences et les incivilités. […] réduire les effectifs des classes et arrêter les fermetures d’écoles.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": true
     },
     "ins_proportionnelle": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Favorable à la proportionnelle aux législatives ; juge la proportionnelle intégrale par département (modèle 1986) « un moindre mal », sans exiger de prime majoritaire.",
       "source": "https://lcp.fr/actualites/proportionnelle-aux-legislatives-francois-bayrou-consulte-les-avis-divergent-sur-le",
       "citation": "indiqué que \"le scrutin de 1986, c'est-à-dire la proportionnelle intégrale par département, nous apparaît être un moindre mal par rapport à un système majoritaire qui aujourd'hui ne permet pas que chaque voix des Français soit entendue et respectée\"",
@@ -216,7 +217,7 @@
       "relu": true
     },
     "ins_ric": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : RIC pour proposer ou abroger une loi à partir de 500 000 signatures, avec garde-fous.",
       "source": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-detaille-sa-revolution-referendaire-202358",
       "citation": "Mais surtout, la mesure phare de cette « révolution référendaire » consiste à abaisser à 500 000 électeurs la barre de déclenchement d’un référendum d’initiative citoyenne (RIC), qui permettrait d’abroger une loi ou d’en proposer une nouvelle.",
@@ -243,7 +244,7 @@
       "relu": true
     },
     "ecol_aerien": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Opposée à la taxation des billets d'avion, qu'elle a qualifiée en 2019 d'« écologie punitive » et de moyen de « faire rentrer de l'argent dans les caisses » (déclaration ancienne, aucune prise de position plus récente trouvée).",
       "source": "https://www.linfodurable.fr/ecotaxe-sur-les-billets-davion-une-mesure-cynique-pour-marine-le-pen-12451",
       "citation": "La taxation des billets d'avion est \"une idée très cynique et particulièrement hypocrite\", a réagi la députée d'extrême droite dans les couloirs de l'Assemblée nationale.",
@@ -252,7 +253,7 @@
       "relu": true
     },
     "sec_mineurs": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite : Jordan Bardella a proposé en 2024 de « mettre un terme à l'excuse de minorité », sans préciser les âges concernés.",
       "source": "https://vl-media.fr/cest-quoi-lexcuse-de-minorite-que-veut-supprimer-jordan-bardella/",
       "citation": "Président du Rassemblement national, Jordan Bardella a affirmé ce mercredi matin sur le plateau de BFMTV, vouloir mettre un terme à “l’excuse de minorité”, ou dit “atténuation de responsabilité”, selon l’article 122-8 du Code pénal.",
@@ -351,7 +352,7 @@
       "relu": false
     },
     "ins_parlementaires": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite (campagne 2017) : proposait de réduire le Parlement à 300 députés et 200 sénateurs ; aucune déclaration récente vérifiée.",
       "source": "https://www.publicsenat.fr/actualites/politique/marine-le-pen-veut-reduire-le-nombre-de-deputes-et-un-senat-allege-52359",
       "citation": "\"Beaucoup d'élus pourraient être économisés. La diminution du nombre de parlementaires doit être inscrite dans la Constitution\", a défendu l'eurodéputée sur BFMTV-RMC. \"Je demanderai aux Français d'avoir (...) 300 députés, 200 sénateurs\"",

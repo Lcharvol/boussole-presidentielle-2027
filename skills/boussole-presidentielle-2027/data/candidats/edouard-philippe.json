@@ -1,5 +1,6 @@
 {
   "slug": "edouard-philippe",
+  "format": 2,
   "nom": "Édouard Philippe",
   "parti": "Horizons",
   "statut": "déclaré",
@@ -9,7 +10,7 @@
   "notes": "Candidature annoncée le 3 septembre 2024 (Le Point). Pas de programme écrit complet : quatre pages de « priorités » sur edouardphilippe.fr (non datées, © 2026), réforme des retraites présentée fin septembre 2026, mesures détaillées sur France 2 le 8 octobre 2026. Refuse une primaire avec Gabriel Attal ; la question d'une candidature unique du bloc central reste ouverte. Plusieurs positions (RIC, RSA) reposent sur des déclarations anciennes, faites quand il était Premier ministre (2017-2020).",
   "positions": {
     "eco_retraite": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Propose de porter l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, avec maintien des départs anticipés et une part de capitalisation collective.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
       "citation": "Sauver nos retraites sans hausse des cotisations ni baisse générale des pensions : porter progressivement l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, pour ceux qui le peuvent.",
@@ -19,7 +20,7 @@
     },
     "eco_smic": {
       "valeur": -1,
-      "resume": "Alors Premier ministre (novembre 2018), a exclu tout coup de pouce au SMIC au-delà de la revalorisation légale, préférant « faire en sorte que le travail paye » ; son programme 2026 ne prévoit pas de hausse du SMIC et mise sur l'exonération des heures supplémentaires.",
+      "resume": "Alors Premier ministre (novembre 2018), a exclu tout coup de pouce au SMIC au-delà de la revalorisation légale, préférant « faire en sorte que le travail paye » ; aucune réaffirmation récente trouvée.",
       "source": "https://www.publicsenat.fr/actualites/non-classe/smic-revalorisation-legale-au-1er-janvier-mais-pas-de-coup-de-pouce-135932",
       "citation": "\"Notre politique, c'est pas de faire des coups de pouce au Smic, notre politique c'est de faire en sorte que le travail paye (...) Il y aura une revalorisation, la revalorisation légale (...) Il n'y aura pas de coup de pouce supplémentaire\"",
       "date_source": "2018-11-28",
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Propose un moratoire sur tout nouvel impôt pendant le quinquennat et ne prévoit pas de taxation accrue des hauts patrimoines ; le groupe Horizons a voté contre la taxe Zucman le 31 octobre 2025.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
       "citation": "Sceller un moratoire normatif et fiscal : pas de nouvelle norme et de nouvel impôt sur le quinquennat.",
@@ -54,7 +55,7 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose de lancer 8 EPR supplémentaires en plus des 6 déjà prévus.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
       "citation": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Propose un moratoire normatif (aucune nouvelle norme pendant le quinquennat) et zéro surtransposition des règles européennes dans l'agriculture.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
       "citation": "Sceller un moratoire normatif et fiscal : pas de nouvelle norme et de nouvel impôt sur le quinquennat.",
@@ -81,7 +82,7 @@
       "relu": true
     },
     "sec_peines": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose des peines planchers pour les infractions les plus graves, des peines courtes et dissuasives dès la première infraction et la suppression du juge d'application des peines.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
       "citation": "Mettre en place des peines planchers pour les infractions les plus graves, en particulier lorsqu'elles portent atteinte à l'intégrité physique des personnes dépositaires de l'autorité publique et des professeurs.",
@@ -90,10 +91,10 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": 1,
-      "resume": "A déploré que la France n'arrive pas à construire suffisamment de places de prison et plaide pour l'incarcération immédiate dans des établissements pour courtes peines ; aucun objectif chiffré trouvé dans une source primaire.",
+      "valeur": -1,
+      "resume": "Défend l'enfermement immédiat dès la première infraction, y compris pour des peines très brèves, dans des établissements pour courtes peines, et propose de permettre aux maires de proposer des peines de réparation ; aucun objectif chiffré de places.",
       "source": "https://www.europe1.fr/politique/justice-peines-planchers-suppression-du-juge-dapplication-des-peines-edouard-philippe-formule-des-propositions-en-meeting-a-marseille-752761",
-      "citation": "\"[…] Comme nous n’arrivons pas à construire suffisamment de places de prisons (...) et comme nous savons qu’être détenu dans des conditions indignes alimente la récidive, les juges prononcent des peines toujours plus sévères mais de moins en moins exécutées\"",
+      "citation": "M. Philippe défend \"une stratégie d’enfermement immédiat des délinquants, y compris pour des peines très brèves, dès la première infraction, dans des établissements pour courtes peines\"",
       "date_source": "2025-05-17",
       "confiance": "declaration",
       "relu": true
@@ -108,8 +109,8 @@
       "relu": false
     },
     "imm_baisse": {
-      "valeur": 2,
-      "resume": "Veut diviser par deux l'immigration (moins de 200 000 titres de séjour par an), instaurer des quotas votés par le Parlement et suspendre le regroupement familial pendant le quinquennat.",
+      "valeur": -2,
+      "resume": "Fixe l'objectif de diviser par deux l'immigration, veut des quotas migratoires pour l'immigration économique et propose de suspendre le regroupement familial pendant le quinquennat.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
       "citation": "Suspendre le regroupement familial pour la durée du quinquennat.",
       "date_source": "2026-10",
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Défend l'achèvement du marché unique, une union des marchés de capitaux, des achats technologiques communs et une IA européenne souveraine ; aucune proposition trouvée sur un emprunt commun ou l'extension du vote à la majorité.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
       "citation": "Construire une union européenne des marchés de capitaux pour financer l’innovation et la prospérité européenne.",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Lors d'un déplacement à Kiev, a dit vouloir rester aux côtés de l'Ukraine, s'est prononcé pour l'envoi de troupes européennes après un accord de paix et pour l'adhésion de l'Ukraine à l'OTAN.",
       "source": "https://fr.euronews.com/2026/05/26/edouard-philippe-a-rencontre-volodymyr-zelensky-a-kyiv",
       "citation": "Édouard Philippe s’est notamment prononcé en faveur du déploiement de troupes européennes en Ukraine une fois la paix revenue, afin de dissuader la Russie de toute nouvelle attaque.",
@@ -198,16 +199,16 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": 2,
-      "resume": "Propose de faire des chefs d'établissement les « patrons » de l'école, libres d'imposer l'uniforme et de fixer la discipline, une amende de responsabilisation pour les parents et l'interdiction des téléphones au primaire et au collège.",
+      "valeur": 0,
+      "resume": "Propose de laisser les chefs d'établissement imposer l'uniforme et fixer la discipline, une amende de responsabilisation pour les parents et l'interdiction des téléphones, et aussi de réduire les effectifs en maternelle et en primaire et de créer un service public du soutien scolaire.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
-      "citation": "Faire des chefs d'établissements les véritables patrons de l'école : liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline, de participer au recrutement et à l’évaluation de leur équipe.",
+      "citation": "Faire des chefs d'établissements les véritables patrons de l'école : liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline […] Réduire les effectifs d'élèves en classe, en maternelle et en primaire.",
       "date_source": "2026-10",
       "confiance": "programme",
       "relu": true
     },
     "ins_proportionnelle": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "S'est déclaré défavorable à la proportionnelle aux législatives, qui selon lui perpétuerait l'absence de majorité et distendrait le lien entre électeurs et députés.",
       "source": "https://www.france24.com/fr/info-en-continu/20250522-edouard-philippe-d%C3%A9favorable-%C3%A0-la-proportionnelle-qui-conduirait-%C3%A0-une-absence-de-majorit%C3%A9",
       "citation": "« Le scrutin proportionnel a plus de chance de perpétuer ce que nous voyons aujourd'hui, c'est-à-dire une absence de majorité »",
@@ -216,7 +217,7 @@
       "relu": true
     },
     "ins_ric": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Alors Premier ministre, a déclaré que le RIC le « hérisse » ; aucune déclaration plus récente trouvée ; valeur ramenée à −1 car la position date de son passage à Matignon et n'a pas été réaffirmée depuis.",
       "source": "https://www.franceinfo.fr/politique/grand-debat-national/video-le-ric-me-herisse-edouard-philippe-dit-son-opposition-au-referendum-d-initiative-citoyenne-lors-d-un-debat-dans-les-yvelines_3161975.html",
       "citation": "\"Si je voulais le dire en une formule, je dirais : le RIC me hérisse.\"",
@@ -252,7 +253,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Propose de lever l'excuse de minorité et de créer la comparution immédiate des mineurs, uniquement pour les faits liés au narcotrafic.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
       "citation": "Lever l'excuse de minorité pour les faits en lien avec le narcotrafic et créer la comparution immédiate des mineurs pour ces infractions.",
@@ -351,7 +352,7 @@
       "relu": false
     },
     "ins_parlementaires": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Alors Premier ministre, a présenté en avril 2018 une réforme institutionnelle réduisant d'environ un tiers le nombre de députés et de sénateurs (ramené ensuite à 25 %) ; aucune déclaration plus récente trouvée.",
       "source": "https://www.info.gouv.fr/upload/media/default/0001/01/2018_04_discours_de_m._edouard_philippe_premier_ministre_-_reforme_des_institutions_-_mercredi_4_avril_2018.pdf",
       "citation": "les projets de lois organiques et ordinaires prévoient quant à eux […] une réduction de 30% du nombre de députés et de sénateurs dans des conditions qui garantissent la représentation de tous les départements et territoires",

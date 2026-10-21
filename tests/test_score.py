@@ -15,7 +15,7 @@ import score  # noqa: E402
 
 QUESTIONS = {
     "themes": {"economie": "Économie", "ecologie": "Écologie"},
-    "questions": [
+    "enjeux": [
         {"id": "eco_1", "theme": "economie"},
         {"id": "eco_2", "theme": "economie"},
         {"id": "eco_3", "theme": "economie"},
@@ -56,6 +56,10 @@ class AucuneReponse(unittest.TestCase):
     def test_question_inconnue(self):
         with self.assertRaises(SystemExit):
             score.calculer({"reponses": {"xyz": 1}}, QUESTIONS, [])
+
+    def test_reponse_hors_echelle(self):
+        with self.assertRaises(SystemExit):
+            score.calculer({"reponses": {"eco_1": 3}}, QUESTIONS, [])
 
 
 class UnSeulTheme(unittest.TestCase):

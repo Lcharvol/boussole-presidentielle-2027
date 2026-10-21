@@ -1,5 +1,6 @@
 {
   "slug": "dominique-de-villepin",
+  "format": 2,
   "nom": "Dominique de Villepin",
   "parti": "La France humaniste",
   "statut": "pressenti",
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Propose un impôt unique et fortement progressif sur le patrimoine des 1 % les plus riches, dès 2,2 millions d'euros, et des droits de succession progressifs au-delà d'un million d'euros.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
       "citation": "Un impôt unique sur le patrimoine des 1 % […] Dès 2,2 M€, fortement progressif. Il frappe la rente qui dort, pas l’entrepreneur qui risque.",
@@ -54,8 +55,8 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 1,
-      "resume": "Propose six nouveaux réacteurs EPR2 et un plan national pour le nouveau nucléaire.",
+      "valeur": -2,
+      "resume": "Le programme prévoit six réacteurs EPR2, un plan national pour le « nouveau nucléaire », l'éolien en mer et l'électrification des usages.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
       "citation": "6 EPR2, éolien en mer industrialisé, électrification massive des usages, pour les ménages comme pour l’industrie.",
       "date_source": "2026",
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "S'est opposé à la loi Duplomb, qu'il juge « dangereuse pour notre environnement, dangereuse pour la santé des Français ».",
       "source": "https://lafrancehumaniste.fr/articles/sur-la-loi-duplomb.html",
       "citation": "Non à la loi Duplomb, adoptée sans réflexion et sans concertation. Une loi dangereuse pour notre environnement, dangereuse pour la santé des Français […]",
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Soutient des ressources propres et un emprunt mutualisé européens, un élargissement du vote à la majorité qualifiée, un Conseil de sécurité européen et des programmes de défense financés en commun, mais propose aussi une « pause sur la logique d'unification ».",
       "source": "https://lafrancehumaniste.fr/articles/moment-europeen-europe-souveraine.html",
       "citation": "La clé, c’est à la fois davantage de ressources propres européennes et l’emprunt mutualisé à l’échelle de l’Union, pour financer des politiques nationales validées pour leur valeur collective.",
@@ -199,9 +200,9 @@
     },
     "edu_autorite": {
       "valeur": 0,
-      "resume": "Prône la « tolérance zéro » contre les violences envers les enseignants et l'interdiction des téléphones, mais veut « réduire la caporalisation » et préfère la remédiation en petits groupes ; ni uniforme ni groupes de niveau.",
+      "resume": "Prône la « tolérance zéro » contre les violences envers les enseignants et l'interdiction des téléphones, et propose des classes à plus faibles effectifs selon l'indice de position sociale, la remédiation en petits groupes et le tutorat ; ni uniforme ni groupes de niveau.",
       "source": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
-      "citation": "Plus de sécurité, cela passe par la tolérance zéro vis-à-vis des violences à l’encontre des enseignants et de l’ensemble de la communauté éducative. Plus de liberté, cela signifie réduire la caporalisation et la bureaucratisation qui se sont emparées du système éducatif.",
+      "citation": "Plus de sécurité, cela passe par la tolérance zéro vis-à-vis des violences à l’encontre des enseignants […] La taille des classes pourrait ainsi être déterminée par une somme de ces indices, garantissant des classes à plus faibles effectifs là où la priorité sociale est la plus grande.",
       "date_source": "2026-09-01",
       "confiance": "declaration",
       "relu": true
@@ -216,7 +217,7 @@
       "relu": false
     },
     "ins_ric": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Propose un « référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux », préparé par une convention citoyenne permanente.",
       "source": "https://lafrancehumaniste.fr/articles/le-moment-francais-sorbonne.html",
       "citation": "Nous avons besoin pour débloquer le pays d'un référendum d'initiative citoyenne, inscrit dans un processus législatif rigoureux, préparé par une convention citoyenne permanente.",

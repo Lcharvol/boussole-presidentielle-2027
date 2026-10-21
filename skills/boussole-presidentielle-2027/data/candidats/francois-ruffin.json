@@ -1,5 +1,6 @@
 {
   "slug": "francois-ruffin",
+  "format": 2,
   "nom": "François Ruffin",
   "parti": "Debout !",
   "statut": "déclaré",
@@ -9,7 +10,7 @@
   "notes": "Député de la Somme (groupe Écologiste et Social). Candidat déclaré ; il devait concourir à la primaire de la « gauche unitaire » du 11 octobre 2026, de facto abandonnée depuis juillet 2026 après le retrait du PS ; il avait annoncé qu'il irait seul en l'absence de primaire (https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026). Programme publié sous forme de « cahiers de campagne » thématiques (7 à ce jour) sur nouspresident.fr ; plusieurs thèmes (sécurité, école, institutions) ne sont pas encore couverts. Plusieurs positions s'appuient sur ses votes de député (datan.fr) ou sur le manifeste de Debout !.",
   "positions": {
     "eco_retraite": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Le cahier de campagne sur les travailleurs essentiels revendique « la retraite à 60 ans » dans la continuité du programme du NFP ; il a voté pour la suspension de la réforme des retraites (12 novembre 2025).",
       "source": "https://nouspresident.fr/statut-travailleurs-essentiels/",
       "citation": "Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "A voté pour l'amendement n° 2657 de Philippe Brun au projet de loi de finances pour 2023, qui visait à rétablir l'impôt sur la fortune (scrutin n°325, 17 octobre 2022) ; le manifeste de Debout ! veut « abaisser le plafond » des plus riches.",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/325",
       "citation": "Scrutin public n°325 sur l'amendement n° 2657 de M. Philippe Brun après l'article 3 du projet de loi de finances pour 2023 (première lecture).",
@@ -54,10 +55,10 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": 1,
-      "resume": "Le cahier « travaillisme écologique » prévoit de prolonger les centrales existantes, de poursuivre les six EPR2 et de décider de huit EPR2 supplémentaires selon le devis d'EDF.",
+      "valeur": -2,
+      "resume": "Le cahier « travaillisme écologique » prévoit de prolonger les centrales existantes, de poursuivre les six EPR2 pour compenser leurs fermetures futures et de décider de huit EPR2 supplémentaires selon le devis d'EDF.",
       "source": "https://nouspresident.fr/travaillisme-ecologique/",
-      "citation": "Nous poursuivrons aussi la construction des six réacteurs EPR2 […] La décision de construire ou non huit réacteurs EPR2 supplémentaires sera prise en fonction du devis proposé par EDF",
+      "citation": "Nous poursuivrons aussi la construction des six réacteurs EPR2 : ces six réacteurs permettront surtout de compenser les fermetures des centrales actuelles […]. La décision de construire ou non huit réacteurs EPR2 supplémentaires sera prise en fonction du devis proposé par EDF",
       "date_source": "2026-09-09",
       "confiance": "programme",
       "relu": true
@@ -111,7 +112,7 @@
       "valeur": 0,
       "resume": "Position déduite du manifeste de son parti Debout !, qui s'oppose aux « filières d'immigration » voulues par le patronat pour combler des pénuries tout en demandant la régularisation de tous les travailleurs présents sur le territoire ; il ne propose ni quotas ni restriction du regroupement familial.",
       "source": "https://debout.fr/notre-manifeste/",
-      "citation": "Tous les travailleurs et travailleuses sur notre territoire doivent être régularisés pour ne plus vivre dans la peur du lendemain. Nous sommes opposés à la volonté du patronat de filières d’immigration pour trouver une main d’œuvre manquante.",
+      "citation": "Tous les travailleurs et travailleuses sur notre territoire doivent être régularisés pour ne plus vivre dans la peur du lendemain. […] Nous sommes opposés à la volonté du patronat de filières d’immigration pour trouver une main d’œuvre manquante.",
       "date_source": "2026-04",
       "confiance": "deduite",
       "relu": true
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "S'est abstenu (la page du scrutin le liste en « Abstention ») sur la résolution du 12 mars 2025 appelant au renforcement du soutien à l'Ukraine, son groupe ayant voté pour ; il a voté contre la stratégie d'aide du gouvernement en mars 2024 ; le manifeste condamne l'invasion russe.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
       "citation": "Scrutin public n°988 sur l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
@@ -180,7 +181,7 @@
       "relu": true
     },
     "soc_rsa": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "A voté contre la loi « plein emploi » qui impose 15 heures d'activité aux allocataires du RSA (14 novembre 2023) ; valeur −1 : un vote contre l'ensemble du texte, sans déclaration ciblée sur les 15 heures.",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2965",
       "citation": "Scrutin public n°2965 sur l'ensemble du projet de loi pour le plein emploi (texte de la commission mixte paritaire).",
@@ -207,7 +208,7 @@
       "relu": false
     },
     "ins_proportionnelle": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite de 2021 : cosignataire de la proposition de loi n° 4013 (23 mars 2021) visant à instaurer « la proportionnelle intégrale au scrutin législatif » ; aucune déclaration plus récente trouvée.",
       "source": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4013_proposition-loi.pdf",
       "citation": "PROPOSITION DE LOI visant à instaurer la proportionnelle intégrale au scrutin législatif",
@@ -216,7 +217,7 @@
       "relu": true
     },
     "ins_ric": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Cosignataire de la proposition de loi constitutionnelle instaurant un RIC délibératif (décembre 2025) ; le manifeste de Debout ! propose le RIC.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2260_proposition-loi.pdf",
       "citation": "PROPOSITION DE LOI CONSTITUTIONNELLE instaurant un référendum d’initiative citoyenne délibératif",
@@ -243,7 +244,7 @@
       "relu": false
     },
     "ecol_aerien": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du manifeste de son parti Debout !, qui dénonce la détaxation du kérosène des avions ; son cahier « travaillisme écologique » prévoit par ailleurs d'interdire les vols intérieurs remplaçables par un train de moins de 4 heures, sans taxe aérienne spécifique.",
       "source": "https://debout.fr/notre-manifeste/",
       "citation": "C’est la taxe carbone sur l’essence des Gilets jaunes quand le kérozène des avions et le fioul des porte-conteneurs est détaxé.",
@@ -252,7 +253,7 @@
       "relu": true
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "A voté contre la loi Attal sur la justice des mineurs (texte de CMP, 13 mai 2025), qui facilite la comparution immédiate des mineurs de plus de 16 ans et restreint l'excuse de minorité pour les récidivistes de plus de 16 ans ; valeur +1 : un vote contre l'ensemble du texte, qui comporte aussi d'autres mesures.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
       "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
@@ -261,7 +262,7 @@
       "relu": true
     },
     "sec_videosurveillance": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "A voté contre le projet de loi relatif aux Jeux olympiques de 2024 (28 mars 2023), qui autorisait l'expérimentation de la vidéosurveillance algorithmique ; pas de déclaration spécifique trouvée sur la reconnaissance faciale.",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
       "citation": "Scrutin public n°1305 sur l'ensemble du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions (première lecture).",

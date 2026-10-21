@@ -9,16 +9,17 @@ Ce skill aide une personne à voir de quels candidats elle est proche, en compar
 
 ## Contenu du skill
 
-- `data/questions.json` : les 40 affirmations, 5 par thème sur 8 thèmes, et l'échelle de réponse.
-- `data/candidats/<slug>.json` : une fiche par candidat, avec ses positions, chacune ayant un résumé, une source, une date et un niveau de confiance (`programme`, `declaration` ou `deduite`). Le format est décrit dans `data/candidats/_FORMAT.md`.
+- `data/enjeux.json` : les enjeux, répartis en 8 thèmes. Chaque enjeu oppose deux options légitimes, le pôle A et le pôle B, et a deux ou trois formulations équivalentes (variantes).
+- `data/candidats/<slug>.json` : une fiche par candidat, avec sa position sur chaque enjeu (de -2, pôle A, à +2, pôle B), un résumé, une source, une citation, une date et un niveau de confiance (`programme`, `declaration` ou `deduite`). Le format est décrit dans `data/FORMAT.md`.
+- `scripts/tirage.py` : choisit les questions à poser (enjeux, ordre, formulation, côté de chaque pôle) et, en mode adaptatif, les suivantes.
 - `scripts/score.py` : calcule la proximité, avec une marge d'incertitude, à partir des réponses reçues sur l'entrée standard.
-- `scripts/check_data.py` : contrôle les fiches et signale celles qui sont incomplètes ou anciennes.
+- `scripts/check_data.py` : contrôle les données et signale les fiches incomplètes ou anciennes.
 - `references/mise-a-jour.md` : la procédure pour rafraîchir les programmes et la liste des candidats.
 
 ## Choisir le mode
 
 - La personne veut savoir quel candidat lui correspond, faire le test, etc. → **Questionnaire** (ci-dessous).
-- Elle demande la position d'un ou plusieurs candidats sur un sujet → lis les fiches concernées et réponds en citant les sources. Si le sujet n'est pas dans les 40 questions, fais une recherche web et dis-le.
+- Elle demande la position d'un ou plusieurs candidats sur un sujet → lis les fiches concernées et réponds en citant les sources ; une position se lit entre les deux pôles de l'enjeu (`pole_a` à -2, `pole_b` à +2). Si le sujet n'est pas dans les enjeux, fais une recherche web et dis-le.
 - Elle demande de mettre à jour les programmes, d'ajouter un candidat, ou les données sont anciennes → **Mise à jour** : lis `references/mise-a-jour.md`.
 
 ## Questionnaire
@@ -29,29 +30,45 @@ Lance `python3 scripts/check_data.py` (depuis le dossier du skill). Si des fiche
 
 ### 2. Présenter le test et choisir le mode
 
-En deux ou trois phrases : des affirmations sur 8 thèmes, une réponse de « tout à fait d'accord » à « pas du tout d'accord » ; on peut passer une question ; à la fin, la personne indique les thèmes qui comptent le plus pour elle. Précise que le résultat mesure une proximité avec des programmes, pas une recommandation de vote.
+En deux ou trois phrases : chaque question oppose deux options, et la personne indique de laquelle elle se sent la plus proche, sur cinq crans (nettement l'une, plutôt l'une, entre les deux, plutôt l'autre, nettement l'autre) ; on peut passer une question ; les thèmes arrivent dans le désordre ; à la fin, la personne indique les thèmes qui comptent le plus pour elle. Précise que le résultat mesure une proximité avec des programmes, pas une recommandation de vote.
 
 Puis fais choisir le mode (avec `AskUserQuestion` s'il est disponible) :
 
 | Mode | Questions | Durée | Fiabilité |
 |---|---|---|---|
-| Rapide | 8 (une par thème) | ~2 min | Donne une tendance. Les écarts entre candidats proches ne sont pas significatifs. |
-| Moyen | 24 (trois par thème) | ~6 min | Bon compromis pour départager des candidats d'une même famille politique. |
-| Long | 40 (toutes) | ~12 min | Le plus fiable. Recommandé si l'on hésite entre plusieurs candidats. |
+| Rapide | 12 (au moins une par thème) | ~3 min | Donne une tendance. Les écarts entre candidats proches ne sont pas significatifs. |
+| Adaptatif | 12, puis par lots de 4 jusqu'à ce que le résultat soit assez précis (32 au plus) | 5 à 8 min | Bon compromis : les questions ajoutées sont celles qui départagent les candidats dont la personne est la plus proche. |
+| Complet | tous les enjeux | ~12 min | Le plus fiable. |
 
-Chaque question de `questions.json` a un champ `niveau`. Le mode rapide pose les questions `rapide`, le mode moyen les questions `rapide` et `moyen`, le mode long toutes. Les questions des modes courts sont celles qui départagent le plus les candidats dans chaque thème (voir `scripts/choisir_niveaux.py`) : un test court reste ainsi aussi informatif que possible. Si la personne ne choisit pas, propose le mode moyen.
+Si la personne ne choisit pas, propose le mode adaptatif.
+
+Le tirage change à chaque passage : enjeux du mode rapide, ordre, formulation et côté où chaque option est affichée. C'est voulu : cela évite de revoir toujours les mêmes questions et d'associer une option à une place à l'écran. Pour un nouveau passage, demande une graine au hasard ; garde le nombre renvoyé (champ `graine`) pour tous les appels suivants du même passage, y compris si la personne passe ensuite à un autre mode.
+
+```bash
+python3 scripts/tirage.py --mode adaptatif --graine hasard < /dev/null
+```
 
 ### 3. Poser les questions
 
-Ne pose que les questions du mode choisi, dans l'ordre des thèmes, par petits lots, pour que ce soit rapide sans être un mur de texte. Reprends le texte des affirmations tel qu'il est dans `questions.json` : la formulation a été choisie pour être neutre, et la reformuler risque d'orienter la réponse. Ne donne pas la position des candidats pendant le questionnaire, car cela influencerait les réponses.
+`tirage.py` renvoie la liste ordonnée des questions à poser (`questions`). Pose-les **dans cet ordre**, par lots de 4 au plus, sans les regrouper par thème et sans annoncer de thème. Pour chaque question, affiche le `contexte` s'il existe, puis la `question` et les deux options exactement comme elles sont données, **dans l'ordre donné** : `gauche` en premier, `droite` en second. Ne reformule rien, n'ajoute ni exemple ni argument, ne dis pas quelle option correspond à quel camp : les formulations ont été testées pour ne pas trahir de camp, et l'ordre des options est tiré au hasard pour la même raison. Ne donne pas la position des candidats pendant le questionnaire.
 
-Si l'outil `AskUserQuestion` est disponible, utilise-le avec une question par affirmation (jusqu'à 4 par appel ; regroupe les questions de thèmes consécutifs pour remplir chaque appel, et indique le ou les thèmes en tête du lot). Options : « Tout à fait d'accord », « Plutôt d'accord », « Plutôt pas d'accord », « Pas du tout d'accord » ; « Neutre » et « Je passe » passent par la réponse libre, précise-le dans la question. Sinon, liste les affirmations du lot numérotées et explique le format court : `++`, `+`, `0`, `-`, `--`, ou `passe` (ex. « 1 ++, 2 -, 3 passe »).
+Si l'outil `AskUserQuestion` est disponible, une question par dilemme (4 par appel). Dans le texte de la question, écris la question puis les deux options sur deux lignes : « ① <texte de gauche> » et « ② <texte de droite> ». Options, dans cet ordre : « ① nettement », « Plutôt ① », « Plutôt ② », « ② nettement » ; « Entre les deux » et « Je passe » passent par la réponse libre, précise-le dans la question. Sinon, liste les questions du lot numérotées, chacune avec ses options ① et ②, et explique le format court : `①`, `plutôt ①`, `=`, `plutôt ②`, `②` ou `passe` (ex. « 1 ①, 2 =, 3 passe »).
 
-Correspondance : tout à fait d'accord = 2, plutôt d'accord = 1, neutre = 0, plutôt pas d'accord = -1, pas du tout d'accord = -2, je passe = null.
+**Conversion** : chaque question porte, dans `options`, les cinq réponses dans l'ordre d'affichage (① nettement, plutôt ①, entre les deux, plutôt ②, ② nettement) avec leur `valeur`. Enregistre pour l'enjeu (`enjeu`) la `valeur` de l'option choisie, ou `null` pour « je passe ». Ne recalcule jamais toi-même le sens : selon le tirage, ① peut être le pôle A ou le pôle B.
 
-Si une réponse est inexploitable (« autre » laissé vide, texte ambigu), ne la classe pas toi-même en neutre ou en « je passe » : les deux n'ont pas le même effet sur le score. Repose la question avec le lot suivant, en proposant « Neutre », « Je passe » et les deux réponses les plus proches de ce que la personne semblait vouloir dire.
+Si une réponse est inexploitable (« autre » laissé vide, texte ambigu), ne la classe pas toi-même en « entre les deux » ou en « je passe » : les deux n'ont pas le même effet sur le score. Repose la question avec le lot suivant, en proposant « Entre les deux », « Je passe » et les deux réponses les plus proches de ce que la personne semblait vouloir dire.
 
-Si la personne pose une question sur le sens d'une affirmation, explique-la factuellement sans laisser entendre qu'une réponse est meilleure.
+Si la personne demande ce que recouvre une option, explique-la factuellement sans laisser entendre qu'une réponse est meilleure, et sans dire quel camp la défend.
+
+**Mode adaptatif** : après les 12 premières questions, rappelle `tirage.py` avec le même mode, la même graine et toutes les réponses déjà données (y compris les `null`), **par l'entrée standard** :
+
+```bash
+python3 scripts/tirage.py --mode adaptatif --graine 713121 <<'FIN'
+{"reponses": {"sec_prisons": -1, "eco_retraite": 2, "sec_cannabis": null}}
+FIN
+```
+
+Il renvoie le lot suivant, choisi pour départager les candidats encore proches de la personne. Pose-le, puis recommence, jusqu'à ce qu'il renvoie `"fin": true` ; sa `raison` dit pourquoi il s'arrête (le premier se détache, les enjeux restants ne départagent plus les candidats en tête, ou 32 questions posées). Annonce simplement « encore quelques questions » entre deux lots, sans dire quels candidats sont en tête.
 
 ### 4. Demander les priorités
 
@@ -69,7 +86,7 @@ python3 scripts/score.py <<'FIN'
 FIN
 ```
 
-Ajoute `--json` (`python3 scripts/score.py --json <<'FIN' … FIN`) si tu as besoin des accords et désaccords détaillés, ou du nombre de positions de chaque niveau de confiance (`par_confiance`). Ne calcule pas les scores toi-même : le script garantit que tout le monde est traité avec la même formule. Ne conserve pas les réponses ailleurs (fichier, mémoire, note) une fois le résultat présenté.
+Les clés de `reponses` sont les identifiants d'enjeux, les valeurs celles des options choisies (-2 = pôle A nettement, +2 = pôle B nettement). Ajoute `--json` (`python3 scripts/score.py --json <<'FIN' … FIN`) si tu as besoin des accords et désaccords détaillés, ou du nombre de positions de chaque niveau de confiance (`par_confiance`). Ne calcule pas les scores toi-même : le script garantit que tout le monde est traité avec la même formule. Ne conserve pas les réponses ailleurs (fichier, mémoire, note) une fois le résultat présenté.
 
 ### 6. Présenter le résultat
 
@@ -80,9 +97,9 @@ Dans cet ordre :
    - **Thème prioritaire sans donnée** (`prioritaires_sans_donnee`) : si un candidat du haut du classement n'a aucune position connue sur un thème que la personne a mis en priorité, signale-le dans sa présentation. Sur ce thème, son score ne repose sur rien de connu (les questions sans position comptent comme un accord égal au hasard) et peut être trompeur.
 2. **Les 3 plus proches, expliqués** : pour chacun, 2 ou 3 points d'accord et 1 ou 2 points de désaccord marquants, avec le résumé de la position et le lien source tirés de la fiche. C'est la partie la plus utile : elle permet de juger soi-même plutôt que de croire un pourcentage.
 3. **Le détail par thème** : signale les cas où un candidat est très proche sur un thème prioritaire mais loin sur un autre.
-4. **Les limites**, en quelques lignes : le mode choisi et le nombre de questions répondues ; les programmes ne sont pas tous publiés ; certaines positions sont déduites du parti ou d'un ancien programme (dis combien pour les candidats du haut du classement, avec `par_confiance`) et comptent donc moins dans le score (poids 0,6 contre 1 pour le programme et 0,85 pour une déclaration) ; quelques dizaines de questions ne résument pas un projet ; la liste des candidats n'est pas encore officielle. Invite à lire les programmes des candidats du haut du classement (`programme_url` dans les fiches).
+4. **Les limites**, en quelques lignes : le mode choisi et le nombre de questions répondues (en mode adaptatif, que les questions ont été choisies pour départager les candidats en tête) ; les programmes ne sont pas tous publiés ; certaines positions sont déduites du parti ou d'un ancien programme (dis combien pour les candidats du haut du classement, avec `par_confiance`) et comptent donc moins dans le score (poids 0,6 contre 1 pour le programme et 0,85 pour une déclaration) ; quelques dizaines d'enjeux ne résument pas un projet ; la liste des candidats n'est pas encore officielle. Invite à lire les programmes des candidats du haut du classement (`programme_url` dans les fiches).
 
-Après un mode rapide ou moyen, propose de **passer au mode supérieur** sans recommencer : les réponses déjà données sont gardées, seules les questions manquantes sont posées, puis le calcul est relancé sur l'ensemble. C'est particulièrement utile quand plusieurs marges se recouvrent : plus de réponses resserrent les marges.
+Après un mode rapide ou adaptatif, propose de **continuer** sans recommencer : rappelle `tirage.py` avec le mode adaptatif (après un mode rapide) ou complet, la même graine et toutes les réponses déjà données ; seuls les enjeux pas encore posés sont tirés, puis le calcul est relancé sur l'ensemble. C'est particulièrement utile quand plusieurs marges se recouvrent : plus de réponses resserrent les marges.
 
 Reste neutre jusqu'au bout. Ne commente pas les candidats (« crédible », « extrême », « dangereux »…), même si on te le demande dans le cadre du test. Si la personne veut ton avis sur le candidat à choisir, rappelle que le choix lui revient et propose plutôt d'approfondir un thème ou de comparer deux candidats sur un sujet précis.
 

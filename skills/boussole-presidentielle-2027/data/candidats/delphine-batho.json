@@ -1,5 +1,6 @@
 {
   "slug": "delphine-batho",
+  "format": 2,
   "nom": "Delphine Batho",
   "parti": "Génération Écologie",
   "statut": "désigné par son parti",
@@ -9,7 +10,7 @@
   "notes": "Candidature déclarée fin novembre 2025, investie à l'unanimité par la convention nationale de Génération Écologie le 6 juin 2026. Refuse toute primaire ; doit réunir les 500 parrainages. Son site (delphinebatho.fr) indique que le programme est en cours d'élaboration avec les citoyens. Faute de programme, les positions reposent surtout sur ses votes de députée des Deux-Sèvres (relevés Datan, d'après les scrutins publics de l'Assemblée) et sur le texte d'orientation de son parti (2023).",
   "positions": {
     "eco_retraite": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "A voté pour l'article 45 bis du PLFSS pour 2026 suspendant la réforme des retraites jusqu'au 1er janvier 2028 (scrutin n°3684) et s'était opposée à la réforme de 2023 ; aucune déclaration récente trouvée sur un retour explicite à 62 ans.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3684",
       "citation": "Scrutin public n°3684 sur l'article 45 bis (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).",
@@ -36,7 +37,7 @@
       "relu": false
     },
     "eco_patrimoine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "A voté pour la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra-riches (taxe Zucman) en première lecture.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881",
       "citation": "Scrutin public n°881 sur l'ensemble de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture).",
@@ -54,8 +55,8 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": -2,
-      "resume": "A voté contre le projet de loi d'accélération du nucléaire ouvrant la voie à de nouveaux réacteurs EPR2.",
+      "valeur": 1,
+      "resume": "A voté contre l'ensemble du projet de loi d'accélération des procédures pour construire de nouvelles installations nucléaires (EPR2) ; pas de déclaration récente vérifiée sur la part du nucléaire.",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1243",
       "citation": "Scrutin public n°1243 sur l'ensemble du projet de loi relatif à l’accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes (première lecture).",
       "date_source": "2023-03-21",
@@ -72,7 +73,7 @@
       "relu": false
     },
     "ecol_normes": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "A voté contre le texte de commission mixte paritaire de la loi Duplomb « visant à lever les contraintes à l'exercice du métier d'agriculteur », qui réautorisait sous conditions un néonicotinoïde (scrutin n°2957) ; valeur +1 : un vote contre un texte d'allègement des normes ne dit pas à lui seul qu'elle veut les renforcer « même si cela pèse ».",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2957",
       "citation": "Scrutin public n°2957 sur l'ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire).",
@@ -108,7 +109,7 @@
       "relu": false
     },
     "imm_baisse": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "A voté contre la loi immigration de décembre 2023, qui durcissait notamment le regroupement familial.",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3213",
       "citation": "Scrutin public n°3213 sur l'ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration (texte de la commission mixte paritaire).",
@@ -153,7 +154,7 @@
       "relu": false
     },
     "eur_ukraine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "A voté pour la proposition de résolution de l'Assemblée visant à renforcer le soutien à l'Ukraine.",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
       "citation": "Scrutin public n°988 sur l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
@@ -180,7 +181,7 @@
       "relu": true
     },
     "soc_rsa": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "A voté contre la loi « plein emploi » qui a instauré l'accompagnement avec 15 heures d'activité pour les allocataires du RSA.",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2965",
       "citation": "Scrutin public n°2965 sur l'ensemble du projet de loi pour le plein emploi (texte de la commission mixte paritaire).",
@@ -252,7 +253,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "A voté contre la loi Attal « visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants », qui restreignait notamment l'excuse de minorité pour les 16-18 ans (vote sur l'ensemble du texte).",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
       "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
@@ -261,7 +262,7 @@
       "relu": true
     },
     "sec_videosurveillance": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "A voté contre le projet de loi relatif aux Jeux olympiques de 2024, qui autorisait l'expérimentation de la vidéosurveillance algorithmique (vote sur l'ensemble du texte).",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
       "citation": "Scrutin public n°1305 sur l'ensemble du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions (première lecture).",
@@ -333,7 +334,7 @@
       "relu": false
     },
     "edu_etudiants": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "A voté pour la proposition de résolution invitant le Gouvernement à mettre en place un revenu étudiant.",
       "source": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
       "citation": "Scrutin public n°2761 sur la proposition de résolution invitant le Gouvernement à la mise en place d'un revenu étudiant (article 34-1 de la Constitution).",

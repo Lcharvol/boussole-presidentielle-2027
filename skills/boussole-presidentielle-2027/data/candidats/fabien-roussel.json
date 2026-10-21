@@ -1,5 +1,6 @@
 {
   "slug": "fabien-roussel",
+  "format": 2,
   "nom": "Fabien Roussel",
   "parti": "Parti communiste français",
   "statut": "désigné par son parti",
@@ -9,7 +10,7 @@
   "notes": "Candidature approuvée par 72 % des adhérents du PCF lors de la consultation du 3 au 6 septembre 2026 (https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389). Le site fabienroussel2027.fr ne présente pas encore de programme. Plusieurs positions s'appuient sur des discours de 2025 publiés sur pcf.fr ; les autres sont déduites du programme « La France des Jours heureux » publié sur pcf.fr (programme 2022, SMIC actualisé à 1 600 € net sur le site) ; Roussel n'est plus député depuis 2024. À revoir à la publication du programme 2027.",
   "positions": {
     "eco_retraite": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Au meeting de Vénissieux (8 avril 2025), a reproché au gouvernement de ne pas trouver les fonds « pour nous mettre la retraite à 62 ans, et abroger sa réforme ».",
       "source": "https://www.pcf.fr/discours_fr_meeting_venissieux",
       "citation": "où trouve-t-il ces 2 milliards, quand il est incapable d'en trouver 3 pour nous mettre la retraite à 62 ans, et abroger sa réforme ?",
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Déduit du programme du PCF : rétablir l'impôt sur la fortune en accentuant taux et progressivité, avec un montant « triplé ».",
       "source": "https://www.pcf.fr/moyen_1",
       "citation": "L’impôt sur la fortune sera rétabli, son taux et sa progressivité seront accentués, les niches fiscales qui minent son rendement seront supprimées Son montant sera triplé.",
@@ -54,7 +55,7 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Dans son discours à l'université d'été du PCF (août 2025), a cité parmi les priorités climatiques « la production de 20 nouvelles centrales nucléaires ».",
       "source": "https://www.pcf.fr/ue_25_discours_fr",
       "citation": "Nos priorités pour le climat c’est la construction de 200 000 logements par an, c’est la sortie du marché européen de l’électricité et la production de 20 nouvelles centrales nucléaires […]",
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Dans son discours à l'université d'été du PCF (août 2025), s'est opposé à la loi Duplomb et à l'acétamipride et a demandé d'« interdire aussi l'importation » des aliments cultivés à l'étranger avec ce pesticide, sans se prononcer plus largement sur le renforcement des normes.",
       "source": "https://www.pcf.fr/ue_25_discours_fr",
       "citation": "Quand 2 millions de personnes disent non à la loi Duplomb et à l’acétamipride, il faut l’entendre et être cohérents jusqu’au bout : c’est à dire qu’il faut interdire aussi l’importation de tous les aliments, noisettes ou betteraves cultivés à l’étranger avec ce pesticide !",
@@ -90,7 +91,7 @@
       "relu": false
     },
     "sec_prisons": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Déduit du programme du PCF : développer les alternatives à l'incarcération « plutôt que la construction de nouvelles prisons ».",
       "source": "https://www.pcf.fr/moyen_2",
       "citation": "Les alternatives à l’incarcération, plutôt que la construction de nouvelles prisons, a fortiori financées par des partenariats publics/privés (PPP), seront développées […]",
@@ -108,8 +109,8 @@
       "relu": true
     },
     "imm_baisse": {
-      "valeur": -1,
-      "resume": "Déduit du programme du PCF : ouvrir des « voies légales et sécurisées » pour les migrants et renforcer l'accueil des réfugiés ; aucune proposition de restriction de l'immigration légale.",
+      "valeur": 1,
+      "resume": "Position déduite du programme du PCF (2022) : ouvrir des « voies légales et sécurisées » pour les migrants et renforcer l'accueil des réfugiés, sans proposition de restriction de l'immigration légale.",
       "source": "https://www.pcf.fr/moyen_3",
       "citation": "Des voies légales et sécurisées devront être ouvertes pour les migrant·e·s, en respect du droit international",
       "date_source": "2022",
@@ -135,7 +136,7 @@
       "relu": true
     },
     "eur_integration": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Déduit du programme du PCF : une Union de « nations et de peuples souverains » et une Europe « à géométrie choisie », sortie de l'OTAN, fin de l'indépendance de la BCE.",
       "source": "https://www.pcf.fr/moyen_3",
       "citation": "Notre pays militera pour que se mette en place une Europe « à géométrie choisie »",
@@ -207,7 +208,7 @@
       "relu": false
     },
     "ins_proportionnelle": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Déduit du programme du PCF : « la proportionnelle intégrale » pour les élections.",
       "source": "https://www.pcf.fr/moyen_2",
       "citation": "Pour cela, la proportionnelle intégrale permettra la juste représentation des courants politiques, en fonction de leur influence électorale.",
@@ -216,7 +217,7 @@
       "relu": true
     },
     "ins_ric": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Déduit du programme du PCF : le déclenchement d'un référendum reviendrait à un million de citoyens, et un droit de pétition à 500 000 citoyens permettrait d'inscrire une proposition de loi.",
       "source": "https://www.pcf.fr/moyen_2",
       "citation": "Le référendum ne pourra plus être utilisé par l’exécutif à des fins plébiscitaires, mais son déclenchement reviendra à un million de citoyen·ne·s, réparti·e·s sur l’ensemble du territoire […]",
@@ -252,7 +253,7 @@
       "relu": false
     },
     "sec_mineurs": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : supprimer l'enfermement des jeunes de 13 à 16 ans et limiter celui des 16-18 ans ; le programme ne traite pas directement du jugement des mineurs comme des majeurs.",
       "source": "https://www.pcf.fr/moyen_2",
       "citation": "L’enfermement des jeunes de 13 à 16 ans sera supprimé et celui des 16 à 18 ans sera limité.",
@@ -306,7 +307,7 @@
       "relu": false
     },
     "soc_100secu": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : mettre fin au reste à charge et aller vers une prise en charge des soins à 100 % par la Sécurité sociale, sans préciser le sort des complémentaires santé.",
       "source": "https://www.pcf.fr/objectif_2",
       "citation": "La démocratie sociale et une réforme de progrès du financement permettront de mettre fin au reste à charge des dépenses de soins, d’aller vers une véritable prise en charge à 100 % […]",
@@ -333,7 +334,7 @@
       "relu": false
     },
     "edu_etudiants": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme de 2022 « La France des Jours heureux » : un revenu de 850 euros par mois pour tous les étudiants, financé par une cotisation sociale et par l'État.",
       "source": "https://www.pcf.fr/objectif_3",
       "citation": "Un revenu, fixé à 850 euros par mois, pour tous les étudiants et toutes les étudiantes, sera mis en place",

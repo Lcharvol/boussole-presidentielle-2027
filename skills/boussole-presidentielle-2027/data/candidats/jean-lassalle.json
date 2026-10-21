@@ -1,5 +1,6 @@
 {
   "slug": "jean-lassalle",
+  "format": 2,
   "nom": "Jean Lassalle",
   "parti": "Résistons !",
   "statut": "pressenti",
@@ -18,8 +19,8 @@
       "relu": false
     },
     "eco_smic": {
-      "valeur": 1,
-      "resume": "Position déduite du programme 2022 : revaloriser le SMIC à 1 400 euros net, soit une hausse de 8 %.",
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : revaloriser le SMIC à 1 400 euros net, soit une hausse de 8 % décidée par l'État (montant inférieur au SMIC net de 2026).",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "citation": "Revaloriser le SMIC à 1 400 euros net. Cette augmentation de 8 % doperait notamment une consommation tournée vers des secteurs à bas revenus (hôtellerie, restauration).",
       "date_source": "2022-02-25",
@@ -36,7 +37,7 @@
       "relu": false
     },
     "eco_patrimoine": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : rétablir l'ISF et supprimer l'IFI.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "citation": "Rétablir l’ISF (Impôt sur la fortune) et supprimer l’IFI (Impôt sur la fortune immobilière).",
@@ -54,10 +55,10 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": 1,
-      "resume": "Position déduite du programme 2022 : prolonger de 25 ans les centrales en fin de vie et développer des centrales de 4e génération, dans une « transition énergétique du nucléaire », sans nombre de réacteurs précisé.",
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : prolonger de 25 ans les centrales en fin de vie et développer des centrales nucléaires de 4e génération, dans une « transition énergétique du nucléaire », sans nombre de réacteurs précisé.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": "Préparer la transition énergétique du nucléaire. Rénover et prolonger de 25 ans les centrales nucléaires en fin de vie.",
+      "citation": "Préparer la transition énergétique du nucléaire. Rénover et prolonger de 25 ans les centrales nucléaires en fin de vie. Développer les centrales nucléaires de 4 ᵉ génération (plus sûres que les précédentes).",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": true
@@ -72,7 +73,7 @@
       "relu": true
     },
     "ecol_normes": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite du programme 2022 : lutter contre « le poids des normes et des surréglementations » et sortir des directives européennes « Habitats » et « Oiseaux » et de la Convention de Berne, tout en réorientant la PAC vers les paysans qui respectent leur terre.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "citation": "Luttons contre le poids des normes et des surréglementations.",
@@ -90,7 +91,7 @@
       "relu": false
     },
     "sec_prisons": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du programme 2022 : lancer un plan de construction de prisons « à taille humaine » pour garantir l'application des peines courtes, sans objectif chiffré.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "citation": "Lancer un plan de construction de prisons afin de garantir que les peines courtes seront appliquées et que les conditions d’hygiène / sécurité seront respectées. Elles devront être à taille humaine.",
@@ -135,7 +136,7 @@
       "relu": false
     },
     "eur_integration": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite du programme 2022 : « Europe des Nations » avec coopérations bilatérales au cas par cas, révision de la contribution française au budget européen et vote du Parlement sur toute législation d'origine européenne.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "citation": "Dans l'Europe des Nations Pouvoir coopérer de manière bilatérale avec nos voisins, au cas par cas, selon les projets. Revoir la participation financière de la France au budget européen.",
@@ -216,7 +217,7 @@
       "relu": false
     },
     "ins_ric": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : instaurer le RIC, déclenchable avec le soutien de 700 000 citoyens.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "citation": "ma proposition de loi constitutionnelle de novembre 2021 sur le RIC permettrait de lancer une telle initiative une fois recueilli le soutien de 700 000 citoyens.",
@@ -306,7 +307,7 @@
       "relu": false
     },
     "soc_100secu": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : « la Sécurité sociale couvrira toutes les dépenses de santé », sur le modèle du régime local d'Alsace-Moselle, évitant un double remboursement par les mutuelles.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "citation": "La Sécurité Sociale couvrira toutes les dépenses de santé. C’est le cas en Alsace-Moselle, où le système de Sécurité sociale comprend un « régime local » complémentaire pour tous, ce qui évite un double traitement par le régime général puis par des « mutuelles ».",
@@ -360,7 +361,7 @@
       "relu": false
     },
     "ins_voteblanc": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : institutionnaliser la « reconnaissance effective du vote blanc » (proposition de loi constitutionnelle de 2021), les candidats devant en tirer les conséquences s'il arrive en tête.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "citation": "Ma proposition de loi constitutionnelle de février 2021, représentée en janvier 2022, vise à institutionnaliser la reconnaissance effective du vote blanc.",

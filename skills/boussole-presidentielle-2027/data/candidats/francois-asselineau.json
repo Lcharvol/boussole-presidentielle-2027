@@ -1,5 +1,6 @@
 {
   "slug": "francois-asselineau",
+  "format": 2,
   "nom": "François Asselineau",
   "parti": "Union populaire républicaine (UPR)",
   "statut": "déclaré",
@@ -36,7 +37,7 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du programme 2022 : deux nouvelles tranches d'impôt sur le revenu au-delà de 250 000 et 500 000 euros et un « impôt exceptionnel de solidarité » sur les très grandes fortunes enrichies pendant la crise du Covid, sans rétablissement de l'ISF.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
       "citation": "À la création de deux nouvelles tranches d’imposition pour les très hauts revenus (supérieurs à 250 000 € et 500 000 € par an), ainsi que d’un impôt exceptionnel de solidarité pour les quelques dizaines de très grandes fortunes s’étant accrues pendant la crise de la Covid-19.",
@@ -54,7 +55,7 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite de sa réponse de candidat au Shift Project (février 2022) : « lancer la construction de dix nouvelles centrales » nucléaires et mettre fin au « démembrement de la filière nucléaire française ».",
       "source": "https://theshiftproject.org/app/uploads/2025/02/Reponse-de-Francois-ASSELINEAU-a-The-Shift-Project.pdf",
       "citation": "je prévois de développer la filière nucléaire française en lançant la construction de dix nouvelles centrales qui seront des exemples en matière de limitation des déchets produits et qui contribueront à renouveler notre parc.",
@@ -81,7 +82,7 @@
       "relu": false
     },
     "sec_peines": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Position déduite du programme 2022 : rétablir des peines planchers pour les récidivistes d'infractions violentes, avec des planchers croissant à chaque récidive.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
       "citation": "Nous rétablirons des peines planchers pour les auteurs récidivistes de ces mêmes infractions, avec des planchers augmentant à chaque nouvelle récidive",
@@ -108,7 +109,7 @@
       "relu": false
     },
     "imm_baisse": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du programme 2022 : « coup d'arrêt à l'immigration subie », sortie de Schengen et référendum sur la politique de regroupement familial et le droit du sol.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
       "citation": "Nous ferons respecter nos frontières dès la première année du quinquennat, en donnant un coup d’arrêt à l’immigration subie. […] nous nous retirerons de l’Espace Schengen et établirons des contrôles à toutes les frontières",
@@ -135,7 +136,7 @@
       "relu": false
     },
     "eur_integration": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Il s'engage à activer l'article 50 du traité sur l'UE dès la première semaine de son mandat pour sortir de l'Union européenne et de l'euro.",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
       "citation": "Activation de l’article 50 (Frexit) : dès la première semaine de son mandat, il s’engage à notifier l’activation de l’article 50 du Traité sur l’Union européenne afin d’engager une procédure de sortie sous deux ans.",
@@ -153,7 +154,7 @@
       "relu": true
     },
     "eur_ukraine": {
-      "valeur": -2,
+      "valeur": 2,
       "resume": "Il annonce l'arrêt immédiat de toute aide financière et militaire à l'Ukraine dès sa prise de fonction.",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
       "citation": "Guerre en Ukraine : arrêt immédiat de tout versement d’aides financières et militaires à l’Ukraine dès sa prise de fonction.",
@@ -198,8 +199,8 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": 2,
-      "resume": "Position déduite du programme 2022 : « grand retour de la discipline », sanctions immédiates pour toute agression contre les enseignants, notation et classement, port de vêtements neutres favorisé.",
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : « grand retour de la discipline », sanctions immédiates pour toute agression contre les enseignants, notation et classement, port de vêtements neutres favorisé ; rien sur la taille des classes ni sur les groupes de niveau.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
       "citation": "Nous veillerons au grand retour de la discipline et du respect des enseignants. La moindre agression, ne fût-elle que verbale, fera l’objet de sanctions immédiates, voire de poursuites judiciaires. Le port de vêtements neutres pour les élèves sera favorisé",
       "date_source": "2022-02",
@@ -207,7 +208,7 @@
       "relu": true
     },
     "ins_proportionnelle": {
-      "valeur": 1,
+      "valeur": -1,
       "resume": "Position déduite du programme 2022 : introduire « un système de proportionnelle partielle » aux élections législatives.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
       "citation": "Introduire un système de proportionnelle partielle aux élections législatives",
@@ -216,7 +217,7 @@
       "relu": true
     },
     "ins_ric": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Il propose l'instauration du référendum d'initiative citoyenne (RIC).",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
       "citation": "Démocratie directe et liberté d’expression : instauration du Référendum d’Initiative Citoyenne (RIC).",
@@ -261,7 +262,7 @@
       "relu": false
     },
     "sec_videosurveillance": {
-      "valeur": -1,
+      "valeur": 1,
       "resume": "Position déduite du programme 2022 : proposer « l'interdiction constitutionnelle de toute surveillance généralisée de la population » (QR code, passe sanitaire, identité numérique), sans mention explicite de la vidéosurveillance algorithmique.",
       "source": "https://www.upr.fr/notre-programme/programme-2022",
       "citation": "De même, nous proposerons l’interdiction constitutionnelle de toute surveillance généralisée de la population, par QR code, Passe sanitaire ou vaccinal , Digital ID Wallet etc.",
@@ -351,7 +352,7 @@
       "relu": false
     },
     "ins_parlementaires": {
-      "valeur": 2,
+      "valeur": -2,
       "resume": "Il propose la « réduction du nombre de députés et de sénateurs » (discours de rentrée 2026), sans chiffrage dans ce discours.",
       "source": "https://upr.fr/universites/discours-de-rentree-2026-de-francois-asselineau-la-liberation-nationale",
       "citation": "Réduction drastique des élus et des structures : réduction du nombre de députés et de sénateurs",
