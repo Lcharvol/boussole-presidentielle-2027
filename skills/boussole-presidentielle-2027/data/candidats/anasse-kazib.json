@@ -110,7 +110,7 @@
     },
     "imm_baisse": {
       "valeur": 2,
-      "resume": "Les premières mesures 2027 revendiquent la « liberté de circulation et d'installation » ; le programme 2022 défendait l'ouverture des frontières et le regroupement familial.",
+      "resume": "La page programme 2027 revendique la régularisation de tous les sans-papiers et la « liberté de circulation et d'installation ».",
       "source": "https://anasse2027.fr/programme",
       "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
       "date_source": "2026-06",
@@ -200,9 +200,9 @@
     },
     "edu_autorite": {
       "valeur": 1,
-      "resume": "Position déduite d'un article de Révolution permanente (2023) qui présente l'expérimentation de l'uniforme scolaire comme un « projet autoritaire pour la jeunesse ».",
+      "resume": "Position déduite d'un article de Révolution permanente (2023), journal de son organisation, qui s'oppose à l'expérimentation de l'uniforme scolaire ; aucune mesure sur la taille des classes ou les groupes de niveau trouvée dans une source primaire.",
       "source": "https://www.revolutionpermanente.fr/Experimentation-de-l-uniforme-a-l-ecole-Attal-poursuit-son-projet-autoritaire-pour-la-jeunesse",
-      "citation": "Expérimentation de l’uniforme à l’école : Attal poursuit son projet autoritaire pour la jeunesse",
+      "citation": "Attal assume, l’objectif est de mettre au pas la jeunesse, dans la continuité d’autres initiatives imposées par l’Éducation nationale telles que le SNU ou les offensives sur le terrain de la « laïcité ». Une offensive autoritaire et islamophobe qu’il faut combattre de front",
       "date_source": "2023-09-04",
       "confiance": "deduite",
       "relu": false

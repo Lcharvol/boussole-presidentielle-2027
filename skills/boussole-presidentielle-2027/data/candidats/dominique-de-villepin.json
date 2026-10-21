@@ -55,8 +55,8 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": -1,
-      "resume": "Propose six nouveaux réacteurs EPR2 et un plan national pour le nouveau nucléaire.",
+      "valeur": -2,
+      "resume": "Le programme prévoit six réacteurs EPR2, un plan national pour le « nouveau nucléaire », l'éolien en mer et l'électrification des usages.",
       "source": "https://lafrancehumaniste.fr/programme/economie.html",
       "citation": "6 EPR2, éolien en mer industrialisé, électrification massive des usages, pour les ménages comme pour l’industrie.",
       "date_source": "2026",
@@ -200,9 +200,9 @@
     },
     "edu_autorite": {
       "valeur": 0,
-      "resume": "Prône la « tolérance zéro » contre les violences envers les enseignants et l'interdiction des téléphones, mais veut « réduire la caporalisation » et préfère la remédiation en petits groupes ; ni uniforme ni groupes de niveau.",
+      "resume": "Prône la « tolérance zéro » contre les violences envers les enseignants et l'interdiction des téléphones, et propose des classes à plus faibles effectifs selon l'indice de position sociale, la remédiation en petits groupes et le tutorat ; ni uniforme ni groupes de niveau.",
       "source": "https://lafrancehumaniste.fr/articles/refonder-lecole-pour-refaire-societe.html",
-      "citation": "Plus de sécurité, cela passe par la tolérance zéro vis-à-vis des violences à l’encontre des enseignants et de l’ensemble de la communauté éducative. Plus de liberté, cela signifie réduire la caporalisation et la bureaucratisation qui se sont emparées du système éducatif.",
+      "citation": "Plus de sécurité, cela passe par la tolérance zéro vis-à-vis des violences à l’encontre des enseignants […] La taille des classes pourrait ainsi être déterminée par une somme de ces indices, garantissant des classes à plus faibles effectifs là où la priorité sociale est la plus grande.",
       "date_source": "2026-09-01",
       "confiance": "declaration",
       "relu": false

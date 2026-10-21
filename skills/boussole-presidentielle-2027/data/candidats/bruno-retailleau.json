@@ -20,7 +20,7 @@
     },
     "eco_smic": {
       "valeur": -1,
-      "resume": "S'est opposé à une forte hausse du SMIC (jugée facteur de dette) ; en 2026 il privilégie l'exonération des heures travaillées au-delà de 1 607 h et le plafonnement des aides à 70 % du SMIC plutôt qu'un coup de pouce.",
+      "resume": "En 2018, s'est opposé à une hausse de 20 % du SMIC, jugée facteur de dette ; la source ne dit pas qu'il refuse tout coup de pouce au-delà de la revalorisation automatique.",
       "source": "https://www.publicsenat.fr/actualites/non-classe/augmenter-le-smic-de-20-declencherait-le-detonateur-de-la-dette-pour-retailleau-lr",
       "citation": "Augmenter le Smic de 20%, mesure soutenue par certains cadres de LR, ne manquerait pas de \"déclencher le détonateur\" de la \"bombe à retardement\" que \"constitue la dette\" française, a fustigé jeudi Bruno Retailleau, le président du groupe Les Républicains au Sénat.",
       "date_source": "2018-07-05",
@@ -55,10 +55,10 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": -1,
-      "resume": "Plan énergie LR qu'il porte : « rebâtir un parc nucléaire », en priorisant la prolongation des centrales existantes et un remplacement partiel et progressif, sans nombre de réacteurs chiffré.",
+      "valeur": -2,
+      "resume": "Tribune LR cosignée (avec F.-X. Bellamy et J. Aubert) : priorité à « rebâtir un parc nucléaire » face au vieillissement des centrales, substitution partielle et par phase en prolongeant d'abord le parc, et arrêt du financement des renouvelables.",
       "source": "https://republicains.fr/actualites/2025/07/02/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-lenergie/",
-      "citation": "Notre priorité doit être de rebâtir un parc nucléaire en reconstituant une compétence industrielle française, afin d’éviter l’effet falaise lié au vieillissement des centrales actuelles.",
+      "citation": "Notre priorité doit être de rebâtir un parc nucléaire en reconstituant une compétence industrielle française, afin d’éviter l’effet falaise lié au vieillissement des centrales actuelles. Évidemment, cette substitution ne pourra être que partielle et par phase […]",
       "date_source": "2025-07-02",
       "confiance": "declaration",
       "relu": false
@@ -200,11 +200,11 @@
     },
     "edu_autorite": {
       "valeur": -2,
-      "resume": "A cosigné au Sénat une proposition de loi rendant obligatoire une tenue d'établissement de l'école au lycée.",
-      "source": "https://www.publicsenat.fr/actualites/politique/uniformes-obligatoires-a-l-ecole-une-proposition-de-loi-deposee-au-senat-231733",
-      "citation": "La sénatrice LR de Paris Céline Boulay-Espéronnier vient de déposer une proposition de loi visant à « rendre obligatoire le port d’une tenue d’établissement scolaire ». Le texte, co-signé par Bruno Retailleau, président des sénateurs LR […]",
-      "date_source": "2023",
-      "confiance": "declaration",
+      "resume": "Son programme éducation présenté en août 2026 prévoit de développer les groupes de niveau, de rétablir un examen d'entrée en sixième, de renforcer les conseils de discipline et de créer des internats disciplinaires ; il prévoit aussi des dispositifs de rattrapage, sans mesure sur la taille des classes.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-refonder-lecole-autour-de-quatre-axes-principaux",
+      "citation": "Bruno Retailleau propose notamment de rétablir un examen d’entrée en sixième, de développer les groupes de niveau et de mettre en place des dispositifs permettant aux élèves de rattraper les connaissances qui n’auraient pas été acquises à l’école primaire.",
+      "date_source": "2026-08-31",
+      "confiance": "programme",
       "relu": false
     },
     "ins_proportionnelle": {

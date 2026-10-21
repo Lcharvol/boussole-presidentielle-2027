@@ -92,11 +92,11 @@
     },
     "sec_prisons": {
       "valeur": -2,
-      "resume": "A promis lors d'un meeting de construire « enfin les vingt mille places de prison ».",
+      "resume": "S'engage à construire vingt mille places de prison et estime que la pénurie de places produit une « sous-incarcération » ; aucune mesure de peines alternatives trouvée.",
       "source": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-construire-des-places-de-prison/",
-      "citation": "Nous construirons enfin les vingt mille places de prison",
-      "date_source": "2026-07-03",
-      "confiance": "declaration",
+      "citation": "David Lisnard s’engage à construire vingt mille places de prison. […] la pénurie de places façonne la pratique pénale elle-même, produisant à la fois une surpopulation carcérale et une sous-incarcération qu’il tient pour une source d’arbitraire.",
+      "date_source": "2026-10-16",
+      "confiance": "programme",
       "relu": false
     },
     "sec_cannabis": {
@@ -200,7 +200,7 @@
     },
     "edu_autorite": {
       "valeur": -1,
-      "resume": "Le programme veut « rétablir l'autorité du professeur », permettre aux chefs d'établissement de refuser les élèves perturbateurs et créer des classes d'excellence ; l'uniforme n'est pas mentionné.",
+      "resume": "Le programme veut « rétablir l'autorité du professeur », permettre aux chefs d'établissement de refuser les élèves qui nuisent au collectif et créer des classes d'excellence ; il prévoit aussi un accompagnement spécifique des élèves ne maîtrisant pas les savoirs essentiels, sans mesure sur la taille des classes.",
       "source": "https://www.unenouvelleenergie.fr/notre-programme/education/",
       "citation": "Contre quarante ans de pédagogisme inefficace, nous rétablirons l’autorité du professeur, le primat du cours sur l’animation, et la logique de progression sur celle du ressenti.",
       "date_source": "2026",

@@ -92,7 +92,7 @@
     },
     "sec_prisons": {
       "valeur": -1,
-      "resume": "Position déduite du programme 2022 : construction de 10 000 places de prison supplémentaires et expulsion de plus de 10 000 détenus étrangers.",
+      "resume": "Position déduite du programme 2022 : construction de 10 000 places de prison supplémentaires, réduction des remises de peine et expulsion de détenus étrangers ; rien sur les peines alternatives.",
       "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
       "citation": "9. Construire 10.000 places de prison supplémentaires",
       "date_source": "2022",
@@ -110,7 +110,7 @@
     },
     "imm_baisse": {
       "valeur": -2,
-      "resume": "Défend la « remigration » : renvoi des clandestins, des délinquants étrangers, des chômeurs étrangers de longue durée (après un an) et de ceux qui vivent des aides sociales ; son programme 2022 prévoyait la suppression du regroupement familial.",
+      "resume": "Défend la « remigration » : renvoi des clandestins, des étrangers en prison, des étrangers au chômage depuis plus d'un an, même en situation régulière, et de ceux qui vivent des aides sociales.",
       "source": "https://www.lavenir.net/actu/monde/2026/09/18/zemmour-confirme-quil-sera-candidat-a-lelection-presidentielle-en-france-et-durcit-encore-son-discours-sur-limmigration-5OFMOVM6CVCDFHY4B3GI5QID3Q/",
       "citation": "\"Il faut également renvoyer, c'est une évidence, Les clandestins. Il faut également renvoyer les chômeurs de longue durée, et tous ceux qui vivent uniquement des aides sociales\", a-t-il ajouté",
       "date_source": "2026-09-17",
@@ -200,9 +200,9 @@
     },
     "edu_autorite": {
       "valeur": -2,
-      "resume": "Estime qu'« il est plus que temps d'imposer l'uniforme à l'école » ; son programme 2022 prévoyait aussi l'interdiction de la « propagande idéologique » à l'école.",
+      "resume": "Demande d'« imposer, et non pas d'expérimenter, l'uniforme à l'école » et souhaite instaurer les classes de niveau ; aucune mesure sur la taille des classes dans la source.",
       "source": "https://www.cnews.fr/france/2023-09-10/eric-zemmour-il-est-plus-que-temps-dimposer-luniforme-lecole-1395112",
-      "citation": "«Il est plus que temps d’imposer, et non pas d’expérimenter, l’uniforme à l’école», a-t-il préconisé.",
+      "citation": "«Il est plus que temps d’imposer, et non pas d’expérimenter, l’uniforme à l’école», a-t-il préconisé. […] et souhaite également instaurer les classes de niveau",
       "date_source": "2023-09-10",
       "confiance": "declaration",
       "relu": false

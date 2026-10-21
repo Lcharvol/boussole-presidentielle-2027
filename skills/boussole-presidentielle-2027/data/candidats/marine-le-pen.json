@@ -92,9 +92,9 @@
     },
     "sec_prisons": {
       "valeur": -2,
-      "resume": "Position déduite du programme 2022 : augmentation massive de la capacité carcérale (objectif de 85 000 places selon le chiffrage de l'Institut Montaigne).",
+      "resume": "Position déduite du programme 2022 : atteindre 85 000 places de prison en 2027 et supprimer toute possibilité de réduction et d'aménagement de peine.",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": "Atteindre 85 000 places de prison en 2027.",
+      "citation": "Supprimer toute possibilité de réduction et d’aménagements de peine, en particulier pour les violences contre les personnes. […] Atteindre 85 000 places de prison en 2027.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": false
@@ -110,7 +110,7 @@
     },
     "imm_baisse": {
       "valeur": -2,
-      "resume": "Position déduite des programmes 2022 et 2024 : référendum sur l'immigration, restriction puis fin du regroupement familial, suppression du droit du sol et priorité nationale.",
+      "resume": "Position déduite du programme législatif du RN de 2024 : restriction et durcissement des conditions du regroupement familial, suppression du droit du sol et priorité nationale.",
       "source": "https://lcp.fr/actualites/legislatives-2024-le-programme-du-rassemblement-national-en-matiere-d-immigration-a-l",
       "citation": "Suppression du droit du sol, priorité nationale, allocations familiales réservées aux Français, restriction du regroupement familial...",
       "date_source": "2024-06-28",
@@ -199,10 +199,10 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": -2,
-      "resume": "Position déduite du programme 2022 : uniforme à l'école et recentrage sur les savoirs fondamentaux.",
+      "valeur": 0,
+      "resume": "Position déduite du programme 2022 : uniforme au primaire et au collège, sanctions des absences et incivilités, et réduction des effectifs des classes financée par la suppression de bureaucratie.",
       "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": "Rétablir l’autorité de l’institution scolaire par l’instauration d’un uniforme au primaire et au collège tout en sanctionnant les absences et les incivilités.",
+      "citation": "Rétablir l’autorité de l’institution scolaire par l’instauration d’un uniforme au primaire et au collège tout en sanctionnant les absences et les incivilités. […] réduire les effectifs des classes et arrêter les fermetures d’écoles.",
       "date_source": "2022",
       "confiance": "deduite",
       "relu": false

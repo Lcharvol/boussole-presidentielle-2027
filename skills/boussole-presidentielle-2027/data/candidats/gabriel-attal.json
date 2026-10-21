@@ -109,7 +109,7 @@
       "relu": false
     },
     "imm_baisse": {
-      "valeur": -1,
+      "valeur": -2,
       "resume": "Son programme veut « accueillir moins pour accueillir mieux » : priorité à l'immigration de travail via un système à points « comme au Canada » et un regroupement familial « mieux encadré » qui « doit donc diminuer », sans objectif chiffré.",
       "source": "https://attalpresident.fr/programme/frontieres",
       "citation": "Notre ligne est claire, ce que nous voulons, c’est accueillir moins pour accueillir mieux, privilégier l’immigration de travail au détriment d’autres types d’immigration comme le regroupement familial, qui doit être mieux encadré et qui doit donc diminuer.",
@@ -199,10 +199,10 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": -2,
-      "resume": "Veut rétablir dès son élection les mesures du « Choc des savoirs » (dont les groupes de niveau) et une école « où l'autorité du professeur est respectée ».",
+      "valeur": 0,
+      "resume": "Veut rétablir dès son élection les mesures du « Choc des savoirs » (dont les groupes de niveau) et une école « où l'autorité du professeur est respectée », et viser moins de 20 élèves par classe, notamment en primaire.",
       "source": "https://attalpresident.fr/programme/education",
-      "citation": "Comme ministre de l’Éducation nationale, j’ai pris des décisions fortes en lançant le Choc des savoirs et comme président de la République, l’une de mes premières décisions sera d’en rétablir les mesures.",
+      "citation": "l’une de mes premières décisions sera d’en rétablir les mesures. […] une opportunité pour avoir moins d’élèves par classe notamment en primaire où nous devons viser moins de 20 élèves par classe comme dans les meilleurs systèmes éducatifs européens.",
       "date_source": "2026",
       "confiance": "programme",
       "relu": false

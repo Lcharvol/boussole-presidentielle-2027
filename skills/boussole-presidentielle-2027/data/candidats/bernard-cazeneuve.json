@@ -55,8 +55,8 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": -1,
-      "resume": "Veut « assumer » la filière électronucléaire et planifier le renouvellement du parc, sans préciser de nombre de réacteurs.",
+      "valeur": -2,
+      "resume": "Veut « assumer » la filière électronucléaire, juge « irresponsable » de s'en passer et prévoit un renouvellement planifié du parc, sans nombre de réacteurs.",
       "source": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf",
       "citation": "Elle suppose d’assumer l’atout que représente pour la Nation la filière électronucléaire. Il serait irresponsable de s’en passer. Le renouvellement du parc impliquera une planification […]",
       "date_source": "2026-07",

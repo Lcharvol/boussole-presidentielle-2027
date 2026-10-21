@@ -55,10 +55,10 @@
       "relu": true
     },
     "ecol_nucleaire": {
-      "valeur": -1,
-      "resume": "Veut maintenir le nucléaire à au moins 70 % de la production d'électricité, abandonner l'objectif de 50 %, et soutenir les réacteurs de génération IV et une filière thorium, sans chiffrer de nouveaux réacteurs.",
+      "valeur": -2,
+      "resume": "Veut abandonner l'objectif de 50 % de nucléaire, maintenir sa part à 70 % au moins de la production d'électricité et développer les réacteurs de génération IV et une filière thorium, sans chiffrer de nouveaux réacteurs.",
       "source": "https://www.debout-la-france.fr/projet/environnement-energie/",
-      "citation": "Abandonner l’objectif de 50% de nucléaire dans la production électrique en 2035, maintenir le nucléaire à 70% de la production d’électricité minimum.",
+      "citation": "Abandonner l’objectif de 50% de nucléaire dans la production électrique en 2035, maintenir le nucléaire à 70% de la production d’électricité minimum. […] Conforter le développement des réacteurs GENERATION IV relancer le nucléaire […]",
       "date_source": "2022",
       "confiance": "programme",
       "relu": false
@@ -91,10 +91,10 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": -2,
-      "resume": "Propose la construction de 40 000 nouvelles places de prison.",
+      "valeur": -1,
+      "resume": "Propose la construction de 40 000 places de prison et la prison ferme pour les multirécidivistes ; rien sur les peines alternatives en général.",
       "source": "https://www.dupontaignan.fr/actualite/communique-nicolas-dupont-aignan-a-limoges/",
-      "citation": "Construction de 40 000 places de prison",
+      "citation": "Prison ferme pour les multirécidivistes […] Construction de 40 000 places de prison",
       "date_source": "2026-10-20",
       "confiance": "programme",
       "relu": false
@@ -200,9 +200,9 @@
     },
     "edu_autorite": {
       "valeur": -2,
-      "resume": "Propose l'uniforme obligatoire, la tolérance zéro, l'exclusion des élèves harceleurs, des établissements « d'apaisement civique » et des classes de niveau au collège.",
+      "resume": "Propose l'uniforme obligatoire, la tolérance zéro, l'exclusion des élèves harceleurs, des établissements « d'apaisement civique » et des classes de niveau au collège ; il prévoit aussi un accompagnement personnalisé des élèves en difficulté en maternelle et au CP, sans mesure sur la taille des classes.",
       "source": "https://www.debout-la-france.fr/projet/instruction-publique/",
-      "citation": "Uniforme obligatoire, niveau de langage minimum et vouvoiement.",
+      "citation": "Uniforme obligatoire, niveau de langage minimum et vouvoiement. […] Le collège Organiser des classes de niveau tout en garantissant leur porosité.",
       "date_source": "2026",
       "confiance": "programme",
       "relu": false

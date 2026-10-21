@@ -91,8 +91,8 @@
       "relu": true
     },
     "sec_prisons": {
-      "valeur": -2,
-      "resume": "Le programme propose de « construire les dizaines de milliers de places de prison qui manquent » et d'expulser les détenus étrangers.",
+      "valeur": -1,
+      "resume": "Le programme propose de « construire les dizaines de milliers de places de prison qui manquent » et de réformer les réductions automatiques de peine ; rien sur les peines alternatives.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
       "citation": "Construire les dizaines de milliers de places de prison qui manquent et expulser les prisonniers étrangers (ils représentent 25% du total des prisonniers).",
       "date_source": "2026-09",
@@ -200,9 +200,9 @@
     },
     "edu_autorite": {
       "valeur": -1,
-      "resume": "Le programme veut « refonder l'autorité des professeurs », une hiérarchie claire dans l'Éducation nationale et en finir avec le collège unique, sans mentionner l'uniforme.",
+      "resume": "Le programme veut « refonder l'autorité des professeurs », une hiérarchie claire dans l'Éducation nationale et en finir avec le collège unique au profit de parcours différenciés dès 14 ans ; ni uniforme ni mesure sur la taille des classes.",
       "source": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
-      "citation": "Refonder l’autorité des professeurs et redonner du sens à la vocation enseignante.",
+      "citation": "Refonder l’autorité des professeurs et redonner du sens à la vocation enseignante. […] Il faut rompre avec le dogme du collège unique, qui nivelle par le bas, pour proposer dès 14 ans des parcours différenciés",
       "date_source": "2026-09",
       "confiance": "programme",
       "relu": false

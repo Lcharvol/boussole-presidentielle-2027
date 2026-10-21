@@ -20,7 +20,7 @@
     },
     "eco_smic": {
       "valeur": -1,
-      "resume": "Alors Premier ministre (novembre 2018), a exclu tout coup de pouce au SMIC au-delà de la revalorisation légale, préférant « faire en sorte que le travail paye » ; son programme 2026 ne prévoit pas de hausse du SMIC et mise sur l'exonération des heures supplémentaires.",
+      "resume": "Alors Premier ministre (novembre 2018), a exclu tout coup de pouce au SMIC au-delà de la revalorisation légale, préférant « faire en sorte que le travail paye » ; aucune réaffirmation récente trouvée.",
       "source": "https://www.publicsenat.fr/actualites/non-classe/smic-revalorisation-legale-au-1er-janvier-mais-pas-de-coup-de-pouce-135932",
       "citation": "\"Notre politique, c'est pas de faire des coups de pouce au Smic, notre politique c'est de faire en sorte que le travail paye (...) Il y aura une revalorisation, la revalorisation légale (...) Il n'y aura pas de coup de pouce supplémentaire\"",
       "date_source": "2018-11-28",
@@ -92,9 +92,9 @@
     },
     "sec_prisons": {
       "valeur": -1,
-      "resume": "A déploré que la France n'arrive pas à construire suffisamment de places de prison et plaide pour l'incarcération immédiate dans des établissements pour courtes peines ; aucun objectif chiffré trouvé dans une source primaire.",
+      "resume": "Défend l'enfermement immédiat dès la première infraction, y compris pour des peines très brèves, dans des établissements pour courtes peines, et propose de permettre aux maires de proposer des peines de réparation ; aucun objectif chiffré de places.",
       "source": "https://www.europe1.fr/politique/justice-peines-planchers-suppression-du-juge-dapplication-des-peines-edouard-philippe-formule-des-propositions-en-meeting-a-marseille-752761",
-      "citation": "\"[…] Comme nous n’arrivons pas à construire suffisamment de places de prisons (...) et comme nous savons qu’être détenu dans des conditions indignes alimente la récidive, les juges prononcent des peines toujours plus sévères mais de moins en moins exécutées\"",
+      "citation": "M. Philippe défend \"une stratégie d’enfermement immédiat des délinquants, y compris pour des peines très brèves, dès la première infraction, dans des établissements pour courtes peines\"",
       "date_source": "2025-05-17",
       "confiance": "declaration",
       "relu": false
@@ -110,7 +110,7 @@
     },
     "imm_baisse": {
       "valeur": -2,
-      "resume": "Veut diviser par deux l'immigration (moins de 200 000 titres de séjour par an), instaurer des quotas votés par le Parlement et suspendre le regroupement familial pendant le quinquennat.",
+      "resume": "Fixe l'objectif de diviser par deux l'immigration, veut des quotas migratoires pour l'immigration économique et propose de suspendre le regroupement familial pendant le quinquennat.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
       "citation": "Suspendre le regroupement familial pour la durée du quinquennat.",
       "date_source": "2026-10",
@@ -199,10 +199,10 @@
       "relu": false
     },
     "edu_autorite": {
-      "valeur": -2,
-      "resume": "Propose de faire des chefs d'établissement les « patrons » de l'école, libres d'imposer l'uniforme et de fixer la discipline, une amende de responsabilisation pour les parents et l'interdiction des téléphones au primaire et au collège.",
+      "valeur": 0,
+      "resume": "Propose de laisser les chefs d'établissement imposer l'uniforme et fixer la discipline, une amende de responsabilisation pour les parents et l'interdiction des téléphones, et aussi de réduire les effectifs en maternelle et en primaire et de créer un service public du soutien scolaire.",
       "source": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
-      "citation": "Faire des chefs d'établissements les véritables patrons de l'école : liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline, de participer au recrutement et à l’évaluation de leur équipe.",
+      "citation": "Faire des chefs d'établissements les véritables patrons de l'école : liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline […] Réduire les effectifs d'élèves en classe, en maternelle et en primaire.",
       "date_source": "2026-10",
       "confiance": "programme",
       "relu": false

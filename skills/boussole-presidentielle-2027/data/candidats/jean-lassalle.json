@@ -19,8 +19,8 @@
       "relu": false
     },
     "eco_smic": {
-      "valeur": 1,
-      "resume": "Position déduite du programme 2022 : revaloriser le SMIC à 1 400 euros net, soit une hausse de 8 %.",
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : revaloriser le SMIC à 1 400 euros net, soit une hausse de 8 % décidée par l'État (montant inférieur au SMIC net de 2026).",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
       "citation": "Revaloriser le SMIC à 1 400 euros net. Cette augmentation de 8 % doperait notamment une consommation tournée vers des secteurs à bas revenus (hôtellerie, restauration).",
       "date_source": "2022-02-25",
@@ -56,9 +56,9 @@
     },
     "ecol_nucleaire": {
       "valeur": -1,
-      "resume": "Position déduite du programme 2022 : prolonger de 25 ans les centrales en fin de vie et développer des centrales de 4e génération, dans une « transition énergétique du nucléaire », sans nombre de réacteurs précisé.",
+      "resume": "Position déduite du programme 2022 : prolonger de 25 ans les centrales en fin de vie et développer des centrales nucléaires de 4e génération, dans une « transition énergétique du nucléaire », sans nombre de réacteurs précisé.",
       "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": "Préparer la transition énergétique du nucléaire. Rénover et prolonger de 25 ans les centrales nucléaires en fin de vie.",
+      "citation": "Préparer la transition énergétique du nucléaire. Rénover et prolonger de 25 ans les centrales nucléaires en fin de vie. Développer les centrales nucléaires de 4 ᵉ génération (plus sûres que les précédentes).",
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": false

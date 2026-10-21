@@ -55,8 +55,8 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": 2,
-      "resume": "A voté contre le projet de loi d'accélération du nucléaire ouvrant la voie à de nouveaux réacteurs EPR2.",
+      "valeur": 1,
+      "resume": "A voté contre l'ensemble du projet de loi d'accélération des procédures pour construire de nouvelles installations nucléaires (EPR2) ; pas de déclaration récente vérifiée sur la part du nucléaire.",
       "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1243",
       "citation": "Scrutin public n°1243 sur l'ensemble du projet de loi relatif à l’accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes (première lecture).",
       "date_source": "2023-03-21",

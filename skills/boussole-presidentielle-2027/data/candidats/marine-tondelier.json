@@ -92,9 +92,9 @@
     },
     "sec_prisons": {
       "valeur": 2,
-      "resume": "Estime que « construire toujours plus de prisons est une impasse » et propose un numerus clausus carcéral.",
+      "resume": "Le programme demande un moratoire sur la construction de nouvelles places de prison (hors remplacement des prisons insalubres) et le développement de la probation, du placement extérieur, de la semi-liberté et des TIG.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Nous estimons que construire toujours plus de prisons est une impasse. Plus on construit, plus on enferme, sans jamais mieux enfermer.",
+      "citation": "Adopter un moratoire sur la construction de nouvelles places de prison en dehors de celles destinées à remplacer les prisons insalubres. […] Développer la probation et les possibilités de placement extérieurs et de semi-liberté […]",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false
@@ -199,10 +199,10 @@
       "relu": true
     },
     "edu_autorite": {
-      "valeur": 1,
-      "resume": "Veut abroger le « choc des savoirs » (groupes de niveau en sixième et cinquième) ; pas de mesure sur l'uniforme ou les sanctions.",
+      "valeur": 2,
+      "resume": "Veut abroger le « choc des savoirs » (groupes de niveau en sixième et cinquième) et diminuer le nombre d'élèves par classe (19 en 2032 en primaire, 12 en éducation prioritaire), avec des temps de soutien scolaire ; pas de mesure sur l'uniforme ou les sanctions.",
       "source": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
-      "citation": "Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
+      "citation": "La diminution des effectifs démographiques est l’occasion de diminuer radicalement le nombre d’élèves par classe. […] Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
       "date_source": "2026-07",
       "confiance": "programme",
       "relu": false

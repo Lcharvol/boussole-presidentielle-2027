@@ -55,10 +55,10 @@
       "relu": false
     },
     "ecol_nucleaire": {
-      "valeur": -1,
-      "resume": "Le cahier « travaillisme écologique » prévoit de prolonger les centrales existantes, de poursuivre les six EPR2 et de décider de huit EPR2 supplémentaires selon le devis d'EDF.",
+      "valeur": -2,
+      "resume": "Le cahier « travaillisme écologique » prévoit de prolonger les centrales existantes, de poursuivre les six EPR2 pour compenser leurs fermetures futures et de décider de huit EPR2 supplémentaires selon le devis d'EDF.",
       "source": "https://nouspresident.fr/travaillisme-ecologique/",
-      "citation": "Nous poursuivrons aussi la construction des six réacteurs EPR2 […] La décision de construire ou non huit réacteurs EPR2 supplémentaires sera prise en fonction du devis proposé par EDF",
+      "citation": "Nous poursuivrons aussi la construction des six réacteurs EPR2 : ces six réacteurs permettront surtout de compenser les fermetures des centrales actuelles […]. La décision de construire ou non huit réacteurs EPR2 supplémentaires sera prise en fonction du devis proposé par EDF",
       "date_source": "2026-09-09",
       "confiance": "programme",
       "relu": false
