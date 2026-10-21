@@ -7,7 +7,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-21",
-  "notes": "Essayiste, directrice de la revue L'Audace !, ex-directrice de Marianne. Candidature annoncée le 14/10/2026 sur France Inter (franceinfo : https://www.franceinfo.fr/elections/presidentielle/l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_8236714.html), au nom du mouvement « Nous sommes la France » lancé fin août/septembre 2026 ; soutien de République souveraine (08/10/2026). Mesures annoncées hors grille : priorité à la production française dans la commande publique, suppression des aides aux entreprises non conditionnées à la production en France, hausse des salaires de 20 à 30 % (sans précision sur le SMIC), taxe flottante sur les carburants. Pas de programme publié ; seules 2 affirmations ont pu être sourcées (Sud Radio 15/09/2026, Pleinchamp 10/2026). À recompléter dès la publication d'un programme.",
+  "notes": "Candidature annoncée le 14/10/2026 sur France Inter, au nom du mouvement « Nous sommes la France » ; doit réunir les 500 parrainages. Au 21/10/2026, pas de programme publié : le site de campagne (natachapolony2027.fr / npolony.fr) ne propose que « Ma vision », « Mes principes », un cahier de doléances et aucune page de mesures (« Aucun communiqué publié pour l'instant »). Mesures annoncées hors grille : priorité à la production française dans la commande publique, suppression des aides aux entreprises non conditionnées à la production en France, hausse de 20 à 30 % des salaires des enseignants (Sud Radio, 06/10/2026 : il s'agit des professeurs, pas d'une hausse générale ni du SMIC), loi de programmation de dix ans pour l'école, centres éducatifs fermés. Le site évoque un peuple « consulté régulièrement par voie référendaire », sans parler de RIC (non retenu). Une fiche d'agrégateur (quizz-du-berger.com) lui prête une sortie du commandement intégré de l'OTAN : non retenu faute de source primaire. À recompléter dès la publication d'un programme. Revérifié le 21/10/2026 : toujours aucun communiqué ni programme sur npolony.fr ; ajout de edu_autorite d'après l'entretien Sud Radio du 06/10/2026 (article mis à jour le 14/10/2026).",
   "positions": {
     "eco_retraite": {
       "valeur": null,
@@ -81,6 +81,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
@@ -100,6 +118,24 @@
       "relu": false
     },
     "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_videosurveillance": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
@@ -135,7 +171,7 @@
       "confiance": null,
       "relu": false
     },
-    "eur_integration": {
+    "imm_droitdusol": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
@@ -143,6 +179,24 @@
       "date_source": null,
       "confiance": null,
       "relu": false
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_integration": {
+      "valeur": 1,
+      "resume": "Reproche à la Commission européenne de réduire le pouvoir des États sans validation démocratique et veut que la France retrouve une capacité d'action autonome dans l'UE.",
+      "source": "https://www.sudradio.fr/sud-radio/natacha-polony-ursula-von-der-leyen-grignotte-petit-a-petit-le-pouvoir-des-etats",
+      "citation": "\"Il y a une façon, de la part de la Commission européenne, de grignoter petit à petit le pouvoir des États sans véritable validation démocratique. Ce n’est plus l’Europe pour laquelle les Français avaient adhéré au projet européen\"",
+      "date_source": "2026-05-31",
+      "confiance": "declaration",
+      "relu": true
     },
     "eur_primaute": {
       "valeur": null,
@@ -154,6 +208,24 @@
       "relu": false
     },
     "eur_ukraine": {
+      "valeur": -1,
+      "resume": "Juge l'aide à l'Ukraine indispensable, à condition qu'elle serve à acheter des armes européennes.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/video-l-aide-a-l-ukraine-est-indispensable-a-une-condition-c-est-qu-elle-aille-a-des-armes-europeennes-pour-natacha-polony-candidate-a-l-election-presidentielle_VN-202610140848.html",
+      "citation": "\"L'aide à l'Ukraine est indispensable à une condition, c'est qu'elle aille à des armes européennes\"",
+      "date_source": "2026-10-14",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_defense3": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
@@ -189,6 +261,24 @@
       "confiance": null,
       "relu": false
     },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
@@ -199,6 +289,33 @@
       "relu": false
     },
     "edu_autorite": {
+      "valeur": -1,
+      "resume": "Veut inverser une pédagogie qui présente la sanction comme un échec, demande que l'institution soutienne les professeurs face aux parents et se dit favorable aux centres éducatifs fermés pour les jeunes qui dérivent.",
+      "source": "https://www.sudradio.fr/sud-radio/no-future-et-irresponsabilite-generalisee-les-declarations-chocs-et-les-solutions-de-natacha-polony-pour-les-lycees-et-leducation",
+      "citation": "Je suis passée par un institut de formation des maîtres où des formateurs m'ont expliqué : \"La sanction est un échec de votre pédagogie\", et \"Vous avez beaucoup plus à apprendre de vos élèves que vos élèves de vous\". Donc c'est tout ça qu'il faut inverser.",
+      "date_source": "2026-10-06",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
       "source": null,
@@ -234,123 +351,6 @@
       "confiance": null,
       "relu": false
     },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_100secu": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_chomage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_signes": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_etudiants": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
@@ -363,6 +363,204 @@
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Elle veut cesser de mettre les agriculteurs français en concurrence avec le reste du monde, notamment par la priorité à la production française dans la commande publique, sans évoquer de hausse des droits de douane ni les accords de libre-échange.",
+      "source": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+      "citation": "Donc, on sauve nos agriculteurs, on arrête de les laisser en concurrence avec le reste du monde, et donc, par exemple, dans la commande publique, on commande à nos agriculteurs.",
+      "date_source": "2026-09-15",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Elle propose de renationaliser EDF et refuse la privatisation des barrages hydroélectriques demandée par l'Union européenne.",
+      "source": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+      "citation": "Quand, par exemple, l'Union Européenne essaye de nous expliquer qu'il faut privatiser notre énergie hydroélectrique, nos barrages, c'est non. Et on renationalise EDF",
+      "date_source": "2026-09-15",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": 0,
+      "resume": "D'après Pleinchamp, elle défend un partage de l'eau planifié par la puissance publique, la lutte contre le gaspillage et la récupération des eaux grises, ainsi que le stockage et l'irrigation raisonnée là où ils sont nécessaires.",
+      "source": "https://www.pleinchamp.com/actualite/natacha-polony-candidate-a-l-elysee-avec-l-agriculture-comme-champ-de-bataille",
+      "citation": "Elle défend une planification de la gestion de l’eau par la puissance publique, afin d’organiser le partage de la ressource […] Parmi les autres pistes qu’elle avance figurent la lutte contre le gaspillage, la récupération des eaux grises, ainsi que le stockage et l’irrigation raisonnée",
+      "date_source": "2026-10-14",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": -1,
+      "resume": "Dans une chronique de 2018, avant son entrée en politique, elle soutenait un service national obligatoire de plusieurs mois incluant le maniement des armes et jugeait un service d'un mois insuffisant ; pas de déclaration de campagne trouvée.",
+      "source": "https://www.sudradio.fr/editorial/macron-assume-dans-la-douleur-sa-promesse-de-retablir-un-service-national",
+      "citation": "on n’apprend rien en un mois, ni les bases de la défense civile et du maniement des armes, ni le minimum de règles de vie en commun qui permettraient de reconstruire une communauté nationale. Il avance aujourd’hui l’idée d’un service de 3 à 6 mois. On sort des promesses ineptes.",
+      "date_source": "2018-02-16",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": 1,
+      "resume": "Elle propose d'augmenter de 20 à 30 % le salaire des enseignants en échange d'une comptabilisation de l'ensemble de leurs missions, sans part liée au mérite.",
+      "source": "https://www.sudradio.fr/sud-radio/no-future-et-irresponsabilite-generalisee-les-declarations-chocs-et-les-solutions-de-natacha-polony-pour-les-lycees-et-leducation",
+      "citation": "on va comptabiliser autre chose que simplement le temps passé devant les élèves […] Et en échange, on augmente les salaires entre 20 et 30 %.",
+      "date_source": "2026-10-14",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,

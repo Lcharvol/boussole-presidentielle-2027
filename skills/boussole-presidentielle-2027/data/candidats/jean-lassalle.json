@@ -7,7 +7,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-21",
-  "notes": "Le 10 juillet 2026, il a lancé une cagnotte pour financer une troisième candidature (au moins 100 000 euros visés) et revendique 250 parrainages sur 500 ; il a dit qu'il déciderait à l'automne selon le résultat de la collecte (https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html). Le 8 octobre 2026, au Sommet de l'élevage, il déclarait encore : « Je n'ai pas encore pris la décision. Je vais voir » (https://www.pleinchamp.com/actualite/fezzfffzfz). Aucune déclaration de candidature, renoncement ou ralliement trouvé au 20 octobre 2026. Pas de programme 2027 et aucune déclaration 2025-2026 trouvée sur les thèmes du test (ses interventions de 2026 portent sur la bureaucratie, la mondialisation et l'agriculture, sans mesure précise) : les positions restent déduites de son programme présidentiel 2022 « La France authentique » (PDF officiel de jl2022.fr, consulté via archive.org), non démenti à notre connaissance.",
+  "notes": "Le 10 juillet 2026, il a lancé une cagnotte pour financer une troisième candidature (au moins 100 000 euros visés) et revendique 250 parrainages sur 500 ; il a dit qu'il déciderait à l'automne selon le résultat de la collecte (https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html). Le 8 octobre 2026, au Sommet de l'élevage, il déclarait encore : « Je n'ai pas encore pris la décision. Je vais voir » (https://www.pleinchamp.com/actualite/fezzfffzfz). Aucune déclaration de candidature, renoncement ou ralliement trouvé au 21 octobre 2026 (il figure toujours parmi les « candidats pressentis » sur la page Wikipédia des candidatures, consultée le 21 octobre 2026). Pas de programme 2027 ; ses interventions de 2026 (ICI Béarn Bigorre, Europe 1, Pleinchamp) portent sur la bureaucratie, la mondialisation, le financement des petits partis et l'agriculture, sans mesure précise sur les thèmes du test : les positions restent déduites de son programme présidentiel 2022 « La France authentique » (PDF officiel de jl2022.fr, consulté via archive.org), non démenti à notre connaissance.",
   "positions": {
     "eco_retraite": {
       "valeur": null,
@@ -81,6 +81,24 @@
       "confiance": "deduite",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": null,
       "resume": "Le programme 2022 vise l'exécution des peines courtes, sans proposer de peines planchers ou minimales.",
@@ -108,6 +126,24 @@
       "confiance": "deduite",
       "relu": true
     },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "imm_baisse": {
       "valeur": null,
       "resume": "Le programme 2022 propose de renforcer les douanes contre l'immigration illégale et de respecter le droit d'asile, sans mesure sur l'immigration légale.",
@@ -127,6 +163,24 @@
       "relu": false
     },
     "imm_regularisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_preference": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
@@ -162,6 +216,24 @@
       "confiance": null,
       "relu": false
     },
+    "eur_otan": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : « préparer notre désengagement de l'OTAN », sans calendrier précis.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "Préparer notre désengagement de l’OTAN.",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Le programme 2022 propose de rebâtir l'industrie d'armement et de renforcer la cyberdéfense, sans objectif chiffré de budget de défense.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "soc_medecins": {
       "valeur": null,
       "resume": "Le programme 2022 propose de financer les études des médecins qui s'engagent six ans dans les territoires déficitaires (incitation), sans position sur la régulation de l'installation.",
@@ -189,123 +261,6 @@
       "confiance": null,
       "relu": false
     },
-    "edu_prive": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_autorite": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_proportionnelle": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_ric": {
-      "valeur": -2,
-      "resume": "Position déduite du programme 2022 : instaurer le RIC, déclenchable avec le soutien de 700 000 citoyens.",
-      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": "ma proposition de loi constitutionnelle de novembre 2021 sur le RIC permettrait de lancer une telle initiative une fois recueilli le soutien de 700 000 citoyens.",
-      "date_source": "2022-02-25",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "ins_6e": {
-      "valeur": -1,
-      "resume": "Position déduite du programme 2022 : « ressusciter l'esprit de la Ve République » par le RIC et la reconnaissance du vote blanc, avec un référendum sur le choix entre septennat et quinquennat, sans proposer de VIe République.",
-      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": "Ce contexte imposera de choisir, le moment venu, par référendum entre septennat ou maintien du quinquennat.",
-      "date_source": "2022-02-25",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée sur ce point.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": 1,
-      "resume": "Position déduite du programme 2022 : « préparer notre désengagement de l'OTAN », sans calendrier précis.",
-      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
-      "citation": "Préparer notre désengagement de l’OTAN.",
-      "date_source": "2022-02-25",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Le programme 2022 propose de rebâtir l'industrie d'armement et de renforcer la cyberdéfense, sans objectif chiffré de budget de défense.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "soc_100secu": {
       "valeur": -2,
       "resume": "Position déduite du programme 2022 : « la Sécurité sociale couvrira toutes les dépenses de santé », sur le modèle du régime local d'Alsace-Moselle, évitant un double remboursement par les mutuelles.",
@@ -316,6 +271,24 @@
       "relu": true
     },
     "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_autorite": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
       "source": null,
@@ -351,6 +324,33 @@
       "confiance": null,
       "relu": false
     },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée sur ce point.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_ric": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : instaurer le RIC, déclenchable avec le soutien de 700 000 citoyens.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "ma proposition de loi constitutionnelle de novembre 2021 sur le RIC permettrait de lancer une telle initiative une fois recueilli le soutien de 700 000 citoyens.",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "ins_6e": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : « ressusciter l'esprit de la Ve République » par le RIC et la reconnaissance du vote blanc, avec un référendum sur le choix entre septennat et quinquennat, sans proposer de VIe République.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "Ce contexte imposera de choisir, le moment venu, par référendum entre septennat ou maintien du quinquennat.",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": true
+    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur ce point.",
@@ -368,6 +368,204 @@
       "date_source": "2022-02-25",
       "confiance": "deduite",
       "relu": true
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : retirer à la Commission européenne la représentation de la France dans les traités de protection des investissements et interrompre la négociation de tels accords (CETA), sans mesure douanière précise.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "Retirer à la Commission européenne la mission de représenter la France dans les traités de protections des investissements internationaux. Et interrompre la négociation de tels accords (CETA…)",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : exonérer de taxes les héritages agricoles, sans proposition sur les autres successions.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "Exonérer de taxes sur les héritages agricoles.",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : des « re-nationalisations » d'EDF, des autoroutes et des entreprises liées à la défense nationale.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "Un certain nombre de «re-nationalisations» s’imposent, par exemple : EDF, les autoroutes de France et les entreprises liées à la Défense nationale.",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : maintenir la retraite par répartition, sans mention de la capitalisation.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "Maintenir la retraite par répartition.",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : encadrer les loyers et en contrôler davantage le respect.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "Encadrer les loyers: opérer un meilleur contrôle.",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": 1,
+      "resume": "Position déduite du programme 2022 : revaloriser le salaire et le statut des enseignants, sans part liée au mérite.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "Revaloriser le salaire et le statut des enseignants. Dans les années 1970, un enseignant touchait un salaire de 3 000 F soit 1,95 fois le SMIC. En 2021, il percevait 1 500 euros, soit 1,4 fois le SMIC.",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : rétablir la possibilité d'être à la fois député ou sénateur et maire.",
+      "source": "https://web.archive.org/web/20220314141131/https://jl2022.fr/wp-content/uploads/2022/03/Programme-A4-V5-25_02_22.pdf",
+      "citation": "Rétablir les mandats de député-maire et sénateur-maire afin de renouer le lien entre les territoires et la représentation nationale.",
+      "date_source": "2022-02-25",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     }
   }
 }

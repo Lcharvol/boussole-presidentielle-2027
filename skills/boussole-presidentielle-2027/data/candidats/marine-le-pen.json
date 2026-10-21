@@ -7,7 +7,7 @@
   "programme": "partiel",
   "programme_url": "https://rassemblementnational.fr/22-mesures",
   "mis_a_jour": "2026-10-21",
-  "notes": "Candidature annoncée le 7 juillet 2026 après l'arrêt de la cour d'appel de Paris (affaire des assistants parlementaires FN) : condamnation confirmée, 3 ans de prison dont 2 avec sursis (partie ferme sous bracelet électronique) et inéligibilité ramenée à 45 mois dont 30 avec sursis, soit 15 mois fermes considérés comme déjà purgés depuis l'exécution provisoire du 31 mars 2025 ; elle est donc juridiquement éligible. Elle s'est pourvue en cassation (pourvoi suspensif de la peine de prison) ; selon la presse, le parquet général a renoncé à se pourvoir. Des juristes estiment que son propre pourvoi pourrait faire revivre la peine de première instance (5 ans d'inéligibilité avec exécution provisoire) — point débattu ; la Cour de cassation doit statuer avant le premier tour (18 avril 2027), date non fixée. Jordan Bardella n'est PAS candidat : il soutient Marine Le Pen, qui l'a présenté comme son futur Premier ministre ; il reste le recours du RN si l'inéligibilité était rétablie. Programme 2027 non publié en entier : contre-budget présenté le 6 octobre 2026, volet retraites annoncé pour le 17 novembre 2026. Plusieurs positions sont déduites du programme 2022 (22 mesures), du programme législatif 2024 ou des votes du groupe RN. Sources : https://www.rts.ch/info/monde/2026/article/condamnee-en-appel-marine-le-pen-pourra-se-presenter-en-2027-29296439.html ; https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/presidentielle-bracelet-electronique-pourvoi-en-cassation-les-questions-qui-se-posent-apres-la-condamnation-reduite-de-marine-le-pen-en-appel_8097893.html ; https://www.france24.com/fr/france/20260708-jordan-bardella-se-r%C3%A9jouit-marine-le-pen-pr%C3%A9sidentielle-2027-extreme-droite-rassemblement-national-campagne Au 20/10/2026, elle reste la candidate du RN : la Cour de cassation examinera le 16 décembre 2026 les seules QPC liées à son pourvoi (transmission éventuelle au Conseil constitutionnel, qui aurait trois mois) ; un arrêt sur le fond pourrait intervenir fin mars ou début avril 2027. Source : https://actu.orange.fr/politique/affaire-des-assistants-parlementaires-du-rn-la-cour-de-cassation-fixera-le-sort-de-marine-le-pen-le-16-decembre-l-express-via-6medias-CNT000002t1bDR.html",
+  "notes": "Candidate déclarée du RN (annonce du 7 juillet 2026, après l'arrêt de la cour d'appel de Paris dans l'affaire des assistants parlementaires FN : condamnation confirmée, inéligibilité ramenée à 45 mois dont 30 avec sursis, les 15 mois fermes étant considérés comme purgés depuis l'exécution provisoire du 31 mars 2025 ; elle est donc éligible). Elle s'est pourvue en cassation (pourvoi suspensif) ; la Cour de cassation dit pouvoir statuer « au plus tard début avril 2027 » (premier tour le 18 avril 2027) ; audience du 16 décembre 2026 sur les QPC liées au pourvoi selon la presse. Au 21/10/2026, aucun changement de statut trouvé : Public Sénat la présente le 6/10/2026 comme « candidate du Rassemblement national à la présidentielle ». Jordan Bardella n'est pas candidat et la soutient (futur Premier ministre annoncé). Programme 2027 non publié en entier : le contre-budget 2027 / trajectoire des finances publiques 2027-2032 a été présenté le 6 octobre 2026 (140 Md€ d'économies d'ici 2032, règle d'or par référendum dans les douze mois, baisse d'impôts de 30 Md€ nets) mais aucun document PDF n'a été trouvé en ligne au 21/10/2026 : le site rassemblementnational.fr ne propose encore que le contre-budget 2026 (GRN-CONTRE-BUDGET-2026.pdf, conférence de presse du 23 octobre 2025) ; seuls des comptes rendus de presse existent (Public Sénat, Euronews). Volet retraites annoncé pour le 17 novembre 2026 ; premier grand meeting présidentiel au congrès d'Orléans le 25 octobre 2026. Plusieurs positions restent déduites (programme 2022, programme législatif 2024, ligne du parti) ; d'autres reposent désormais sur des textes du groupe RN qu'elle a cosignés (2025-2026), sur le contre-budget 2026 ou sur ses votes nominatifs (règle « texte entier » : ±1). Sources : https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f ; https://fr.euronews.com/2026/10/07/france-le-gouvernement-tire-a-boulets-rouges-sur-le-contre-budget-de-marine-le-pen ; https://www.leclubdesjuristes.com/en-bref/condamnation-de-marine-le-pen-la-cour-de-cassation-pourrait-statuer-sur-son-pourvoi-au-plus-tard-debut-avril-2027-16873/ ; https://actu.orange.fr/politique/affaire-des-assistants-parlementaires-du-rn-la-cour-de-cassation-fixera-le-sort-de-marine-le-pen-le-16-decembre-l-express-via-6medias-CNT000002t1bDR.html",
   "positions": {
     "eco_retraite": {
       "valeur": -2,
@@ -56,12 +56,12 @@
     },
     "ecol_nucleaire": {
       "valeur": -2,
-      "resume": "Position déduite du programme 2022 : relance du nucléaire avec cinq paires d'EPR et cinq EPR2, prolongation des centrales à 60 ans et réouverture de Fessenheim.",
-      "source": "https://www.linfodurable.fr/politique/le-programme-ecolo-de-marine-le-pen-31355",
-      "citation": "Relancer le nucléaire via la création de cinq paires d’EPR et cinq autre EPR2, le prolongement jusqu’à soixante ans des centrales et la réouverture de Fessenheim.",
-      "date_source": "2022-03",
-      "confiance": "deduite",
-      "relu": true
+      "resume": "Cosignataire de la proposition de loi du groupe RN sur la programmation de l'énergie (avril 2025), qui prévoit deux programmes de cinq paires de réacteurs, la réouverture de Fessenheim et un réacteur de 4e génération ; valeur inchangée par rapport à la position déduite.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1226_proposition-loi.pdf",
+      "citation": "Accélérer un premier programme de cinq paires de réacteurs nucléaires en choisissant le design le plus opérationnel, ouvert aux coopérations internationales, livrées entre 2034 et 2037.",
+      "date_source": "2025-04-01",
+      "confiance": "declaration",
+      "relu": false
     },
     "ecol_renouvelables": {
       "valeur": -2,
@@ -81,14 +81,32 @@
       "confiance": "declaration",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": -2,
+      "resume": "S'oppose à la fin des ventes de voitures thermiques neuves en 2035, qu'elle cite en 2023 comme exemple d'une politique qui n'est « pas une transition » mais « une destruction » ; ses députés ont fait supprimer en 2025 l'article national fixant cette échéance.",
+      "source": "https://www.linfodurable.fr/ecologie-pour-le-pen-le-plan-de-macron-nest-pas-une-transition-mais-une-destruction-41246",
+      "citation": "\"Ce n'est pas une transition, c'est une destruction pour l'instant\", a ajouté Mme Le Pen, prenant pour exemple \"la fin des moteurs thermiques en 2035\" décidée par l'Union européenne.",
+      "date_source": "2023-09-26",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "ecol_aerien": {
+      "valeur": 2,
+      "resume": "Opposée à la taxation des billets d'avion, qu'elle a qualifiée en 2019 d'« écologie punitive » et de moyen de « faire rentrer de l'argent dans les caisses » (déclaration ancienne, aucune prise de position plus récente trouvée).",
+      "source": "https://www.linfodurable.fr/ecotaxe-sur-les-billets-davion-une-mesure-cynique-pour-marine-le-pen-12451",
+      "citation": "La taxation des billets d'avion est \"une idée très cynique et particulièrement hypocrite\", a réagi la députée d'extrême droite dans les couloirs de l'Assemblée nationale.",
+      "date_source": "2019-07-09",
+      "confiance": "declaration",
+      "relu": true
+    },
     "sec_peines": {
       "valeur": -2,
-      "resume": "Position déduite du programme 2022 et des propositions du groupe RN : instauration de peines minimales (peines planchers) et réduction des remises de peine.",
-      "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": "Rétablir les peines planchers pour que tout criminel et délinquant aient une sanction.",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
+      "resume": "Cosignataire d'une proposition de loi du groupe RN (juillet 2026) instaurant des peines minimales de privation de liberté pour les incendies volontaires ; elle avait aussi cosigné en septembre 2024 la proposition de loi n° 262 « tendant à l'instauration de peines planchers pour certains crimes et délits » ; valeur inchangée.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3096_proposition-loi.pdf",
+      "citation": "elle instaure un dispositif de peines minimales de privation de liberté afin de garantir une réponse judiciaire ferme et homogène sur l’ensemble du territoire.",
+      "date_source": "2026-07-23",
+      "confiance": "declaration",
+      "relu": false
     },
     "sec_prisons": {
       "valeur": -2,
@@ -108,6 +126,24 @@
       "confiance": "deduite",
       "relu": true
     },
+    "sec_mineurs": {
+      "valeur": 1,
+      "resume": "A voté pour l'ensemble de la loi « Attal » visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants (CMP, scrutin n° 1624 du 13 mai 2025), qui prévoyait notamment d'écarter l'atténuation de responsabilité pour certains mineurs de 16 ans et plus ; vote sur un texte entier (règle : ±1) ; valeur inchangée.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
+      "date_source": "2025-05-13",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "sec_videosurveillance": {
+      "valeur": -1,
+      "resume": "A voté pour l'ensemble du projet de loi sur les JO 2030 (CMP, scrutin n° 5296 du 3 février 2026), dont l'article 35 prolonge jusqu'au 31 décembre 2027 l'expérimentation du traitement algorithmique des images de vidéoprotection ; vote sur un texte entier (règle : ±1), aucune déclaration propre trouvée.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5296",
+      "citation": "Scrutin public n°5296 sur l'ensemble du projet de loi relatif à l'organisation des jeux Olympiques et Paralympiques de 2030 (texte de la commission mixte paritaire).",
+      "date_source": "2026-02-03",
+      "confiance": "declaration",
+      "relu": false
+    },
     "imm_baisse": {
       "valeur": -2,
       "resume": "Position déduite du programme législatif du RN de 2024 : restriction et durcissement des conditions du regroupement familial, suppression du droit du sol et priorité nationale.",
@@ -119,12 +155,12 @@
     },
     "imm_ame": {
       "valeur": 2,
-      "resume": "Position déduite du programme législatif 2024 : remplacement de l'AME par une aide médicale d'urgence.",
-      "source": "https://lcp.fr/actualites/legislatives-2024-le-programme-du-rassemblement-national-en-matiere-d-immigration-a-l",
-      "citation": "Selon le programme de la formation de Marine le Pen, le remplacement de l' Aide médicale d'Etat (AME) en aide médicale d'urgence figurerait aussi dans ce paquet législatif.",
-      "date_source": "2024-06-28",
-      "confiance": "deduite",
-      "relu": true
+      "resume": "Le contre-budget 2026 du groupe RN qu'elle préside (présenté le 23 octobre 2025) prévoit la transformation de l'AME en aide médicale d'urgence (AMU) ; valeur inchangée.",
+      "source": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "citation": "Transformation de l’AME en AMU.",
+      "date_source": "2025-10-23",
+      "confiance": "programme",
+      "relu": false
     },
     "imm_regularisation": {
       "valeur": -2,
@@ -135,14 +171,32 @@
       "confiance": "declaration",
       "relu": true
     },
-    "eur_integration": {
+    "imm_droitdusol": {
       "valeur": 2,
-      "resume": "Position déduite : a renoncé à la sortie de l'UE et de l'euro mais veut retirer à Bruxelles l'essentiel de ses pouvoirs pour en faire une alliance de nations plus souple.",
-      "source": "https://fr.euronews.com/my-europe/2026/09/17/marine-le-pen-veut-elle-ou-non-organiser-un-referendum-sur-le-frexit-si-elle-est-elue",
-      "citation": "Lors de l'élection de 2022, elle a plutôt défendu l'idée de réformer en profondeur l'UE de l'intérieur, en retirant à Bruxelles l'essentiel de ses pouvoirs et en transformant le bloc en une alliance de nations plus souple.",
-      "date_source": "2026-09-17",
+      "resume": "Position déduite du programme 2022 : supprimer le droit du sol et limiter l'accès à la nationalité à la naturalisation.",
+      "source": "https://rassemblementnational.fr/22-mesures",
+      "citation": "Supprimer le droit du sol et limiter l’accès à la nationalité à la seule naturalisation sur des critères de mérite et d’assimilation.",
+      "date_source": "2022",
       "confiance": "deduite",
       "relu": true
+    },
+    "imm_preference": {
+      "valeur": 2,
+      "resume": "Pétition de campagne du RN « Logement : avec Marine Le Pen, appliquons la priorité nationale » (septembre 2026) demandant l'instauration de la priorité nationale dans l'accès au logement social ; valeur inchangée.",
+      "source": "https://rassemblementnational.fr/petition/logement-avec-marine-le-pen-appliquons-la-priorite-nationale/",
+      "citation": "Logement : avec Marine Le Pen, appliquons la priorité nationale. […] Instaurer la priorité nationale dans le logement n'est pas un acte d'exclusion. C'est un acte de justice élémentaire.",
+      "date_source": "2026-09",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "eur_integration": {
+      "valeur": 2,
+      "resume": "Cosignataire d'une proposition de résolution du groupe RN (septembre 2026) qui oppose l'intégration des politiques voulue par la Commission à la restitution aux États de la maîtrise des décisions, et choisit la seconde (texte portant sur Schengen et la politique migratoire) ; valeur inchangée.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3119_proposition-resolution.pdf",
+      "citation": "la seconde consiste à restituer aux États la maîtrise des décisions qui engagent leur corps social, en réservant à l’Union la fonction pour laquelle elle est utile : la tenue de la frontière extérieure et la coordination opérationnelle. La France se doit de porter la seconde.",
+      "date_source": "2026-09-10",
+      "confiance": "declaration",
+      "relu": false
     },
     "eur_primaute": {
       "valeur": 2,
@@ -160,6 +214,24 @@
       "citation": "“À partir de mon élection, durant six mois nous maintiendrons les aides [...] pour ne mettre personne au pied du mur. Mais après nous cesserons l'aide financière à l'Ukraine car nous n'avons plus les moyens de le faire\" , avait-elle déclaré.",
       "date_source": "2026-10-16",
       "confiance": "declaration",
+      "relu": true
+    },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "A déclaré qu'élue elle ferait sortir la France du commandement militaire intégré de l'OTAN, tout en restant dans l'Alliance.",
+      "source": "https://bdnews24.com/world/ae2775074f20",
+      "citation": "Far-right leader Marine Le Pen said on Friday she would withdraw France from NATO's integrated military command if elected president next year, a stance dismissed by Foreign Minister Jean-Noel Barrot as \"irresponsible\".",
+      "date_source": "2026-05-23",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": -2,
+      "resume": "Position déduite : un amendement de députés RN à l'actualisation de la loi de programmation militaire (avril 2026) visait « au minimum 3 % » du PIB pour la défense en 2030, rappelant que c'est le programme du RN depuis 2017.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2695/AN/565",
+      "citation": "Cette exigence est portée de longue date par le Rassemblement national, dont le programme prévoit depuis 2017 de porter l’effort de défense à minimum 3 % du PIB.",
+      "date_source": "2026-04-29",
+      "confiance": "deduite",
       "relu": true
     },
     "soc_medecins": {
@@ -181,13 +253,31 @@
       "relu": true
     },
     "soc_rsa": {
+      "valeur": 1,
+      "resume": "A voté contre l'ensemble du projet de loi pour le plein emploi en première lecture (scrutin n° 2717 du 10 octobre 2023), texte qui conditionne le RSA à quinze heures d'activité hebdomadaires ; vote sur un texte entier (règle : ±1), aucune déclaration propre trouvée sur les heures d'activité.",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2717",
+      "citation": "Scrutin public n°2717 sur l'ensemble du projet de loi pour le plein emploi (première lecture).",
+      "date_source": "2023-10-10",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "soc_100secu": {
       "valeur": null,
-      "resume": "Aucune position trouvée sur le conditionnement du RSA à des heures d'activité ; le programme RN conditionne surtout les prestations non contributives des étrangers à cinq ans de travail en France.",
+      "resume": "Aucune position publique trouvée.",
       "source": null,
       "citation": null,
       "date_source": null,
       "confiance": null,
       "relu": false
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "S'est opposée en 2019 à la réforme de l'assurance chômage et à la dégressivité des allocations, qualifiées de « coup de rabot » de la protection sociale ; le groupe RN a aussi critiqué les réductions de durée d'indemnisation en 2023-2024.",
+      "source": "https://www.publicsenat.fr/actualites/politique/assurance-chomage-le-pen-denonce-un-nouveau-coup-de-rabot-de-la-protection-sociale",
+      "citation": "a fustigé \"des processus de culpabilisation des Français, de surveillance des chômeurs, de dégressivité des indemnités chômage (qui) correspondent à une vision de réduction comptable\".",
+      "date_source": "2019-06-18",
+      "confiance": "declaration",
+      "relu": true
     },
     "edu_prive": {
       "valeur": null,
@@ -206,6 +296,33 @@
       "date_source": "2022",
       "confiance": "deduite",
       "relu": true
+    },
+    "edu_signes": {
+      "valeur": 2,
+      "resume": "Propose un référendum sur la lutte contre les « idéologies islamistes » incluant l'interdiction du voile dans l'espace public, règle générale qui couvre les parents accompagnateurs de sorties scolaires ; valeur inchangée.",
+      "source": "https://fr.euronews.com/my-europe/2026/09/17/marine-le-pen-veut-elle-ou-non-organiser-un-referendum-sur-le-frexit-si-elle-est-elue",
+      "citation": "Parmi ses propositions figurent un référendum sur la lutte contre les soi-disant \"idéologies islamistes\" […] qui inclurait l'interdiction du port du voile dans l'espace public",
+      "date_source": "2026-09-17",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "edu_etudiants": {
+      "valeur": 1,
+      "resume": "Position déduite du programme présidentiel 2022 (livret « Les jeunes ») : refuse un « RSA Jeunes » et propose plutôt un complément de revenu pour les étudiants qui travaillent, majoré pour les boursiers ; aucune allocation universelle proposée.",
+      "source": "https://rassemblementnational.fr/documents/projet/projet-la-jeunesse.pdf",
+      "citation": "Sortons des débats médiocres sur un « RSA Jeunes » ou sur une « Garantie Jeunes ». Récompensons maintenant, la jeunesse travailleuse de France.",
+      "date_source": "2022-02",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "edu_apprentissage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "ins_proportionnelle": {
       "valeur": -2,
@@ -234,123 +351,6 @@
       "confiance": "deduite",
       "relu": true
     },
-    "ecol_thermique2035": {
-      "valeur": -2,
-      "resume": "S'oppose à la fin des ventes de voitures thermiques neuves en 2035, qu'elle cite en 2023 comme exemple d'une politique qui n'est « pas une transition » mais « une destruction » ; ses députés ont fait supprimer en 2025 l'article national fixant cette échéance.",
-      "source": "https://www.linfodurable.fr/ecologie-pour-le-pen-le-plan-de-macron-nest-pas-une-transition-mais-une-destruction-41246",
-      "citation": "\"Ce n'est pas une transition, c'est une destruction pour l'instant\", a ajouté Mme Le Pen, prenant pour exemple \"la fin des moteurs thermiques en 2035\" décidée par l'Union européenne.",
-      "date_source": "2023-09-26",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "ecol_aerien": {
-      "valeur": 2,
-      "resume": "Opposée à la taxation des billets d'avion, qu'elle a qualifiée en 2019 d'« écologie punitive » et de moyen de « faire rentrer de l'argent dans les caisses » (déclaration ancienne, aucune prise de position plus récente trouvée).",
-      "source": "https://www.linfodurable.fr/ecotaxe-sur-les-billets-davion-une-mesure-cynique-pour-marine-le-pen-12451",
-      "citation": "La taxation des billets d'avion est \"une idée très cynique et particulièrement hypocrite\", a réagi la députée d'extrême droite dans les couloirs de l'Assemblée nationale.",
-      "date_source": "2019-07-09",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "sec_mineurs": {
-      "valeur": 1,
-      "resume": "Position déduite : Jordan Bardella a proposé en 2024 de « mettre un terme à l'excuse de minorité », sans préciser les âges concernés.",
-      "source": "https://vl-media.fr/cest-quoi-lexcuse-de-minorite-que-veut-supprimer-jordan-bardella/",
-      "citation": "Président du Rassemblement national, Jordan Bardella a affirmé ce mercredi matin sur le plateau de BFMTV, vouloir mettre un terme à “l’excuse de minorité”, ou dit “atténuation de responsabilité”, selon l’article 122-8 du Code pénal.",
-      "date_source": "2024-04-17",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": 2,
-      "resume": "Position déduite du programme 2022 : supprimer le droit du sol et limiter l'accès à la nationalité à la naturalisation.",
-      "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": "Supprimer le droit du sol et limiter l’accès à la nationalité à la seule naturalisation sur des critères de mérite et d’assimilation.",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "imm_preference": {
-      "valeur": 2,
-      "resume": "Position déduite du programme 2022 : priorité nationale d'accès au logement social et à l'emploi, et aides sociales réservées aux Français.",
-      "source": "https://rassemblementnational.fr/22-mesures",
-      "citation": "Réserver les aides sociales aux Français, et conditionner à 5 années de travail en France l’accès aux prestations de solidarité. Assurer la priorité nationale d’accès au logement social et à l’emploi.",
-      "date_source": "2022",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "eur_otan": {
-      "valeur": 2,
-      "resume": "A déclaré qu'élue elle ferait sortir la France du commandement militaire intégré de l'OTAN, tout en restant dans l'Alliance.",
-      "source": "https://bdnews24.com/world/ae2775074f20",
-      "citation": "Far-right leader Marine Le Pen said on Friday she would withdraw France from NATO's integrated military command if elected president next year, a stance dismissed by Foreign Minister Jean-Noel Barrot as \"irresponsible\".",
-      "date_source": "2026-05-23",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": -2,
-      "resume": "Position déduite : un amendement de députés RN à l'actualisation de la loi de programmation militaire (avril 2026) visait « au minimum 3 % » du PIB pour la défense en 2030, rappelant que c'est le programme du RN depuis 2017.",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2695/AN/565",
-      "citation": "Cette exigence est portée de longue date par le Rassemblement national, dont le programme prévoit depuis 2017 de porter l’effort de défense à minimum 3 % du PIB.",
-      "date_source": "2026-04-29",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "soc_100secu": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_chomage": {
-      "valeur": -2,
-      "resume": "S'est opposée en 2019 à la réforme de l'assurance chômage et à la dégressivité des allocations, qualifiées de « coup de rabot » de la protection sociale ; le groupe RN a aussi critiqué les réductions de durée d'indemnisation en 2023-2024.",
-      "source": "https://www.publicsenat.fr/actualites/politique/assurance-chomage-le-pen-denonce-un-nouveau-coup-de-rabot-de-la-protection-sociale",
-      "citation": "a fustigé \"des processus de culpabilisation des Français, de surveillance des chômeurs, de dégressivité des indemnités chômage (qui) correspondent à une vision de réduction comptable\".",
-      "date_source": "2019-06-18",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "edu_signes": {
-      "valeur": 2,
-      "resume": "Position déduite (2019) : a jugé le voile non souhaitable lors des sorties scolaires, et le RN veut étendre l'interdiction des signes religieux de la loi de 2004 à tout l'espace public.",
-      "source": "https://www.publicsenat.fr/actualites/politique/la-femme-voilee-prise-a-partie-est-une-militante-selon-marine-le-pen-146393",
-      "citation": "La dirigeante d'extrême droite s'est dite \"d'accord\" avec le ministre de l'Education Jean-Michel Blanquer, qui ne juge \"pas souhaitable\" le port du voile en sortie scolaire […] Le RN veut étendre la loi de 2004, qui interdit le port de signes religieux à l'école, à \"tout l'espace public\".",
-      "date_source": "2019-10-17",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "edu_etudiants": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur une allocation d'autonomie universelle ; le RN propose en 2026 une « prime d'activité étudiante » liée aux emplois étudiants et la suppression de la CVEC.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": -2,
       "resume": "Position déduite (campagne 2017) : proposait de réduire le Parlement à 300 députés et 200 sénateurs ; aucune déclaration récente vérifiée.",
@@ -367,6 +367,204 @@
       "citation": null,
       "date_source": null,
       "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 2,
+      "resume": "Position du Rassemblement national (programme des européennes 2024, pas une déclaration de la candidate) : moratoire sur la négociation de nouveaux accords de libre-échange par l'UE et réciprocité des normes pour les importations.",
+      "source": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+      "citation": "Un Pacte pour établir une concurrence extra-européenne loyale : - Instaurer un moratoire sur la négociation de nouveaux accords de libre-échange par l’UE.",
+      "date_source": "2024-05",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": -2,
+      "resume": "Position du Rassemblement national (programme du parti, pas une déclaration de la candidate) : exclure de l'assiette des droits de succession les biens immobiliers jusqu'à 300 000 euros et relever l'abattement sur les donations.",
+      "source": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+      "citation": "\"Pour ce qui est des droits de succession, sortiront de l'assiette de calcul, les biens immobiliers à hauteur de 300.000 euros\", précise sur son site le mouvement, qui veut aussi que \"les donations […] bénéficient d'un abattement de 100.000 euros tous les dix ans contre 15 aujourd'hui\".",
+      "date_source": "2026-08-27",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Position déduite du programme présidentiel 2022 (22 mesures) : renationaliser les sociétés d'autoroutes pour baisser les péages.",
+      "source": "https://rassemblementnational.fr/22-mesures",
+      "citation": "Renationaliser les autoroutes pour baisser de 15% les péages et privatiser l’audiovisuel public pour supprimer les 138€ de redevance.",
+      "date_source": "2022-03",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": -1,
+      "resume": "Position déduite du programme présidentiel 2022 (livret agriculture) : faciliter la création de réserves d'eau et de systèmes d'irrigation ; la source ne se prononce pas sur la réduction des prélèvements agricoles.",
+      "source": "https://rassemblementnational.fr/documents/projet/projet-l-agriculture.pdf",
+      "citation": "La création de réserves d’eau et la mise en place de systèmes d’irrigation adaptés aux enjeux environnementaux sont incontournables pour assurer l’avenir des productions agricoles d’une partie importante de notre pays.",
+      "date_source": "2022-03",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": 2,
+      "resume": "Position du groupe RN qu'elle préside à l'Assemblée (pas une déclaration de la candidate) : proposition de loi visant à abroger les zones à faibles émissions, examinée lors de la niche du groupe en octobre 2026.",
+      "source": "https://lcp.fr/actualites/zfe-le-rn-ne-parvient-pas-a-faire-voter-leur-suppression-lors-de-sa-niche-parlementaire",
+      "citation": "La proposition de loi du Rassemblement national visant à \"abroger les zones à faibles émissions-mobilités\" (ZFE) n'a pas été adoptée lors de la journée réservée aux textes du groupe de Marine Le Pen, ce jeudi 8 octobre",
+      "date_source": "2026-10-09",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": 2,
+      "resume": "Position du Rassemblement national (programme des législatives 2024, pas une déclaration de la candidate) : instituer une présomption de légitime défense pour les forces de l'ordre.",
+      "source": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+      "citation": "Instituer une présomption de légitime défense pour les forces de l’ordre",
+      "date_source": "2024-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": 2,
+      "resume": "Position du Rassemblement national (programme des législatives 2024, pas une déclaration de la candidate) : obligation de déposer les demandes d'asile dans les ambassades et consulats, donc hors du territoire.",
+      "source": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+      "citation": "Instaurer l’obligation de dépôt des demandes d’asile dans les ambassades et consulats",
+      "date_source": "2024-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": -2,
+      "resume": "Position déduite du programme présidentiel 2022 (livret immigration) : naturalisation soumise à des « conditions très strictes » et à une demande motivée, fin de l'acquisition automatique par mariage.",
+      "source": "https://rassemblementnational.fr/documents/projet/projet-controle-de-limmigration.pdf",
+      "citation": "La naturalisation sera encadrée par des conditions très strictes et devra faire l’objet […] d’une demande motivée des intéressés.",
+      "date_source": "2022-03",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": -2,
+      "resume": "Position déduite du programme présidentiel 2017 (144 engagements, copie hébergée par Astrid) : rétablissement progressif d'un service militaire obligatoire d'au moins trois mois ; non retrouvée dans les programmes 2022-2026.",
+      "source": "https://www.astrid-online.it/static/upload/proj/projet-presidentiel-marine-le-pen.pdf",
+      "citation": "le rétablissement progressif d’un service militaire (minimum obligatoire 3 mois).",
+      "date_source": "2017-02",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": 2,
+      "resume": "Estime que la dissuasion nucléaire doit rester française et ne pas être partagée, en réponse à la proposition d'ouvrir la discussion sur une dissuasion européenne.",
+      "source": "https://www.europe1.fr/international/la-france-ne-doit-pas-partager-sa-dissuasion-nucleaire-qui-doit-rester-francaise-estime-le-pen-666146",
+      "citation": "Pour Marine Le Pen, la dissuasion nucléaire de la France doit rester \"française\" et \"on ne doit pas la partager\".",
+      "date_source": "2025-03-01",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": 2,
+      "resume": "Position du Rassemblement national (programme des européennes 2024, pas une déclaration de la candidate) : refus de l'élargissement de l'UE aux Balkans, à la Turquie et à l'Ukraine.",
+      "source": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+      "citation": "Refuser l’élargissement de l’UE aux Balkans, à la Turquie et à l’Ukraine, qui ruinerait notre agriculture et exercerait une pression à la baisse sur le salaire des Français.",
+      "date_source": "2024-05",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": -1,
+      "resume": "Se dit favorable à une part de capitalisation « volontaire » dans le système de retraite, pour ceux qui le peuvent, sans la rendre obligatoire.",
+      "source": "https://www.europe1.fr/node/953651",
+      "citation": "Marine Le Pen s'est dite dimanche favorable à l'instauration d'une part de capitalisation \"volontaire\" dans le système des retraites \"pour ceux qui le peuvent\"",
+      "date_source": "2026-06-14",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": 2,
+      "resume": "Position déduite du programme présidentiel 2017 (copie hébergée par Astrid) : rétablir l'universalité des allocations familiales, réservées aux familles françaises.",
+      "source": "https://www.astrid-online.it/static/upload/proj/projet-presidentiel-marine-le-pen.pdf",
+      "citation": "Mettre en œuvre une vraie politique nataliste réservée aux familles françaises, en rétablissant l’universalité des allocations familiales et en maintenant leur indexation sur le coût de la vie.",
+      "date_source": "2017-02",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": 1,
+      "resume": "En 2017, jugeait que l'encadrement des loyers avait fait baisser les loyers mais n'était pas une solution à long terme ; aucune position plus récente trouvée.",
+      "source": "https://edito.seloger.com/presidentielle-2017/marine-le-pen-et-emmanuel-macron-encadrement-des-loyers-stop-ou-encore-article-17974.html",
+      "citation": "Cette dernière admet que l’encadrement des loyers a permis de faire baisser les loyers, mais pense que ce n’est pas une solution à long terme.",
+      "date_source": "2017-05-04",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": -2,
+      "resume": "En 2016, annonçait qu'elle mettrait immédiatement en œuvre la sélection à l'entrée de l'université ; aucune déclaration plus récente trouvée.",
+      "source": "https://www.letudiant.fr/educpros/actualite/presidentielle-2017-marine-le-pen-veut-autoriser-la-selection-a-l-universite.html",
+      "citation": "\"Mesure essentielle\", la sélection à l'université serait \"immédiatement mise en œuvre\" par Marine Le Pen si la candidate FN remportait la présidentielle 2017.",
+      "date_source": "2016-09-23",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": 0,
+      "resume": "Position déduite du programme présidentiel 2022 (livret école) : hausse de 3 % par an des salaires de tous les enseignants pendant cinq ans, et revalorisation du mérite dans le déroulement des carrières.",
+      "source": "https://rassemblementnational.fr/documents/projet/projet-l-ecole.pdf",
+      "citation": "les salaires des enseignants du primaire au lycée seront revalorisés de 3 % par an pendant 5 ans […] Revalorisation du mérite dans le déroulement des carrières.",
+      "date_source": "2022-03",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": 1,
+      "resume": "En 2017, disait qu'elle ne reviendrait pas sur l'interdiction du cumul pour les députés, tout en réfléchissant à une exception pour les sénateurs ; aucune déclaration plus récente trouvée.",
+      "source": "https://www.publicsenat.fr/actualites/non-classe/marine-le-pen-veut-reduire-le-nombre-de-deputes-et-un-senat-allege-52359",
+      "citation": "Marine Le Pen a aussi dit qu'elle ne \"reviendrait pas\" sur la loi de février 2014 interdisant à partir de 2017 le cumul de fonctions exécutives locales avec un mandat de député, de sénateur ou de député européen.",
+      "date_source": "2017-01-03",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": -2,
+      "resume": "Position déduite de la campagne présidentielle 2022 : instauration d'un septennat non renouvelable par révision constitutionnelle.",
+      "source": "https://www.publicsenat.fr/actualites/politique/septennat-non-renouvelable-une-proposition-qui-traverse-les-clivages-202357",
+      "citation": "La candidate RN a, à ce titre, proposé « l’instauration du septennat non renouvelable ».",
+      "date_source": "2022-04-12",
+      "confiance": "deduite",
       "relu": false
     }
   }

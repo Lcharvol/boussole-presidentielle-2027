@@ -7,16 +7,16 @@
   "programme": "partiel",
   "programme_url": "https://lafrancehumaineetforte.fr/manifeste.html",
   "mis_a_jour": "2026-10-21",
-  "notes": "Maire PS de Saint-Ouen-sur-Seine ; candidature annoncée le 9 juin 2026 sur France Inter. A refusé de participer à la primaire PS–Place publique (BFMTV, 26/08/2026) remportée par Raphaël Glucksmann le 11 octobre 2026 ; avait annoncé « faire le point fin octobre » (Sud Radio, 31/08/2026). Au 20/10/2026, aucune déclaration de retrait, de ralliement ou de maintien après la primaire n'a été trouvée ; son site de campagne (karimbouamrane2027.org) affiche toujours « Je suis candidat ». Statut à revérifier fin octobre 2026. Son manifeste énonce des orientations générales sans mesures chiffrées, d'où de nombreuses positions nulles.",
+  "notes": "Maire PS de Saint-Ouen-sur-Seine ; candidature annoncée le 9 juin 2026 sur France Inter. N'a pas participé à la primaire PS–Place publique (BFMTV, 26/08/2026 ; il se disait alors « plus que jamais candidat », Europe 1), remportée par Raphaël Glucksmann le 11 octobre 2026 avec 66 %. Au 21/10/2026, aucune déclaration de retrait ni de ralliement à Glucksmann n'a été trouvée ; son site de campagne (karimbouamrane2027.org) indique toujours qu'il « sera candidat » ; il avait annoncé « faire le point fin octobre » : statut à revérifier début novembre 2026. Son manifeste énonce des orientations générales sans mesures précises, d'où de nombreuses positions nulles.",
   "positions": {
     "eco_retraite": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": -1,
+      "resume": "Dit ne pas avoir validé la réforme des retraites d'Emmanuel Macron, tout en jugeant irréaliste la promesse d'une retraite à 60 ans ; ne précise pas l'âge légal qu'il retiendrait.",
+      "source": "https://www.lecourrierdelatlas.com/karim-bouamrane-rn-gauche-france-humaine-forte/",
+      "citation": "Je n’ai pas validé son projet sur les retraites, sa politique budgétaire…",
+      "date_source": "2026-06-09",
+      "confiance": "declaration",
+      "relu": true
     },
     "eco_smic": {
       "valeur": null,
@@ -81,6 +81,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -100,6 +118,24 @@
       "relu": false
     },
     "sec_cannabis": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_videosurveillance": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
@@ -135,6 +171,24 @@
       "confiance": null,
       "relu": false
     },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "eur_integration": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -156,6 +210,24 @@
     "eur_ukraine": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Son manifeste promet d'« augmenter l'effort de défense » sans objectif chiffré en % du PIB.",
       "source": null,
       "citation": null,
       "date_source": null,
@@ -189,123 +261,6 @@
       "confiance": null,
       "relu": false
     },
-    "edu_prive": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_autorite": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_proportionnelle": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_ric": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_6e": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Son manifeste promet d'« augmenter l'effort de défense » sans objectif chiffré en % du PIB.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -316,6 +271,24 @@
       "relu": false
     },
     "soc_chomage": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_prive": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_autorite": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
@@ -351,6 +324,33 @@
       "confiance": null,
       "relu": false
     },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_ric": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -361,6 +361,204 @@
       "relu": false
     },
     "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Le manifeste veut protéger les agriculteurs « sans leur imposer des règles » non exigées des producteurs étrangers, ce qui revient à demander les mêmes normes pour les importations ; il ne parle ni de nouveaux accords ni de droits de douane.",
+      "source": "https://lafrancehumaineetforte.fr/manifeste.html",
+      "citation": "Je veux une transition juste : qui rénove les logements des familles modestes, qui crée des emplois durables dans nos territoires, et qui protège nos agriculteurs, sans leur imposer des règles que nous refusons d'exiger de ceux qui nous nourrissent depuis l'étranger.",
+      "date_source": "2026-06",
+      "confiance": "programme",
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,

@@ -6,7 +6,7 @@
 
 # Boussole présidentielle 2027
 
-Un [skill Claude](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) qui vous pose de 12 à 40 questions sur les grands enjeux de la présidentielle française de 2027, puis vous montre de quels candidats vous êtes le plus proche, thème par thème, avec les sources de chaque position.
+Un [skill Claude](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) qui vous pose de 12 à 62 questions sur les grands enjeux de la présidentielle française de 2027, puis vous montre de quels candidats vous êtes le plus proche, thème par thème, avec les sources de chaque position.
 
 Le résultat mesure une **proximité avec des programmes**. Ce n'est pas une consigne de vote.
 
@@ -87,7 +87,7 @@ Vos réponses sont des opinions politiques : le skill les traite comme une donn�
 
 - La liste officielle des candidats ne sera connue qu'après la validation des parrainages par le Conseil constitutionnel. D'ici là, la liste suit les candidatures déclarées ou pressenties.
 - Beaucoup de programmes ne sont pas encore publiés : une partie des positions est donc déduite.
-- 40 enjeux ne résument pas un projet présidentiel. Lisez les programmes des candidats qui vous intéressent.
+- 62 enjeux ne résument pas un projet présidentiel. Lisez les programmes des candidats qui vous intéressent.
 - Les fiches ont été constituées par recherche documentaire assistée par IA, puis **relues une à une par un humain** (octobre 2026) : chaque position a une citation vérifiée et le champ `relu`. Les arbitrages de codage sont décrits dans [`references/mise-a-jour.md`](skills/boussole-presidentielle-2027/references/mise-a-jour.md). Des erreurs restent possibles : signalez-les (voir ci-dessous).
 
 ## Contribuer

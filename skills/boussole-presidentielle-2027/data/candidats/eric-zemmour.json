@@ -7,7 +7,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-21",
-  "notes": "A annoncé sur BFMTV le 17 septembre 2026 qu'il serait candidat (« Je serai candidat à la présidentielle ») ; son entourage annonçait une déclaration formelle à l'automne. Sarah Knafo, un temps évoquée, l'a présenté comme le candidat naturel et doit jouer un rôle majeur dans la campagne. Aucun programme 2027 publié : la plupart des positions sont déduites du programme présidentiel 2022 ; les déclarations de « Face à BFM » (17/09/2026) ont été vérifiées via des comptes rendus de presse (la page BFMTV n'a pas pu être consultée directement). Sources : https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html ; https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871 Au 20/10/2026, aucune déclaration formelle de candidature postérieure au 17/09/2026 n'a été trouvée.",
+  "notes": "A annoncé sur BFMTV le 17 septembre 2026 qu'il serait candidat (« Je serai candidat à la présidentielle ») ; son entourage annonçait une déclaration formelle à l'automne, probablement en octobre. Sarah Knafo, un temps évoquée, l'a présenté comme le candidat naturel et doit jouer un rôle majeur dans la campagne. Aucun programme 2027 publié au 21/10/2026 : Reconquête mène une consultation en ligne (« Le programme pour la France », leprogrammepourlafrance.fr, plateforme de Sarah Knafo). Plusieurs positions restent déduites du programme présidentiel 2022 ; celles sur le voile, les prestations aux étrangers, le chômage et l'orientation scolaire reposent désormais sur l'émission « Face à BFM » du 17/09/2026 (compte rendu BFMTV consulté le 21/10/2026). Au 21/10/2026, aucune déclaration formelle de candidature postérieure au 17/09/2026 n'a été trouvée (Europe 1 écrit le 07/10/2026 qu'il « n'a pas encore officialisé sa candidature » ; un cadre de Reconquête précise que Le Casse du siècle de Sarah Knafo « n'est pas un programme présidentiel »). Positions passées sur des sources 2026 : nucléaire, peines planchers, renouvelables (Zemmour) ; patrimoine et primauté du droit (livre de Sarah Knafo, en confiance déduite). Sources : https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html ; https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027 ; https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
   "positions": {
     "eco_retraite": {
       "valeur": 2,
@@ -37,11 +37,11 @@
       "relu": true
     },
     "eco_patrimoine": {
-      "valeur": 1,
-      "resume": "Position déduite du programme 2022 : maintien de l'IFI mais en retirant la résidence principale de son assiette ; pas de rétablissement de l'ISF.",
-      "source": "https://www.toutsurmesfinances.com/argent/a/eric-zemmour-programme",
-      "citation": "Concernant l’impôt sur la fortune, Éric Zemmour ne comptait pas supprimer l’impôt sur la fortune immobilière (IFI) […] En revanche, il entendait retirer purement et simplement la résidence principale de l’assiette de l’IFI.",
-      "date_source": "2022",
+      "valeur": 2,
+      "resume": "Position déduite de la ligne économique de Reconquête portée par Sarah Knafo (Le Casse du siècle, entretien au JDD) : refus de taxer davantage les grandes fortunes et suppression totale des droits de succession ; valeur passée de 1 (déduite 2022) à 2.",
+      "source": "https://www.lejdd.fr/politique/exclusif-le-casse-du-siecle-sarah-knafo-fait-le-proces-de-letat-depensier-182118",
+      "citation": "Quand la gauche taxe les riches , c’est toujours nous qui payons l’addition. […] Vous avez reproché à Bruno Retailleau sa timidité sur les droits de succession. Vous proposez de les supprimer totalement.",
+      "date_source": "2026-08-29",
       "confiance": "deduite",
       "relu": true
     },
@@ -56,20 +56,20 @@
     },
     "ecol_nucleaire": {
       "valeur": -2,
-      "resume": "Position déduite du programme 2022 : construction de 14 nouveaux EPR et remise en cause de la fermeture prévue de douze réacteurs.",
-      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
-      "citation": "Sa politique énergétique s’appuie fortement sur le nucléaire, « la voie du salut énergétique » : remise en cause de la fermeture prévue des douze réacteurs, création de 14 nouveaux EPR.",
-      "date_source": "2022-03-23",
-      "confiance": "deduite",
+      "resume": "Propose la relance du nucléaire avec six EPR d'ici à 2035 et quatorze d'ici à 2045 (discours de rentrée de Reconquête, 13/09/2026) ; valeur inchangée par rapport à la position déduite de 2022.",
+      "source": "https://www.europe1.fr/politique/presidentielle-2027-eric-zemmour-appelle-a-un-vote-du-sursaut-lors-de-son-discours-de-rentree-1075178",
+      "citation": "Il a détaillé plusieurs mesures : des investissements massifs dans l'IA, une électricité française qui \"cessera d'être bradée\", et la relance du nucléaire avec la création de six EPR d'ici à 2035 et quatorze d'ici à 2045.",
+      "date_source": "2026-09-13",
+      "confiance": "declaration",
       "relu": true
     },
     "ecol_renouvelables": {
-      "valeur": -2,
-      "resume": "Position déduite du programme 2022 : interdiction de tout nouveau projet éolien terrestre et en mer, gel des projets en mer et réorientation du soutien public de l'éolien et du solaire vers les renouvelables thermiques.",
-      "source": "https://www.linfodurable.fr/politique/le-programme-ecolo-deric-zemmour-31380",
-      "citation": "- Interdire tout nouveau projet de construction d’éoliennes sur terre et en mer. - Geler les projets en cours d’éolien en mer.",
-      "date_source": "2022-03",
-      "confiance": "deduite",
+      "valeur": -1,
+      "resume": "Cite « l'aide aux énergies renouvelables » parmi les dépenses publiques à supprimer (CNews, 19/05/2026), sans reprendre l'interdiction des nouveaux projets éoliens de 2022 ; valeur passée de -2 (déduite) à -1.",
+      "source": "https://www.cnews.fr/france/2026-05-19/immigration-negative-erreur-de-la-binationalite-rassemblement-national-ce-quil",
+      "citation": "Le président de Reconquête a ainsi plaidé pour une baisse de 100 milliards de dépenses de l’État par an, citant «l’aide aux énergies renouvelables» et «la politique de la Ville».",
+      "date_source": "2026-05-19",
+      "confiance": "declaration",
       "relu": true
     },
     "ecol_normes": {
@@ -81,13 +81,31 @@
       "confiance": "deduite",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": -1,
+      "resume": "Position déduite (2022) : jugeait que le calendrier européen de fin des moteurs thermiques en 2035 avait été décidé « sans concertation » et devait être renégocié.",
+      "source": "https://journalauto.com/services/presidentielle-2022-eric-zemmour-r-jai-lintime-conviction-que-la-voiture-va-evoluer-avec-son-temps-et-perdurer/",
+      "citation": "Ce calendrier a été décidé sans concertation avec les constructeurs. Il faudra renégocier ce calendrier européen car en l’état, il implique trop d’abandons pour nos constructeurs.",
+      "date_source": "2022-03-24",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": -2,
-      "resume": "Position déduite du programme 2022 : peines planchers pour chaque crime et délit, perpétuité réelle et réduction drastique des remises de peine.",
-      "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
-      "citation": "1. Instaurer des peines planchers pour chaque crime et délit",
-      "date_source": "2022",
-      "confiance": "deduite",
+      "resume": "Propose d'instaurer des peines planchers et de réduire le rôle du juge d'application des peines (Europe 1/CNews, 19/05/2026) ; valeur inchangée par rapport à la position déduite de 2022.",
+      "source": "https://www.europe1.fr/police-justice/la-france-en-face-nous-sommes-dans-une-france-mexicanisee-regrette-eric-zemmour-936437",
+      "citation": "Eric Zemmour propose d' instaurer des \"peines planchers \" et de réduire le rôle du juge d'application des peines. \"Il faut qu'ils aillent en prison, qu'ils restent en prison\", a-t-il affirmé.",
+      "date_source": "2026-05-19",
+      "confiance": "declaration",
       "relu": true
     },
     "sec_prisons": {
@@ -107,6 +125,24 @@
       "date_source": "2022-02-01",
       "confiance": "deduite",
       "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : abaisser l'âge de la majorité pénale de 18 à 16 ans.",
+      "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
+      "citation": "6. Abaisser l’âge de la majorité pénale de 18 à 16 ans",
+      "date_source": "2022-02-15",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "imm_baisse": {
       "valeur": -2,
@@ -135,6 +171,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "imm_droitdusol": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : suppression du droit du sol.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "citation": "suppression de l’aide médicale d’Etat, suppression du droit du sol, expulsion de tous les étrangers fichés S et étrangers délinquants.",
+      "date_source": "2022-03-23",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": 2,
+      "resume": "Propose de supprimer les aides personnalisées au logement (APL) pour les étrangers, une réservation fondée sur la nationalité.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
+      "citation": "\"Nous, avec Sarah Knafo, nous voulons faire 140 milliards d'euros de baisses\" sur les dépenses de l'État, précise-t-il encore, évoquant par exemple la suppression des APL pour les personnes étrangères",
+      "date_source": "2026-09-17",
+      "confiance": "declaration",
+      "relu": true
+    },
     "eur_integration": {
       "valeur": 2,
       "resume": "Position déduite du programme 2022 : référendum obligatoire pour toute ratification de traité et supériorité des lois nationales sur les textes européens.",
@@ -146,10 +200,10 @@
     },
     "eur_primaute": {
       "valeur": 2,
-      "resume": "Position déduite du programme 2022 : révision de l'article 55 de la Constitution pour instaurer la « supériorité des nouvelles lois nationales sur tous les textes internationaux et européens ».",
-      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
-      "citation": "L’ancien journaliste préconise également une inversion de la hiérarchie des normes en instaurant la « supériorité des nouvelles lois nationales sur tous les textes internationaux et européens » par la révision de l’article 55 de la Constitution.",
-      "date_source": "2022-03-23",
+      "resume": "Position déduite du livre de Sarah Knafo (Le Casse du siècle, 2026), chargée du volet économique de la campagne : fixer des ultimatums à Bruxelles et cesser d'appliquer les règles européennes contraires aux intérêts français ; valeur inchangée par rapport à la position déduite de 2022.",
+      "source": "https://lediplomate.media/recension-casse-siecle-sarah-knafo-propose/",
+      "citation": "L’Europe nous empêchera ? Elle propose de fixer des ultimatums à Bruxelles et, le cas échéant, de cesser d’appliquer les règles qui nuisent aux intérêts français.",
+      "date_source": "2026-10-16",
       "confiance": "deduite",
       "relu": true
     },
@@ -161,6 +215,24 @@
       "date_source": "2026-09-17",
       "confiance": "declaration",
       "relu": true
+    },
+    "eur_otan": {
+      "valeur": 2,
+      "resume": "Position déduite (campagne 2022) : voulait faire sortir la France du commandement intégré de l'OTAN, au nom de l'autonomie stratégique.",
+      "source": "https://www.publicsenat.fr/actualites/politique/otan-les-propositions-des-candidats-a-la-presidentielle-200136",
+      "citation": "Même son de cloche à droite, où Éric Zemmour et Nicolas Dupont-Aignan, qui citent la décision de Charles de Gaulle de 1966. Ils veulent quitter le commandement intégré de l’organisation.",
+      "date_source": "2022-03-25",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": null,
+      "resume": "Aucune position exprimée en pourcentage du PIB ; son programme 2022 visait un budget de la défense de 70 milliards d'euros en 2030.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "soc_medecins": {
       "valeur": 2,
@@ -189,6 +261,24 @@
       "confiance": null,
       "relu": false
     },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_chomage": {
+      "valeur": 1,
+      "resume": "Prône « une réforme massive des allocations chômage pour une reprise plus rapide » du travail, dans le cadre d'une réduction de « l'assistanat », sans détailler les paramètres de l'indemnisation.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
+      "citation": "prônant de \"réduire l'assistanat\", comme le plafonnement à trois ans du RSA, ou \"une réforme massive des allocations chômage pour une reprise plus rapide.\"",
+      "date_source": "2026-09-17",
+      "confiance": "declaration",
+      "relu": true
+    },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique trouvée sur le financement de l'enseignement privé sous contrat.",
@@ -204,6 +294,33 @@
       "source": "https://www.cnews.fr/france/2023-09-10/eric-zemmour-il-est-plus-que-temps-dimposer-luniforme-lecole-1395112",
       "citation": "«Il est plus que temps d’imposer, et non pas d’expérimenter, l’uniforme à l’école», a-t-il préconisé. […] et souhaite également instaurer les classes de niveau",
       "date_source": "2023-09-10",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "edu_signes": {
+      "valeur": 2,
+      "resume": "Veut interdire le voile et la kippa dans l'espace public, règle générale qui couvre les parents accompagnateurs de sorties scolaires.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
+      "citation": "Éric Zemmour veut l'interdiction du voile et de la kippa dans l'espace public",
+      "date_source": "2026-09-17",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_apprentissage": {
+      "valeur": 1,
+      "resume": "Propose la fin du collège unique et une orientation précoce vers les emplois manuels, sans fixer d'âge pour l'apprentissage.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
+      "citation": "suggérant la fin du collège unique et \"une orientation précoce\" vers \"les emplois manuels\"",
+      "date_source": "2026-09-17",
       "confiance": "declaration",
       "relu": true
     },
@@ -234,123 +351,6 @@
       "confiance": null,
       "relu": false
     },
-    "ecol_thermique2035": {
-      "valeur": -1,
-      "resume": "Position déduite (2022) : jugeait que le calendrier européen de fin des moteurs thermiques en 2035 avait été décidé « sans concertation » et devait être renégocié.",
-      "source": "https://journalauto.com/services/presidentielle-2022-eric-zemmour-r-jai-lintime-conviction-que-la-voiture-va-evoluer-avec-son-temps-et-perdurer/",
-      "citation": "Ce calendrier a été décidé sans concertation avec les constructeurs. Il faudra renégocier ce calendrier européen car en l’état, il implique trop d’abandons pour nos constructeurs.",
-      "date_source": "2022-03-24",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": 2,
-      "resume": "Position déduite du programme 2022 : abaisser l'âge de la majorité pénale de 18 à 16 ans.",
-      "source": "https://www.lemondedudroit.fr/decryptages/79916-presidentielle-2022-quelles-sont-les-propositions-d-eric-zemmour-en-matiere-de-justice.html",
-      "citation": "6. Abaisser l’âge de la majorité pénale de 18 à 16 ans",
-      "date_source": "2022-02-15",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": 2,
-      "resume": "Position déduite du programme 2022 : suppression du droit du sol.",
-      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
-      "citation": "suppression de l’aide médicale d’Etat, suppression du droit du sol, expulsion de tous les étrangers fichés S et étrangers délinquants.",
-      "date_source": "2022-03-23",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "imm_preference": {
-      "valeur": 2,
-      "resume": "Position déduite du programme 2022 : suppression des aides sociales non contributives aux étrangers extra-européens et interdiction d'accès des étrangers aux logements sociaux.",
-      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
-      "citation": "Éric Zemmour Président, la loi SRU sera abrogée et les étrangers interdits d’accès aux logements sociaux.",
-      "date_source": "2022-03-23",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "eur_otan": {
-      "valeur": 2,
-      "resume": "Position déduite (campagne 2022) : voulait faire sortir la France du commandement intégré de l'OTAN, au nom de l'autonomie stratégique.",
-      "source": "https://www.publicsenat.fr/actualites/politique/otan-les-propositions-des-candidats-a-la-presidentielle-200136",
-      "citation": "Même son de cloche à droite, où Éric Zemmour et Nicolas Dupont-Aignan, qui citent la décision de Charles de Gaulle de 1966. Ils veulent quitter le commandement intégré de l’organisation.",
-      "date_source": "2022-03-25",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Aucune position exprimée en pourcentage du PIB ; son programme 2022 visait un budget de la défense de 70 milliards d'euros en 2030.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_100secu": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_chomage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_signes": {
-      "valeur": 2,
-      "resume": "Position déduite du programme 2022 : interdiction du port du voile dans l'espace public.",
-      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
-      "citation": "Le port du voile dans l’espace public sera interdit tout comme les « mosquées imposantes » et les financements étrangers.",
-      "date_source": "2022-03-23",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "edu_etudiants": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
@@ -363,6 +363,204 @@
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Juge l'accord UE-Mercosur « catastrophique dans le contexte actuel » pour l'agriculture française ; aucune position trouvée sur les protections commerciales européennes en général.",
+      "source": "https://www.sudradio.fr/sud-radio/eric-zemmour-avec-le-mercosur-on-importera-des-produits-de-merde",
+      "citation": "Le Mercosur, on pourrait discuter, mais c'est catastrophique dans le contexte actuel.",
+      "date_source": "2026-01-08",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : franchise de droits de transmission jusqu'à 200 000 euros par enfant au décès et doublement de l'abattement sur les donations aux enfants.",
+      "source": "https://www.toutsurmesfinances.com/argent/a/eric-zemmour-programme",
+      "citation": "l’ancien journaliste proposait également « une franchise pour ne pas payer de droits de transmission, quand il y a un décès, jusqu’à 200.000 euros par enfant »",
+      "date_source": "2022-03-10",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : fin des zones à faibles émissions.",
+      "source": "https://www.toutsurmesfinances.com/argent/a/eric-zemmour-programme",
+      "citation": "la fin des zones à faibles émissions (ZFE) qui empêchent la circulation en ville des voitures les plus polluantes, faute de vignette « Crit’Air » (programme de campagne)",
+      "date_source": "2022-03-10",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : présomption de légitime défense pour les forces de l'ordre et « défense excusable » pour les citoyens.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme",
+      "citation": "Sur le volet sécurité, Éric Zemmour a rappelé sa proposition d’accorder aux forces de l’ordre « une présomption de légitime défense », et « l’instauration de la défense excusable » pour les citoyens qui font usage de leurs armes.",
+      "date_source": "2022-03-23",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": -1,
+      "resume": "Position déduite du programme 2022 : généraliser progressivement l'armement obligatoire des polices municipales ; la source ne compare pas avec la police nationale.",
+      "source": "https://www.maire-info.com/election-presidentielle/eric-zemmour-veut-rationaliser-le-processus-de-decentralisation-art26-26268",
+      "citation": "Il veut « généraliser progressivement l’armement obligatoire des polices municipales ».",
+      "date_source": "2022-03-30",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": 2,
+      "resume": "Estime que des chômeurs, orientés plus tôt vers les emplois manuels, devraient occuper les emplois tenus par des travailleurs immigrés, ces derniers n'étant gardés que temporairement avec des contrats courts.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
+      "citation": "Le fondateur de Reconquête a ensuite déclaré que \"des millions de chômeurs mal formés devraient travailler à la place des 50.000 immigrés\", suggérant la fin du collège unique et \"une orientation précoce\" vers \"les emplois manuels\"",
+      "date_source": "2026-09-17",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : dépôt des demandes d'asile auprès des services consulaires français hors du territoire national, et limitation à une centaine de bénéficiaires par an.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-que-proposent-les-candidats-sur-l-immigration-201088",
+      "citation": "Le candidat propose que les demandes d’asile soient déposées auprès des services consulaires français en dehors du territoire national « pour éviter l’installation des déboutés qui ne repartent jamais. »",
+      "date_source": "2022-04-01",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 de Reconquête : durée de résidence portée à 10 ans, « parfaite maîtrise de la langue » et absence de condamnation exigées pour la naturalisation.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-que-proposent-les-candidats-sur-l-immigration-201088",
+      "citation": "Le programme du parti « Reconquête » envisage […] un durcissement des conditions de naturalisation en augmentant la durée de résidence à 10 ans et exige des candidats à la citoyenneté française, « une parfaite maîtrise de la langue, une assimilation réelle […] »",
+      "date_source": "2022-04-01",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": -2,
+      "resume": "Se prononce pour l'introduction progressive de la capitalisation et une sortie progressive du système par répartition.",
+      "source": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-immigration-voile-marine-le-pen-ce-qu-il-faut-retenir-de-l-interview-d-eric-zemmour-sur-bfmtv_AV-202609170966.html",
+      "citation": "\"Il fallait faire les fonds de pension en 86. On va progressivement mettre de la capitalisation et on va progressivement sortir de la répartition mais je reconnais que ça va prendre très longtemps.\"",
+      "date_source": "2026-09-17",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": 2,
+      "resume": "Position déduite du programme 2022 : versement des allocations familiales sans condition de ressources (« universalité de la politique familiale »).",
+      "source": "https://www.toutsurmesfinances.com/argent/a/eric-zemmour-programme",
+      "citation": "Le candidat de Reconquête !, qui considère que « les allocations familiales ne doivent plus être versées sous conditions de ressources », envisageait aussi de doubler le plafond du quotient familial",
+      "date_source": "2022-03-10",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": -2,
+      "resume": "Position déduite du programme 2022 : rétablir le cumul des mandats en autorisant à nouveau les maires à être parlementaires.",
+      "source": "https://www.maire-info.com/election-presidentielle/eric-zemmour-veut-rationaliser-le-processus-de-decentralisation-art26-26268",
+      "citation": "Éric Zemmour souhaite rétablir le cumul des mandats et « redonner un ancrage local aux parlementaires en autorisant à nouveau les maires à exercer un mandat parlementaire ».",
+      "date_source": "2022-03-30",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,

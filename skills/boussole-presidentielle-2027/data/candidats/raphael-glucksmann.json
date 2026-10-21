@@ -7,7 +7,7 @@
   "programme": "non publié",
   "programme_url": null,
   "mis_a_jour": "2026-10-21",
-  "notes": "Candidature annoncée le 23 août 2026 ; vainqueur dès le 1er tour (66,17 %) de la primaire PS–Place publique des 10-11 octobre 2026 (LCP, 11/10/2026), candidat commun PS, Place publique et Gauche républicaine et socialiste. Aucun programme de candidat publié au 20 octobre 2026 (le plan « 100 jours de la révolution écologique » annoncé fin août n'est pas paru). Les positions tirées d'« Acte I – notre vision pour la France », projet de Place publique de juin 2025 (https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i), antérieur à la candidature, sont marquées « deduite » ; celles réaffirmées en 2025-2026 citent la déclaration correspondante.",
+  "notes": "Candidature annoncée le 23 août 2026 ; vainqueur dès le 1er tour (66,17 %) de la primaire PS–Place publique des 10-11 octobre 2026 (LCP, 11/10/2026), candidat commun PS, Place publique et Gauche républicaine et socialiste. Aucun programme de candidat publié au 21 octobre 2026 (le plan « 100 jours de la révolution écologique » annoncé fin août n'est pas paru). Lors du dernier débat de la primaire (BFMTV, 4 octobre 2026), il a promis d'abroger la réforme des retraites de 2023 (« ce sera 62 ans »), de « renforcer » l'aide à l'Ukraine et de régulariser les travailleurs sans papiers. Les positions tirées d'« Acte I – notre vision pour la France », projet de Place publique de juin 2025 (https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i), antérieur à la candidature, sont marquées « deduite » ; celles réaffirmées en 2025-2026 citent la déclaration correspondante. Au 21 octobre 2026, aucun programme présidentiel ni plan des « 100 jours » n'est paru (seules sources : livre « Nous avons encore envie », mai 2026, et déclarations de campagne).",
   "positions": {
     "eco_retraite": {
       "valeur": 0,
@@ -29,11 +29,11 @@
     },
     "eco_depenses": {
       "valeur": 1,
-      "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : le texte mise sur la suppression des dépenses inefficaces et des niches fiscales injustifiées, la contribution des ultra-riches et un « réinvestissement stratégique de la puissance publique », sans priorité à une forte baisse des dépenses.",
-      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
-      "citation": "Libérer des marges de manœuvre en supprimant les dépenses inefficaces, en éliminant les niches fiscales injustifiées en réformant les systèmes conduisant à des dépenses superflues et en faisant contribuer les ultra-riches à la solidarité nationale.",
-      "date_source": "2025-06",
-      "confiance": "deduite",
+      "resume": "Pour les finances publiques, met en avant la taxation des très grosses successions, des multinationales et des superprofits, tout en estimant que l'État doit « montrer l'exemple » ; une partie des recettes doit financer une baisse de la CSG sur les salaires.",
+      "source": "https://www.franceinfo.fr/politique/direct-presidentielle-les-candidats-a-la-primaire-ps-place-publique-se-preparent-a-leur-dernier-debat-avant-le-scrutin-qui-les-departagera_8222140.html",
+      "citation": "\"Taxation des méga-successions et des méga héritages, taxation des multinationales et des superprofits, énumère Raphaël Glucksmann, interrogé sur la \"révolution fiscale\" que provoquerait l'arrivée de la gauche au pouvoir.",
+      "date_source": "2026-10-04",
+      "confiance": "declaration",
       "relu": true
     },
     "eco_patrimoine": {
@@ -81,6 +81,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": -2,
+      "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : suppression des exonérations de TVA et de taxe sur le kérosène et taxation des « plus gros pollueurs individuels (jets privés, yachts, SUV…) ».",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Mettre fin aux privilèges actuels des transports polluants : suppression des exonérations de TVA et de taxe sur le kérosène, étendre l’interdiction des vols intérieurs avec alternative ferroviaire viable, taxation des plus gros pollueurs individuels (jets privés, yachts, SUV…)",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": true
+    },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -107,6 +125,24 @@
       "date_source": "2025-06",
       "confiance": "deduite",
       "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
     },
     "imm_baisse": {
       "valeur": 0,
@@ -135,6 +171,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "imm_droitdusol": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_preference": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "eur_integration": {
       "valeur": -2,
       "resume": "Propose un plan pour la souveraineté européenne, un grand emprunt européen et la suppression du droit de veto dans l'UE.",
@@ -146,20 +200,38 @@
     },
     "eur_primaute": {
       "valeur": -2,
-      "resume": "Position déduite d'« Acte I », projet de Place publique (juin 2025) : projet explicitement fédéraliste (« Pour une Europe fédérale », nouveau traité de refondation de l'UE), à l'opposé d'une primauté du droit national ou d'une sortie des traités.",
-      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
-      "citation": "Porter d’ici 2030 un grand traité de réunification européenne qui sera aussi un traité de refondation institutionnelle, clarifiant et démocratisant le fonctionnement de l’Union passant à la majorité qualifiée au Conseil européen […]",
-      "date_source": "2025-06",
-      "confiance": "deduite",
+      "resume": "Dans ses réponses écrites au Grand Continent pendant la primaire, dit qu'il assumera « un bond fédéral de la construction européenne », en confrontation avec la vision du RN, avec passage à la majorité qualifiée ; la valeur (-2) est inchangée par rapport à la position déduite d'Acte I.",
+      "source": "https://legrandcontinent.eu/fr/2026/10/06/quelle-geopolitique-pour-la-primaire-socialiste/",
+      "citation": "j’assumerai un bond fédéral de la construction européenne. Je le mettrai au cœur de cette campagne, dans une confrontation radicale avec la vision du RN. Il faut d’abord en finir avec la règle qui permet à un seul État de bloquer les vingt-six autres.",
+      "date_source": "2026-10-06",
+      "confiance": "declaration",
       "relu": true
     },
     "eur_ukraine": {
       "valeur": -2,
-      "resume": "« Acte I », projet de Place publique (juin 2025), prévoit d'« augmenter drastiquement l'aide militaire à l'Ukraine » ; en 2026, franceinfo le cite parmi les trois candidats qui défendent l'aide à l'Ukraine dans la campagne.",
-      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
-      "citation": "Augmenter drastiquement l’aide militaire à l’Ukraine qui est notre première ligne de défense et notre soutien aux alliés européens comme la Moldavie et l’Arménie.",
-      "date_source": "2025-06",
-      "confiance": "deduite",
+      "resume": "Demande d'accroître l'aide militaire à l'Ukraine et de protéger son ciel, et propose de saisir les avoirs publics russes pour financer ce soutien.",
+      "source": "https://lcp.fr/actualites/accord-avec-lfi-moyen-orient-pouvoir-d-achat-ce-qu-il-faut-retenir-du-premier-debat-de",
+      "citation": "Comme attendu, Raphaël Glucksmann porte la ligne la plus offensive à l'égard de la Russie. Il demande une aide militaire accrue et la protection du ciel ukrainien",
+      "date_source": "2026-09-23",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_defense3": {
+      "valeur": -1,
+      "resume": "Eurodéputé, a voté pour (vote par appel nominal du 17 décembre 2025, d'après howtheyvote.eu/votes/182510) la résolution du Parlement européen « European Defence Readiness 2030 », qui appelle les États membres à augmenter leurs dépenses de défense conformément à l'engagement OTAN de 5 % du PIB d'ici 2035 ; vote sur un texte entier, d'où -1.",
+      "source": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1880951",
+      "citation": "the resolution called for a unified commitment among the Member States to boost defence spending in line with the outcomes of the 2025 NATO The Hague Summit, where NATO allies made a commitment to invest 5 % of GDP annually on core defence requirements […] by 2035.",
+      "date_source": "2025-12-17",
+      "confiance": "declaration",
       "relu": true
     },
     "soc_medecins": {
@@ -189,6 +261,24 @@
       "confiance": null,
       "relu": false
     },
+    "soc_100secu": {
+      "valeur": 1,
+      "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : le texte maintient l'articulation entre assurance maladie obligatoire et complémentaires santé, dont il propose de mutualiser les systèmes d'information.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Mutualiser les systèmes d’information entre assurance maladie obligatoire et complémentaires santé, afin de limiter les frais de fonctionnement du double système et simplifier les remboursements pour les patients.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : « Abroger la réforme Macron de l'assurance chômage, injuste et inefficace ».",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Abroger la réforme Macron de l’assurance chômage, injuste et inefficace.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": true
+    },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée (vérification du 20/10/2026 : vidéo du débat sans transcription consultable, aucune source écrite sur le financement du privé).",
@@ -199,6 +289,33 @@
       "relu": false
     },
     "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position trouvée ; « Acte I » (juin 2025) veut « garantir la laïcité à l'école » sans évoquer les accompagnateurs de sorties scolaires.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position trouvée sur une allocation d'autonomie étudiante ; « Acte I » (juin 2025) propose de réinventer les bourses et d'étudier un « capital formation universel ».",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
@@ -234,123 +351,6 @@
       "confiance": "deduite",
       "relu": true
     },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": -2,
-      "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : suppression des exonérations de TVA et de taxe sur le kérosène et taxation des « plus gros pollueurs individuels (jets privés, yachts, SUV…) ».",
-      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
-      "citation": "Mettre fin aux privilèges actuels des transports polluants : suppression des exonérations de TVA et de taxe sur le kérosène, étendre l’interdiction des vols intérieurs avec alternative ferroviaire viable, taxation des plus gros pollueurs individuels (jets privés, yachts, SUV…)",
-      "date_source": "2025-06",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_otan": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Aucun objectif en % du PIB trouvé ; « Acte I » (juin 2025) propose un fonds européen de défense de 500 milliards d'euros financé par emprunt commun.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_100secu": {
-      "valeur": 1,
-      "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : le texte maintient l'articulation entre assurance maladie obligatoire et complémentaires santé, dont il propose de mutualiser les systèmes d'information.",
-      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
-      "citation": "Mutualiser les systèmes d’information entre assurance maladie obligatoire et complémentaires santé, afin de limiter les frais de fonctionnement du double système et simplifier les remboursements pour les patients.",
-      "date_source": "2025-06",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "soc_chomage": {
-      "valeur": -2,
-      "resume": "Position déduite des « 42 chantiers » d'« Acte I », projet de Place publique (juin 2025) : « Abroger la réforme Macron de l'assurance chômage, injuste et inefficace ».",
-      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
-      "citation": "Abroger la réforme Macron de l’assurance chômage, injuste et inefficace.",
-      "date_source": "2025-06",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "edu_signes": {
-      "valeur": null,
-      "resume": "Aucune position trouvée ; « Acte I » (juin 2025) veut « garantir la laïcité à l'école » sans évoquer les accompagnateurs de sorties scolaires.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_etudiants": {
-      "valeur": null,
-      "resume": "Aucune position trouvée sur une allocation d'autonomie étudiante ; « Acte I » (juin 2025) propose de réinventer les bourses et d'étudier un « capital formation universel ».",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -361,6 +361,204 @@
       "relu": false
     },
     "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": 1,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) prévoit un « protectionnisme ciblé », des clauses de protection et l'opposition aux traités comme le Mercosur.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "s’opposer aux traités comme le Mercosur qui placent nos éleveurs dans une situation injuste et intenable.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": 2,
+      "resume": "Propose de taxer davantage les « méga-héritages », soit les 1 % les plus gros, en indiquant que 99 % des héritages ne seraient pas concernés.",
+      "source": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+      "citation": "Lors de sa déclaration de candidature, Raphaël Glucksmann (Place publique) a, lui, indiqué qu'il voulait \"taxer les méga-héritages\", \"les 1% les plus gros\". \"99% des héritages ne seront pas affectés\"",
+      "date_source": "2026-08-27",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": -2,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) prévoit de défendre les objectifs du « zéro artificialisation nette », avec une approche moins comptable.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Défendre résolument les objectifs du Zéro Artificialisation Nette des sols (ZAN) en évaluant mieux les impacts en amont et en sortant d’une logique purement comptable",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": 1,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) refuse les « méga-bassines » et prévoit de rééquilibrer et planifier les usages de l'eau, sans chiffrer une baisse des prélèvements agricoles.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Faire de l’eau un enjeu démocratique en rééquilibrant ses usages- agriculture, industrie, énergie- en planifiant les prélèvements, en modernisant les infrastructures. Refuser les méga-bassines au profit de solutions locales réfléchies avec les agriculteurs",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": -2,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) prévoit de généraliser les récépissés de contrôle d'identité.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Généraliser les récépissés de contrôle d’identité.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": 1,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) prévoit de renforcer les capacités de la police nationale et de cantonner la police municipale à la proximité et à la prévention.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Revoir l’architecture de la Police avec pour la police nationale, la suppression de l’échelon zonal inutile et coûteux, afin de renforcer les capacités opérationnelles réelles […]. Réaffirmer le rôle de la police municipale, centré sur la proximité et la prévention.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": -1,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) cite l'immigration légale de travail parmi les moyens d'accroître le nombre de cotisants, avec l'insertion des seniors et l'entrée des jeunes sur le marché du travail.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Porter un plan pour accroître le nombre de cotisants avec une meilleure insertion des seniors, l’immigration légale de travail ou la facilitation de la primo-entrée dans le monde du travail.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": -2,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) refuse l'externalisation des politiques migratoires et d'asile et propose un mécanisme européen de répartition.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Harmoniser au sein de l’Union Européenne les procédures d’asile et établir un mécanisme européen de répartition cohérent qui mettra fin au système de Dublin, refuser l’externalisation de nos politiques migratoires et d’asile.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": 2,
+      "resume": "Propose un service civique obligatoire de dix mois pour les jeunes, dont la dimension militaire resterait fondée sur le volontariat.",
+      "source": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "citation": "Raphaël Glucksmann propose également d'instaurer un service civique obligatoire de dix mois pour toutes les jeunes Français. […] La dimension militaire de ce service resterait basée sur le volontariat.",
+      "date_source": "2026-05-26",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": -2,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) propose d'étendre la dissuasion nucléaire française aux autres pays de l'UE, la France gardant la décision d'emploi.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Proposer à nos partenaires de l’UE d’étendre la dissuasion nucléaire française aux autres pays de l’Union européenne, en conservant la souveraineté française sur la décision d’emploi",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": -1,
+      "resume": "S'est dit favorable en 2024 à l'entrée de l'Ukraine dans l'UE, à condition qu'elle respecte les mêmes normes que les États membres ; pas de déclaration plus récente trouvée.",
+      "source": "https://www.purebreak.com/news/-pas-la-peine-de-s-enerver-apolline-de-malherbe-recadre-son-invite-et-se-fait-reprendre-direct/248516",
+      "citation": "Il s'est dit favorable à ce que le pays de Volodymyr Zelensky rejoigne l'Union européenne, à la condition \"qu'il respecte les mêmes normes que les pays déjà membres de l'Union européenne\"",
+      "date_source": "2024-02-19",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": -2,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) prévoit d'encadrer les loyers dans les zones en grande tension.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Encadrer les loyers dans les zones en grande tension pour garantir l’accès au logement aux ménages modestes.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": 1,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) veut une université « accessible » dont l'entrée ne soit pas une « course d'obstacles » et prévoit de repenser Parcoursup, sans proposer de supprimer la sélection.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Nous comptons faire de l’université un lieu d’émancipation sans que cela ressemble à une course d’obstacles pour y entrer.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": 1,
+      "resume": "Le projet de Place publique de juin 2025 (antérieur à la candidature) prévoit une revalorisation du salaire de tous les enseignants sur cinq ans, sans évoquer de part liée au mérite.",
+      "source": "https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view",
+      "citation": "Revaloriser le salaire de tous les enseignants de manière continue et planifiée sur 5 ans.",
+      "date_source": "2025-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,

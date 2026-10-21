@@ -7,16 +7,16 @@
   "programme": "non publié",
   "programme_url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
   "mis_a_jour": "2026-10-21",
-  "notes": "Conductrice de bus, tête de liste NPA-R aux européennes de 2024 ; candidature annoncée le 17 juin 2026 avec Gaël Quirante. Candidature conditionnée à l'obtention des 500 parrainages : le NPA-R indiquait une centaine de promesses à la fin de l'été 2026 (AFP, 9 octobre 2026). Pas de programme détaillé publié : positions tirées de son discours à la Fête de l'Humanité (12 septembre 2026) et, à défaut, de ses réponses à des questionnaires lors des européennes de 2024 ou d'articles du NPA-R (signalées comme déduites).",
+  "notes": "Conductrice de bus, tête de liste NPA-R aux européennes de 2024 ; désignée par le comité politique national du NPA-Révolutionnaires (6-7 juin 2026), candidature annoncée le 17 juin 2026 avec Gaël Quirante comme porte-parole. Candidature conditionnée à l'obtention des 500 parrainages, toujours en cours de collecte (AFP/France 24, 9 octobre 2026) ; campagne active au 21 octobre 2026 (BFM TV le 17 octobre, meetings prévus en novembre). Pas de programme détaillé publié : positions tirées de ses discours (Fête de l'Humanité 2026, meetings de 2024) et, à défaut, de textes du NPA-R (résolutions, professions de foi, articles du site), signalés comme déduits.",
   "positions": {
     "eco_retraite": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": -2,
+      "resume": "Position déduite d'une résolution du NPA-Révolutionnaires (septembre 2024) : abroger la réforme pour revenir à la retraite à taux plein à 60 ans au plus tard avec 37,5 annuités ; en 2026, Selma Labib juge insuffisant un départ à 62 ans avec 42 ans de cotisation.",
+      "source": "https://npa-revolutionnaires.org/articles/resolution-adoptee-au-comite-politique-national-du-npa-r-des-21-et-22-septembre-2024",
+      "citation": "abroger la retraite à 64 ans, c’est pour revenir à une retraite à taux plein à 60 ans maximum (et pas 62 minimum comme dans le programme du NFP) avec 37,5 annuités maximum (et pas 42 ans minimum comme dans le programme du RN).",
+      "date_source": "2024-09-23",
+      "confiance": "deduite",
+      "relu": true
     },
     "eco_smic": {
       "valeur": 2,
@@ -81,6 +81,24 @@
       "confiance": null,
       "relu": false
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -108,6 +126,24 @@
       "confiance": "deduite",
       "relu": true
     },
+    "sec_mineurs": {
+      "valeur": -2,
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui qualifie de « fantasmes » le projet de Gabriel Attal de revenir sur l'excuse de minorité et défend l'ordonnance de 1945, dont le but est de protéger et d'éduquer les mineurs « avant même de les punir ».",
+      "source": "https://npa-revolutionnaires.org/excuse-de-minorite-les-fantasmes-de-gabriel-attal/",
+      "citation": "Excuse de minorité : les fantasmes de Gabriel Attal […] Cette législation, qui date de 1945, posait les grands principes modernes de la justice pénale des mineurs en soulignant que le but était d’abord de les protéger et de les éduquer avant même de les punir.",
+      "date_source": "2024-04-21",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_videosurveillance": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "imm_baisse": {
       "valeur": 2,
       "resume": "Revendique la « liberté de circulation et d'installation » des étrangers.",
@@ -118,19 +154,37 @@
       "relu": true
     },
     "imm_ame": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
+      "valeur": -2,
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (septembre 2024) qui s'oppose à la suppression de l'AME, qualifiée de réforme raciste.",
+      "source": "https://npa-revolutionnaires.org/suppression-de-lame-une-demagogie-dangereuse/",
+      "citation": "N’importe quel être humain malade doit pouvoir être soigné où qu’il soit sur cette terre.",
+      "date_source": "2024-09-30",
+      "confiance": "deduite",
+      "relu": true
     },
     "imm_regularisation": {
       "valeur": 2,
       "resume": "Revendique la régularisation de tous les travailleurs sans papiers.",
       "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
       "citation": "« À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes, liberté de circulation et d’installation, régularisation de tous les sans-papiers ! »",
+      "date_source": "2026-09-12",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_droitdusol": {
+      "valeur": -2,
+      "resume": "Dans un meeting de la campagne des législatives de 2024, a dénoncé le projet du RN de supprimer le droit du sol, en le comparant à des mesures que même Vichy n'avait pas prises.",
+      "source": "https://npa-revolutionnaires.org/articles/meeting-du-25-juin-a-paris-intervention-de-selma-labib",
+      "citation": "parmi ses premières mesures, il y aurait la suppression du « droit du sol » c’est-à-dire la suppression du droit à la nationalité française pour celles et ceux qui sont nés en France de parents étrangers. […] Des mesures que même sous Vichy, Pétain n’avait pas eu l’idée ou les moyens de prendre !",
+      "date_source": "2024-06-27",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Qualifie la proposition d'un référendum pour instaurer la préférence nationale de « pur racisme ».",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "l’interdiction du voile dans la rue et un référendum pour instaurer la préférence nationale. C’est du pur racisme !",
       "date_source": "2026-09-12",
       "confiance": "declaration",
       "relu": true
@@ -162,132 +216,6 @@
       "confiance": "declaration",
       "relu": true
     },
-    "soc_medecins": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_findevie": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_rsa": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_prive": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_autorite": {
-      "valeur": 1,
-      "resume": "Position déduite de la lettre de Selma Labib à l'Académie des sciences (mai 2024), qui présente la réforme des groupes de niveau au collège comme un exemple d'« usine à tri social » ; rien sur la taille des classes.",
-      "source": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-au-bureau-de-lacademie-des-sciences",
-      "citation": "La logique de sélection n’est pas une manière d’offrir des choix d’orientation mais transforme l’enseignement primaire et secondaire en une usine à tri social – parcoursup et la réforme des groupes de niveau au collège en sont deux exemples récents.",
-      "date_source": "2024-05-28",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "ins_proportionnelle": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_ric": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ins_6e": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": -2,
-      "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui qualifie de « fantasmes » le projet de Gabriel Attal de revenir sur l'excuse de minorité et défend l'ordonnance de 1945, dont le but est de protéger et d'éduquer les mineurs « avant même de les punir ».",
-      "source": "https://npa-revolutionnaires.org/excuse-de-minorite-les-fantasmes-de-gabriel-attal/",
-      "citation": "Excuse de minorité : les fantasmes de Gabriel Attal […] Cette législation, qui date de 1945, posait les grands principes modernes de la justice pénale des mineurs en soulignant que le but était d’abord de les protéger et de les éduquer avant même de les punir.",
-      "date_source": "2024-04-21",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique trouvée lors de cette recherche.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": -2,
-      "resume": "Qualifie la proposition d'un référendum pour instaurer la préférence nationale de « pur racisme ».",
-      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
-      "citation": "l’interdiction du voile dans la rue et un référendum pour instaurer la préférence nationale. C’est du pur racisme !",
-      "date_source": "2026-09-12",
-      "confiance": "declaration",
-      "relu": true
-    },
     "eur_otan": {
       "valeur": 1,
       "resume": "Position déduite de la profession de foi de sa liste aux européennes de 2024 (« Troupes de l'Otan hors d'Europe et du reste du monde ! ») ; elle ne se prononce pas explicitement sur le commandement intégré.",
@@ -306,6 +234,33 @@
       "confiance": "declaration",
       "relu": true
     },
+    "soc_medecins": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_findevie": {
+      "valeur": 2,
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (juin 2025) qui juge la légalisation de l'aide à mourir comme un progrès, sous réserve de garde-fous et de moyens pour les soins, et regrette qu'elle ait été restreinte.",
+      "source": "https://npa-revolutionnaires.org/articles/progres-et-hypocrisie-des-lois-fin-de-vie",
+      "citation": "Alors, oui, avoir les moyens d’une fin de vie digne et de pouvoir en décider – comme de vivre dignement d’ailleurs – devrait être un droit élémentaire. Et en cela, légaliser l’euthanasie est un progrès… à condition, dans cette société régie par l’argent, d’en prévoir les garde-fous",
+      "date_source": "2025-06-12",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "soc_rsa": {
+      "valeur": 2,
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (avril 2024) qui qualifie de « mise au travail forcée » le conditionnement du RSA à 15 à 20 heures d'activité.",
+      "source": "https://npa-revolutionnaires.org/gouv-chomeurs/",
+      "citation": "RSA contre 15 à 20 heures d’activité, une mise au travail forcée […] L’idée est toujours la même : cibler les précaires et diviser les travailleurs au lieu d’embaucher en CDI et d’augmenter les salaires !",
+      "date_source": "2024-04-02",
+      "confiance": "deduite",
+      "relu": true
+    },
     "soc_100secu": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -322,6 +277,24 @@
       "citation": "Le même qui taxe les malades victimes d’affection longue durée, qui rackette les chômeurs, qui a coupé les budgets des pompiers et de toutes les collectivités, fait un nouveau cadeau aux grands groupes capitalistes.",
       "date_source": "2026-09-12",
       "confiance": "declaration",
+      "relu": true
+    },
+    "edu_prive": {
+      "valeur": 2,
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (février 2025) qui critique le financement public du privé catholique sous contrat et demande un service public laïque englobant tous les établissements.",
+      "source": "https://npa-revolutionnaires.org/lenseignement-prive-catholique-nen-fait-qua-sa-tete-et-a-nos-frais/",
+      "citation": "Grand temps de mettre fin à ce scandale et de créer un grand service public de l’Éducation laïque, gratuit et obligatoire et qui englobe tous les établissements, sans exception.",
+      "date_source": "2025-02-18",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "edu_autorite": {
+      "valeur": 1,
+      "resume": "Position déduite de la lettre de Selma Labib à l'Académie des sciences (mai 2024), qui présente la réforme des groupes de niveau au collège comme un exemple d'« usine à tri social » ; rien sur la taille des classes.",
+      "source": "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-au-bureau-de-lacademie-des-sciences",
+      "citation": "La logique de sélection n’est pas une manière d’offrir des choix d’orientation mais transforme l’enseignement primaire et secondaire en une usine à tri social – parcoursup et la réforme des groupes de niveau au collège en sont deux exemples récents.",
+      "date_source": "2024-05-28",
+      "confiance": "deduite",
       "relu": true
     },
     "edu_signes": {
@@ -351,6 +324,33 @@
       "confiance": null,
       "relu": false
     },
+    "ins_proportionnelle": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_ric": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_6e": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
@@ -361,6 +361,204 @@
       "relu": false
     },
     "ins_voteblanc": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": -2,
+      "resume": "Position déduite d'un tract du NPA-Révolutionnaires (pas d'une déclaration de la candidate) : opposition à la loi instaurant une présomption de légitime défense pour les policiers, qualifiée de « permis de tuer ».",
+      "source": "https://npa-revolutionnaires.org/articles/permis-de-tuer-pour-les-milices-du-capital",
+      "citation": "20 000 personnes ont défilé le 20 septembre à Paris contre la loi votée à l’Assemblée affirmant une présomption de légitime défense pour les flics faisant usage de leur arme… […] l’injustice de cette loi qui blanchit d’avance les assassins en uniforme",
+      "date_source": "2026-09-21",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": 2,
+      "resume": "Position déduite d'un article du NPA-Révolutionnaires (pas d'une déclaration de la candidate) : opposition au durcissement des critères de naturalisation (niveau de langue, examen civique) ; l'acquisition de la nationalité devrait être un droit.",
+      "source": "https://npa-revolutionnaires.org/articles/bruno-retailleau-sen-prend-a-la-naturalisation-des-etrangers",
+      "citation": "Autant d’obstacles supplémentaires mis sur la voie de celles et ceux qui vivent et travaillent ici et qui doivent bénéficier des mêmes droits que tous les habitants. Acquérir la nationalité doit être un droit",
+      "date_source": "2025-05-06",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": 1,
+      "resume": "S'oppose au « retour du service militaire » et au militarisme, sans défendre de forme de service militaire, volontaire ou obligatoire.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "La France c’est donc le retour du service militaire, c’est un record de dépenses militaires pour préparer des guerres impérialistes […] on dit : « À bas le militarisme, pas un homme, pas une femme, pas un euro pour les guerres impérialistes",
+      "date_source": "2026-09-12",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": 2,
+      "resume": "Rejette la retraite par capitalisation, qu'elle range parmi les mesures qu'elle combat.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "Il y a au moins deux mesures dégueulasses sur lesquelles ils sont tous d’accord, de Glucksmann à Le Pen en passant par Attal, Retailleau, Philippe. Numéro un, la retraite par capitalisation.",
+      "date_source": "2026-09-12",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": 1,
+      "resume": "Appelle à se mobiliser contre les mesures visant l'accès des étudiants à l'université et dénonce un rapport sénatorial proposant d'en finir avec l'accès aux études supérieures par le bac.",
+      "source": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+      "citation": "Ce n’est pas le NPA-Jeunes qui le dit mais un rapport du Sénat qui vient de sortir et qui préconise d’en finir avec l’idée que le bac donne accès aux études supérieures et de multiplier les frais d’inscription par dix.",
+      "date_source": "2026-09-12",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
       "valeur": null,
       "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,

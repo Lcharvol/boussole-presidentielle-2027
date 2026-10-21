@@ -7,7 +7,7 @@
   "programme": "partiel",
   "programme_url": "https://nouspresident.fr/notre-programme/",
   "mis_a_jour": "2026-10-21",
-  "notes": "Député de la Somme (groupe Écologiste et Social). Candidat déclaré ; il devait concourir à la primaire de la « gauche unitaire » du 11 octobre 2026, de facto abandonnée depuis juillet 2026 après le retrait du PS ; il avait annoncé qu'il irait seul en l'absence de primaire (https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026). Programme publié sous forme de « cahiers de campagne » thématiques (7 à ce jour) sur nouspresident.fr ; plusieurs thèmes (sécurité, école, institutions) ne sont pas encore couverts. Plusieurs positions s'appuient sur ses votes de député (datan.fr) ou sur le manifeste de Debout !.",
+  "notes": "Député de la Somme (groupe Écologiste et Social), président de Debout !. Candidat déclaré ; il devait concourir à la primaire de la « gauche unitaire » du 11 octobre 2026, de facto abandonnée depuis juillet 2026 après le retrait du PS ; il avait annoncé le 12 mai 2026 qu'il irait seul en l'absence de primaire (https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin). Sa campagne « Nous Président ! » se poursuit au 21 octobre 2026 (plan de redressement publié ce jour). Programme publié sous forme de 7 « cahiers de campagne » thématiques et de 3 « plans d'action » (data centers, urgence climat, redressement des finances publiques) sur nouspresident.fr ; plusieurs thèmes (sécurité, école, institutions, défense) ne sont pas encore couverts. Plusieurs positions s'appuient sur ses votes de député ou sur le manifeste de Debout !.",
   "positions": {
     "eco_retraite": {
       "valeur": -2,
@@ -28,12 +28,12 @@
       "relu": true
     },
     "eco_depenses": {
-      "valeur": 2,
-      "resume": "Déduit du manifeste de Debout ! : il dénonce les « coupes sèches » dans les services publics pour réduire le déficit et veut « abaisser le plafond » des plus hauts revenus, en référence à l'impôt sur le revenu à 94 %, pour retrouver des marges fiscales et financer les services publics.",
-      "source": "https://debout.fr/notre-manifeste/",
-      "citation": "Abaisser le plafond de ceux qui se gavent en haut, relever le plancher de ceux qui se rationnent en bas: voilà une définition du partage. Il faut le faire. Pour des raisons économiques, évidemment. Pour retrouver des marges de manœuvre fiscales. Pour soutenir des services publics exsangues […]",
-      "date_source": "2026-04",
-      "confiance": "deduite",
+      "valeur": 1,
+      "resume": "Son « plan de redressement » des finances publiques combine 22 Md€ d'économies (surtout aides aux entreprises, crédit d'impôt recherche, apprentissage dans le supérieur, prix des produits de santé) et 26 à 44,5 Md€ de recettes supplémentaires (taxe Zucman, grandes successions, dividendes) ; la valeur passe de +2 (déduite) à +1.",
+      "source": "https://nouspresident.fr/plan-de-redressement/",
+      "citation": "2.1. Baisse des dépenses (22 Md€ d’économies par rapport à 2026) […] 2.2. Recettes supplémentaires (entre +26 Md€ et 44,5 Md€ par rapport à 2026)",
+      "date_source": "2026-10-21",
+      "confiance": "programme",
       "relu": true
     },
     "eco_patrimoine": {
@@ -81,6 +81,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": -1,
+      "resume": "Position déduite du manifeste de son parti Debout !, qui dénonce la détaxation du kérosène des avions ; son cahier « travaillisme écologique » prévoit par ailleurs d'interdire les vols intérieurs remplaçables par un train de moins de 4 heures, sans taxe aérienne spécifique.",
+      "source": "https://debout.fr/notre-manifeste/",
+      "citation": "C’est la taxe carbone sur l’essence des Gilets jaunes quand le kérozène des avions et le fioul des porte-conteneurs est détaxé.",
+      "date_source": "2026-04",
+      "confiance": "deduite",
+      "relu": true
+    },
     "sec_peines": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
@@ -105,6 +123,24 @@
       "source": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4746_proposition-loi.pdf",
       "citation": "PROPOSITION DE LOI relative à la légalisation de la production, de la vente et de la consommation du cannabis sous le contrôle de l’État",
       "date_source": "2021-11-30",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": -1,
+      "resume": "A voté contre la loi Attal sur la justice des mineurs (texte de CMP, 13 mai 2025), qui facilite la comparution immédiate des mineurs de plus de 16 ans et restreint l'excuse de minorité pour les récidivistes de plus de 16 ans ; valeur +1 : un vote contre l'ensemble du texte, qui comporte aussi d'autres mesures.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
+      "date_source": "2025-05-13",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "sec_videosurveillance": {
+      "valeur": 1,
+      "resume": "A voté contre le projet de loi relatif aux Jeux olympiques de 2024 (28 mars 2023), qui autorisait l'expérimentation de la vidéosurveillance algorithmique ; pas de déclaration spécifique trouvée sur la reconnaissance faciale.",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
+      "citation": "Scrutin public n°1305 sur l'ensemble du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions (première lecture).",
+      "date_source": "2023-03-28",
       "confiance": "declaration",
       "relu": true
     },
@@ -135,6 +171,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "imm_droitdusol": {
+      "valeur": -2,
+      "resume": "A voté contre l'amendement de rédaction globale de la proposition de loi renforçant les conditions d'accès à la nationalité française à Mayotte, qui restreint le droit du sol (scrutin n°697, 6 février 2025).",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/697",
+      "citation": "Scrutin public n°697 sur l'amendement n° 7 de M. Gillet et l'amendement identique suivant de rédaction globale de l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+      "date_source": "2025-02-06",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Le cahier de campagne sur le logement rejette la proposition de « réserver le logement social et les aides personnalisées au logement aux personnes de nationalité française », qu'il juge xénophobe et inefficace.",
+      "source": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+      "citation": "Face à cette faillite, l’extrême droite promet de réserver le logement social et les aides personnalisées au logement aux personnes de nationalité française. Outre la xénophobie et le racisme qui sous-tendent cette proposition, celle-ci ne serait d’aucune efficacité […]",
+      "date_source": "2026-09",
+      "confiance": "programme",
+      "relu": true
+    },
     "eur_integration": {
       "valeur": 0,
       "resume": "Position déduite du manifeste de son parti Debout !, qui se dit critique d'une construction européenne « faite sans les peuples » mais propose de chercher des alliés pour un grand plan d'investissement européen.",
@@ -146,11 +200,11 @@
     },
     "eur_primaute": {
       "valeur": 1,
-      "resume": "Position déduite du manifeste de son parti Debout !, qui affirme : « Nous désobéirons aux traités européens lorsqu'ils entrent en contradiction avec nos engagements », sans proposer de sortie de l'UE.",
-      "source": "https://debout.fr/notre-manifeste/",
-      "citation": "Nous désobéirons aux traités européens lorsqu’ils entrent en contradiction avec nos engagements.",
-      "date_source": "2026-04",
-      "confiance": "deduite",
+      "resume": "Son cahier agricole prévoit de défendre des prix planchers au niveau européen « quitte à imposer un rapport de force » avec la Commission, même si elle jugeait ces dispositions non conformes aux traités ; la valeur reste +1, comme la position déduite du manifeste de Debout !.",
+      "source": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "citation": "Ce système devra être défendu au niveau européen quitte à imposer un rapport de force avec la Commission européenne, qui pourrait juger ces dispositions non conformes aux traités européens.",
+      "date_source": "2026-10-07",
+      "confiance": "programme",
       "relu": true
     },
     "eur_ukraine": {
@@ -159,6 +213,24 @@
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
       "citation": "Scrutin public n°988 sur l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
       "date_source": "2025-03-12",
+      "confiance": "declaration",
+      "relu": true
+    },
+    "eur_otan": {
+      "valeur": 1,
+      "resume": "Position déduite du manifeste de son parti Debout !, qui veut une voix de la France « en dehors d'une logique de bloc occidental et de l'OTAN », sans mentionner explicitement le commandement intégré.",
+      "source": "https://debout.fr/notre-manifeste/",
+      "citation": "Sur le plan international, nous sommes attachés à la voix indépendante de la France, en dehors d’une logique de «bloc occidental» et de l’OTAN.",
+      "date_source": "2026-04",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "eur_defense3": {
+      "valeur": 1,
+      "resume": "A voté contre l'ensemble du projet de loi actualisant la programmation militaire 2024-2030 (texte de la CMP, 1er juillet 2026), qui porte l'effort de défense à 2,5 % du PIB en 2030 ; vote sur un texte entier, sans déclaration trouvée sur l'objectif de 3 %.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "citation": "Scrutin public n°7905 sur l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
+      "date_source": "2026-07-01",
       "confiance": "declaration",
       "relu": true
     },
@@ -189,6 +261,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "soc_100secu": {
+      "valeur": -2,
+      "resume": "Position déduite de 2021 : cosignataire, alors député LFI, d'un amendement au PLFSS 2022 dont l'exposé appelle à adopter le « 100 % Sécu », la Sécurité sociale prenant en charge la part des complémentaires ; aucune déclaration plus récente trouvée.",
+      "source": "https://www.assemblee-nationale.fr/dyn/15/amendements/4523/CION-SOC/AS669.pdf",
+      "citation": "Il est grand temps de faire respecter ce principe constitutionnel en adoptant le 100 % Sécu, c’est à dire une assurance-maladie universelle et intégrale. La Sécurité sociale prendrait ainsi en charge tout le coût des soins, parts des complémentaires et reste à charge compris.",
+      "date_source": "2021-10-08",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "Cosignataire d'un amendement de suppression du projet de loi transposant l'avenant à l'assurance chômage, qui réduit notamment de 18 à 15 mois la durée d'indemnisation des moins de 55 ans après une rupture conventionnelle ; il a voté contre le texte le 2 juin 2026.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2633/AN/5",
+      "citation": "Le groupe Ecologiste et social s'oppose à la réduction de la durée d'indemnisation des demandeurs d'emploi suite à une rupture conventionnelle.",
+      "date_source": "2026-04-10",
+      "confiance": "declaration",
+      "relu": true
+    },
     "edu_prive": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
@@ -199,6 +289,33 @@
       "relu": false
     },
     "edu_autorite": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_apprentissage": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
@@ -234,123 +351,6 @@
       "confiance": "programme",
       "relu": true
     },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": -1,
-      "resume": "Position déduite du manifeste de son parti Debout !, qui dénonce la détaxation du kérosène des avions ; son cahier « travaillisme écologique » prévoit par ailleurs d'interdire les vols intérieurs remplaçables par un train de moins de 4 heures, sans taxe aérienne spécifique.",
-      "source": "https://debout.fr/notre-manifeste/",
-      "citation": "C’est la taxe carbone sur l’essence des Gilets jaunes quand le kérozène des avions et le fioul des porte-conteneurs est détaxé.",
-      "date_source": "2026-04",
-      "confiance": "deduite",
-      "relu": true
-    },
-    "sec_mineurs": {
-      "valeur": -1,
-      "resume": "A voté contre la loi Attal sur la justice des mineurs (texte de CMP, 13 mai 2025), qui facilite la comparution immédiate des mineurs de plus de 16 ans et restreint l'excuse de minorité pour les récidivistes de plus de 16 ans ; valeur +1 : un vote contre l'ensemble du texte, qui comporte aussi d'autres mesures.",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
-      "citation": "Scrutin public n°1624 sur l'ensemble de la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (texte de la commission mixte paritaire).",
-      "date_source": "2025-05-13",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "sec_videosurveillance": {
-      "valeur": 1,
-      "resume": "A voté contre le projet de loi relatif aux Jeux olympiques de 2024 (28 mars 2023), qui autorisait l'expérimentation de la vidéosurveillance algorithmique ; pas de déclaration spécifique trouvée sur la reconnaissance faciale.",
-      "source": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
-      "citation": "Scrutin public n°1305 sur l'ensemble du projet de loi relatif aux jeux Olympiques et Paralympiques de 2024 et portant diverses autres dispositions (première lecture).",
-      "date_source": "2023-03-28",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "imm_droitdusol": {
-      "valeur": -2,
-      "resume": "A voté contre l'amendement de rédaction globale de la proposition de loi renforçant les conditions d'accès à la nationalité française à Mayotte, qui restreint le droit du sol (scrutin n°697, 6 février 2025).",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/697",
-      "citation": "Scrutin public n°697 sur l'amendement n° 7 de M. Gillet et l'amendement identique suivant de rédaction globale de l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
-      "date_source": "2025-02-06",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "imm_preference": {
-      "valeur": -2,
-      "resume": "Le cahier de campagne sur le logement rejette la proposition de « réserver le logement social et les aides personnalisées au logement aux personnes de nationalité française », qu'il juge xénophobe et inefficace.",
-      "source": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
-      "citation": "Face à cette faillite, l’extrême droite promet de réserver le logement social et les aides personnalisées au logement aux personnes de nationalité française. Outre la xénophobie et le racisme qui sous-tendent cette proposition, celle-ci ne serait d’aucune efficacité […]",
-      "date_source": "2026-09",
-      "confiance": "programme",
-      "relu": true
-    },
-    "eur_otan": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_defense3": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_100secu": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_chomage": {
-      "valeur": -2,
-      "resume": "Cosignataire d'un amendement de suppression du projet de loi transposant l'avenant à l'assurance chômage, qui réduit notamment de 18 à 15 mois la durée d'indemnisation des moins de 55 ans après une rupture conventionnelle ; il a voté contre le texte le 2 juin 2026.",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/amendements/2633/AN/5",
-      "citation": "Le groupe Ecologiste et social s'oppose à la réduction de la durée d'indemnisation des demandeurs d'emploi suite à une rupture conventionnelle.",
-      "date_source": "2026-04-10",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "edu_signes": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_etudiants": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
@@ -361,8 +361,206 @@
       "relu": false
     },
     "ins_voteblanc": {
+      "valeur": -2,
+      "resume": "Position déduite de 2018 : cosignataire, alors député LFI, d'un amendement constitutionnel prévoyant que les bulletins blancs entrent en compte dans les suffrages exprimés ; aucune déclaration plus récente trouvée.",
+      "source": "https://www.assemblee-nationale.fr/dyn/15/amendements/0911/AN/1280.pdf",
+      "citation": "« Les bulletins blancs entrent en compte pour la détermination des suffrages exprimés et il en est fait spécialement mention dans les résultats des scrutins.",
+      "date_source": "2018-07-05",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "eco_libre_echange": {
+      "valeur": 2,
+      "resume": "Le cahier de campagne sur l'agriculture prévoit des protections aux frontières, des quotas d'importation et des barrières douanières, en rupture avec les accords de libre-échange (Canada, Nouvelle-Zélande, Mercosur).",
+      "source": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "citation": "Des protections à nos frontières, des quotas d’importation, des barrières douanières. C’est-à-dire, une rupture nette avec le libre-échange qui a cours, des accords de l’ Uruguay round (1994) aux traités récents avec le Canada, la Nouvelle-Zélande, le Mercosur, etc.",
+      "date_source": "2026-10-07",
+      "confiance": "programme",
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": 2,
+      "resume": "Le plan de redressement propose d'« imposer les grandes successions à la hauteur du patrimoine accumulé », avec une progressivité renforcée pour le 1 % des plus grosses transmissions et un abattement porté à 200 000 €.",
+      "source": "https://nouspresident.fr/plan-de-redressement/",
+      "citation": "Proposition 2 : Imposer les grandes successions à la hauteur du patrimoine accumulé (20 Md€ en 2026)",
+      "date_source": "2026-10-21",
+      "confiance": "programme",
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Le cahier sur l'industrie propose que l'État devienne majoritaire dans des pôles de production ciblés (santé, défense, numérique), dont un pôle public du médicament.",
+      "source": "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+      "citation": "Lorsque les dépendances sont les plus « vitales » et que les grands groupes sont difficiles à contrôler ou sabotent l’outil de production national, il faut que l’État devienne majoritaire dans des pôles de production ciblés, en particulier dans la santé, la défense et le numérique.",
+      "date_source": "2026-10-15",
+      "confiance": "programme",
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": -1,
+      "resume": "Le cahier sur le logement critique les dérogations ajoutées au dispositif ZAN depuis 2021 et veut produire des logements en réduisant les emprises foncières (friches, densification) ; il ne s'engage pas en toutes lettres sur l'échéance de 2050.",
+      "source": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+      "citation": "Depuis 2021, plusieurs lois ont néanmoins complexifié le dispositif, sous couvert de « simplification » et introduit des dérogations multiples qui questionnent l’efficacité écologique et la justice sociale de cette politique publique.",
+      "date_source": "2026-09-24",
+      "confiance": "programme",
+      "relu": false
+    },
+    "ecol_eau_agricole": {
       "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": 0,
+      "resume": "Le cahier « travaillisme écologique » propose que les mesures comme les ZFE soient décidées par les citoyens dans des assises locales de la qualité de l'air plutôt qu'imposées « d'en haut », sans se prononcer pour leur maintien ou leur suppression.",
+      "source": "https://nouspresident.fr/travaillisme-ecologique/",
+      "citation": "Les mesures de protection de l’air comme les ZFE (Zones à Faibles Émissions) ne viendront plus d’en haut, mais des citoyens, au plus près de leurs besoins !",
+      "date_source": "2026-09-09",
+      "confiance": "programme",
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": -1,
+      "resume": "Cosignataire, avec le groupe LFI, d'un amendement de 2022 (rejeté) demandant la traçabilité des contrôles d'identité et des expérimentations locales, dont la délivrance d'un récépissé.",
+      "source": "https://www.assemblee-nationale.fr/dyn/16/amendements/0436/AN/563.pdf",
+      "citation": "Ainsi, le ministère de l’intérieur doit mettre en place un dispositif de traçabilité des contrôles d’identité",
+      "date_source": "2022-11-09",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": -1,
+      "resume": "A voté contre la proposition de loi instaurant une présomption de légitime défense pour les forces de l'ordre (scrutin n°7987, 7 juillet 2026) ; vote sur l'ensemble du texte.",
+      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "citation": "Scrutin public n°7987 sur l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
+      "date_source": "2026-07-07",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": 2,
+      "resume": "Déduit du manifeste de Debout ! : s'oppose aux filières d'immigration voulues par le patronat pour pallier les pénuries de main-d'œuvre et mise sur la mobilisation des travailleurs déjà présents sur le territoire.",
+      "source": "https://debout.fr/notre-manifeste/",
+      "citation": "Nous sommes opposés à la volonté du patronat de filières d’immigration pour trouver une main d’œuvre manquante. […] C’est par la mobilisation générale des travailleurs français comme étrangers sur notre territoire, en assurant salaire-horaire-statut-revenu ici, que nous affronterons les grands défis",
+      "date_source": "2026-04",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": -2,
+      "resume": "Le cahier sur le logement propose d'étendre l'encadrement des loyers à toutes les agglomérations puis de le généraliser à l'ensemble du territoire.",
+      "source": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+      "citation": "3 / En plus d’étendre cet encadrement des loyers à l’ensemble des agglomérations, nous proposons de le généraliser à l’ensemble du territoire.",
+      "date_source": "2026-09-24",
+      "confiance": "programme",
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,

@@ -7,7 +7,7 @@
   "programme": "partiel",
   "programme_url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
   "mis_a_jour": "2026-10-21",
-  "notes": "Désignée candidate par Lutte ouvrière (vote interne au congrès de décembre 2025 selon la presse), candidature présentée publiquement à la fête de LO en mai 2026 ; quatrième candidature (elle avait obtenu les 500 parrainages en 2012, 2017 et 2022). Campagne en cours (meeting à Paris le 26 septembre 2026) ; la collecte officielle des parrainages n'est pas encore close. LO ne publie pas de programme de mesures détaillé : la brochure « Présidentielle 2027 » (mai 2026) et les discours de meeting tiennent lieu de programme. Plusieurs positions sont déduites d'articles non signés du journal Lutte ouvrière (position du parti) ou d'éditoriaux qu'elle a signés avant 2025 ; cannabis, peines, école (autorité), institutions (proportionnelle, RIC, VIe République) et renouvelables restent à null faute de position trouvée.",
+  "notes": "Désignée candidate par Lutte ouvrière (vote interne au congrès de décembre 2025 selon la presse), candidature présentée publiquement à la fête de LO en mai 2026 ; quatrième candidature (elle avait obtenu les 500 parrainages en 2012, 2017 et 2022). Toujours en campagne au 21 octobre 2026 (meeting à Paris le 26 septembre 2026) ; la collecte officielle des parrainages n'est pas close. LO ne publie pas de programme de mesures détaillé : la brochure « Présidentielle 2027 » (mai-juin 2026) et les discours de meeting en tiennent lieu. De nombreuses positions sont déduites d'articles non signés du journal Lutte ouvrière (ligne du parti).",
   "positions": {
     "eco_retraite": {
       "valeur": -2,
@@ -81,6 +81,24 @@
       "confiance": "declaration",
       "relu": true
     },
+    "ecol_thermique2035": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_aerien": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
     "sec_peines": {
       "valeur": 2,
       "resume": "Position déduite de la ligne du journal Lutte ouvrière, dont elle est la porte-parole (aucune déclaration personnelle trouvée) : l'article de juin 2025 qualifie de « surenchère sécuritaire » les condamnations minimales systématiques proposées par Darmanin, « l'équivalent des peines plancher ».",
@@ -100,6 +118,24 @@
       "relu": true
     },
     "sec_cannabis": {
+      "valeur": 1,
+      "resume": "Position déduite d'un article de la revue Lutte de classe (Lutte ouvrière), favorable à ce que les consommateurs ne soient plus traités en délinquants, tout en jugant que la légalisation commerciale a « vite montré ses limites ».",
+      "source": "https://www.lutte-ouvriere.org/mensuel/article/2023-10-29-les-drogues-fleaux-et-produits-de-la-societe-capitaliste_727331.html",
+      "citation": "Ne plus considérer les consommateurs comme des délinquants pourrait faire cesser toutes les formes de répression et de harcèlement qui visent souvent les plus jeunes. C’est pourquoi les communistes révolutionnaires ne peuvent qu’y être favorables.",
+      "date_source": "2023-10-29",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_mineurs": {
+      "valeur": -1,
+      "resume": "Position déduite de la ligne du journal Lutte ouvrière (article non signé par la candidate), qui critique la loi Attal sur la justice des mineurs et la volonté de Gérald Darmanin d'abaisser la majorité pénale à 16 ans, présentées comme une fermeté électoraliste envers un « prétendu péril jeune ».",
+      "source": "https://lutte-ouvriere.org/portail/journal/justice-mineurs-attal-darmanin-recidivent-185323.html",
+      "citation": "il reste au ministre de la Justice et à l’ex-Premier ministre le terrain de la fermeté envers un prétendu péril jeune que le laxisme des tribunaux ne pourrait juguler.",
+      "date_source": "2025-06-25",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "sec_videosurveillance": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
       "source": null,
@@ -135,6 +171,24 @@
       "confiance": "programme",
       "relu": true
     },
+    "imm_droitdusol": {
+      "valeur": -2,
+      "resume": "Position déduite de la ligne du journal Lutte ouvrière (brève non signée par la candidate), qui qualifie de « xénophobie décomplexée » la loi restreignant le droit du sol à Mayotte et sa remise en cause envisagée en métropole.",
+      "source": "https://lutte-ouvriere.org/portail/breves/droit-sol-xenophobie-decomplexee-181795.html",
+      "citation": "Engagés dans une surenchère xénophobe permanente, ces politiciens souhaitent remettre en cause ce droit du sol en métropole.",
+      "date_source": "2025-02-07",
+      "confiance": "deduite",
+      "relu": true
+    },
+    "imm_preference": {
+      "valeur": -2,
+      "resume": "Au meeting du 26 septembre 2026, cite la « préférence nationale » parmi les mesures du RN qu'elle juge « révoltantes » pour les travailleurs immigrés.",
+      "source": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
+      "citation": "Préférence nationale, interdiction du voile dans l’espace public, intensification de la chasse aux sans-papiers… Le Pen peut trouver 1 000 façons de leur pourrir la vie, toutes aussi révoltantes les unes que les autres.",
+      "date_source": "2026-09-26",
+      "confiance": "declaration",
+      "relu": true
+    },
     "eur_integration": {
       "valeur": 1,
       "resume": "Range l'appel à « construire une armée européenne » parmi les discours de préparation à la guerre et juge que l'UE « n'y peut rien » face aux rivalités entre puissances (meeting du 14 février 2026) ; elle rejette aussi le souverainisme.",
@@ -160,6 +214,24 @@
       "citation": "Mais si la France intervient de plus en plus dans cette guerre, […] si elle livre des missiles et des canons, ce n’est pas « pour aider l’Ukraine ». C’est pour aider Dassault, Thales, Safran et MBDA à promouvoir leur arsenal et à remplir leur carnet de commandes.",
       "date_source": "2026-09-26",
       "confiance": "declaration",
+      "relu": true
+    },
+    "eur_otan": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_defense3": {
+      "valeur": 2,
+      "resume": "La brochure de campagne dénonce les 36 milliards d'euros de rallonge votés pour l'armée, qui « manqueront » aux hôpitaux et aux écoles, et refuse l'unité nationale derrière l'effort militaire.",
+      "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "citation": "Ministres et députés imposent l’austérité budgétaire mais votent 36 milliards de rallonge pour l’armée quasiment sans discussion. Les 10 milliards destinés au nouveau porte-avions manqueront pour les hôpitaux ou pour adapter les écoles au réchauffement climatique.",
+      "date_source": "2026-05",
+      "confiance": "programme",
       "relu": true
     },
     "soc_medecins": {
@@ -189,6 +261,24 @@
       "confiance": "deduite",
       "relu": true
     },
+    "soc_100secu": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_chomage": {
+      "valeur": -2,
+      "resume": "La brochure de campagne dénonce la volonté de « réduire les indemnités des chômeurs » et réclame l'augmentation des allocations et leur indexation sur les prix.",
+      "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "citation": "Ils veulent baisser les salaires, les pensions et les allocations, réduire les indemnités des chômeurs, rembourser encore moins les soins et les médicaments… […] Nous devons imposer une augmentation massive des salaires, des allocations et des pensions et leur indexation sur la hausse des prix",
+      "date_source": "2026-05",
+      "confiance": "programme",
+      "relu": true
+    },
     "edu_prive": {
       "valeur": 1,
       "resume": "Position déduite d'un article du journal Lutte ouvrière qui dénonce le « déversement d'argent public dans les lycées privés » par l'État et les régions, sans formuler de mesure précise.",
@@ -206,6 +296,33 @@
       "date_source": null,
       "confiance": null,
       "relu": false
+    },
+    "edu_signes": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_etudiants": {
+      "valeur": null,
+      "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "edu_apprentissage": {
+      "valeur": -2,
+      "resume": "Position déduite d'un article ancien (2006) du journal Lutte ouvrière, qui dénonçait l'apprentissage junior à 14 ans comme une sortie des jeunes du système scolaire avant 16 ans au profit d'une main-d'œuvre « quasiment gratuite » ; aucune prise de position récente trouvée.",
+      "source": "https://www.lutte-ouvriere.org/journal/article/2006-11-22-apprentissage-14-ans-moins-de-scolarite-pour-les-jeunes-plus-de-main-doeuvre-gratuite-pour-les_14188.html",
+      "citation": "le gouvernement organise la sortie des jeunes du système scolaire avant la fin de la scolarité en principe obligatoire, soit avant l'âge de 16 ans.",
+      "date_source": "2006-11-22",
+      "confiance": "deduite",
+      "relu": true
     },
     "ins_proportionnelle": {
       "valeur": null,
@@ -234,123 +351,6 @@
       "confiance": null,
       "relu": false
     },
-    "ecol_thermique2035": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "ecol_aerien": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_mineurs": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "sec_videosurveillance": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_droitdusol": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "imm_preference": {
-      "valeur": -2,
-      "resume": "Au meeting du 26 septembre 2026, cite la « préférence nationale » parmi les mesures du RN qu'elle juge « révoltantes » pour les travailleurs immigrés.",
-      "source": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
-      "citation": "Préférence nationale, interdiction du voile dans l’espace public, intensification de la chasse aux sans-papiers… Le Pen peut trouver 1 000 façons de leur pourrir la vie, toutes aussi révoltantes les unes que les autres.",
-      "date_source": "2026-09-26",
-      "confiance": "declaration",
-      "relu": true
-    },
-    "eur_otan": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "eur_defense3": {
-      "valeur": 2,
-      "resume": "La brochure de campagne dénonce les 36 milliards d'euros de rallonge votés pour l'armée, qui « manqueront » aux hôpitaux et aux écoles, et refuse l'unité nationale derrière l'effort militaire.",
-      "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-      "citation": "Ministres et députés imposent l’austérité budgétaire mais votent 36 milliards de rallonge pour l’armée quasiment sans discussion. Les 10 milliards destinés au nouveau porte-avions manqueront pour les hôpitaux ou pour adapter les écoles au réchauffement climatique.",
-      "date_source": "2026-05",
-      "confiance": "programme",
-      "relu": true
-    },
-    "soc_100secu": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "soc_chomage": {
-      "valeur": -2,
-      "resume": "La brochure de campagne dénonce la volonté de « réduire les indemnités des chômeurs » et réclame l'augmentation des allocations et leur indexation sur les prix.",
-      "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-      "citation": "Ils veulent baisser les salaires, les pensions et les allocations, réduire les indemnités des chômeurs, rembourser encore moins les soins et les médicaments… […] Nous devons imposer une augmentation massive des salaires, des allocations et des pensions et leur indexation sur la hausse des prix",
-      "date_source": "2026-05",
-      "confiance": "programme",
-      "relu": true
-    },
-    "edu_signes": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_etudiants": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
-    "edu_apprentissage": {
-      "valeur": null,
-      "resume": "Aucune position publique vérifiable trouvée.",
-      "source": null,
-      "citation": null,
-      "date_source": null,
-      "confiance": null,
-      "relu": false
-    },
     "ins_parlementaires": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
@@ -363,6 +363,204 @@
     "ins_voteblanc": {
       "valeur": null,
       "resume": "Aucune position publique vérifiable trouvée.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_libre_echange": {
+      "valeur": -1,
+      "resume": "La brochure de campagne consacre une partie « Contre le protectionnisme », jugé « une arme des capitalistes » ; elle ne défend pas pour autant de nouveaux accords de libre-échange (rejet du pôle B sans défense du pôle A).",
+      "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "citation": "Le protectionnisme ne protège ni l’emploi ni les salaires, il est une arme des capitalistes dans leur guerre contre d’autres capitalistes.",
+      "date_source": "2026-05",
+      "confiance": "programme",
+      "relu": false
+    },
+    "eco_succession": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eco_nationalisation": {
+      "valeur": -2,
+      "resume": "Au meeting du 26 septembre 2026, appelle les travailleurs à « exproprier la bourgeoisie » pour diriger les multinationales et reproche à Jean-Luc Mélenchon de refuser la nationalisation de Total ; LO présente les nationalisations partielles comme insuffisantes face à l'expropriation qu'elle défend.",
+      "source": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
+      "citation": "les travailleurs prennent conscience qu’il faut aller jusqu’au bout de la lutte de classe, c’est-à-dire jusqu’à exproprier la bourgeoisie pour prendre sa place à la direction des multinationales et à la direction politique de la société.",
+      "date_source": "2026-09-26",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "ecol_zan": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ecol_eau_agricole": {
+      "valeur": 1,
+      "resume": "Dans un éditorial signé d'août 2026, juge que le droit de construire des méga-bassines aggravera les inégalités entre agriculteurs « sans résoudre le manque d'eau » ; rejet des retenues sans proposition explicite de réduire les prélèvements agricoles.",
+      "source": "https://www.lutte-ouvriere.org/portail/editoriaux/catastrophes-lete-capitalistes-probleme-travailleurs-solutions-196254.html",
+      "citation": "Même les mesures supposées remédier à la sécheresse, par exemple le droit de construire des méga-bassines pourtant si contestées, aggraveront les inégalités entre agriculteurs sans résoudre le manque d’eau.",
+      "date_source": "2026-08-10",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "ecol_zfe": {
+      "valeur": 0,
+      "resume": "Position déduite du journal Lutte ouvrière (article non signé, 2025) : critique les ZFE comme pénalisant les travailleurs aux vieux véhicules, mais renvoie dos à dos partisans et adversaires de leur suppression.",
+      "source": "https://www.lutte-ouvriere.org/journal/article/pollution-zfe-vrai-probleme-fausse-mesure-183156.html",
+      "citation": "Que les ZFE soient appliquées ou retoquées, le problème de la pollution et du respect de l’écologie en général ne sera pas résolu dans cette société.",
+      "date_source": "2025-04-02",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "sec_controle_identite": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "sec_legitime_defense": {
+      "valeur": -2,
+      "resume": "Position déduite du journal Lutte ouvrière (article non signé, septembre 2026), qui demande le retrait de la proposition de loi instaurant une présomption d'usage légitime de l'arme pour les policiers et gendarmes.",
+      "source": "https://lutte-ouvriere.org/journal/article/bas-loi-permis-tuer-197118.html",
+      "citation": "Les jeunes des quartiers populaires, souvent issus de l’immigration, sont particulièrement visés par cette loi, une loi inique qui doit être retirée !",
+      "date_source": "2026-09-16",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "sec_police_municipale": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_travail": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_asile_externalise": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "imm_naturalisation": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_service_militaire": {
+      "valeur": 1,
+      "resume": "Dans un éditorial signé de décembre 2025, s'oppose au nouveau service militaire de Macron et s'inquiète qu'il devienne obligatoire, sans défendre pour autant la formule volontaire (rejet du pôle A).",
+      "source": "https://www.lutte-ouvriere.org/portail/editoriaux/galonnes-cherchent-chair-canon-188858.html",
+      "citation": "Pour l’instant, ce service est au volontariat. Mais combien de temps cela durera-t-il ? Déjà certains politiciens et chefs d’état-major regrettent que ce service ne soit pas obligatoire",
+      "date_source": "2025-12-01",
+      "confiance": "declaration",
+      "relu": false
+    },
+    "eur_dissuasion": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "eur_elargissement": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_capitalisation": {
+      "valeur": 1,
+      "resume": "La brochure de campagne dénonce le projet de Jordan Bardella comportant la suppression de l'âge légal et un système par capitalisation ; critique d'une proposition d'ensemble, sans développement sur la capitalisation elle-même.",
+      "source": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+      "citation": "Bardella a mis en avant un projet de réforme des retraites qui comporterait la suppression de la notion d’âge légal de départ et la mise en place d’un système par capitalisation. Voilà le vrai visage du « candidat du peuple » !",
+      "date_source": "2026-05",
+      "confiance": "programme",
+      "relu": false
+    },
+    "soc_allocations_familiales": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "soc_loyers": {
+      "valeur": -2,
+      "resume": "Position déduite d'une brève du journal Lutte ouvrière (2012) qui juge « une bonne chose » l'encadrement des loyers et réclame des mesures limitant leur montant ; en 2025, le journal critique l'encadrement comme trop limité.",
+      "source": "https://lutte-ouvriere.org/portail/breves/en-regions-rhone-alpes-breves-article-encadrer-mais-surtout-limiter-le.html",
+      "citation": "C'est une bonne chose de limiter la rapacité de certains propriétaires. […] A quand des mesures limitant le montant des loyers, et la construction massive des logements sociaux qui manquent ?",
+      "date_source": "2012-07-30",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "edu_selection_universite": {
+      "valeur": 2,
+      "resume": "Position déduite d'un article du journal Lutte ouvrière (2018) intitulé « Parcoursupercherie : non à la sélection ! », qui reproche à Parcoursup de renforcer la sélection à l'entrée de l'enseignement supérieur.",
+      "source": "https://www.lutte-ouvriere.org/journal/article/2018-05-30-parcoursupercherie-non-la-selection_108191.html",
+      "citation": "Mais Parcoursup renforce la sélection en donnant aux établissements d’enseignement supérieur les moyens de choisir leurs étudiants sur des critères plus ou moins ténébreux, ce à quoi des universitaires refusent d’ailleurs de se prêter.",
+      "date_source": "2018-05-30",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "edu_remuneration": {
+      "valeur": 1,
+      "resume": "Position déduite d'un article du journal Lutte ouvrière (2023) intitulé « Salaires des enseignants : à augmenter sans contrepartie ! », qui rejette le « pacte » liant une hausse à des tâches supplémentaires et réclame une hausse générale indexée sur les prix ; il ne traite pas directement de la rémunération au mérite.",
+      "source": "https://journal.lutte-ouvriere.org/2023/02/08/salaires-des-enseignants-augmenter-sans-contrepartie_494149.html",
+      "citation": "Face à l’inflation galopante, l’urgence de l’augmentation des salaires et de leur indexation sur la hausse des prix doit devenir un objectif commun à l’ensemble des travailleurs, du public comme du privé.",
+      "date_source": "2023-02-08",
+      "confiance": "deduite",
+      "relu": false
+    },
+    "ins_cumul": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
+      "source": null,
+      "citation": null,
+      "date_source": null,
+      "confiance": null,
+      "relu": false
+    },
+    "ins_mandat_unique": {
+      "valeur": null,
+      "resume": "Aucune position publique trouvée lors de cette recherche.",
       "source": null,
       "citation": null,
       "date_source": null,
