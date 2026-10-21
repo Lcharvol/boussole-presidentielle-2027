@@ -376,7 +376,7 @@
       "citation": "\"Ce que je dis solennellement, c'est que si le président de la République vote pour le Mercosur, après toutes ses déclarations, il prend le risque d'une censure\", a affirmé l'ancien ministre de l’Intérieur Bruno Retailleau",
       "date_source": "2026-09-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -2,
@@ -385,7 +385,7 @@
       "citation": "\"Je ne serai pas le président qui augmentera les droits de succession mais celui qui les baissera\", déclare ce jeudi 27 août dans L'Opinion Bruno Retailleau, le candidat des Républicains.",
       "date_source": "2026-08-27",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": null,
@@ -403,7 +403,7 @@
       "citation": "Il propose une loi d’urgence qui permettrait de rendre la liberté de bâtir aux maires en abrogeant, le ZAN, \"le Zéro Artificialisation Net\", qui leur interdit de bétoniser les sols.",
       "date_source": "2026-05-28",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ecol_eau_agricole": {
       "valeur": null,
@@ -421,7 +421,7 @@
       "citation": "Les ZFE pénalisent les Français qui travaillent, qui n’ont pas les moyens de changer de voiture. C’est le symbole de l’ écologie punitive et de la folie normative française déconnectée du réel. Si je suis élu en 2027, je les abrogerai.",
       "date_source": "2026-05-22",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": null,
@@ -448,7 +448,7 @@
       "citation": "il s'est dit très favorable à une évolution des pouvoirs des polices municipales, et disposé à aller « très résolument dans ce sens », tout en disant ne pas vouloir aller contre l'avis de l'AMF.",
       "date_source": "2024-10-07",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_travail": {
       "valeur": 1,
@@ -457,7 +457,7 @@
       "citation": "En cause, la possibilité de la création d'un titre de séjour pour les métiers en tension. \"Tous les métiers sont en tension\", s'agace-t-il.",
       "date_source": "2023-01-17",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": 2,
@@ -466,7 +466,7 @@
       "citation": "Sans elle, impossible d’imposer cinq années de séjour et de travail pour bénéficier des prestations non contributives, ou encore de l’examen de l’asile en dehors des frontières.",
       "date_source": "2026-10-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "imm_naturalisation": {
       "valeur": -1,
@@ -475,7 +475,7 @@
       "citation": "abolir le droit du sol et revenir à l’assimilation pour qu’il n’y ait plus de naturalisations automatiques",
       "date_source": "2026-09-03",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_service_militaire": {
       "valeur": null,
@@ -493,7 +493,7 @@
       "citation": "Bruno Retailleau, chef de file des sénateurs LR, considère que la proposition du chef de l’Etat est « inacceptable ».",
       "date_source": "2024-04-29",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "Le reste provient de l’introduction d’une part de capitalisation, du placement des réserves sur des fonds d’investissement, de la convergence sur l’Agirc-Arrco […] ou encore de l’extinction des derniers régimes spéciaux.",
       "date_source": "2026-10-12",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,
@@ -529,7 +529,7 @@
       "citation": "\"on ne fait pas baisser les loyers en décrétant leur montant\" martèle Bruno Retailleau, qui promet de mettre fin à ce système qui décourage et asphyxie les particuliers investisseurs",
       "date_source": "2026-05-28",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "edu_selection_universite": {
       "valeur": null,
@@ -547,7 +547,7 @@
       "citation": "Le candidat entend revaloriser significativement les salaires des enseignants […] Le programme de Bruno Retailleau souhaite ainsi réformer en profondeur les règles d’affectation et de progression de carrière, aujourd’hui largement fondées sur l’ancienneté et les barèmes.",
       "date_source": "2026-08-31",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_cumul": {
       "valeur": -1,
@@ -556,7 +556,7 @@
       "citation": "permettre aux députés et sénateurs d’être maires ou adjoints d’une commune de moins de 10.000 habitants […] cette proposition de loi est par ailleurs cosignée par le président des sénateurs LR, Bruno Retailleau.",
       "date_source": "2021-10-14",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "ins_mandat_unique": {
       "valeur": null,

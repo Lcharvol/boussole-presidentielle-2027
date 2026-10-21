@@ -376,7 +376,7 @@
       "citation": "c’est accepter de mettre en place des barrières commerciales claires : des taxes à l’importation ciblées sur les produits chinois vendus à perte (acier, voitures électriques, panneaux solaires)",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -1,
@@ -385,7 +385,7 @@
       "citation": "\"Je souhaite que si des personnes veulent que ce soit leurs petits enfants qui héritent davantage, ce soit possible\" et que \"ce soit moins taxé pour que des jeunes qui cherchent à devenir propriétaire, qui ont besoin d'un apport pour acheter un logement, puisse le faire plus facilement\"",
       "date_source": "2026-08-27",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": null,
@@ -457,7 +457,7 @@
       "citation": "Notre ligne est claire, ce que nous voulons, c’est accueillir moins pour accueillir mieux, privilégier l’immigration de travail au détriment d’autres types d’immigration comme le regroupement familial, qui doit être mieux encadré et qui doit donc diminuer.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": null,
@@ -493,7 +493,7 @@
       "citation": "Notre dissuasion nucléaire doit être un outil de puissance, à travers notamment la doctrine de dissuasion nucléaire avancée proposée par le président de la République. Car la France doit être capable de dissuader, de se projeter, elle et ses alliés, de commander.",
       "date_source": "2026",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": null,
@@ -511,7 +511,7 @@
       "citation": "Gabriel Attal, va déposer \"dans les jours qui viennent\" une proposition de loi visant à bâtir un nouveau système des retraites \"universel, clair et compréhensible\". Celui-ci intégrerait une part de capitalisation.",
       "date_source": "2025-11-10",
       "confiance": "declaration",
-      "relu": false
+      "relu": true
     },
     "soc_allocations_familiales": {
       "valeur": null,

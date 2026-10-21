@@ -376,7 +376,7 @@
       "citation": "Développer une planification économique souveraine et cohérente, en instaurant un protectionnisme intelligent qui protège nos industries tout en favorisant l’innovation. […] ce qui suppose de se libérer des accords de libre-échange signés par l’UE contre nos intérêts.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_succession": {
       "valeur": -1,
@@ -385,7 +385,7 @@
       "citation": "Les grands principes fiscaux d’un projet patriote sont : le rétablissement de la justice fiscale pour soulager les classes moyennes, […] une moindre taxation des petits héritages",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eco_nationalisation": {
       "valeur": -2,
@@ -394,7 +394,7 @@
       "citation": "Renationaliser les autoroutes. La privatisation des autoroutes fait partie de ces scandales qui ont privé les Français du bénéfice de leurs investissements de long terme.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "ecol_zan": {
       "valeur": null,
@@ -421,7 +421,7 @@
       "citation": "Stop aux ZFE ! Stop à Macron et à l’UE !",
       "date_source": "2025",
       "confiance": "deduite",
-      "relu": false
+      "relu": true
     },
     "sec_controle_identite": {
       "valeur": null,
@@ -457,7 +457,7 @@
       "citation": "Mettre fin à l’immigration de travail et à la directive européenne des travailleurs détachés. […] L’immigration de masse perpétue l’idée que les Français répugnent à s’engager dans certains métiers difficiles.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "imm_asile_externalise": {
       "valeur": null,
@@ -475,7 +475,7 @@
       "citation": "Faire de l’assimilation une exigence nationale. […] L’obtention de la nationalité ou des droits civiques doit être conditionnée à la maîtrise du français, à la connaissance de notre histoire et à l’adhésion à nos valeurs fondamentales.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_service_militaire": {
       "valeur": null,
@@ -493,7 +493,7 @@
       "citation": "Conserver notre dissuasion nucléaire. […] Les déclarations du président Macron se disant prêt à partager notre dissuasion avec l’Europe constituent une trahison sans précédent de nos intérêts nationaux.",
       "date_source": "2026-09",
       "confiance": "programme",
-      "relu": false
+      "relu": true
     },
     "eur_elargissement": {
       "valeur": null,
