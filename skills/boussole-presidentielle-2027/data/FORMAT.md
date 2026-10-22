@@ -137,3 +137,68 @@ Ce qui change par rapport au format 1 :
 4. Le calcul du score est inchangé (`score.py`) : une copie de la formule (par exemple `score.ts`) reste valable ;
    seule la lecture des données change.
 5. Le tirage (modes rapide, adaptatif, complet ; variantes ; côté des pôles) est dans `scripts/tirage.py`.
+6. Le classement suit le score exact, avant arrondi : deux candidats affichés au même pourcentage sont dans
+   l'ordre de leur score non arrondi (pas de départage par la couverture).
+
+## Tirage reproductible : règles exactes pour un portage
+
+Un portage de `scripts/tirage.py` (par exemple `tirage.ts` du site) doit poser **exactement** les mêmes questions
+à graine et réponses égales. `scripts/tirage.py` fait foi ; ce qui suit fixe tout ce qui influe sur le résultat.
+Les cas de référence `tests/cas_tirage.json` (graine + réponses → questions attendues, avec la variante, le pôle
+à gauche et les valeurs des cinq réponses) permettent de vérifier la concordance. Ils sont régénérés par
+`python3 tests/generer_cas_tirage.py`, et `tests/test_tirage.py` échoue s'ils ne sont plus à jour.
+
+**Générateur.** C'est celui de Python, `random.Random` (Mersenne Twister MT19937) :
+- Une graine texte (par exemple `f"{graine}/socle"`, où `graine` est l'entier écrit en décimal) passe par
+  `seed(..., version=2)` : l'entier issu de `texte + SHA-512(texte)` (octets UTF-8, gros-boutiste) initialise
+  `init_by_array` par mots de 32 bits, poids faibles d'abord.
+- Une graine entière (bootstrap de `score.py`) initialise `init_by_array` avec sa valeur absolue.
+- `random()` vaut `((a >> 5) × 67108864 + (b >> 6)) / 2^53`, pour deux sorties 32 bits successives `a`, `b`.
+- `choice(s)` vaut `s[randbelow(len(s))]`, et `randrange(n)` vaut `randbelow(n)`. `randbelow(n)` tire
+  `getrandbits(k)` avec `k = n.bit_length()` (les `k` bits de poids fort d'une sortie 32 bits) et recommence tant
+  que le résultat est ≥ `n`.
+- `shuffle(l)` : pour `i` de `len(l) - 1` à 1, échange `l[i]` et `l[randbelow(i + 1)]`.
+
+Chaque fonction crée son propre générateur, dans cet ordre de consommation :
+
+| Fonction | Graine | Tirages, dans l'ordre |
+|---|---|---|
+| `presenter(enjeu)` | `f"{graine}/{enjeu.id}"` | `choice(variantes utilisables)`, puis `choice("ab")` (pôle à gauche) |
+| `socle()` | `f"{graine}/socle"` | un `tirage_pondere(k=1)` par thème (ordre des clés de `themes`), puis des compléments un par un, puis `ordonner` |
+| mode complet | `f"{graine}/complet"` | `ordonner` sur les enjeux non posés, dans l'ordre de `enjeux.json` |
+| `suivantes()` (lot adaptatif) | `f"{graine}/adaptatif/{nombre de questions déjà posées}"` | un `tirage_pondere(k=1)` par enjeu du lot, puis `ordonner` |
+| marge (bootstrap de `score.py`, pour le peloton) | l'entier `graine`, un générateur **neuf pour chaque candidat** | 300 tirages de `randrange(n)` × n, n = nombre de réponses non nulles, dans l'ordre alphabétique des identifiants d'enjeux |
+
+**`tirage_pondere(ids, poids, k)`** : tant qu'il en faut,
+1. `total` = somme flottante des poids restants, de gauche à droite (pas de somme compensée) ;
+2. `x = random() × total` ;
+3. on parcourt les restants dans l'ordre en cumulant les poids, et on prend le premier `i` tel que `x ≤ cumul`.
+   Si aucun ne convient (arrondi flottant), on prend le dernier ;
+4. on retire `i` de la liste.
+
+**Poids.**
+- Socle : `pouvoir(enjeu) + 0,1`, où `pouvoir` = écart-type de population des positions connues × part des
+  candidats dont la position est connue.
+- Compléments du socle : au plus deux enjeux par thème, ou n'importe quel enjeu restant si aucun ne convient.
+  Les enjeux candidats sont pris dans l'ordre de `enjeux.json`.
+
+**Lot adaptatif** (`suivantes()`, après le socle, tant que moins de 32 questions ont été posées) :
+1. Le peloton, ce sont les candidats dont `score + marge ≥ score − marge` du premier. Les scores et les marges
+   sont arrondis, avec le bootstrap de 300 tirages et la graine entière. S'il compte moins de deux candidats, le
+   questionnaire s'arrête.
+2. Gain de chaque enjeu non posé, dans l'ordre de `enjeux.json` : écart-type de population des positions connues
+   du peloton × part du peloton dont la position est connue × √(importance du thème). Le gain est nul s'il y a
+   moins de deux positions connues. L'écart-type est celui de `statistics.pstdev` : calcul exact sur les
+   entiers, puis racine.
+3. Enjeux utiles : gain ≥ 0,4, dans l'ordre de `enjeux.json`. S'il n'y en a aucun, le questionnaire s'arrête.
+4. Tant que le lot compte moins de `min(4, 32 − posées)` enjeux : on garde les enjeux utiles d'un thème pas
+   encore pris (dans leur ordre), on en tire un par `tirage_pondere(k=1)` pondéré par le gain, et on marque son
+   thème. On s'arrête plus tôt s'il n'en reste plus.
+5. Le lot est passé à `ordonner`, avec le même générateur.
+
+**`ordonner(enjeux)`** :
+1. `shuffle` de la liste ;
+2. tant qu'il en reste : parmi les positions dont le thème diffère du précédent (toutes sinon), on prend la
+   première dont le thème a le plus d'enjeux restants.
+
+Le côté et la formulation de chaque question viennent ensuite de `presenter`, indépendamment de l'ordre.

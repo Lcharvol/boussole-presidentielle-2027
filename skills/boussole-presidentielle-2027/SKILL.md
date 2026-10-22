@@ -37,7 +37,7 @@ Puis fais choisir le mode (avec `AskUserQuestion` s'il est disponible) :
 | Mode | Questions | Durée | Fiabilité |
 |---|---|---|---|
 | Rapide | 12 (au moins une par thème) | ~3 min | Donne une tendance. Les écarts entre candidats proches ne sont pas significatifs. |
-| Adaptatif | 12, puis par lots de 4 jusqu'à ce que le résultat soit assez précis (32 au plus) | 5 à 8 min | Bon compromis : les questions ajoutées sont celles qui départagent les candidats dont la personne est la plus proche. |
+| Adaptatif | 12, puis par lots de 4 jusqu'à ce que le résultat soit assez précis (32 au plus) | 5 à 8 min | Bon compromis : les questions ajoutées sont tirées parmi celles qui départagent les candidats dont la personne est la plus proche. |
 | Complet | tous les enjeux | ~12 min | Le plus fiable. |
 
 Si la personne ne choisit pas, propose le mode adaptatif.

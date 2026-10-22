@@ -11,10 +11,11 @@ Usage (les réponses déjà données arrivent sur l'entrée standard, rien n'est
 Modes :
 - rapide    : RAPIDE enjeux, au moins un par thème, tirés au hasard en favorisant ceux qui départagent le plus
               les candidats (pouvoir de départage, voir pouvoir()) ;
-- adaptatif : le même socle, puis des lots de LOT enjeux choisis pour départager les candidats encore proches
-              de la personne (ceux dont la marge recouvre celle du premier), jusqu'à ce que le premier se
-              détache, que les enjeux restants ne départagent plus ces candidats, ou que MAX_ADAPTATIF enjeux
-              aient été posés ;
+- adaptatif : le même socle, puis des lots de LOT enjeux qui départagent les candidats encore proches de la
+              personne (ceux dont la marge recouvre celle du premier) : chaque enjeu du lot est tiré au hasard
+              parmi les enjeux utiles, avec une probabilité proportionnelle à son gain (voir departage()), jusqu'à
+              ce que le premier se détache, que les enjeux restants ne départagent plus ces candidats, ou que
+              MAX_ADAPTATIF enjeux aient été posés ;
 - complet   : tous les enjeux.
 La sortie est un objet JSON : {"mode", "graine", "posees", "fin", "raison", "questions": [...]}. Les questions
 déjà posées (présentes dans "reponses", même à null) ne sont jamais reposées : on peut ainsi passer d'un mode à
@@ -160,19 +161,23 @@ def suivantes(questions, candidats, user, graine, tirages=TIRAGES_ADAPTATIF):
     theme_de = {e["id"]: e["theme"] for e in questions["enjeux"]}
     importance = user.get("importance", {})
     rng = random.Random(f"{graine}/adaptatif/{len(posees)}")
-    gains = {e["id"]: departage(e["id"], peloton, importance, e["theme"]) + rng.random() * 1e-6
+    gains = {e["id"]: departage(e["id"], peloton, importance, e["theme"])
              for e in questions["enjeux"] if e["id"] not in posees}
-    utiles = sorted((i for i in gains if gains[i] >= GAIN_MIN), key=lambda i: -gains[i])
+    utiles = [i for i in gains if gains[i] >= GAIN_MIN]   # dans l'ordre de enjeux.json
     if not utiles:
         return [], "les enjeux restants ne départagent plus les candidats en tête"
-    # Au plus un enjeu par thème dans un lot, pour garder l'alternance des thèmes.
+    # Chaque enjeu du lot est tiré parmi les enjeux utiles d'un thème pas encore pris, avec une probabilité
+    # proportionnelle à son gain (comme le socle). Prendre toujours les meilleurs gains posait sans cesse les
+    # mêmes enjeux, les plus clivants et les mieux renseignés, ce qui avantageait le tiers central de l'axe
+    # dans l'audit (voir docs/audit-62-enjeux.md, section 6).
     lot, themes_pris = [], set()
-    for i in utiles:
-        if theme_de[i] not in themes_pris:
-            lot.append(i)
-            themes_pris.add(theme_de[i])
-        if len(lot) == min(LOT, MAX_ADAPTATIF - len(posees)):
+    while len(lot) < min(LOT, MAX_ADAPTATIF - len(posees)):
+        dispo = [i for i in utiles if theme_de[i] not in themes_pris]
+        if not dispo:
             break
+        i = tirage_pondere(rng, dispo, gains, 1)[0]
+        lot.append(i)
+        themes_pris.add(theme_de[i])
     return ordonner(rng, lot, theme_de), None
 
 
