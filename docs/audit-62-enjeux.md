@@ -264,7 +264,7 @@ Vrai déroulé (`tirage.py` et `score.py` de la branche), 2 000 profils × 7 gra
 - **Géométrie** : le reste vient d'Asselineau (1,11 contre 0,92 au hasard), de Branco (1,01 contre 0,87) et de Villepin (1,22 contre 1,11). Sur des enjeux très clivés, les candidats de chaque bout ont des réponses proches et se partagent les premières places, alors que les profils atypiques du tiers central se distinguent.
 - L'ancien tri par couverture masquait en partie cet effet : il donnait les ex aequo aux fiches les plus remplies, situées aux deux bouts de l'axe.
 
-**Correction proposée** (non appliquée) : dans `suivantes()`, **tirer les enjeux du lot au hasard parmi les enjeux utiles (gain ≥ `GAIN_MIN`), avec une probabilité proportionnelle à leur gain** (`tirage_pondere`, déjà utilisé par le socle), au lieu de prendre les 4 meilleurs.
+**Correction appliquée** (validée par Lcharvol le 22 octobre) : dans `suivantes()`, **tirer les enjeux du lot au hasard parmi les enjeux utiles (gain ≥ `GAIN_MIN`), avec une probabilité proportionnelle à leur gain** (`tirage_pondere`, déjà utilisé par le socle), au lieu de prendre les 4 meilleurs.
 - On garde un enjeu par thème et les mêmes critères d'arrêt.
 - Justification : c'est la règle du mode rapide. Un enjeu presque aussi utile garde sa chance, et la sélection ne se fige plus sur les mêmes enjeux clivants.
 - Effet sur le mode adaptatif : 1,006 / 1,096 / 0,928 → 1,026 / 1,035 / 0,951 (écart maximal 0,096 → 0,049, meilleur qu'avant le tri exact).
@@ -285,3 +285,18 @@ Vrai déroulé (`tirage.py` et `score.py` de la branche), 2 000 profils × 7 gra
   - lots purement au hasard : 0,069, et le mode perd son intérêt ;
   - toucher aux critères d'arrêt : sans effet sur l'audit.
 - **Pour l'audit** : passer le mode adaptatif à 2 000 profils au moins, ou faire la moyenne sur plusieurs graines (PR #25).
+
+**Après correction** (`audit_biais.py --profils 10000 --profils-adaptatif 2000 --graines 7`, moyenne ± écart-type entre graines) :
+
+| Mode | Avant (main, e30d3d3) | Après |
+|---|---|---|
+| Complet | 1,07 / 0,99 / 0,95 | identique |
+| Rapide | 1,04 / 1,03 / 0,95 | identique |
+| Adaptatif | 1,02 / 1,11 / 0,91 (± 0,03 à 0,04) | **1,02 / 1,05 / 0,95** (± 0,03 à 0,04) |
+| Pente extrêmes / milieu, adaptatif | −0,161 ± 0,022 | −0,063 ± 0,022 |
+| Pente gauche → droite, adaptatif | −0,035 ± 0,008 | −0,008 ± 0,008 |
+
+- Les modes complet et rapide donnent des chiffres identiques au centième : ils n'appellent pas `suivantes()`.
+- En mode adaptatif, l'écart maximal passe de 0,11 à 0,05.
+- Une légère préférence pour le milieu de l'axe reste visible (pente −0,06, à 3 erreurs types de 0).
+- Les règles exactes du tirage, pour le portage dans `tirage.ts`, sont dans `data/FORMAT.md`. Les cas de référence sont dans `tests/cas_tirage.json`.
