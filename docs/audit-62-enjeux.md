@@ -239,3 +239,64 @@ Sans correction, la branche est un peu moins bonne que main. Avec la proposition
 
 ---
 Scripts de l'analyse : non versionnés (simulateur allégé validé contre `score.py`, balayages, bootstrap de l'axe). Ils sont disponibles sur demande et seront intégrés à `audit_biais.py` si la proposition 2 est retenue.
+
+## 6. Mode adaptatif après le tri sur le score exact
+
+Vrai déroulé (`tirage.py` et `score.py` de la branche), 2 000 profils × 7 graines par variante. Variantes obtenues en remplaçant des fonctions dans le script d'analyse : rien n'est modifié dans le dépôt. Bruit d'une graine à l'autre : ±0,02 à 0,05 par tiers. Aux 500 profils du README, il est d'environ ±0,06 à 0,08 : un seul passage à 500 profils ne permet pas de juger ce mode.
+
+**Les critères d'arrêt ne jouent pas.** Avec des réponses au hasard, 99,96 % des parcours vont jusqu'à 32 questions. Le peloton de tête ne se détache jamais, et « plus d'enjeu utile » n'arrive presque jamais. L'audit ne teste donc ni l'un ni l'autre critère.
+
+**Le socle n'y est pour rien.** Après les 12 premières questions, les tiers valent 1,04 / 1,02 / 0,95, comme en mode rapide. L'écart se crée pendant les 20 questions suivantes.
+
+| Sélection des lots (après le socle) | gauche | centre | droite | Écart maximal |
+|---|---|---|---|---|
+| Actuelle : les 4 meilleurs gains de `departage()`, un par thème | 1,006 | **1,096** | 0,928 | 0,096 |
+| Actuelle, avec l'ancien tri (arrondi puis couverture) | 1,011 | 1,046 | 0,958 | 0,054 |
+| Gain calculé sur tous les candidats au lieu du peloton | 1,004 | 1,110 | 0,920 | 0,110 |
+| `departage()` sans le facteur « part des positions connues » | 0,976 | 1,068 | 0,978 | 0,068 |
+| Lots tirés au hasard, sans gain | 1,069 | 0,976 | 0,957 | 0,069 |
+| **Lots tirés au hasard, pondérés par le gain** | 1,026 | 1,035 | 0,951 | **0,049** |
+| Pondérés par le gain, sans le facteur de couverture | 1,052 | 0,993 | 0,958 | 0,058 |
+
+**Cause.** Il n'y en a qu'une : la sélection prend toujours les enjeux de plus fort gain.
+- Le gain calculé sur tous les candidats donne le même excès. Ce n'est donc pas l'adaptation au peloton, mais le fait de toujours poser les enjeux les plus clivants et les mieux renseignés (`eur_ukraine`, `eco_retraite`, `imm_baisse`…).
+- **Couverture** : sur ces enjeux, des fiches peu remplies dépassent 50 % de couverture et entrent dans le classement. Cazeneuve est classé dans 47 % des parcours (5 % avec des lots au hasard), Bertrand dans 91 % (9 %). Cazeneuve, au tiers central, y obtient un ratio de 1,42 et pèse pour environ 0,03 des 0,10 d'excès.
+- **Géométrie** : le reste vient d'Asselineau (1,11 contre 0,92 au hasard), de Branco (1,01 contre 0,87) et de Villepin (1,22 contre 1,11). Sur des enjeux très clivés, les candidats de chaque bout ont des réponses proches et se partagent les premières places, alors que les profils atypiques du tiers central se distinguent.
+- L'ancien tri par couverture masquait en partie cet effet : il donnait les ex aequo aux fiches les plus remplies, situées aux deux bouts de l'axe.
+
+**Correction appliquée** (validée par Lcharvol le 22 octobre) : dans `suivantes()`, **tirer les enjeux du lot au hasard parmi les enjeux utiles (gain ≥ `GAIN_MIN`), avec une probabilité proportionnelle à leur gain** (`tirage_pondere`, déjà utilisé par le socle), au lieu de prendre les 4 meilleurs.
+- On garde un enjeu par thème et les mêmes critères d'arrêt.
+- Justification : c'est la règle du mode rapide. Un enjeu presque aussi utile garde sa chance, et la sélection ne se fige plus sur les mêmes enjeux clivants.
+- Effet sur le mode adaptatif : 1,006 / 1,096 / 0,928 → 1,026 / 1,035 / 0,951 (écart maximal 0,096 → 0,049, meilleur qu'avant le tri exact).
+- Effet sur les modes complet et rapide : aucun, car ils n'appellent pas `suivantes()`.
+- **Coût pour une vraie personne** (profils cohérents : positions d'un candidat classé, avec une part de réponses au hasard ; 700 profils) :
+
+  | Bruit | Variante | Cible 1re | Cible dans le top 3 | Questions |
+  |---|---|---|---|---|
+  | 30 % | Actuel | 99,1 % | 100 % | 28,6 |
+  | 30 % | Lots pondérés | 98,6 % | 99,3 % | 28,9 |
+  | 50 % | Actuel | 88,1 % | 97,6 % | 31,3 |
+  | 50 % | Lots pondérés | 87,0 % | 97,3 % | 31,5 |
+
+  Les écarts sont dans le bruit de l'échantillon (±0,4 à 1,2 point).
+- **À reporter dans le site** : la même règle dans `src/lib/tirage.ts`, avec le même générateur aléatoire et la même graine, pour que le site et le skill posent les mêmes questions (concordance). `score.ts` n'est pas concerné.
+- Autres pistes écartées :
+  - retirer le facteur de couverture de `departage()` : moins bon (0,068) et moins justifié, puisqu'un enjeu inconnu pour un candidat ne peut pas le départager ;
+  - lots purement au hasard : 0,069, et le mode perd son intérêt ;
+  - toucher aux critères d'arrêt : sans effet sur l'audit.
+- **Pour l'audit** : passer le mode adaptatif à 2 000 profils au moins, ou faire la moyenne sur plusieurs graines (PR #25).
+
+**Après correction** (`audit_biais.py --profils 10000 --profils-adaptatif 2000 --graines 7`, moyenne ± écart-type entre graines) :
+
+| Mode | Avant (main, e30d3d3) | Après |
+|---|---|---|
+| Complet | 1,07 / 0,99 / 0,95 | identique |
+| Rapide | 1,04 / 1,03 / 0,95 | identique |
+| Adaptatif | 1,02 / 1,11 / 0,91 (± 0,03 à 0,04) | **1,02 / 1,05 / 0,95** (± 0,03 à 0,04) |
+| Pente extrêmes / milieu, adaptatif | −0,161 ± 0,022 | −0,063 ± 0,022 |
+| Pente gauche → droite, adaptatif | −0,035 ± 0,008 | −0,008 ± 0,008 |
+
+- Les modes complet et rapide donnent des chiffres identiques au centième : ils n'appellent pas `suivantes()`.
+- En mode adaptatif, l'écart maximal passe de 0,11 à 0,05.
+- Une légère préférence pour le milieu de l'axe reste visible (pente −0,06, à 3 erreurs types de 0).
+- Les règles exactes du tirage, pour le portage dans `tirage.ts`, sont dans `data/FORMAT.md`. Les cas de référence sont dans `tests/cas_tirage.json`.

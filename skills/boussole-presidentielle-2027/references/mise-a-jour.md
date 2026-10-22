@@ -52,7 +52,7 @@ Puis fais relire les positions par un humain : `python3 scripts/a_relire.py > a-
 
 ## Tirage des questions
 
-Il n'y a plus de niveaux à recalculer : `scripts/tirage.py` pondère le tirage du mode rapide (et du socle du mode adaptatif) par le pouvoir de départage de chaque enjeu (écart-type des positions des candidats × part des positions connues), calculé à chaque appel à partir des fiches. Après une mise à jour importante, relance seulement l'audit, sur plusieurs graines : `python3 scripts/audit_biais.py --graines 4`.
+Il n'y a plus de niveaux à recalculer : `scripts/tirage.py` pondère le tirage du mode rapide (et du socle du mode adaptatif) par le pouvoir de départage de chaque enjeu (écart-type des positions des candidats × part des positions connues), calculé à chaque appel à partir des fiches. Après une mise à jour importante, relance seulement l'audit, sur plusieurs graines : `python3 scripts/audit_biais.py --graines 4`. Toute modification des fiches ou des enjeux change aussi les questions tirées : régénère les cas de référence du tirage (`python3 tests/generer_cas_tirage.py`, depuis la racine du dépôt), sinon `tests/test_tirage.py` échoue ; le site s'en sert pour vérifier qu'il pose les mêmes questions.
 
 ## Modifier les enjeux et leurs formulations
 

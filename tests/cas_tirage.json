@@ -1,0 +1,4125 @@
+{
+ "version_enjeux": "2026-10-21",
+ "cas": [
+  {
+   "mode": "rapide",
+   "graine": 1,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "soc_medecins",
+      "variante": "soc_medecins.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_normes",
+      "variante": "ecol_normes.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_asile_externalise",
+      "variante": "imm_asile_externalise.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_cumul",
+      "variante": "ins_cumul.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eur_primaute",
+      "variante": "eur_primaute.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_autorite",
+      "variante": "edu_autorite.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_retraite",
+      "variante": "eco_retraite.3",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_renouvelables",
+      "variante": "ecol_renouvelables.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_allocations_familiales",
+      "variante": "soc_allocations_familiales.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_cannabis",
+      "variante": "sec_cannabis.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_preference",
+      "variante": "imm_preference.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_ric",
+      "variante": "ins_ric.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "rapide",
+   "graine": 2,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "ins_6e",
+      "variante": "ins_6e.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_allocations_familiales",
+      "variante": "soc_allocations_familiales.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_renouvelables",
+      "variante": "ecol_renouvelables.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_naturalisation",
+      "variante": "imm_naturalisation.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_videosurveillance",
+      "variante": "sec_videosurveillance.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_cumul",
+      "variante": "ins_cumul.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_normes",
+      "variante": "ecol_normes.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_regularisation",
+      "variante": "imm_regularisation.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_retraite",
+      "variante": "eco_retraite.3",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eur_otan",
+      "variante": "eur_otan.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "edu_apprentissage",
+      "variante": "edu_apprentissage.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_loyers",
+      "variante": "soc_loyers.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "rapide",
+   "graine": 3,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "ecol_renouvelables",
+      "variante": "ecol_renouvelables.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_baisse",
+      "variante": "imm_baisse.3",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_etudiants",
+      "variante": "edu_etudiants.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_depenses",
+      "variante": "eco_depenses.3",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_police_municipale",
+      "variante": "sec_police_municipale.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_100secu",
+      "variante": "soc_100secu.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_zfe",
+      "variante": "ecol_zfe.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_dissuasion",
+      "variante": "eur_dissuasion.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_preference",
+      "variante": "imm_preference.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_remuneration",
+      "variante": "edu_remuneration.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_succession",
+      "variante": "eco_succession.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_mandat_unique",
+      "variante": "ins_mandat_unique.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "complet",
+   "graine": 4,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "ecol_renouvelables",
+      "variante": "ecol_renouvelables.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_videosurveillance",
+      "variante": "sec_videosurveillance.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eur_dissuasion",
+      "variante": "eur_dissuasion.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_retraite",
+      "variante": "eco_retraite.3",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_findevie",
+      "variante": "soc_findevie.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_asile_externalise",
+      "variante": "imm_asile_externalise.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "edu_apprentissage",
+      "variante": "edu_apprentissage.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_voteblanc",
+      "variante": "ins_voteblanc.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_elargissement",
+      "variante": "eur_elargissement.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_eau_agricole",
+      "variante": "ecol_eau_agricole.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_depenses",
+      "variante": "eco_depenses.3",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_capitalisation",
+      "variante": "soc_capitalisation.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_regularisation",
+      "variante": "imm_regularisation.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_legitime_defense",
+      "variante": "sec_legitime_defense.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_signes",
+      "variante": "edu_signes.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_thermique2035",
+      "variante": "ecol_thermique2035.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_mandat_unique",
+      "variante": "ins_mandat_unique.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_succession",
+      "variante": "eco_succession.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_rsa",
+      "variante": "soc_rsa.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eur_ukraine",
+      "variante": "eur_ukraine.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_ame",
+      "variante": "imm_ame.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_police_municipale",
+      "variante": "sec_police_municipale.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "edu_etudiants",
+      "variante": "edu_etudiants.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_libre_echange",
+      "variante": "eco_libre_echange.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_parlementaires",
+      "variante": "ins_parlementaires.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_aerien",
+      "variante": "ecol_aerien.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_chomage",
+      "variante": "soc_chomage.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_preference",
+      "variante": "imm_preference.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_service_militaire",
+      "variante": "eur_service_militaire.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_controle_identite",
+      "variante": "sec_controle_identite.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_prive",
+      "variante": "edu_prive.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_zan",
+      "variante": "ecol_zan.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_smic",
+      "variante": "eco_smic.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_loyers",
+      "variante": "soc_loyers.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_6e",
+      "variante": "ins_6e.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_naturalisation",
+      "variante": "imm_naturalisation.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_integration",
+      "variante": "eur_integration.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_mineurs",
+      "variante": "sec_mineurs.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_selection_universite",
+      "variante": "edu_selection_universite.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_patrimoine",
+      "variante": "eco_patrimoine.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_droitdusol",
+      "variante": "imm_droitdusol.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_cumul",
+      "variante": "ins_cumul.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_primaute",
+      "variante": "eur_primaute.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_100secu",
+      "variante": "soc_100secu.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_normes",
+      "variante": "ecol_normes.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_peines",
+      "variante": "sec_peines.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_autorite",
+      "variante": "edu_autorite.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_otan",
+      "variante": "eur_otan.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_nationalisation",
+      "variante": "eco_nationalisation.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_nucleaire",
+      "variante": "ecol_nucleaire.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_travail",
+      "variante": "imm_travail.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_prisons",
+      "variante": "sec_prisons.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_allocations_familiales",
+      "variante": "soc_allocations_familiales.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_proportionnelle",
+      "variante": "ins_proportionnelle.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_remuneration",
+      "variante": "edu_remuneration.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_baisse",
+      "variante": "imm_baisse.3",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_zfe",
+      "variante": "ecol_zfe.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_cannabis",
+      "variante": "sec_cannabis.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_medecins",
+      "variante": "soc_medecins.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_35h",
+      "variante": "eco_35h.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_ric",
+      "variante": "ins_ric.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eur_defense3",
+      "variante": "eur_defense3.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 5,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eur_ukraine",
+      "variante": "eur_ukraine.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_droitdusol",
+      "variante": "imm_droitdusol.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "edu_selection_universite",
+      "variante": "edu_selection_universite.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_capitalisation",
+      "variante": "soc_capitalisation.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_otan",
+      "variante": "eur_otan.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_zan",
+      "variante": "ecol_zan.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_etudiants",
+      "variante": "edu_etudiants.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_retraite",
+      "variante": "eco_retraite.3",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_chomage",
+      "variante": "soc_chomage.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_asile_externalise",
+      "variante": "imm_asile_externalise.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_6e",
+      "variante": "ins_6e.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_prisons",
+      "variante": "sec_prisons.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 5,
+   "reponses": {
+    "eur_ukraine": null,
+    "imm_droitdusol": -2,
+    "edu_selection_universite": null,
+    "soc_capitalisation": 2,
+    "eur_otan": 0,
+    "ecol_zan": -2,
+    "edu_etudiants": -2,
+    "eco_retraite": null,
+    "soc_chomage": -2,
+    "imm_asile_externalise": null,
+    "ins_6e": 2,
+    "sec_prisons": -1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eur_primaute",
+      "variante": "eur_primaute.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_rsa",
+      "variante": "soc_rsa.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_renouvelables",
+      "variante": "ecol_renouvelables.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_depenses",
+      "variante": "eco_depenses.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 5,
+   "reponses": {
+    "eur_ukraine": null,
+    "imm_droitdusol": -2,
+    "edu_selection_universite": null,
+    "soc_capitalisation": 2,
+    "eur_otan": 0,
+    "ecol_zan": -2,
+    "edu_etudiants": -2,
+    "eco_retraite": null,
+    "soc_chomage": -2,
+    "imm_asile_externalise": null,
+    "ins_6e": 2,
+    "sec_prisons": -1,
+    "eur_primaute": 2,
+    "soc_rsa": 0,
+    "ecol_renouvelables": 1,
+    "eco_depenses": 0
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "sec_cannabis",
+      "variante": "sec_cannabis.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_baisse",
+      "variante": "imm_baisse.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_nucleaire",
+      "variante": "ecol_nucleaire.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_35h",
+      "variante": "eco_35h.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 5,
+   "reponses": {
+    "eur_ukraine": null,
+    "imm_droitdusol": -2,
+    "edu_selection_universite": null,
+    "soc_capitalisation": 2,
+    "eur_otan": 0,
+    "ecol_zan": -2,
+    "edu_etudiants": -2,
+    "eco_retraite": null,
+    "soc_chomage": -2,
+    "imm_asile_externalise": null,
+    "ins_6e": 2,
+    "sec_prisons": -1,
+    "eur_primaute": 2,
+    "soc_rsa": 0,
+    "ecol_renouvelables": 1,
+    "eco_depenses": 0,
+    "sec_cannabis": 1,
+    "imm_baisse": 2,
+    "ecol_nucleaire": -2,
+    "eco_35h": -1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "imm_preference",
+      "variante": "imm_preference.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_signes",
+      "variante": "edu_signes.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_dissuasion",
+      "variante": "eur_dissuasion.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_findevie",
+      "variante": "soc_findevie.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 5,
+   "reponses": {
+    "eur_ukraine": null,
+    "imm_droitdusol": -2,
+    "edu_selection_universite": null,
+    "soc_capitalisation": 2,
+    "eur_otan": 0,
+    "ecol_zan": -2,
+    "edu_etudiants": -2,
+    "eco_retraite": null,
+    "soc_chomage": -2,
+    "imm_asile_externalise": null,
+    "ins_6e": 2,
+    "sec_prisons": -1,
+    "eur_primaute": 2,
+    "soc_rsa": 0,
+    "ecol_renouvelables": 1,
+    "eco_depenses": 0,
+    "sec_cannabis": 1,
+    "imm_baisse": 2,
+    "ecol_nucleaire": -2,
+    "eco_35h": -1,
+    "imm_preference": 2,
+    "edu_signes": null,
+    "eur_dissuasion": 1,
+    "soc_findevie": 1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eco_libre_echange",
+      "variante": "eco_libre_echange.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_ame",
+      "variante": "imm_ame.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_autorite",
+      "variante": "edu_autorite.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eur_service_militaire",
+      "variante": "eur_service_militaire.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 5,
+   "reponses": {
+    "eur_ukraine": null,
+    "imm_droitdusol": -2,
+    "edu_selection_universite": null,
+    "soc_capitalisation": 2,
+    "eur_otan": 0,
+    "ecol_zan": -2,
+    "edu_etudiants": -2,
+    "eco_retraite": null,
+    "soc_chomage": -2,
+    "imm_asile_externalise": null,
+    "ins_6e": 2,
+    "sec_prisons": -1,
+    "eur_primaute": 2,
+    "soc_rsa": 0,
+    "ecol_renouvelables": 1,
+    "eco_depenses": 0,
+    "sec_cannabis": 1,
+    "imm_baisse": 2,
+    "ecol_nucleaire": -2,
+    "eco_35h": -1,
+    "imm_preference": 2,
+    "edu_signes": null,
+    "eur_dissuasion": 1,
+    "soc_findevie": 1,
+    "eco_libre_echange": 2,
+    "imm_ame": 0,
+    "edu_autorite": null,
+    "eur_service_militaire": -2
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eur_elargissement",
+      "variante": "eur_elargissement.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_100secu",
+      "variante": "soc_100secu.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_patrimoine",
+      "variante": "eco_patrimoine.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_thermique2035",
+      "variante": "ecol_thermique2035.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 5,
+   "reponses": {
+    "eur_ukraine": null,
+    "imm_droitdusol": -2,
+    "edu_selection_universite": null,
+    "soc_capitalisation": 2,
+    "eur_otan": 0,
+    "ecol_zan": -2,
+    "edu_etudiants": -2,
+    "eco_retraite": null,
+    "soc_chomage": -2,
+    "imm_asile_externalise": null,
+    "ins_6e": 2,
+    "sec_prisons": -1,
+    "eur_primaute": 2,
+    "soc_rsa": 0,
+    "ecol_renouvelables": 1,
+    "eco_depenses": 0,
+    "sec_cannabis": 1,
+    "imm_baisse": 2,
+    "ecol_nucleaire": -2,
+    "eco_35h": -1,
+    "imm_preference": 2,
+    "edu_signes": null,
+    "eur_dissuasion": 1,
+    "soc_findevie": 1,
+    "eco_libre_echange": 2,
+    "imm_ame": 0,
+    "edu_autorite": null,
+    "eur_service_militaire": -2,
+    "eur_elargissement": null,
+    "soc_100secu": 0,
+    "eco_patrimoine": 0,
+    "ecol_thermique2035": null
+   },
+   "attendu": {
+    "fin": true,
+    "raison": "32 enjeux posés, le maximum du mode adaptatif",
+    "questions": []
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 6,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "edu_signes",
+      "variante": "edu_signes.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_ame",
+      "variante": "imm_ame.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_zfe",
+      "variante": "ecol_zfe.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_chomage",
+      "variante": "soc_chomage.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_mineurs",
+      "variante": "sec_mineurs.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_retraite",
+      "variante": "eco_retraite.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_preference",
+      "variante": "imm_preference.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "edu_apprentissage",
+      "variante": "edu_apprentissage.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_100secu",
+      "variante": "soc_100secu.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_cumul",
+      "variante": "ins_cumul.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_ukraine",
+      "variante": "eur_ukraine.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_renouvelables",
+      "variante": "ecol_renouvelables.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 6,
+   "reponses": {
+    "edu_signes": null,
+    "imm_ame": -2,
+    "ecol_zfe": 0,
+    "soc_chomage": 0,
+    "sec_mineurs": null,
+    "eco_retraite": 1,
+    "imm_preference": null,
+    "edu_apprentissage": 2,
+    "soc_100secu": -2,
+    "ins_cumul": 0,
+    "eur_ukraine": 1,
+    "ecol_renouvelables": 2
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eco_35h",
+      "variante": "eco_35h.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_findevie",
+      "variante": "soc_findevie.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_cannabis",
+      "variante": "sec_cannabis.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_baisse",
+      "variante": "imm_baisse.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 6,
+   "reponses": {
+    "edu_signes": null,
+    "imm_ame": -2,
+    "ecol_zfe": 0,
+    "soc_chomage": 0,
+    "sec_mineurs": null,
+    "eco_retraite": 1,
+    "imm_preference": null,
+    "edu_apprentissage": 2,
+    "soc_100secu": -2,
+    "ins_cumul": 0,
+    "eur_ukraine": 1,
+    "ecol_renouvelables": 2,
+    "eco_35h": 2,
+    "soc_findevie": -2,
+    "sec_cannabis": 2,
+    "imm_baisse": -2
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "soc_rsa",
+      "variante": "soc_rsa.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_naturalisation",
+      "variante": "imm_naturalisation.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_autorite",
+      "variante": "edu_autorite.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_nationalisation",
+      "variante": "eco_nationalisation.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 6,
+   "reponses": {
+    "edu_signes": null,
+    "imm_ame": -2,
+    "ecol_zfe": 0,
+    "soc_chomage": 0,
+    "sec_mineurs": null,
+    "eco_retraite": 1,
+    "imm_preference": null,
+    "edu_apprentissage": 2,
+    "soc_100secu": -2,
+    "ins_cumul": 0,
+    "eur_ukraine": 1,
+    "ecol_renouvelables": 2,
+    "eco_35h": 2,
+    "soc_findevie": -2,
+    "sec_cannabis": 2,
+    "imm_baisse": -2,
+    "soc_rsa": -1,
+    "imm_naturalisation": -1,
+    "edu_autorite": null,
+    "eco_nationalisation": 2
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "edu_prive",
+      "variante": "edu_prive.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_succession",
+      "variante": "eco_succession.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_6e",
+      "variante": "ins_6e.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_loyers",
+      "variante": "soc_loyers.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 6,
+   "reponses": {
+    "edu_signes": null,
+    "imm_ame": -2,
+    "ecol_zfe": 0,
+    "soc_chomage": 0,
+    "sec_mineurs": null,
+    "eco_retraite": 1,
+    "imm_preference": null,
+    "edu_apprentissage": 2,
+    "soc_100secu": -2,
+    "ins_cumul": 0,
+    "eur_ukraine": 1,
+    "ecol_renouvelables": 2,
+    "eco_35h": 2,
+    "soc_findevie": -2,
+    "sec_cannabis": 2,
+    "imm_baisse": -2,
+    "soc_rsa": -1,
+    "imm_naturalisation": -1,
+    "edu_autorite": null,
+    "eco_nationalisation": 2,
+    "edu_prive": 1,
+    "eco_succession": 1,
+    "ins_6e": 0,
+    "soc_loyers": 0
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "edu_selection_universite",
+      "variante": "edu_selection_universite.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_droitdusol",
+      "variante": "imm_droitdusol.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_police_municipale",
+      "variante": "sec_police_municipale.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eur_defense3",
+      "variante": "eur_defense3.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 6,
+   "reponses": {
+    "edu_signes": null,
+    "imm_ame": -2,
+    "ecol_zfe": 0,
+    "soc_chomage": 0,
+    "sec_mineurs": null,
+    "eco_retraite": 1,
+    "imm_preference": null,
+    "edu_apprentissage": 2,
+    "soc_100secu": -2,
+    "ins_cumul": 0,
+    "eur_ukraine": 1,
+    "ecol_renouvelables": 2,
+    "eco_35h": 2,
+    "soc_findevie": -2,
+    "sec_cannabis": 2,
+    "imm_baisse": -2,
+    "soc_rsa": -1,
+    "imm_naturalisation": -1,
+    "edu_autorite": null,
+    "eco_nationalisation": 2,
+    "edu_prive": 1,
+    "eco_succession": 1,
+    "ins_6e": 0,
+    "soc_loyers": 0,
+    "edu_selection_universite": 0,
+    "imm_droitdusol": -2,
+    "sec_police_municipale": -1,
+    "eur_defense3": 1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eur_primaute",
+      "variante": "eur_primaute.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_smic",
+      "variante": "eco_smic.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_regularisation",
+      "variante": "imm_regularisation.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_nucleaire",
+      "variante": "ecol_nucleaire.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 6,
+   "reponses": {
+    "edu_signes": null,
+    "imm_ame": -2,
+    "ecol_zfe": 0,
+    "soc_chomage": 0,
+    "sec_mineurs": null,
+    "eco_retraite": 1,
+    "imm_preference": null,
+    "edu_apprentissage": 2,
+    "soc_100secu": -2,
+    "ins_cumul": 0,
+    "eur_ukraine": 1,
+    "ecol_renouvelables": 2,
+    "eco_35h": 2,
+    "soc_findevie": -2,
+    "sec_cannabis": 2,
+    "imm_baisse": -2,
+    "soc_rsa": -1,
+    "imm_naturalisation": -1,
+    "edu_autorite": null,
+    "eco_nationalisation": 2,
+    "edu_prive": 1,
+    "eco_succession": 1,
+    "ins_6e": 0,
+    "soc_loyers": 0,
+    "edu_selection_universite": 0,
+    "imm_droitdusol": -2,
+    "sec_police_municipale": -1,
+    "eur_defense3": 1,
+    "eur_primaute": 1,
+    "eco_smic": 0,
+    "imm_regularisation": -2,
+    "ecol_nucleaire": 0
+   },
+   "attendu": {
+    "fin": true,
+    "raison": "32 enjeux posés, le maximum du mode adaptatif",
+    "questions": []
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 7,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "imm_travail",
+      "variante": "imm_travail.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_dissuasion",
+      "variante": "eur_dissuasion.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_apprentissage",
+      "variante": "edu_apprentissage.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_normes",
+      "variante": "ecol_normes.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_smic",
+      "variante": "eco_smic.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_6e",
+      "variante": "ins_6e.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_chomage",
+      "variante": "soc_chomage.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_baisse",
+      "variante": "imm_baisse.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_police_municipale",
+      "variante": "sec_police_municipale.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_nucleaire",
+      "variante": "ecol_nucleaire.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_ukraine",
+      "variante": "eur_ukraine.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_remuneration",
+      "variante": "edu_remuneration.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 7,
+   "reponses": {
+    "imm_travail": 0,
+    "eur_dissuasion": 1,
+    "edu_apprentissage": -2,
+    "ecol_normes": -2,
+    "eco_smic": 0,
+    "ins_6e": -1,
+    "soc_chomage": null,
+    "imm_baisse": -2,
+    "sec_police_municipale": 0,
+    "ecol_nucleaire": -2,
+    "eur_ukraine": 2,
+    "edu_remuneration": null
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "soc_100secu",
+      "variante": "soc_100secu.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_naturalisation",
+      "variante": "imm_naturalisation.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_ric",
+      "variante": "ins_ric.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "edu_signes",
+      "variante": "edu_signes.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 7,
+   "reponses": {
+    "imm_travail": 0,
+    "eur_dissuasion": 1,
+    "edu_apprentissage": -2,
+    "ecol_normes": -2,
+    "eco_smic": 0,
+    "ins_6e": -1,
+    "soc_chomage": null,
+    "imm_baisse": -2,
+    "sec_police_municipale": 0,
+    "ecol_nucleaire": -2,
+    "eur_ukraine": 2,
+    "edu_remuneration": null,
+    "soc_100secu": 1,
+    "imm_naturalisation": 0,
+    "ins_ric": null,
+    "edu_signes": -1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "soc_loyers",
+      "variante": "soc_loyers.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_nationalisation",
+      "variante": "eco_nationalisation.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_regularisation",
+      "variante": "imm_regularisation.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_autorite",
+      "variante": "edu_autorite.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 7,
+   "reponses": {
+    "imm_travail": 0,
+    "eur_dissuasion": 1,
+    "edu_apprentissage": -2,
+    "ecol_normes": -2,
+    "eco_smic": 0,
+    "ins_6e": -1,
+    "soc_chomage": null,
+    "imm_baisse": -2,
+    "sec_police_municipale": 0,
+    "ecol_nucleaire": -2,
+    "eur_ukraine": 2,
+    "edu_remuneration": null,
+    "soc_100secu": 1,
+    "imm_naturalisation": 0,
+    "ins_ric": null,
+    "edu_signes": -1,
+    "soc_loyers": 1,
+    "eco_nationalisation": -2,
+    "imm_regularisation": null,
+    "edu_autorite": -2
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eco_libre_echange",
+      "variante": "eco_libre_echange.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_droitdusol",
+      "variante": "imm_droitdusol.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_primaute",
+      "variante": "eur_primaute.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_peines",
+      "variante": "sec_peines.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 7,
+   "reponses": {
+    "imm_travail": 0,
+    "eur_dissuasion": 1,
+    "edu_apprentissage": -2,
+    "ecol_normes": -2,
+    "eco_smic": 0,
+    "ins_6e": -1,
+    "soc_chomage": null,
+    "imm_baisse": -2,
+    "sec_police_municipale": 0,
+    "ecol_nucleaire": -2,
+    "eur_ukraine": 2,
+    "edu_remuneration": null,
+    "soc_100secu": 1,
+    "imm_naturalisation": 0,
+    "ins_ric": null,
+    "edu_signes": -1,
+    "soc_loyers": 1,
+    "eco_nationalisation": -2,
+    "imm_regularisation": null,
+    "edu_autorite": -2,
+    "eco_libre_echange": -2,
+    "imm_droitdusol": -2,
+    "eur_primaute": 2,
+    "sec_peines": 0
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "edu_selection_universite",
+      "variante": "edu_selection_universite.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_renouvelables",
+      "variante": "ecol_renouvelables.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_mineurs",
+      "variante": "sec_mineurs.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_35h",
+      "variante": "eco_35h.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 7,
+   "reponses": {
+    "imm_travail": 0,
+    "eur_dissuasion": 1,
+    "edu_apprentissage": -2,
+    "ecol_normes": -2,
+    "eco_smic": 0,
+    "ins_6e": -1,
+    "soc_chomage": null,
+    "imm_baisse": -2,
+    "sec_police_municipale": 0,
+    "ecol_nucleaire": -2,
+    "eur_ukraine": 2,
+    "edu_remuneration": null,
+    "soc_100secu": 1,
+    "imm_naturalisation": 0,
+    "ins_ric": null,
+    "edu_signes": -1,
+    "soc_loyers": 1,
+    "eco_nationalisation": -2,
+    "imm_regularisation": null,
+    "edu_autorite": -2,
+    "eco_libre_echange": -2,
+    "imm_droitdusol": -2,
+    "eur_primaute": 2,
+    "sec_peines": 0,
+    "edu_selection_universite": 2,
+    "ecol_renouvelables": 1,
+    "sec_mineurs": 0,
+    "eco_35h": -1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "ins_proportionnelle",
+      "variante": "ins_proportionnelle.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_patrimoine",
+      "variante": "eco_patrimoine.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_medecins",
+      "variante": "soc_medecins.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eur_integration",
+      "variante": "eur_integration.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 7,
+   "reponses": {
+    "imm_travail": 0,
+    "eur_dissuasion": 1,
+    "edu_apprentissage": -2,
+    "ecol_normes": -2,
+    "eco_smic": 0,
+    "ins_6e": -1,
+    "soc_chomage": null,
+    "imm_baisse": -2,
+    "sec_police_municipale": 0,
+    "ecol_nucleaire": -2,
+    "eur_ukraine": 2,
+    "edu_remuneration": null,
+    "soc_100secu": 1,
+    "imm_naturalisation": 0,
+    "ins_ric": null,
+    "edu_signes": -1,
+    "soc_loyers": 1,
+    "eco_nationalisation": -2,
+    "imm_regularisation": null,
+    "edu_autorite": -2,
+    "eco_libre_echange": -2,
+    "imm_droitdusol": -2,
+    "eur_primaute": 2,
+    "sec_peines": 0,
+    "edu_selection_universite": 2,
+    "ecol_renouvelables": 1,
+    "sec_mineurs": 0,
+    "eco_35h": -1,
+    "ins_proportionnelle": 2,
+    "eco_patrimoine": null,
+    "soc_medecins": null,
+    "eur_integration": 1
+   },
+   "attendu": {
+    "fin": true,
+    "raison": "32 enjeux posés, le maximum du mode adaptatif",
+    "questions": []
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 8,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "sec_peines",
+      "variante": "sec_peines.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_thermique2035",
+      "variante": "ecol_thermique2035.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eur_ukraine",
+      "variante": "eur_ukraine.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_patrimoine",
+      "variante": "eco_patrimoine.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_nucleaire",
+      "variante": "ecol_nucleaire.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_controle_identite",
+      "variante": "sec_controle_identite.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_findevie",
+      "variante": "soc_findevie.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "imm_regularisation",
+      "variante": "imm_regularisation.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_dissuasion",
+      "variante": "eur_dissuasion.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "edu_selection_universite",
+      "variante": "edu_selection_universite.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_libre_echange",
+      "variante": "eco_libre_echange.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_cumul",
+      "variante": "ins_cumul.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 8,
+   "reponses": {
+    "sec_peines": -1,
+    "ecol_thermique2035": 1,
+    "eur_ukraine": 2,
+    "eco_patrimoine": -1,
+    "ecol_nucleaire": 1,
+    "sec_controle_identite": -2,
+    "soc_findevie": 0,
+    "imm_regularisation": null,
+    "eur_dissuasion": -1,
+    "edu_selection_universite": null,
+    "eco_libre_echange": 1,
+    "ins_cumul": 2
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "ecol_aerien",
+      "variante": "ecol_aerien.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_ric",
+      "variante": "ins_ric.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_succession",
+      "variante": "eco_succession.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_droitdusol",
+      "variante": "imm_droitdusol.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 8,
+   "reponses": {
+    "sec_peines": -1,
+    "ecol_thermique2035": 1,
+    "eur_ukraine": 2,
+    "eco_patrimoine": -1,
+    "ecol_nucleaire": 1,
+    "sec_controle_identite": -2,
+    "soc_findevie": 0,
+    "imm_regularisation": null,
+    "eur_dissuasion": -1,
+    "edu_selection_universite": null,
+    "eco_libre_echange": 1,
+    "ins_cumul": 2,
+    "ecol_aerien": -1,
+    "ins_ric": null,
+    "eco_succession": 0,
+    "imm_droitdusol": -1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "imm_baisse",
+      "variante": "imm_baisse.3",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_police_municipale",
+      "variante": "sec_police_municipale.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_depenses",
+      "variante": "eco_depenses.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_chomage",
+      "variante": "soc_chomage.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 8,
+   "reponses": {
+    "sec_peines": -1,
+    "ecol_thermique2035": 1,
+    "eur_ukraine": 2,
+    "eco_patrimoine": -1,
+    "ecol_nucleaire": 1,
+    "sec_controle_identite": -2,
+    "soc_findevie": 0,
+    "imm_regularisation": null,
+    "eur_dissuasion": -1,
+    "edu_selection_universite": null,
+    "eco_libre_echange": 1,
+    "ins_cumul": 2,
+    "ecol_aerien": -1,
+    "ins_ric": null,
+    "eco_succession": 0,
+    "imm_droitdusol": -1,
+    "imm_baisse": 1,
+    "sec_police_municipale": 1,
+    "eco_depenses": 0,
+    "soc_chomage": -1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eur_elargissement",
+      "variante": "eur_elargissement.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_medecins",
+      "variante": "soc_medecins.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_6e",
+      "variante": "ins_6e.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_retraite",
+      "variante": "eco_retraite.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 8,
+   "reponses": {
+    "sec_peines": -1,
+    "ecol_thermique2035": 1,
+    "eur_ukraine": 2,
+    "eco_patrimoine": -1,
+    "ecol_nucleaire": 1,
+    "sec_controle_identite": -2,
+    "soc_findevie": 0,
+    "imm_regularisation": null,
+    "eur_dissuasion": -1,
+    "edu_selection_universite": null,
+    "eco_libre_echange": 1,
+    "ins_cumul": 2,
+    "ecol_aerien": -1,
+    "ins_ric": null,
+    "eco_succession": 0,
+    "imm_droitdusol": -1,
+    "imm_baisse": 1,
+    "sec_police_municipale": 1,
+    "eco_depenses": 0,
+    "soc_chomage": -1,
+    "eur_elargissement": null,
+    "soc_medecins": 1,
+    "ins_6e": 1,
+    "eco_retraite": 2
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "ins_proportionnelle",
+      "variante": "ins_proportionnelle.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_integration",
+      "variante": "eur_integration.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "edu_apprentissage",
+      "variante": "edu_apprentissage.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_renouvelables",
+      "variante": "ecol_renouvelables.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 8,
+   "reponses": {
+    "sec_peines": -1,
+    "ecol_thermique2035": 1,
+    "eur_ukraine": 2,
+    "eco_patrimoine": -1,
+    "ecol_nucleaire": 1,
+    "sec_controle_identite": -2,
+    "soc_findevie": 0,
+    "imm_regularisation": null,
+    "eur_dissuasion": -1,
+    "edu_selection_universite": null,
+    "eco_libre_echange": 1,
+    "ins_cumul": 2,
+    "ecol_aerien": -1,
+    "ins_ric": null,
+    "eco_succession": 0,
+    "imm_droitdusol": -1,
+    "imm_baisse": 1,
+    "sec_police_municipale": 1,
+    "eco_depenses": 0,
+    "soc_chomage": -1,
+    "eur_elargissement": null,
+    "soc_medecins": 1,
+    "ins_6e": 1,
+    "eco_retraite": 2,
+    "ins_proportionnelle": -1,
+    "eur_integration": 0,
+    "edu_apprentissage": null,
+    "ecol_renouvelables": 0
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "sec_videosurveillance",
+      "variante": "sec_videosurveillance.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_ame",
+      "variante": "imm_ame.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_100secu",
+      "variante": "soc_100secu.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_normes",
+      "variante": "ecol_normes.3",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 8,
+   "reponses": {
+    "sec_peines": -1,
+    "ecol_thermique2035": 1,
+    "eur_ukraine": 2,
+    "eco_patrimoine": -1,
+    "ecol_nucleaire": 1,
+    "sec_controle_identite": -2,
+    "soc_findevie": 0,
+    "imm_regularisation": null,
+    "eur_dissuasion": -1,
+    "edu_selection_universite": null,
+    "eco_libre_echange": 1,
+    "ins_cumul": 2,
+    "ecol_aerien": -1,
+    "ins_ric": null,
+    "eco_succession": 0,
+    "imm_droitdusol": -1,
+    "imm_baisse": 1,
+    "sec_police_municipale": 1,
+    "eco_depenses": 0,
+    "soc_chomage": -1,
+    "eur_elargissement": null,
+    "soc_medecins": 1,
+    "ins_6e": 1,
+    "eco_retraite": 2,
+    "ins_proportionnelle": -1,
+    "eur_integration": 0,
+    "edu_apprentissage": null,
+    "ecol_renouvelables": 0,
+    "sec_videosurveillance": -2,
+    "imm_ame": 0,
+    "soc_100secu": -1,
+    "ecol_normes": -1
+   },
+   "attendu": {
+    "fin": true,
+    "raison": "32 enjeux posés, le maximum du mode adaptatif",
+    "questions": []
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 9,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "sec_legitime_defense",
+      "variante": "sec_legitime_defense.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_6e",
+      "variante": "ins_6e.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_otan",
+      "variante": "eur_otan.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_etudiants",
+      "variante": "edu_etudiants.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_droitdusol",
+      "variante": "imm_droitdusol.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_nucleaire",
+      "variante": "ecol_nucleaire.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "eco_depenses",
+      "variante": "eco_depenses.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_proportionnelle",
+      "variante": "ins_proportionnelle.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "soc_medecins",
+      "variante": "soc_medecins.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_peines",
+      "variante": "sec_peines.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_dissuasion",
+      "variante": "eur_dissuasion.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_apprentissage",
+      "variante": "edu_apprentissage.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 9,
+   "reponses": {
+    "sec_legitime_defense": -2,
+    "ins_6e": 2,
+    "eur_otan": -1,
+    "edu_etudiants": -1,
+    "imm_droitdusol": -2,
+    "ecol_nucleaire": 2,
+    "eco_depenses": 2,
+    "ins_proportionnelle": -2,
+    "soc_medecins": -2,
+    "sec_peines": 1,
+    "eur_dissuasion": -1,
+    "edu_apprentissage": -1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eur_integration",
+      "variante": "eur_integration.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_prisons",
+      "variante": "sec_prisons.1",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_100secu",
+      "variante": "soc_100secu.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ecol_aerien",
+      "variante": "ecol_aerien.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 9,
+   "reponses": {
+    "sec_legitime_defense": -2,
+    "ins_6e": 2,
+    "eur_otan": -1,
+    "edu_etudiants": -1,
+    "imm_droitdusol": -2,
+    "ecol_nucleaire": 2,
+    "eco_depenses": 2,
+    "ins_proportionnelle": -2,
+    "soc_medecins": -2,
+    "sec_peines": 1,
+    "eur_dissuasion": -1,
+    "edu_apprentissage": -1,
+    "eur_integration": -2,
+    "sec_prisons": 2,
+    "soc_100secu": -1,
+    "ecol_aerien": -2
+   },
+   "attendu": {
+    "fin": true,
+    "raison": "le premier candidat se détache : sa marge ne recouvre plus celle d'aucun autre",
+    "questions": []
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 10,
+   "reponses": {},
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "soc_loyers",
+      "variante": "soc_loyers.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_ukraine",
+      "variante": "eur_ukraine.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "sec_videosurveillance",
+      "variante": "sec_videosurveillance.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_autorite",
+      "variante": "edu_autorite.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_zfe",
+      "variante": "ecol_zfe.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eco_smic",
+      "variante": "eco_smic.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "sec_legitime_defense",
+      "variante": "sec_legitime_defense.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "eur_elargissement",
+      "variante": "eur_elargissement.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "edu_signes",
+      "variante": "edu_signes.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "soc_chomage",
+      "variante": "soc_chomage.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "imm_preference",
+      "variante": "imm_preference.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ins_voteblanc",
+      "variante": "ins_voteblanc.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 10,
+   "reponses": {
+    "soc_loyers": 2,
+    "eur_ukraine": -1,
+    "sec_videosurveillance": -1,
+    "edu_autorite": -2,
+    "ecol_zfe": 2,
+    "eco_smic": -1,
+    "sec_legitime_defense": -2,
+    "eur_elargissement": 1,
+    "edu_signes": 2,
+    "soc_chomage": 2,
+    "imm_preference": 1,
+    "ins_voteblanc": -1
+   },
+   "attendu": {
+    "fin": false,
+    "raison": null,
+    "questions": [
+     {
+      "enjeu": "eur_defense3",
+      "variante": "eur_defense3.1",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "ins_ric",
+      "variante": "ins_ric.2",
+      "gauche": "b",
+      "valeurs": [
+       2,
+       1,
+       0,
+       -1,
+       -2
+      ]
+     },
+     {
+      "enjeu": "edu_remuneration",
+      "variante": "edu_remuneration.2",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "enjeu": "ecol_normes",
+      "variante": "ecol_normes.3",
+      "gauche": "a",
+      "valeurs": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "mode": "adaptatif",
+   "graine": 10,
+   "reponses": {
+    "soc_loyers": 2,
+    "eur_ukraine": -1,
+    "sec_videosurveillance": -1,
+    "edu_autorite": -2,
+    "ecol_zfe": 2,
+    "eco_smic": -1,
+    "sec_legitime_defense": -2,
+    "eur_elargissement": 1,
+    "edu_signes": 2,
+    "soc_chomage": 2,
+    "imm_preference": 1,
+    "ins_voteblanc": -1,
+    "eur_defense3": -1,
+    "ins_ric": -1,
+    "edu_remuneration": 0,
+    "ecol_normes": 2
+   },
+   "attendu": {
+    "fin": true,
+    "raison": "le premier candidat se détache : sa marge ne recouvre plus celle d'aucun autre",
+    "questions": []
+   }
+  }
+ ]
+}

@@ -8,6 +8,7 @@ import subprocess
 import sys
 import unittest
 from pathlib import Path
+from unittest import mock
 
 SCRIPTS = Path(__file__).resolve().parent.parent / "skills" / "boussole-presidentielle-2027" / "scripts"
 sys.path.insert(0, str(SCRIPTS))
@@ -150,6 +151,35 @@ class Adaptatif(unittest.TestCase):
             self.assertEqual(len(themes), len(set(themes)))
             self.assertTrue(set(ids(t)).isdisjoint(socle))
 
+
+    def test_lots_tires_selon_le_gain(self):
+        # Après le même socle et les mêmes réponses, le lot change avec la graine : il est tiré parmi les enjeux
+        # utiles (gain ≥ GAIN_MIN) au lieu d'être toujours fait des meilleurs gains.
+        socle = tirage.socle(QUESTIONS, CANDIDATS, 3)
+        rep = {e: 0 for e in socle}
+        lots = set()
+        for k in range(30):
+            g = 3 + 1000 * (k + 1)
+            # Même socle (celui de la graine 3) pour toutes les graines : seule la graine du lot change.
+            with mock.patch.object(tirage, "socle", lambda q, c, _: socle):
+                lot, raison = tirage.suivantes(QUESTIONS, CANDIDATS, {"reponses": rep}, g)
+            res = score.calculer({"reponses": rep}, QUESTIONS, CANDIDATS, tirages=tirage.TIRAGES_ADAPTATIF, graine=g)
+            peloton = [c for c in CANDIDATS if c["nom"] in res["peloton_de_tete"]]
+            self.assertIsNone(raison)
+            self.assertTrue(all(tirage.departage(i, peloton, {}, PAR_ID[i]["theme"]) >= tirage.GAIN_MIN for i in lot))
+            self.assertEqual(len({PAR_ID[i]["theme"] for i in lot}), len(lot))
+            lots.add(tuple(sorted(lot)))
+        self.assertGreater(len(lots), 10)
+
+
+class CasDeReference(unittest.TestCase):
+    def test_fichier_a_jour(self):
+        # tests/cas_tirage.json sert au test de concordance du site : il doit refléter tirage.py et les données.
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import generer_cas_tirage
+        attendu = generer_cas_tirage.FICHIER.read_text(encoding="utf-8")
+        self.assertEqual(generer_cas_tirage.contenu(), attendu,
+                         "tests/cas_tirage.json n'est plus à jour : python3 tests/generer_cas_tirage.py")
 
 class LigneDeCommande(unittest.TestCase):
     def test_entree_standard(self):
